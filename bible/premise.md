@@ -39,7 +39,7 @@ The mystery resolves in Volume 12. The final crisis is not the return of one for
 
 The final resolution changes the museum rather than restoring the old order. The Hush Engine is dismantled through a distributed civic act: local custodians, families, shrine keepers, and museum workers acknowledge what they can carry and refuse what they cannot. Some divine patterns return as bounded relationships. Some choose to end. Most remain absent, not because the city has defeated them, but because no living community asks for them.
 
-Elias gives up the exclusive power to hear every object. He remains connected to the museum as a trained guide and witness, but he is no longer the only person who can hold a dangerous memory. The museum becomes a public trust with rotating community oversight. Its exhibits may be studied, tended, lent, or returned. None may be privately owned as a god.
+Elias gives up the exclusive power to hear every object. He remains connected to the museum as a trained guide and witness, but he is no longer the only person who can hold a dangerous memory. The museum becomes a public trust with rotating community oversight. Its exhibits may be studied or displayed; a god-pattern may be tended under shared trust, returned to external custodians, or recorded as left absent when no community accepts an active relationship. None may be privately owned as a god.
 
 ## Narrative Contract
 

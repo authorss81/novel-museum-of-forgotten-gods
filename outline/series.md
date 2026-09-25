@@ -80,9 +80,9 @@ Every case asks whether a dangerous truth should be exposed, withheld, translate
 | Room | 201–400 | Hold several echoes in a temporary witness-space and coordinate a safe response | Teamwork with Mara, Ivo, and Hesta; failed public decisions | Exhaustion, damaged anchors, and a piece of memory left behind |
 | Witness | 401–550 | Carry a god-pattern's request to a community and interpret a bounded answer | Regional travel, public hearings, sacrifice, and conflict with Returnists | Persistent obligations and social consequences after each negotiation |
 | Commons | 551–650 | Transfer witness-work to trained, consenting custodians and coordinate local holds | Deliberate delegation, teaching, and institutional reform | He loses exclusive access and must accept that others may refuse or be wrong |
-| Open Hand | 651–720 | Hold a citywide voluntary opening without possessing the gods inside it | Refusing sole authority, sharing the First Witness, and releasing Tomas's last echo | Most of his hearing ability disappears; he must rely on human relationships and ordinary practice |
+| Final form: Open Hand | 651–720 | Hold a citywide voluntary opening without possessing the gods inside it | Refusing sole authority, sharing the First Witness, and releasing Tomas's last echo | Most of his hearing ability disappears; he must rely on human relationships and ordinary practice |
 
-The stages are functional and cumulative. They do not provide a numeric screen, instant mastery, or a technique that bypasses the investigation.
+The first seven rows are numbered personal stages. **Open Hand** is the final practice produced by the Commons stage, not an additional personal stage. The stages are functional and cumulative. They do not provide a numeric screen, instant mastery, or a technique that bypasses the investigation.
 
 ## Antagonist Ladder
 
@@ -287,11 +287,11 @@ Morrowgate remains a damaged but living city. The Museum becomes a rotating publ
 
 **Investigation focus:** Old tram routes, mapmakers, river parishes, the 312 volunteer memorial, and the Registry's connection to present-day redevelopment.
 
-**Midpoint reversal:** The First Witness was never an original god. It is a civic intelligence formed by volunteers who believed they were sharing a burden. The Engine has continued to use their consent after the original emergency ended.
+**Midpoint reversal:** The First Witness appears to be a civic intelligence rather than an original god, but the surviving records do not explain what it is made from or how it began. The Engine has continued to use the original volunteers' consent after the emergency ended. The coalition can identify the mechanism's category, but not yet its operational truth.
 
 **Climax:** Elias and the coalition recover the neighborhood's history through living witnesses and a public map-making project. The recovered names show that the Engine cannot function without people continuously interpreting the world for it.
 
-**Resolution:** The missing neighborhood is restored to public maps, though not all displaced residents return to their old homes. The final lock is located beneath the Museum.
+**Resolution:** The missing neighborhood is restored to public maps, though not all displaced residents return to their old homes. The final lock, the chamber's last safety interlock rather than the central keeper core, is located beneath the Museum.
 
 **Power change:** Elias learns to coordinate a group of readers without possessing their memories. The cost is a permanent inability to read one of his father's most important memories.
 
@@ -301,13 +301,13 @@ Morrowgate remains a damaged but living city. The Museum becomes a rotating publ
 
 **Central pressure:** Elias enters the First Witness chamber to stop Orrin's attempt to restart the permanent Hush and to learn what Tomas actually did.
 
-**Investigation focus:** The 312 volunteer names, the counter-witness mechanism, the origin of the third ward-bell, and the distinction between memory, soul, and god.
+**Investigation focus:** The 312 volunteer names and memories, the counter-witness mechanism, the origin of the third ward-bell, and the distinction between memory, soul, and god.
 
 **Midpoint reversal:** Tomas is gone. The remaining voice is a pattern assembled from his final acts, not a recoverable person. Orrin's permanent Hush would save the city from immediate chaos by making every relationship revocable.
 
 **Climax:** Elias refuses both Orrin's offer to become the sole Keeper and the First Witness's offer to define which names are safe. He opens the chamber to a distributed set of witnesses, sharing the load and losing much of his personal memory.
 
-**Resolution:** The First Witness is exposed as a human mechanism, not a god. The central lock is broken, the remaining volunteers' names are publicly restored, and Orrin is disarmed and detained. The city has no stable Hush and no single replacement.
+**Resolution:** The First Witness is exposed as a human mechanism assembled from 312 volunteered memories, not a god. The central lock is broken, the remaining volunteers' names are publicly restored, and Orrin is disarmed and detained. The final lock remains engaged; it cannot release automatically and will require a deliberate opening once the custodian network is tested. The city has no stable Hush and no single replacement.
 
 **Power change:** Commons stage; Elias can transfer witness-work only to people who understand the costs and choose to accept them.
 
@@ -323,19 +323,19 @@ Morrowgate remains a damaged but living city. The Museum becomes a rotating publ
 
 **Climax:** Elias declines the name. Mara publishes the conditions and refusals; Hesta organizes living shrine keepers; Ivo's technicians stabilize separate anchors; Anja dismantles the legal monopoly that made solitary keepers possible. The city keeps a fragmented network of bounded relationships rather than a new god.
 
-**Resolution:** Some gods return, some negotiate, and some choose to end. The First Witness becomes a public, monitored presence rather than a secret god. Elias is no longer able to hear most objects, but the network can respond without him.
+**Resolution:** Some gods return, some negotiate, and some choose to end. During the transfer, a surviving Accord emergency order releases Orrin from the Volume 12 detention, and he uses the resulting access to return to the ward-lines. The First Witness becomes a public, monitored presence rather than a secret god. Elias suffers a temporary, uneven loss of object-hearing during the distributed opening; the network can respond without him, but the permanent cost remains reserved for Volume 14.
 
-**Power change:** Open Hand preparation; Elias's final loss is accepted as a decision rather than a punishment.
+**Power change:** Open Hand preparation; Elias accepts that the network must work through temporary gaps in his hearing and that the final irreversible loss is not yet spent.
 
-**Next-volume pull:** The remaining Hush core, now unsupported by a single keeper, begins a last automatic shutdown that will erase every active covenant if it completes.
+**Next-volume pull:** As the unsupported Hush core begins its last automatic shutdown, the released Orrin reaches it with plans to seize the First Witness and restore a sole Keeper; if the shutdown completes, it will erase every active covenant.
 
 ### Volume 14: The Museum After the Gods — Chapters 651–720
 
-**Central pressure:** The old Engine attempts to collapse into permanent silence while the newly bounded gods, civic institutions, and neighborhoods are still deciding what they can sustain.
+**Central pressure:** The old Engine attempts to collapse into permanent silence while the newly bounded gods, civic institutions, and neighborhoods are still deciding what they can sustain, and released Orrin tries to restore a single Keeper.
 
 **Investigation focus:** The twelve ward-bells, the Museum charter, the First Witness's last automatic routine, public records, and the practical consequences of returning a name.
 
-**Midpoint reversal:** Elias can stop the shutdown by taking the First Witness into himself and becoming its permanent interpreter. He can also open the final lock and risk a citywide cascade. There is no third path that leaves him untouched.
+**Midpoint reversal:** Elias can stop the shutdown by taking the First Witness into himself and carrying the broken central lock's keeper core as its permanent interpreter. He can also open the final lock and risk a citywide cascade. There is no third path that leaves him untouched.
 
 **Climax:** Elias and the custodian network perform the Open Hand: they acknowledge only the relationships whose communities freely accept them, deliberately abandon several names, and let the First Witness end its role as keeper. Orrin's surviving infrastructure cannot restore sole authority because the people it once edited have already chosen their own covenants.
 

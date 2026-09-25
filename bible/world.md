@@ -30,7 +30,7 @@ Rival neighborhoods and guilds began invoking gods as military and political ide
 
 ### The Great Hush, 68 years before the present
 
-The Quiet Accord gathered civic engineers, archivists, clergy, ferry captains, and neighborhood witnesses. They built the Hush Engine to interrupt divine attention before another war. The engine required a central witness and twelve ward-bells. Three hundred and twelve volunteers offered a memory, a name, or a repeated act to the first working chamber. They did not surrender their souls. They accepted that their shared attention would be used as a public boundary.
+The Quiet Accord gathered civic engineers, archivists, clergy, ferry captains, and neighborhood witnesses. They built the Hush Engine to interrupt divine attention before another war. The engine required a central witness and twelve ward-bells. Three hundred and twelve volunteers each offered one chosen memory to the first working chamber; their names and repeated acts were recorded as identifiers and anchors alongside those memories. They did not surrender their souls. They accepted that their shared attention would be used as a public boundary.
 
 The Hush split the old gods into bounded patterns and placed those patterns in objects, places, and records. It did not kill them. It made direct worship dangerous and left the museum responsible for the fragments it could not safely return.
 

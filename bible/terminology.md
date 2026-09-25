@@ -28,6 +28,8 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - **name lock:** The Engine's false-label and record function that keeps a god-pattern from being addressed as one continuing relationship.
 - **witness lock:** The Engine's function that prevents enough living people from recognizing and answering the same obligation at once.
 - **return lock:** The Engine's ward-bell and anchor function that keeps scattered divine fragments from reassembling.
+- **central lock:** The separate physical keeper core beneath the Museum that binds the three locks to one human authority. It can be broken to expose the chamber, but its broken core remains a burden the final Keeper may try to carry.
+- **final lock:** The last automatic safety interlock inside the central chamber. It cannot release automatically; it requires a deliberate opening after a citywide custodian network has been assembled and tested to receive the First Witness's administrative burden. It is distinct from the central lock.
 - **Index:** The Museum's in-world record-and-warning system. It is made from old registers, ward-bells, labels, and building circuits. It can issue a short warning or question; it is not omniscient.
 
 ## Divine and Object Terms
@@ -46,9 +48,10 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - **offering:** An act or object given to establish or renew a relationship. An offering is not automatically a payment to a god.
 - **vow:** A public promise with a witness. A vow binds the people who make and hear it more than it binds a god.
 - **release:** Letting an echo end or return to the people and acts that formed it. Release can cause grief.
-- **return:** The re-establishment of a god-pattern in a living relationship. Return is conditional, local, and not always desirable.
-- **tended:** The final Museum status for an object or god-pattern whose living stewards maintain a bounded practice. Tending is not private ownership.
-- **left absent:** The final Museum status for an object or god-pattern that no living community chooses to address again. It is a recorded refusal, not a claim that the object never mattered.
+- **return:** The re-establishment of a god-pattern in a living relationship. As a verb, it describes the act or outcome; in the final charter, **returned** is also a disposition status for an object or pattern whose custody and interpretive authority have transferred to external living stewards. Return is conditional, local, and not always desirable.
+- **tended:** The final Museum disposition status for an object or god-pattern whose active relationship remains under the Museum's shared-trust custody and whose community stewards maintain a bounded practice. Tending is not private ownership.
+- **returned:** The final Museum disposition status for an object or god-pattern whose active relationship and custody and interpretive authority have transferred to external living stewards. It records a transfer of stewardship, not merely a successful reading.
+- **left absent:** The final Museum disposition status for an object or god-pattern when no living community accepts an active relationship. It is a recorded refusal, not a claim that the object never mattered.
 - **hollowed:** An object emptied of its last meaningful act and then fed by other people's expectations. A hollowed object may imitate a familiar voice. It is a containment emergency, not a normal echo.
 - **stored:** An object that carries an echo but does not answer a question or alter its surroundings.
 - **answering:** An object that repeats a small part of its last meaningful act. The effect is local and usually reversible by removing its material anchor.

@@ -85,7 +85,7 @@ Typical Index messages should be short and concrete, such as:
 
 The Index becomes a shared civic ledger near the end only after people build the trust and procedures needed to keep it accountable.
 
-## The Hush Engine's Three Locks
+## The Hush Engine's Lock Architecture
 
 The Engine holds divine patterns apart through three linked functions. They are civic mechanisms rather than moral laws.
 
@@ -93,7 +93,11 @@ The Engine holds divine patterns apart through three linked functions. They are 
 2. **The witness lock:** the Engine prevents enough living people from recognizing and answering the same obligation at once. A broken witness lock produces a local return, a sudden shrine, or a crisis when a community remembers what it was taught to forget.
 3. **The return lock:** twelve ward-bells and their anchors keep scattered fragments from reassembling into a god-pattern. A broken return lock does not choose what returns; it removes the Engine's ability to decide which fragment reaches which place.
 
-The Engine works while the three locks agree. Breaking one creates a local emergency; breaking all three ends central control. No single lock can be repaired safely by restoring the old Engine, because each repair requires someone to decide which people must be prevented from remembering.
+The Engine works while the three locks agree. Breaking one creates a local emergency; breaking all three ends the Engine's shared control function. No single lock can be repaired safely by restoring the old Engine, because each repair requires someone to decide which people must be prevented from remembering.
+
+The three locks are functions, not the chamber's keeper hardware. The **central lock** is a separate physical mechanism beneath the Museum that binds those functions to one human Keeper. The central control chain is the network of commands connecting the three functions; it can be disabled without breaking the central lock. The **final lock** is the last automatic safety interlock inside the central chamber. It cannot release automatically: it requires a deliberate opening after a citywide custodian network has been assembled and tested to receive the First Witness's administrative burden.
+
+The lock progression is deliberate: the coalition finds the final lock in Volume 11, breaks the central lock and exposes the chamber in Volume 12, and must deliberately open the final lock in Volume 14. If Elias refuses that opening, he can carry the broken central lock's keeper core inside himself. **Central lock** and **final lock** are not interchangeable names.
 
 ## Power Stages
 
@@ -167,7 +171,7 @@ Elias can transfer the practical parts of witness-work to trained, consenting cu
 
 ### Final form: The Open Hand
 
-The Open Hand is not a seventh personal skill. It is the final practice produced by Stage 6: a citywide, voluntary exchange in which people acknowledge only the divine relationships they can maintain. Elias can hold the opening, but he cannot decide its membership, retain its memories, or make it permanent by himself.
+The Open Hand is not a personal skill or numbered stage. It is the final practice produced by Stage 6: a citywide, voluntary exchange in which people acknowledge only the divine relationships they can maintain. Elias can hold the opening, but he cannot decide its membership, retain its memories, or make it permanent by himself.
 
 The cost is the loss of the ability to hear the majority of objects. What remains is a clear, occasional invitation from an object that has chosen to be heard. The final power is the capacity to make room for other people's relationship to a god without converting that relationship into his authority.
 

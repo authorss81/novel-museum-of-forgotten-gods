@@ -110,7 +110,7 @@ He begins by treating the museum as a building that can be managed and people as
 - **Need:** Accept that a protected population is not the same as a consenting one and that another person can carry part of the burden.
 - **Flaw:** He remembers catastrophe more vividly than ordinary life. He treats freedom as an untested recurrence risk and believes his own willingness to bear violence proves his right to impose it.
 - **Method:** He uses the Registry, old ward-bells, legal authority, and carefully selected evidence. He does not summon an army of monsters. He creates emergencies that make surrender look reasonable.
-- **Arc and fate:** He is introduced as a missing name in Volume 1, appears as a historian in Volume 4, and becomes an active adversary by Volume 9. He is the human face of the Hush Engine, not a final enemy invented at the climax. Elias defeats him by taking away his monopoly on the First Witness; Orrin survives to be examined by the civic order he tried to preserve.
+- **Arc and fate:** He is introduced as a missing name in Volume 1, appears as a historian in Volume 4, and becomes an active adversary by Volume 9. He is detained after the Volume 12 chamber breach, but a surviving Accord emergency order releases him during the Volume 13 transfer, allowing him to return to the ward-lines. Elias defeats him by taking away his monopoly on the First Witness; Orrin survives to be examined by the civic order he tried to preserve.
 
 ## Peregrine Vale
 

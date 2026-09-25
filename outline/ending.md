@@ -8,13 +8,13 @@ The final victory is institutional and emotional: Elias gives up exclusive power
 
 ## Final External Conflict
 
-During the final convergence, the surviving Hush Engine attempts its last automatic shutdown. The first thirteen volumes have broken its central control chain, but the Engine still has the old twelve-bell routine. If it completes, it will erase every active covenant, every public record of the 312 volunteers, and every living relationship that has begun to answer through the opened chamber.
+During the final convergence, the surviving Hush Engine attempts its last automatic shutdown. The first thirteen volumes have broken its central control chain, but the final safety interlock remains engaged and the Engine still has the old twelve-bell routine. If it completes, it will erase every active covenant, every public record of the 312 volunteers, and every living relationship that has begun to answer through the opened chamber.
 
 The immediate physical threats are familiar systems rather than a new monster:
 
 - ward-bells receive conflicting instructions and begin to close neighborhoods out of one another;
 - the Registry's emergency powers try to suspend the Museum and the shrine network;
-- Orrin Sable attempts to seize the First Witness and force a permanent Hush before the civic network can establish limits;
+- Orrin Sable, released from the Volume 12 custody order during the Volume 13 opening, attempts to seize the First Witness and force a permanent Hush before the civic network can establish limits;
 - returned god-patterns become unstable when people treat them as proof that the old system has failed;
 - Elias's ability can hear the Engine's routine, but following it would lead him toward the old role of sole Keeper.
 
@@ -22,11 +22,11 @@ The team must stop the automatic shutdown without installing a replacement autho
 
 ## Final Internal Choice
 
-Elias can accept the First Witness's last offer: take the accumulated memories, carry the central lock inside himself, and become a permanent interpreter. The city would stabilize quickly. He would hear every unresolved object, decide which names were safe, and prevent another immediate divine war.
+Elias can accept the First Witness's last offer: take the accumulated memories, carry the broken central lock's keeper core inside himself, and become a permanent interpreter. The city would stabilize quickly. He would hear every unresolved object, decide which names were safe, and prevent another immediate divine war.
 
 The offer fails because it repeats the original Hush. It gives Elias the power to release a god, refuse a witness, or close a neighborhood without anyone else's consent. It also offers him the last echo of Tomas Venn, which he has been treating as a possible answer to his private grief.
 
-Elias chooses the Open Hand. He breaks the central lock into local witness-rooms, accepts only the relationships that living communities explicitly maintain, and deliberately leaves several names unclaimed. He releases the last echo of his father rather than using it as a private guide. He loses the memory of Tomas's voice in the process and accepts that the dead cannot be made into a tool for the living.
+Elias chooses the Open Hand. He opens the final lock and transfers the broken central lock's keeper function into local witness-rooms, accepts only the relationships that living communities explicitly maintain, and deliberately leaves several names unclaimed. He releases the last echo of his father rather than using it as a private guide. He loses the memory of Tomas's voice in the process and accepts that the dead cannot be made into a tool for the living.
 
 This is not a choice to do nothing. It is a choice to accept an incomplete world rather than control it.
 
@@ -85,7 +85,7 @@ Tomas's body is never found. The final echo is released into the First Witness's
 Morrowgate remains recognizable but changed.
 
 - The Museum's public galleries retain the Hall of Former Faiths and the Gallery of Unnamed Hands. The Quiet Wing becomes an open conservation floor with community stewards, visitor education, and no secret solitary containment room.
-- The Museum's charter is rewritten. Objects have three publicly recorded statuses: **tended**, **returned**, or **left absent**. No single curator, board, or government can quietly change a status.
+- The Museum's charter is rewritten. Objects and god-patterns receive one of three publicly recorded disposition statuses: **tended**, when the relationship remains active under the Museum's shared-trust custody; **returned**, when the active relationship and its custody and interpretive authority have transferred to external living stewards; or **left absent**, when no living community accepts an active relationship. No single curator, board, or government can quietly change a status.
 - The Shrine Network and local custodians share responsibility for active patterns. Their methods differ. The city does not impose one theology.
 - The Registry survives as a public records and infrastructure office with citizen oversight. Its old secret files are opened, catalogued, and connected to the people whose names they once removed.
 - The twelve ward-lines no longer form a single Engine. Some are dormant, some support bounded practices, and some are maintained as visible infrastructure with clear shutdown procedures.
