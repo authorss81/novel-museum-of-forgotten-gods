@@ -128,11 +128,11 @@ And a card. Not a leaf. A card, a printed leaving card, and a hand filling it in
 
 Two thousand and forty-one hours a man's own hours on his own card and nothing at the end of it, and the word NIL, and a mill's leaving card and a museum's leaving card are the same piece of card with the same word on it, and a Museum's NIL means *no balance* and a mill's NIL meant *no entitlement*, and the two things are a hundred and forty years apart in the life of an institution and identical on the face of a form, and neither of them is ninety-four, and neither of them is a wage, and it is a man's own hours, which is the only figure a person can prove about themselves without a book.
 
-Ninety seconds. He came out of the corridor at 20:22 and wrote the time in the notebook on the loading-bay desk, and the date, and then he did not write anything else for eighteen minutes, because he had been in a corridor for ninety seconds and the room he had to go to was eleven yards away and eleven people were in it.
+Ninety seconds. He came out of the corridor at 20:22 and wrote the time in the notebook on the loading-bay desk, and the date, and then he did not write anything else for eighteen minutes, because he had been in a corridor for ninety seconds and the room he had to go to was eleven yards away and thirteen people were in it.
 
 ---
 
-The loading-bay office held eleven people on the evening of the twenty-sixth of October and it held them because Elias Venn had spent three weeks on the telephone, and it held them with a method.
+The loading-bay office held thirteen people on the evening of the twenty-sixth of October and it held them because Elias Venn had spent three weeks on the telephone, and eleven of the thirteen were the meeting, and it held them with a method.
 
 There is no public room in this city. Hattie Bramm had said it to him in a kitchen in Sillick Lane in the third week of September, and she had said it the way you say a thing that has been true for a long time, and she had said that the last public room in Morrowgate where anybody said a wage out loud was a gate, and the gate shut, and everything since had been a queue.
 
@@ -140,23 +140,23 @@ So he had built one. Not a god and not a shrine. A room with a rule.
 
 **One question.** Anyone in the room could ask one question, once, and it had to be a question, and it could not contain an accusation.
 
-**Everything said is recorded, with the speaker's name on it.** A municipal conciliation field officer named Marsh had come at half past eight on the Monday because Elias Venn had telephoned her office on the Friday, and she had said on the telephone that the meeting was not a meeting and could not be minuted and would be an unlawful assembly if eleven people turned up and spoke, and he had said that was fine, and she had said *then I'll come and take minutes anyway, and I shall not call it minutes*, and that was how it happened.
+**Everything said is recorded, with the speaker's name on it.** A municipal conciliation field officer named Marsh had come at half past eight on the Monday because Elias Venn had telephoned her office on the Friday, and she had said on the telephone that the meeting was not a meeting and could not be minuted and would be an unlawful assembly if more than a dozen people turned up and spoke, and he had said that was fine, and she had said *then I'll come and take minutes anyway, and I shall not call it minutes*, and that was how it happened.
 
 **Nobody is to be asked a question they have not volunteered for.** A sentence he had put in because of a woman of fifty-four in a corridor on the fourteenth of October.
 
 **The figures go to the speaker.** Every number that was said in the room had the name of the person who said it attached to it, and no figure was recorded unattributed, and if a figure was disputed it was recorded as disputed and both versions went in with both names.
 
-He had eleven people on the floor. Nine of them he could put on the gate of the Sillick Mill on the morning of the thirtieth of October in 1974 by name, out loud, and two of them he could not, and he has never been able to say how that came about, and it took a retired pay clerk of seventy-eight saying *I know of a hundred and forty* and a woman of fifty-four with a nine-year chase and a folder.
+There were thirteen people in the office and eleven of them were the meeting. Nine of the eleven he could put on the gate of the Sillick Mill on the morning of the thirtieth of October in 1974 by name, out loud, and two of them he could not, and he has never been able to say how that came about, and it took a retired pay clerk of seventy-eight saying *I know of a hundred and forty* and a woman of fifty-four with a nine-year chase and a folder. **The two who were in the room and were not on the floor of anything were the registrar, in her own person, and the officer, with her form, and neither of them was ever on a mill gate, and he had not thought about it until the officer sat down and by then it was too late to be the man who had thought about it.**
 
 **The two of the eleven who were not from a mill were a documentary filmmaker with a camera and a radio producer with a recorder, and neither of them had been invited by Elias Venn: both of them had rung him,** and he had said yes to both of them on the telephone on Friday afternoon with the whole of the risk in his mouth and had not told anybody in the building that he was going to say a number in a room with a tape recorder in it.
 
-Mara Iles was in her own person. Not the Director's, not the Board's, not conservation. She was in the corner with a chair against the wall and a folder on her knees and she had not brought the shared log, and Elias Venn had not asked her to, and she said, in front of everybody, at ten past eight, the moment the officer sat down: "I have not brought the protocol. He is not doing a protocol tonight and I am not being his witness, and if anybody in this room wants what is said recorded as evidence, then this meeting is the wrong meeting for it and I will say so on the tape."
+Mara Iles was in her own person. Not the Director's, not the Board's, not conservation. She was in the corner with a chair against the wall and a folder on her knees and she had not brought the shared log, and Elias Venn had not asked her to, and she said, in front of everybody, at ten past nine, before the officer had opened her form: "I have not brought the protocol. He is not doing a protocol tonight and I am not being his witness, and if anybody in this room wants what is said recorded as evidence, then this meeting is the wrong meeting for it and I will say so on the tape."
 
 (Field Officer Marsh: *I shall make a note that the registrar has stated a limitation in advance, and I shall make it before the meeting begins and not afterwards, because afterwards it would be a thing I had decided.*)
 
 Mara Iles: *Make a note of it in those words.*
 
-(Field Officer Marsh: *I shall.*
+(Field Officer Marsh: *I shall.*)
 
 ---
 
@@ -176,7 +176,7 @@ Then he said the two words that had never left his mouth.
 
 The room did not make a sound.
 
-Elias Venn counted it. He could not have told anybody why. Eleven adults. He had said it at twenty past nine at night on the twenty-sixth of October to eleven people and a tape and a camera, and not one of them said anything at all for about four seconds, and then a man of about seventy-six at the back said, "Say the last one again," and Elias Venn said it again, and the woman beside him put her hand on his arm and he did not know her.
+Elias Venn counted it. He could not have told anybody why. Thirteen adults, eleven of them the meeting. He had said it at twenty past nine at night on the twenty-sixth of October to eleven people and a tape and a camera, and not one of them said anything at all for about four seconds, and then a man of about seventy-six at the back said, "Say the last one again," and Elias Venn said it again, and the woman beside him put her hand on his arm and he did not know her.
 
 (Field Officer Marsh wrote: *Reader states: 94 on gate; 92 on pay run; two persons worked and not entered in any book. Attributed to reader. Reader asked how the figures were obtained and declined to answer. Recorded as declined.*)
 
@@ -198,7 +198,7 @@ The question came at twenty past ten and it came from a chair by the door and it
 
 "Can you ask it," said Wynne Loach. "Is there a thing there. Is that what you do."
 
-The red light was on the recorder and the camera had a lens cap off and there were eleven adults in a room off a loading bay in a building on Civic Hill and a woman of thirty-four had just asked a suspended night guard whether he could speak to a god.
+The red light was on the recorder and the camera had a lens cap off and there were thirteen adults in a room off a loading bay in a building on Civic Hill and a woman of thirty-four had just asked a suspended night guard whether he could speak to a god.
 
 Elias Venn looked at her and understood that the room had gone completely quiet in a way it had not been quiet all night, and that the quiet was not the room's; it was hers; and that he had spent three weeks building a procedure for a man with a mop and he had never once thought about a woman of thirty-four who had a bus and a father who worked nights, and that she was the first person who had asked him a question about what he *was* in thirty-one days, and that she had asked it in a room, and that the answer was yes.
 
@@ -262,7 +262,7 @@ They cleared the office at eleven, and Hattie Bramm would not give evidence, and
 
 > *Said it out loud. In a room. 20:22, 26 Oct. 94 on the gate. The pay run said 92. Two worked and were never entered in any book. Ninety-two and two are the only figures I have had since 10 Oct and they are now on a tape in three rooms.*
 > *I said the two and I cannot say who they are. The field officer asked for a name for the two. I said I do not have one. She wrote: two persons, unnamed, not in any book, and read it back, and I initialled it, and it is the only piece of paper in this business with a hole in it that is the right shape.*
-> *There are two people on the floor of that room tonight and I cannot put either of them on that gate, and Hattie Bramm did not say they were the two, and I did not ask her, and that is the second time in a month I have not asked somebody and it is the first time it has cost me nothing at all.*
+> *There are two people on the floor of that room tonight and I cannot put either of them on that gate, and Hattie Bramm did not say they were the two, and I did not ask her, and that is the second time in a month I have not asked somebody and it is the first of them that has cost me nothing at all.*
 > *Hattie would not do a sum. Nobody did a sum. There is no total in the world tonight.*
 > *The bell is on plinth 34 under a seal and nobody has asked it anything, and there is a case cover standing against the wall of that office that was made for a table and has never been used on a case, and it will be used on a table on a Saturday, and I have written that down because I have got it wrong twice already this month and the third time it will be somebody else's problem.*
 > *No total. No shortage. No god. Not a shrine, not a devil, not a home. A wage.*

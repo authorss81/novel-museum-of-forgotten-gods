@@ -6,7 +6,7 @@ The transfer schedule came down onto the loading-bay desk at nine o'clock on Thu
 > **Matter:** one (1) box, sealed, accessioned **1961/LW/44**, Low Ward series, held in cage 2, west range service corridor (ground floor) under Custody Disc 41 and padlock tag QA/1187.
 > **Purpose:** transfer to a quay-side secure store, in bond, pending re-issue to purchaser, on a docket under Standing Instruction 14 clause 1.
 > **M. ILES, Senior Conservator and Accession Registrar. 29 October 2024, 08:40.**
-> **CUSTODY:** the box stands in cage 2 under Custody Disc 42, cut at 16:00 on Thursday 24 October, the disc it replaces having gone out of the building on a lorry on the Saturday morning inside the crate it was on.
+> **CUSTODY:** the box stands in cage 2 under Custody Disc 42, cut at 16:00 on Saturday 24 October, the disc it replaces having been off the box and up a tailgate ramp and back again inside thirty minutes, and a disc that has been on a lorry is not a disc.
 
 And under the heading *CONTENTS*, the Registrar had not written *office papers*. She had written eleven lines, and she had written them in the order and in the hand of a carbon of 1974, and under each of them there were three further columns, and the three columns were:
 
@@ -54,7 +54,7 @@ You cannot sign a transfer schedule for a box of *administrative papers, disposa
 
 ---
 
-He found Nunn in the west range corridor at twenty past ten, with a clipboard and a strap wrench and a good coat under a high-visibility one, and the cage was behind the mesh with the box in it and a new red disc on it, because the old disc had been on the cage since the twelfth of October and had gone with the crate on Saturday morning, and Custody Disc 42, cut at four o'clock on Thursday afternoon by a woman in the post room with a pair of shears, was on it in its place.
+He found Nunn in the west range corridor at twenty past ten, with a clipboard and a strap wrench and a good coat under a high-visibility one, and the cage was behind the mesh with the box in it and a new red disc on it, because the old disc had been on the cage since the twentieth of October and had been up a tailgate ramp and back on it inside thirty minutes on Saturday morning, and Custody Disc 42, cut at four o'clock on Saturday afternoon by a woman in the post room with a pair of shears, was on it in its place.
 
 "Mr Nunn. I want to ask you a question and I want to ask it properly and I want you to be allowed to say no in about four seconds."
 
@@ -154,7 +154,7 @@ She read it at the loading-bay desk. She read it four times, which is what every
 
 "Nobody puts a name on a thing like that." Doreen Sarn took her glasses back on. "A chief clerk in a bureau with a hundred and forty thousand remittances a year doesn't put his initials on a general rule unless somebody upstairs made him, and that means the rule is his and he wrote it, and that means it isn't a form letter, and it means he has thought about it." She put the printout down. "Now. What is this for."
 
-"You said in September that you could never find out whether the sheet the mill sent to the bank was the same sheet you sent yourself, and that neither of you was a liar, and that it had eaten your life." Elias did not put his hands on anything. "Mrs Lound's bureau doesn't care about that. But that paragraph says a bureau's record of a person is the bureau's record and not the employer's. And that is the answer to a question you've had for thirty-one years, and it isn't the answer you wanted. It says: the person was in a book, and the book was not the employer's, and the employer's book and the bureau's book disagreed, and both of them were true, and the one that got you was the one that was kept by a person who was not told."
+"You said in September that you could never find out whether the sheet the mill sent to the bank was the same sheet you sent yourself, and that neither of you was a liar, and that it had eaten your life." Elias did not put his hands on anything. "Mr Lound's bureau doesn't care about that. But that paragraph says a bureau's record of a person is the bureau's record and not the employer's. And that is the answer to a question you've had for thirty-one years, and it isn't the answer you wanted. It says: the person was in a book, and the book was not the employer's, and the employer's book and the bureau's book disagreed, and both of them were true, and the one that got you was the one that was kept by a person who was not told."
 
 "Go on."
 

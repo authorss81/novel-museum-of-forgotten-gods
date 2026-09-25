@@ -85,7 +85,7 @@ Redgate & Kell came down the service lane at half past ten on Wednesday morning 
 
 Elias Venn looked at the man for about a second and a half.
 
-The object was on plinth thirty-four. The object had been on plinth thirty-four since ten to eleven on Tuesday morning, sealed, re-anchored, classified Annexe D, permanent, with the crack in its shoulder under a bright machine staple that was never going to heal. The Hall was open. It was ten o'clock on a Wednesday and there were nine people in it and a school group due at eleven on Friday the thirteenth of November.
+The object was on plinth thirty-four. The object had been on plinth thirty-four since ten to eleven on Tuesday morning, sealed, re-anchored, classified Annexe D, permanent, with the crack in its shoulder under a bright machine staple that was never going to heal. The Hall was open. It was twenty-five past ten on a Wednesday and there were nine people in it and a school group due at eleven on Friday the thirteenth of November.
 
 The answer was yes, and it was true, and he said it.
 
@@ -102,7 +102,7 @@ The press office built a holding statement by twenty past twelve and it was four
 > **MORROWGATE MUSEUM OF QUIET SAINTS — STATEMENT 3**
 > *The Museum's collections are displayed in accordance with the Quiet Accord's Schedule 12 classifications. An object classified at Annexe D is displayed in the Hall of Former Faiths and is available to view at all times that the Hall is open. The Museum does not comment on internal documentation reviews. Media enquiries: the office of the Director.*
 
-And it went out at half past one to a woman in a copy of the *Chronicle* who had a picture of a weighbridge on page four and had asked three questions and had been given a form and a phrase and now a statement, and who read it, and who wrote *available to view at all times that the Hall is open* in her own notebook, in a hand that had been trained at some point and had gone rusty, and who did not know anything about the sentence and only knew that it was a sentence.
+And it went out at half past twelve to a woman in a copy of the *Chronicle* who had a picture of a weighbridge on page four and had asked three questions and had been given a form and a phrase and now a statement, and who read it, and who wrote *available to view at all times that the Hall is open* in her own notebook, in a hand that had been trained at some point and had gone rusty, and who did not know anything about the sentence and only knew that it was a sentence.
 
 And here is the thing Elias Venn did not know and could not have known, standing at a loading-bay desk at ten past two on Wednesday afternoon in a building he was not permitted above the ground floor of.
 

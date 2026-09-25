@@ -126,7 +126,7 @@ He read the copy in the waiting room with the vending machine going on the other
 
 > *The person states that a figure connected with a closing-day count at the Sillick Mill was obtained by a means he calls "a reading." The person has declined to explain what he means by that term. The person has declined to say whose the figure was or to whom it was communicated. The writer makes no finding as to the nature of the means or as to the figure.*
 
-Three days, said the woman from Redgate & Kell, and he had said *a reading*, and it was in a police record in a building in Low Ward in four sentences, and that it was the first thing he had ever said out loud to a stranger that he could not take back with a decision, and he had said it to a man with a clipboard who was not going to be able to do anything with it and who was going to keep it anyway.
+Two days, said the woman from Redgate & Kell, and he had said *a reading*, and it was in a police record in a building in Low Ward in four sentences, and that it was the first thing he had ever said out loud to a stranger that he could not take back with a decision, and he had said it to a man with a clipboard who was not going to be able to do anything with it and who was going to keep it anyway.
 
 That was what a record was. He had spent twelve days learning it from other people's documents and he had learned it in ninety seconds from his own.
 

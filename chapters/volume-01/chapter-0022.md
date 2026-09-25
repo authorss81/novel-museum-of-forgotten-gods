@@ -4,7 +4,7 @@ The order came down onto the systems terminal at four minutes past nine on Thurs
 
 > **PO-4471.** Hallowgate Foyston, 14 Lincoln's Lane, Northglass.
 > *Site clearance services, Sillick Mill site, Sillick Lane, Low Ward.*
-> Items: (1) one 40ft steel storage container, sealed, delivered; (2) one low-loader, collection 22 Oct a.m.; (3) crane hire, Hallowgate Crane Hire, 0.5 day, **attendance 08:00**.
+> Items: (1) one 40ft steel storage container, sealed, delivered; (2) one low-loader, collection 22 Oct a.m.; (3) crane hire, Halloway Crane Hire, 0.5 day, **attendance 08:00**.
 > Consignee on collection: Quay 3, Broomhead Reach, Northglass.
 > Note from scheduing: *quantity reduced to 1. Attendee count required on site — see prior order amendment.*
 
@@ -172,7 +172,7 @@ Hattie Bramm came back up the wall at about half past three and stood beside him
 
 "It was a mill," said Hattie Bramm. "And in ten minutes' time it is a steel box on a lorry going past the Old Custom House with a seal on it, and the seal is the only thing anybody will ever know about it, and a seal is not a name."
 
-Elias Venn stood on a wet pavement on Sillick Lane and looked at a slipway where a man of seventy-four had been in the water a fortnight ago, and where a woman of fifty-four had just been right about four inches of it in front of twenty men, and he took the notebook out and put it on the wall and wrote one line with the time against it.
+Elias Venn stood on a wet pavement on Sillick Lane and looked at a slipway where a man of seventy-four had been in the water five days ago, and where a woman of fifty-four had just been right about four inches of it in front of twenty men, and he took the notebook out and put it on the wall and wrote one line with the time against it.
 
 > *Thu 22 Oct, 15:44. 22 on the site, 20 hourly, signed 14:20. Container sealed, tag read out, bay 4, in bond. Nobody opened anything because there was nothing to open. H. Bramm read the bay number and it is BAY 4 and I have got it and I do not yet know what it is for.*
 

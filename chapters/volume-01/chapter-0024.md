@@ -78,21 +78,33 @@ He looked at the vitrine for a second.
 
 "That's fine."
 
-"That's not fine, mate, that's the *only* thing that's available." He was already writing. "I can't put a Schedule 12 object on a lorry on my own authority and I couldn't have done it with your Director in the room. What I can do is record that a sealed item came off a plinth in error and went back to the plinth from which it came, and a man in Northglass will say *fine*, and if he says anything else then he can come and say it to the seal."
+"That's not fine, mate, that's the *only* thing that's available." He was already writing. "I can't put a sealed plinth object on a lorry on my own authority and I couldn't have done it with your Director in the room. What I can do is record that a sealed item came off a plinth in error and went back to the plinth from which it came, and a man in Northglass will say *fine*, and if he says anything else then he can come and say it to the seal."
 
 ---
 
 They put the wooden box on the truck.
 
-It took four minutes, and it was a four-foot wooden box and it went on a sack truck and up the tailgate ramp on two wedges, and it did not go into a bonded cage and it was not caged in the van, it was simply a crate on a lorry under a strap with a docket against it, and there was nothing about it that was dramatic and nothing about it that was illegal, and the eleven items of the 1974 receipt — a weavers' time book, a dye-house time book, a gate book with leaves one to ninety-six present, posted wage sheets, an envelope of loose papers sealed and not examined, a tea chest, a monthly wages book, something withdrawn and soiled, a fitter's lamp that was in Northglass and not here, a bundle of wage sheets tied with tape and marked *pay office*, and the works-office clock, stopped — went out of a building on Civic Hill on a Saturday morning in October on a docket that three people could sign and nobody could.
+It took four minutes, and it was a four-foot wooden box and it went on a sack truck and up the tailgate ramp on two wedges, and it did not go into a bonded cage and it was not caged in the van, it was simply a crate on a lorry under a strap with a docket against it, and there was nothing about it that was dramatic and nothing about it that was illegal, and inside it were the eleven items of the 1974 receipt — a weavers' time book, a dye-house time book, a gate book with leaves one to ninety-six present, posted wage sheets, an envelope of loose papers sealed and not examined, a tea chest, a monthly wages book, something withdrawn and soiled, a fitter's lamp that was in Northglass and not here, a bundle of wage sheets tied with tape and marked *pay office*, and the works-office clock, stopped — and they were on their way out of a building on Civic Hill on a Saturday morning in October on a docket that three people could sign and nobody could.
 
-And the lamp went in the van in a sealed case with a line on a transfer clerk's manifest saying it had been offloaded in error.
+And then they came back in, because of the third block.
+
+The docket had three signature blocks. The third one said **COUNTERSIGNATURE REQUIRED: a person who is not an officer or employee of this Museum**, and it was empty, and it had been empty since Tuesday, and everybody in that bay had known that since Tuesday, and it was going to be empty at eight o'clock and it was going to be empty on Monday and it was going to be empty for as long as this Museum existed.
+
+The line at the foot of the form was not a signature block at all and it was not empty either, and it said **PRESENT AT REMOVAL: name, grade, time, signature**, and the name and the grade and the time were Elias Venn's, and the signature was not, because in the space where a signature went he had written five sentences in his own hand with a biro the Museum had issued him.
+
+> *Present at the removal of one wooden box, 1961/LW/44, from cage 2, at 06:14 on Saturday 24 October. The third block of this docket is blank and cannot be filled, because there is no person who is not an officer or employee of this Museum. I have not seen this box opened. I have not seen any of its contents. I am signing to say that I was standing on this floor, and that no removal took place.*
+
+Which was five sentences, and not one of them was a sentence anybody had asked him for, and the form said *does not ask for the man's own words*, and he had put his own words in it anyway, in the only box on the form that was his.
+
+Nunn read it twice with the rain coming into his collar, and then he got his shoulder under the near end of the crate and said *come on, mate, come down*, and Petrie took the other end, and the box came back down the ramp and across the bay and onto its pallet in the cage, and Nunn drew a line through the one line he had on his sheet and wrote *did not travel* beside it and initialled the alteration, because a transfer clerk who alters a sheet has to initial the alteration, and then he shut the padlock and put the tag on and wrote the time on the tag, at 06:21. **And what he said while he did it was that he had said the same thing to the office on the telephone on Tuesday and had been told to come at five in the morning anyway, and that the office had not understood one word of it, and that this was now the office's problem and not his, and that he was sorry, and that a man does not put a Schedule 12 object on a lorry on the strength of a telephone call he made himself on a Tuesday and that nobody listened to.**
+
+And the lamp went up the ramp in a sealed oak case with a plate-glass top, three feet by one foot, and it went under the same strap on a line on a transfer clerk's manifest that said **1961/LW/51, fitter's lamp, sealed, offloaded in error, no opening**, and the destination on that line was the destination on the docket, which was Quay 3, Broomhead Reach, and Nunn wrote down what the docket said, because the docket was the document and a clerk does not improve on a document.
 
 Elias Venn stood in a loading bay and did not open anything, and had not opened anything for thirteen days, and had told a room with a card cutter in it on Sunday that he was not going to.
 
 ---
 
-The two that went and the one that stayed were on a manifest inside an envelope and the manifest went to the yard in Northglass and a man telephoned the office at seven in the morning and the office asked for the lamp back and the office said it would be collected with the next van, and the office knew as well as anybody that the van was not going back on that site until the Monday week, so that a sealed object with a Registry tag on it was going to sit on a shelf in a bonded cage for a week with nobody noticing, and the office said the word *unfortunately* in a way that meant the opposite.
+The one that went and the one that stayed were on a manifest inside an envelope and the manifest went to the yard in Northglass and a man telephoned the office at seven in the morning and asked what he was to do with a case that was on his sheet and was not on anybody's, and the office said it would be collected with the next van, and the office knew as well as anybody that the van was not going back on that site until the Monday week, so that a sealed object with a Registry tag on it was going to sit on a shelf in a bonded cage for a week with nobody noticing, and the office said the word *unfortunately* in a way that meant the opposite.
 
 Then somebody in that office did a thing that was not anybody's fault and could not be anybody's fault and would not have occurred to anybody who had not been sitting in a loading bay for thirteen days.
 
@@ -104,15 +116,15 @@ Elias Venn found that out at ten past ten on Saturday morning from a man on a te
 
 > **MEMORANDUM — MOVEMENT NOTE.**
 > The item described at transfer manifest line 4 as *1961/LW/51, fitter's lamp, sealed, offloaded in error* is not consigned to Quay 3. Its correct destination is **Gallery of Unnamed Hands, plinth 9, level 1, this building**, and it should be returned to this building on the first available collection, and the return should be recorded against the original plinth card.
-> The lamp is not the item on the docket. The item on the docket is in the vehicle. Please advise the bonded store that line 4 is not to be released to the quayside and is to be held at the store for collection by this Museum.
+> The lamp is not the item on the docket. The item on the docket did not travel; it is in cage 2 in the west range corridor of this building, and the docket has never had a countersignature and cannot have one. Please advise the bonded store that line 4 is not to be released to the quayside and is to be held at the store for collection by this Museum.
 > *E. Venn, security, grade 1. 24 Oct, 10:20. This note is a request and not an instruction and I have no authority to issue an instruction.*
 
 And the reply came back at eleven forty from a man at the bonded store, on a telephone, in a yard office, and Elias Venn wrote down all four lines of it, because it was the last time anybody in the entire business said anything on the telephone that was written down exactly as it was said.
 
 > **Broomhead Reach, secure store. 11:40, 24 Oct.**
 > 1. Line 4 received into bond 09:15, sealed, seal intact.
-> 2. Line 1 (the crate) is on the quay at **BAY 4** and will break bulk on the first working day of next week.
-> 3. Line 4 is a paper item in bond, small, and it will go on the same shelf as line 1 unless somebody tells us different.
+> 2. Line 1 did not travel. Nothing is expected against it. The steel container consigned here on the twenty-second is on the quay at **BAY 4** and will be broken bulk when we say so and not before.
+> 3. Line 4 is a paper item in bond, small, and it will go on the same bay as the container unless somebody tells us different.
 > 4. **Put away.**
 
 And that was the whole of it. Four lines, a good clerk, an ordinary morning, a bay number, and four words at the end, and *put away* does not mean a store room. *Put away* means it stops being a movement and becomes stock. There is a bonded area in that store and a bonded cage in it, and a bonded cage is a cage for things that are not to be handled, and a cage is a *cage*, and a cage is the thing in the west range corridor that was moved into on the nineteenth of October, and nobody in Northglass knew that and nobody in Low Ward knew it and the word had been used four times in four weeks by four different people about four different objects and every single one of them had been correct.
@@ -161,7 +173,7 @@ The boy went to hospital in an ambulance and had a **fracture of the radial styl
 
 Nobody was to blame. That is the sentence. Not the tone of it — the sentence, flat, with no adjective in it.
 
-Nobody was to blame, and there was a man in a good coat who had written a figure in a box, and a woman from a hire firm who had said it out loud on arrival, and a foreman who had moved a boy twelve feet in the right direction on the strength of a telephone call from a call box, and a man of fifty-four on a pavement who had been on that slip nine times in thirty-one years and had got a lot of things right, and a boy of fourteen from Northgate who had been in a designated exclusion zone for five hours and who put his wrist on a piece of timber because he turned round.
+Nobody was to blame, and there was a man in a good coat who had written a figure in a box, and a woman from a hire firm who had said it out loud on arrival, and a foreman who had moved a boy twelve feet in the right direction on the strength of a telephone call from a call box, and a woman of fifty-four on a pavement who had been on that slip nine times in thirty-one years and had got a lot of things right, and a boy of fourteen from Northgate who had been in a designated exclusion zone for five hours and who put his wrist on a piece of timber because he turned round.
 
 And a wrist is a thing a person needs. Not this week. Not this year. A wrist is the thing a fitter's mate does his work with, and a fitter's mate's boy who has broken a wrist at fourteen on a site he was not paid to be on is a thing that is in a file at the college for thirty years, and every employer in the city will ask about it, and he will have to answer it, and the answer will be *I was standing in an exclusion zone*, which is true, and which is the sentence a person says for the rest of their life.
 
@@ -169,7 +181,7 @@ The tutor said one thing to Elias Venn on the telephone on the Monday, when he r
 
 ---
 
-Mara Iles put a written instruction on the loading-bay desk at four o'clock on Saturday afternoon and it was four clauses and a signature and it was the second time in three weeks that a woman had put four clauses on a card the size of a small envelope and signed it and gone up.
+Mara Iles put a written instruction on the loading-bay desk at four o'clock on Saturday afternoon and it was five clauses and a signature and a note, and it was the second time in three weeks that a woman had put a card the size of a small envelope in front of a man and signed it and gone up.
 
 > **M. ILES, Senior Conservator and Accession Registrar, 24 October.**
 > **MOVEMENT OF A SCHEDULE 12 OBJECT, ANNEXE D, FOR PROTECTIVE WORKS — HALL OF FORMER FAITHS**
@@ -210,13 +222,13 @@ At ten to ten on Saturday night, Elias Venn came in and read the card and the se
 
 The room at one o'clock in the morning on Sunday the twenty-fifth of October had eleven people in it and Elias Venn counted them, because he could not help it, and was immediately embarrassed by counting them, and did not stop.
 
-Priest, on her stool, because it was her round and she was in it. Nunn, because the crate had gone and he had come back to sign a line saying it had gone and could not sign it until he had walked to the truck and looked at it. Petrie, who had come with him. A conservator, Spence, because a metal object leaving a room at night needs one and Mara had asked her to and she had come in on her own time and had said so out loud so that nobody would have to guess.
+Priest, on her stool, because it was her round and she was in it. Nunn, because the crate had gone up a ramp and come back down and he had come back at half past eleven to sign a line saying that it had not travelled and why, and he could not sign it until he had walked to the cage and looked at the box and then walked out to the truck and looked at the lamp. Petrie, who had come with him and who had carried both ends of both loads and had not been asked to have an opinion. A conservator, Spence, because a metal object leaving a room at night needs one and Mara had asked her to and she had come in on her own time and had said so out loud so that nobody would have to guess.
 
 Two men from Facilities, because the floor treatment had to be barricaded and they had been on site since eight. A duty manager's relief whom nobody introduced. A woman from the agency who cleaned Fridays and had come in on Saturday to cover the Saturdays and had a key and no opinion.
 
-That was eight. The ninth was a man called Upton, of an agency, who had a foreman's clipboard and had come to collect a signature on a *completion* sheet for the protective works and had not been told the room had anything in it.
+That was eight. The ninth was the flooring contractor's foreman, who had a foreman's clipboard and had come at midnight to collect a signature on a *completion* sheet for the first coat in the Hall and had not been told the room had anything in it.
 
-The tenth was a man from the crane hire firm's night shift, at the door, waiting for Upton, holding a mobile telephone.
+The tenth was his mate, who had run the machine until two in the morning and had come back to the loading bay door for him, holding a mobile telephone.
 
 And the eleventh was Perry Loach, who cleaned Saturdays, and who was on the floor with a mop and the machine off, and who had been on the floor at half past eleven and had not been asked to go anywhere, because nobody had told him there was a room.
 
