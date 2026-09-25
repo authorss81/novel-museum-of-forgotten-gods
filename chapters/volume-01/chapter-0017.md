@@ -32,7 +32,7 @@ On Wednesday, at half past seven in the morning, in a service corridor, with a c
 
 And a date in a form had cost a site clearance contractor a fortnight.
 
-He had spent ten days learning to read the small print of this building, and the small print had said that a proposed disposition not executed within ten working days lapses, and that a lapsed disposition is a fairness to everybody, and that the way you take a thing out of a cage in a corridor of escape is with a docket and a date and a chain of signatures. And the way a company with a clearing contract answers a cage sitting in its corridor is not with a better cage. It is with a programme.
+He had spent six days learning to read the small print of this building, and the small print had said that a proposed disposition not executed within ten working days lapses, and that a lapsed disposition is a fairness to everybody, and that the way you take a thing out of a cage in a corridor of escape is with a docket and a date and a chain of signatures. And the way a company with a clearing contract answers a cage sitting in its corridor is not with a better cage. It is with a programme.
 
 He had read the condition on the card on Wednesday morning and thought it was the Director being careful.
 
@@ -68,7 +68,7 @@ And there was one man on that slipway.
 
 Cliff Sowerby was seventy-four and he was on the site because Elias Venn had not asked him, and did not know he was coming, and was going to be told about it in a corridor at six o'clock that evening.
 
-He was at number 14, Sillick Lane, and his father had been the fitter's mate in the dye house, and Hattie Bramm had given Elias his number on Wednesday afternoon in a library in the rain with a piece of paper in her hand and a considered number in her coat, and she had said: *he's the one that put the standpipe in. Him and a lad from the gas, and neither of them would take a drink, and I've been trying to get rid of it for thirty-one years and he died in 'ninety-four and his son's still at it.*
+He was at number 14, Sillick Lane, and his father had been the fitter's mate in the dye house, and Hattie Bramm had given Elias his number on Friday morning at ten past ten outside a branch library with the rain coming back, with a piece of paper in her hand and a considered number in her coat, and she had said: *he's the one that put the standpipe in. Him and a lad from the gas, and neither of them would take a drink, and I've been trying to get rid of it for thirty-one years and he died in 'ninety-four and his son's still at it.*
 
 Cliff Sowerby had been in a trade himself — a heating engineer, forty years, retired at sixty-five, and he had kept the keys to the row and the row's habits and the row's standing water bills, and he had told Hattie in the spring that there was a steel box in the site office on a shelf behind the meter, and that he had put it there himself when the mill shut, and that it was not the mill's.
 
@@ -168,7 +168,7 @@ And the reason it said two was not a lie and not a fault. It said two because a 
 
 And a man of seventy-four came through a gap in a fence and went up a ramp because it was the way to a door, and the door was not locked and the man at the tailgate of the lorry did not turn round.
 
-Elias Venn sat on a tram in the rain at twenty to eight in the evening with a crime number in his coat and understood that he had spent ten days and a great many arguments with himself about the difference between hiding a number and handing one over, and that the number that had put a man in a hospital was in a box on a form about a *lift*.
+Elias Venn sat on a tram in the rain at twenty to eight in the evening with a crime number in his coat and understood that he had spent six days and a great many arguments with himself about the difference between hiding a number and handing one over, and that the number that had put a man in a hospital was in a box on a form about a *lift*.
 
 ---
 
@@ -176,7 +176,7 @@ He got back to the museum at half past eight and he went in at the service lane 
 
 "Saturday," she said. "You're not Saturday."
 
-"Mr Nunn's lot are in the west range corridor and there's a folding ladder by the cage and the Board's phone has been going since one o'clock and there's a woman from a firm called Foyston in the Hall writing down the width of my corridor, and I know that because I've spent ten days learning to read this building, and I am telling you as a member of staff and not as a guard, and you can do what you like with it."
+"Mr Nunn's lot are in the west range corridor and there's a folding ladder by the cage and the Board's phone has been going since one o'clock and there's a woman from a firm called Foyston in the Hall writing down the width of my corridor, and I know that because I've spent six days learning to read this building, and I am telling you as a member of staff and not as a guard, and you can do what you like with it."
 
 "Sit down," Priest said.
 

@@ -22,7 +22,7 @@ And then, at the bottom of page two, in a different hand, added last, initialled
 
 > *7. The Museum will not destroy, or permit the destruction of, any record of an individual employee held by the municipal payroll bureau without first obtaining the bureau's own account of that record in writing. The Museum's records are not the only records of a person who has worked here.*
 
-Elias Venn stood at a loading-bay desk and read clause seven four times and had to put his hand on the edge of the desk, because it was Mara Iles's, and because she had written it into a document that three people had signed and an institution would be held to, and because she had done it on a Sunday afternoon in forty minutes while he was on a stair landing being told that he was not going to be allowed near any of it.
+Elias Venn stood at a loading-bay desk and read clause seven until he could have said it out loud, and had to put his hand on the edge of the desk, because it was Mara Iles's, and because she had written it into a document that three people had signed and an institution would be held to, and because she had done it on a Sunday afternoon in forty minutes while he was on a stair landing being told that he was not going to be allowed near any of it.
 
 And clause six was two lines above it.
 
@@ -30,7 +30,7 @@ And clause six was two lines above it.
 
 He worked out clause six in about four minutes, standing at the desk, the way he worked everything out.
 
-On Tuesday the thirteenth of October, at ten past six in the evening, he had written four hundred words on a sheet of A4, in a loading bay, in his own hand, saying what he had done and when and with what, and he had sealed four photographs in a Museum envelope, addressed it in block capitals to the Board Secretary, and handed it to a duty manager who had written **VENN, E. — 18:24** in the day book and initialled it, and it had gone into the Monday bag, and it had gone out of the building in registered post on the Monday morning with a receipt, and he had stood on a step in the rain and been, for about four minutes, a man whose evidence was in the world and could not be reached by anybody who worked here.
+On Tuesday the thirteenth of October, at ten past six in the evening, he had written four hundred words on a sheet of A4, in a loading bay, in his own hand, saying what he had done and when and with what, and he had sealed four photographs in a Museum envelope, addressed it in block capitals to the Board Secretary, and handed it to a duty manager who had written **VENN, E. — 18:24** in the day book and initialled it, and it had gone into the Monday bag, and it had gone out of the building in registered post that morning with a receipt, and he had stood on a step in the rain and been, for about four minutes, a man whose evidence was in the world and could not be reached by anybody who worked here.
 
 The Board Secretary's office is on the fourth floor of the building the post went to.
 
@@ -78,7 +78,7 @@ Vail & Thwaite rang the security room at noon and it was the claims manager, and
 
 "That's correct."
 
-"Right." She was brisk and she was not unkind and she was, he understood inside about forty seconds, a person doing a job that she was good at. "I'm handling the claim arising from the fault report of the seventh of October and I'm also handling the one arising from Saturday. I've got a file on the fault report with your name on a line at the bottom of a supervisor's summary, and I want to say two things to you and then I'll let you go."
+"Right." She was brisk and she was not unkind and she was, he understood inside about forty seconds, a person doing a job that she was good at. "I'm handling the claim arising from the fault report of the tenth of October and I'm also handling the one arising from Saturday. I've got a file on the fault report with your name on a line at the bottom of a supervisor's summary, and I want to say two things to you and then I'll let you go."
 
 "Go on."
 
@@ -102,9 +102,13 @@ Elias put his hand flat on the desk.
 
 "Then it isn't under clause six."
 
-"It's nowhere near clause six, because it came in registered post to me and not to the building, and because I am not the Museum and the Museum has no authority over my post." She sounded briefly pleased with herself. "It came in an envelope with your name on it in block capitals, and it came to the address on the policy, and I want to say that you got that right, and I have no idea whether you got it right on purpose."
+"It's nowhere near clause six, because it came in registered post to me and not to the building, and because I am not the Museum and the Museum has no authority over my post." She sounded briefly pleased with herself. "It came in an envelope with your name on it in block capitals, and it came to a claims address that is printed at the foot of a fault report form in your own post room, and I want to say that you got that right, and I have no idea whether you got it right on purpose."
 
 "It was on purpose."
+
+There had been two envelopes. One of them was on the fourth floor of the building Elias Venn was standing in, in a Board file that nobody had asked for it, under a clause an archivist had written for the express purpose of stopping exactly that, and it would stay there for ever and it would be worth nothing to anybody for ever. The other one was in Northglass, in a plastic wallet, with a reference and a date on it, ninety seconds after a woman had opened it, and it had taken nobody's permission, and neither had the first one, and that was the part he had not understood at twenty past nine on Tuesday evening when he had walked down to a branch post office in the rain with two envelopes in his coat and one of them addressed to a building four miles away.
+
+He had wanted two. He had wanted it the way a man wants a second signature. It had taken him four days to understand that he had not wanted a second copy of a document at all, and that what he actually wanted was a fact, and that a fact is the only thing in this building that does not need anybody's permission to be true.
 
 "Then you are a better shot than anybody on that docket." A pause. "The hearing is on the twenty-eighth. You are not in the room. And if somebody gets a witness statement out of you about that site before then, I will know, and I will be cross, and it will make my job harder and it will not make yours better."
 
@@ -112,7 +116,7 @@ Elias put his hand flat on the desk.
 
 Ivo's systems inventory was presented at seven that morning in the systems office and Elias was not in it and was not asked and would not have been allowed.
 
-He had told Elias on the Monday of the previous week that it was the best work he had ever done and nobody in that room cared about one line of it, and he was almost right, and the almost was the part that mattered.
+He had told Elias on the Tuesday of the previous week that it was the best work he had ever done and nobody in that room cared about one line of it, and he was almost right, and the almost was the part that mattered.
 
 The outcome came down on the terminal at two o'clock, in a minute, in the systems office's own format, and Elias read it at the desk.
 
@@ -150,11 +154,11 @@ Dael Ordway came in at half past five on his day off, which he had not done in e
 
 "I'm not on till seven."
 
-"I know that. That's why I came." Dael put a sheet on the desk and squared it, and it was a working note, and it was written in pencil, and it was the fourth such note Elias had seen in two years and Dael had never once let one of them leave that desk. "I am not allowed to do the docket. That's in the standing instruction. Clause one. It's mine and it isn't mine any more, and I signed the thing on Wednesday and the thing on Saturday and the thing in the corridor, and on Monday morning a woman in Northglass put a form on it that says a director's signature is not sufficient, and she's right, and she knew it before I did, and I have been signing things for eleven years."
+"I know that. That's why I came." Dael put a sheet on the desk and squared it, and it was a working note, and it was written in pencil, and it was the fourth such note Elias had seen in two years and Dael had never once let one of them leave that desk. "I am not allowed to do the docket. That's in the standing instruction. Clause one. It's mine and it isn't mine any more, and I have signed every one of them, the disc, the docket and the book, and I have been signing things for eleven years, and on Monday morning a woman in Northglass put a form on it that says a director's signature is not sufficient, and she's right, and she knew it before I did, and I have been signing things for eleven years."
 
 "Who's doing the docket?"
 
-"A transfer clerk called Nunn. Foyston's. He's got a van on the lane at six tomorrow morning and he's got a key to the cage and he's got a docket, and the docket is a Saturday-dated one that I wrote, and it's still got my initials on it, and it is the only piece of paper in this building that the Museum is *doing* something with." He tapped it once. "And I have spent a day working out how a cage in a corridor by a lavatory gets to a van, and I have got two answers, and the first one is that nobody moves it, and the second one is that a transfer clerk does."
+"A transfer clerk called Nunn. Foyston's. He's got a van on the lane at eight tonight and he's got a key to the cage and he's got a docket, and the docket is a Saturday-dated one that I wrote, and it's still got my initials on it, and it is the only piece of paper in this building that the Museum is *doing* something with." He tapped it once. "And I have spent a day working out how a cage in a corridor by a lavatory gets to a van, and I have got two answers, and the first one is that nobody moves it, and the second one is that a transfer clerk does."
 
 "Which is it?"
 
@@ -162,7 +166,7 @@ Dael Ordway came in at half past five on his day off, which he had not done in e
 
 "Then it moves on Saturday," Elias said, "on the docket, with the chain."
 
-"It moves on Saturday if the second signature is on it, and the second signature has to be somebody who is not an officer or employee of this Museum, and I do not know who that is going to be, and neither does the Director, and it is half past five on a Monday and I am off nights and I have to be in a lorry at six tomorrow morning with my own name on a docket that says something that isn't true."
+"It moves on Saturday if the second signature is on it, and the second signature has to be somebody who is not an officer or employee of this Museum, and I do not know who that is going to be, and neither does the Director, and it is half past five on a Monday and I am off nights and I have to be standing in this bay at eight tonight with my own name on a docket that says something that isn't true."
 
 He picked the note up and put it in his pocket.
 
@@ -194,7 +198,7 @@ Nunn came at nine with a clipboard and a man and a cage on a sack truck, and the
 
 > *Present at removal: name, grade, time, and signature.*
 
-Elias Venn read the whole of the page twice, and then he read clause one of the standing instruction, and then he read the witness line again, and then he understood, standing in a loading bay at nine o'clock on a Monday night, that for the second time in ten days he had been handed a piece of paper with a box on it.
+Elias Venn read the whole of the page twice, and then he read clause one of the standing instruction, and then he read the witness line again, and then he understood, standing in a loading bay at nine o'clock on a Monday night, that for the second time in eight days he had been handed a piece of paper with a box on it.
 
 It wanted a name and it wanted a grade and it wanted a time and it wanted his signature, and it was a *witness* and not a *record*, and it was not asking him what he had seen or what he thought or what he knew.
 
@@ -204,11 +208,11 @@ He wrote:
 
 > *Present at removal: cage 2, metal, mesh, four castors, two seized, from the west range service corridor (ground floor) to the loading bay, secured pending a disposal decision. Contents: one bronze bell, accessioned as 1961/LW/44 (see tag), which is **not** the object described in this docket, and which is not removed by this movement and is not part of it.*
 >
-> *20:?5, 19 Oct. I have seen what has been moved and I have seen what has not. I have not been told what is in the cage and I have not asked and I have not opened it. I am a member of staff and I am under restriction and I am not a conservator and I am not an inspector. I am the only person in this building on a Monday night and I have signed this because somebody has to, and if you want a witness for what is inside it, you want a person whose job that is, and she works on the first floor and her name is on the other side of this paper.*
+> *21:05, 19 Oct. I have seen what has been moved and I have seen what has not. I have not been told what is in the cage and I have not asked and I have not opened it. I am a member of staff and I am under restriction and I am not a conservator and I am not an inspector. I am the only person in this building on a Monday night and I have signed this because somebody has to, and if you want a witness for what is inside it, you want a person whose job that is, and she works on the first floor and her name is on the other side of this paper.*
 >
 > *E. VENN, security, grade 1 — signed, in my own hand, in the room, at the time above.*
 
-Then he did not hand it straight back, and he stood for a second with it in his hand, because he had learned that from Mara Iles on a bench in a corner of a locked gallery, and because it is the whole of what he had learned in twelve days, and he was going to learn it or he was not going to learn anything.
+Then he did not hand it straight back, and he stood for a second with it in his hand, because he had learned that from Mara Iles on a bench in a corner of a locked gallery, and because it is the whole of what he had learned in eight days, and he was going to learn it or he was not going to learn anything.
 
 "Mr Nunn."
 
@@ -264,4 +268,4 @@ He put the clipboard down.
 
 *Nine objects and forty-one drawers in a room with a paper on the wall saying nine. And a corridor with a cage in it and a contract line for a corridor with an hour a day against it, and no name. And nine. Nine was the number the suppression had been using for thirty-six years, and it is the number this city is still using tonight, and it is not a lie, and it is not an accident, and it is not going to be a mistake that somebody made.*
 
-He got the notebook out at the loading-bay desk and wrote the time against it, because a fact with no time on it is a fact with no end on it, and then he wrote one line, and then he shut it and put it in the inside pocket of his coat, where it had been every night since the sixth of October, and which was the one thing in this building that no standing instruction had yet found a clause about.
+He got the notebook out at the loading-bay desk and wrote the time against it, because he had been taught that by a woman with a stopwatch and had never once been able to explain to himself why it worked, and then he wrote one line, and then he shut it and put it in the inside pocket of his coat, where it had been every night since the sixth of October, and which was the one thing in this building that no standing instruction had yet found a clause about.

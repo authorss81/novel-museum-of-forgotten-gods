@@ -1,6 +1,6 @@
 # Chapter 0012 — The Gallery That Is Not Keeping Its Own Count
 
-The dead letters came in on the Sunday in a manila envelope with a number in biro and, in nine days of a suspended man's afternoons, they were the only thing in the building that nobody was going to look at.
+The dead letters came in on the Sunday in a manila envelope with a number in biro and, in the two afternoons of a suspended man, they were the only thing in the building that nobody was going to look at.
 
 They went the way dead letters go. Return to sender where there was a sender. Circulars, and parish magazines, and a charity that had been sending the same appeal to the same address since before Elias worked here. Three envelopes from a firm of solicitors in Lantern Row about an assessment, opened, read, and re-tied. One from a school. And a great many, an embarrassing great many, from people who wanted to give things to a museum because they had read somewhere that the museum wanted things.
 
@@ -16,7 +16,7 @@ And underneath the envelope, folded in three, the letter itself, dated the ninth
 
 There was no signature. The letterhead carried a job title, an office and a telephone number, and the office was the Registrar's, and the telephone number was the number of the building Elias was standing in.
 
-He read it four times, which was a thing he did, and then he read the pencil note on the envelope, and he did not do the thing he wanted to do, which was to photograph it. The printed line over the tray said what it said, and he had signed that book with his name in it at two minutes to nine in the morning for the last time on Saturday, and he was not going to be a man who found a new way to break the same rule in the same week.
+He read it the way he read everything, all the way down and then all the way back, and then he read the pencil note on the envelope, and he did not do the thing he wanted to do, which was to photograph it. The printed line over the tray said what it said, and he had signed that book with his name in it at two minutes to nine in the morning for the last time on Saturday, and he was not going to be a man who found a new way to break the same rule in the same week.
 
 So he copied it out. Address, forwarding address, the office, the date, the words, and the two words in pencil, in the flat block hand he used for things he wanted to be able to find again, and then he sat back and looked at the six-line entry and understood that he had been doing this for two years and had never once given the count of anything away.
 
@@ -44,7 +44,7 @@ Mara Iles came down at ten past eleven and stood at the loading-bay desk with a 
 
 "And theirs?"
 
-"QA/INSP/4, revised. One page. Serial QA/4/1187." She put her finger on it. "Section three, and I've read it four times and I'd like you to read it as a person who has spent a week being told what a form will not carry.
+"QA/INSP/4, revised. One page. Serial QA/4/1187." She put her finger on it. "Section three, and I've read it until I could do it with my eyes shut, and I'd like you to read it as a person who has spent a week being told what a form will not carry.
 
 > *Object: 34. Hall of Former Faiths. One bronze tally bell, cast 1902, with later staple repair to a shoulder fracture, incomplete.
 > Classification: Schedule 12 — carried object, no activity observed in the period of inspection.
@@ -61,7 +61,7 @@ Elias read the note twice.
 
 "I think it is correct in every particular and that correctness of that kind is a thing you build, Elias, not a thing you stumble into. Nobody in that room lied. Every one of them did their job. And the result of six honest people doing their jobs is a document that says there is no problem here, and I have four photographs in a man's coat that say there is, and I do not know which of those two things is going to survive contact with a Board."
 
-He let that sit, because she was right, and because she was the second person in eight days to say a version of it to him in a better form than he had managed.
+He let that sit, because she was right, and because she was the second person since Sunday morning to say a version of it to him in a better form than he had managed.
 
 "What's the classification mean?"
 
@@ -135,7 +135,7 @@ At half past three he found the remaining thing in the pile that was not circula
 
 Two hundred and forty-one hours. And *nil*.
 
-Elias read it four times, and then he read the word *nil* a fifth time, and understood that he had no idea what it was nil of and was not going to find out from a card, and that a man in this building had said his own hours out loud to the whole staff in a form that would be thrown away, and that the form had said *nil* without saying what it was nil of, which was — he thought, and then stopped himself thinking, and then thought it anyway — the same disease as a result field with *a number* in it.
+Elias read it until the print stopped being print, and then he read the word *nil* over again, and understood that he had no idea what it was nil of and was not going to find out from a card, and that a man in this building had said his own hours out loud to the whole staff in a form that would be thrown away, and that the form had said *nil* without saying what it was nil of, which was — he thought, and then stopped himself thinking, and then thought it anyway — the same disease as a result field with *a number* in it.
 
 It was the only joke in his day. He took it upstairs at four o'clock because Ivo was in the systems office and the piece of paper was going to be on a bench somewhere for a year, and Ivo read it and laughed for about four seconds and then stopped laughing and said, "Two hundred and forty-one," and then said nothing else for a while.
 
@@ -180,7 +180,7 @@ It was that a person who put a date in a form had not moved it, and that a perso
 
 ---
 
-The headache that had begun at twenty-one forty-one on the Saturday before last came off him at ten to ten on Monday night, in a loading bay, over a table of a charity's circulars, without any warning at all.
+The headache that had begun at twenty-one forty-one on Saturday night came off him at ten to ten on Monday night, in a loading bay, over a table of a charity's circulars, without any warning at all.
 
 He had been carrying it since Saturday. It had been the two-day one, the new one, and it had been a solid weight behind his left eye since Sunday morning, and it went at ten to ten and the first thing he felt was not relief.
 
@@ -188,7 +188,7 @@ It was the specific vertigo of a man who has been leaning on something for two d
 
 He stood up and held the edge of the desk for a moment, and the loading bay was exactly where it had been.
 
-Then he went and looked at the lamp, and he read its card twice more, and then he went up into the Gallery of Unnamed Hands with a torch, and he was barred from that room, and he had known that at seven o'clock in the morning when he read a piece of paper with his own name on it, and he had said *I know*, and he had said it out loud, and he had gone to the laundrette and to a bench outside a building and to two hundred and ten dead letters, and he had stopped at seven o'clock, and it was now five to eleven.
+Then he went and looked at the lamp, and he read its card twice more, and then he went up into the Gallery of Unnamed Hands with a torch, and he was barred from that room, and he had known that at seven o'clock in the morning when he read a piece of paper with his own name on it, and he had said *I know*, and he had said it out loud, and he had gone to the laundrette and to a bench outside a building and to two hundred and ten dead letters, and he had stopped at seven o'clock, and it was now ten at night.
 
 ---
 
@@ -231,7 +231,7 @@ He made the card badly, at the flat file, with the ash thin and blotchy because 
 
 ---
 
-The bound was thirty-one hours, and it was nothing, and it was ten at night on a Monday in a shuttered gallery on Civic Hill with a bad card on a flat file and nobody in the building who knew he was in it.
+The bound was fifteen minutes, and it was nothing, and it was ten past ten on a Monday in a shuttered gallery on Civic Hill with a bad card on a flat file and nobody in the building who knew he was in it.
 
 > *Who carried this lamp out of the last building it was in.*
 
@@ -263,7 +263,7 @@ And then the lamp's own last act, which was to be a light on a table, and a woma
 
 **"That'll do, then."**
 
-Elias Venn came off the question in a shuttered gallery on Civic Hill at four minutes to eleven on a Monday night, standing up, with the taste of hot iron in his nose and both palms hot and the rope gone from his right hand. He stood in the middle of nine objects and forty-one drawers for a minute and a half without putting a light on anything.
+Elias Venn came off the question in a shuttered gallery on Civic Hill at twenty-five past ten on a Monday night, standing up, with the taste of hot iron in his nose and both palms hot and the rope gone from his right hand. He stood in the middle of nine objects and forty-one drawers for a minute and a half without putting a light on anything.
 
 Then he went to drawer 6B, which was open, and which he did not have to open because it had been open since the case came off it in the spring, and which he was allowed to look at because it was in a public gallery and he was a member of the public in the only sense available to him that night.
 
@@ -291,11 +291,11 @@ Elias read line ten four times and then read line eleven, and then went back to 
 
 A bundle of wage sheets, tied with tape, marked *pay office*, taken out of a mill on the last morning it ever ran by a man in a fitter's trade off Sillick Lane, delivered to this building in a van with a lamp, and put on a shelf.
 
-And it had never been opened. Fifty years. It had been accessioned as item 44 of a Low Ward series, described in a catalogue entry as *administrative papers, disposal*, and it had been written off as damp, and it had been lifted out of a bay by somebody who wrote a live personnel file number on it in biro, and it was three feet from a lavatory door behind a padlock, and the whole of the difference between the thing Hattie Bramm had been writing letters about for nine years and the thing that was going to happen to it in eleven days was a piece of tape and a mark in a dead man's hand.
+And it had never been opened. Fifty years. It had been accessioned as item 44 of a Low Ward series, described in a catalogue entry as *administrative papers, disposal*, and it had been written off as damp, and it had been lifted out of a bay by somebody who wrote a live personnel file number on it in biro, and it was three feet from a lavatory door behind a padlock, and the whole of the difference between the thing Hattie Bramm had been writing letters about for nine years and the thing that was going to happen to it in thirteen days, when the last of the site went over a wall, was a piece of tape and a mark in a dead man's hand.
 
 And *Q. F. — 14 Lincoln's Lane*, on a 1974 receipt, in a Museum file, in a room with nine objects and forty-one drawers in it.
 
-He did not photograph the docket. There is no rule that would have stopped him and no line printed over any tray about a carbon in a public gallery, and he stood in a shuttered room with his phone in his hand and did not do it, and he knew exactly why, and the reason was that a thing in a Museum file in a room, on a night, in the hands of a suspended man with a lamp, is not evidence and never will be, and the only way it became evidence was if somebody else had a copy.
+He did not photograph the docket. There is no rule that would have stopped him and no line printed over any tray about a carbon in a public gallery, and he stood in a shuttered room with his phone in his hand and did not do it, and he knew exactly why, and the reason was that a thing in a Museum file in a room, on a night, in the hands of a suspended man with a lamp, is not evidence and never will be, and the only way it became evidence was if somebody else had a copy. He had four exposures of the drawer itself in the telephone in his pocket, taken on his way in, and he understood while he was standing there that a photograph of a piece of furniture in the dark is worth a great deal less than a photograph of a document, and that he had done the one that was worth less, and that this was also a decision.
 
 He put the drawer back the way he had found it, which was open, and went down.
 
@@ -321,4 +321,4 @@ And on the step, in the rain, with a door closing behind him, there was a senten
 
 > *The room is not keeping its own count.*
 
-He did not write it anywhere, in either book. He had two lines in his own notebook that were longer than the sentence and shorter than an account of it, and a number in an envelope in Northglass, and a name he had read four times that morning in a letter dated 1976, and he stood on the step in the rain and found that he did not want to go home, and did not want to be in the building, and did not know what a man in Low Ward was supposed to do with eleven hours.
+He did not write it anywhere, in either book. He had two lines in his own notebook that were longer than the sentence and shorter than an account of it, and a number in an envelope in Northglass, and a name he had read four times that morning in a letter dated 1976, and he stood on the step in the rain and found that he did not want to go home, and did not want to be in the building, and did not know what a man in Low Ward was supposed to do with a day that had started at seven o'clock in the morning.

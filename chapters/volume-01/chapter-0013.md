@@ -1,12 +1,12 @@
 # Chapter 0013 — The Fifth Card
 
-He had eight photographs on a telephone and nowhere in the world to put them, and on Tuesday morning he understood that this was the same problem as the ninety-four, only quieter, and that he had been treating it as an administrative matter for nine days because it was one.
+He had eight photographs on a telephone and nowhere in the world to put them, and on Tuesday morning he understood that this was the same problem as the ninety-four, only quieter, and that he had been treating it as an administrative matter for two days because it was one.
 
 He had four of the erased card.
 
-He had four more that he had taken on Monday night, in a shuttered gallery, standing up, with a scale rule off the desk by the door and a torch in his teeth: the drawer, open, with the eleven sleeves standing up in it and the fifth sleeve forward, and the card in the sleeve, and the object in the gap where the card had been, and the whole of it lit and in place.
+He had four more that he had taken on Monday night, in a shuttered gallery, standing up, with a scale rule off the desk by the door and a torch in his teeth: the drawer, open, the sleeves standing up in it, the folder behind them, and the drawer front itself, square to the run of the other five, so that anybody could stand in that room in ten years' time and see exactly where in the building it had been.
 
-He had not known he was going to take them. That was the part he could not get round for two days. He had gone into a barred room at ten at night with a bad card made out of a duty roster, and on his way out he had thought: somebody has to be able to look at where it was, and the tape measures everything except where it was.
+He had not known he was going to take them. That was the part he was still not able to explain to himself by the time the rain started. He had gone into a barred room at ten at night with a bad card made out of a duty roster, and on his way in he had thought: somebody has to be able to look at where it was, and the tape measures everything except where it was.
 
 The eight photographs were on a telephone in an inside pocket, and a telephone in a building that had a printed line about photographs nailed to a wall, and they were the only copy of the only surviving evidence that a person had been taken off a card in this building, and the man who owned them was barred from four of the five floors it was stored on.
 
@@ -20,7 +20,7 @@ At twenty past eight on the Tuesday morning, in the loading bay, with the bay do
 
 "Go on."
 
-"Forty minutes. Six open items, a bin count, a fire test schedule, and a systems index of about four hundred items. It is the best work I have ever done and nobody in that room cared about one line of it, and I knew they wouldn't, and I did it anyway, because I made the presentation." He opened his eyes. "And here is the line. The schedule of collections, the document that says what this building holds and what it's insured against — it is empty. Nothing since the eleventh of September. It's the spine of the whole inventory and there is nothing on it. The Registrar told me on Wednesday it's with the assessor. Which means the Registry has it, and the Registry's register is a better record of this collection than ours is, and our collection is nine floors above a river and a stairwell away from two thousand people a day."
+"Forty minutes. Six open items, a bin count, a fire test schedule, and a systems index of about four hundred items. It is the best work I have ever done and nobody in that room cared about one line of it, and I knew they wouldn't, and I did it anyway, because I made the presentation." He opened his eyes. "And here is the line. The schedule of collections, the document that says what this building holds and what it's insured against — it is empty. Nothing since the eleventh of September. It's the spine of the whole inventory and there is nothing on it. The Registrar told me last Wednesday it's with the assessor. Which means the Registry has it, and the Registry's register is a better record of this collection than ours is, and our collection is nine floors above a river and a stairwell away from two thousand people a day."
 
 "Your eight weeks and the one document that mattered."
 
@@ -50,13 +50,13 @@ He was quiet for a moment.
 
 He spent the morning on the desk and did not get anywhere with the photographs, and the reason he did not get anywhere is that he worked out, over about four hours, with a pencil and a sheet of the back of a dead letter, exactly what he was entitled to do, and the list was as follows.
 
-He could not put them in a Museum file. He had no signature, no post, and no right of access, and the only signature he had ever put to anything in this building in the last nine days was a false one.
+He could not put them in a Museum file. He had no signature, no post, and no right of access, and the only signature he had ever put to anything in this building in the last two days was a false one.
 
 He could not give them to Mara. That one took him the longest and it was the truest, and the reason it was the truest is that Mara was the person he had promised. He had promised to tell her everything, every time, and he had broken it, and the cheapest way for a man to appear to have stopped breaking a promise is to hand over the thing he withheld, and he understood that perfectly well and he did not do it, because handing over the photographs would have made the promise look paid, and it was not paid, and the cleaner's name was still in his coat.
 
-He could not give them to Ivo, and this was not allowed, and he knew exactly why not: Ivo had a systems inventory to present for the last time on Wednesday and a name of his own that was on a fault report, and a photograph in Ivo's flat is a photograph that belongs to one man.
+He could not give them to Ivo, and this was not allowed, and he knew exactly why not: Ivo had a systems inventory to present for the last time on Monday and a name of his own that was on a fault report, and a photograph in Ivo's flat is a photograph that belongs to one man.
 
-He could not simply keep them. That was the thing he had been doing for nine days and it had a price, and the price was a number in a coat and a name in a coat and a card a half-millimetre out of true in a drawer, and it had got him a suspension and a 1974 carbon receipt.
+He could not simply keep them. That was the thing he had been doing for two days and it had a price, and the price was a number in a coat and a name in a coat and a card a half-millimetre out of true in a drawer, and it had got him a suspension and a 1974 carbon receipt.
 
 And he could not give them to the police, because there was no crime he could name in a sentence, and a man who goes to a police station with four photographs of a card with somebody's name rubbed off it is a man who is told, kindly, that there is nothing anybody can do.
 
@@ -172,17 +172,17 @@ He went and got a sheet of A4 from the drawer under the desk and wrote it standi
 > **STATEMENT — E. VENN, security, grade 1**
 > made Tuesday 13 October, Museum of Quiet Saints, at 17:20, at the loading-bay desk.
 >
-> On Thursday 6 October, at about 02:05, I took a personal telephone from the numbered tray at the service entrance. I signed the book beside the tray, giving my name, 01:52 out and 02:41 back, and I did not write a destination, because the book has no column for one.
+> On Thursday 8 October, at about 02:05, I took a personal telephone from the numbered tray at the service entrance. I signed the book beside the tray, giving my name, 01:52 out and 02:41 back, and I did not write a destination, because the book has no column for one.
 >
 > I went to the label room on the first floor and took from the Sillick drawer the spare card for the object displayed on plinth 34 in the Hall of Former Faiths. I photographed that card four times, at four angles, on the personal telephone. I did not photograph the book, the lintel camera, the room or any other person.
 >
-> On Monday 12 October, at about 22:40, I photographed the same drawer, opened, in place, in the Gallery of Unnamed Hands, with the same telephone. Four exposures. That room is one I am not permitted to enter and I entered it without authority.
+> On Monday 12 October, at about ten at night, I photographed the drawer itself, open, in place, in the Gallery of Unnamed Hands, with the same telephone. Four exposures. I did not photograph the docket that was in it. That room is one I am not permitted to enter and I entered it without authority.
 >
 > The rule printed on the device book is that there is no photography of collections material, labels or records. I broke that rule twice. I was told the drawer was the Sillick drawer by the label-room finisher, whose name I am not giving, because I have not asked her permission and she has not given it. She was not present when I took either set of photographs and she did not open either drawer for me.
 >
 > I also wrote in the device book on Thursday an entry for the telephone that was not a device-book entry, being the same entry, and I put the card back into the drawer out of true, deliberately, on Thursday. The card is now square and the drawer is shut. That was me and not the finisher.
 >
-> On Saturday 7 October at about 07:30 I signed a fault report in which the words *access to the Quiet Wing corridor during the outage was not established* were false. I wrote them. My supervisor asked for one line and I chose it.
+> On Saturday 10 October at about 07:30 I signed a fault report in which the words *access to the Quiet Wing corridor during the outage was not established* were false. I wrote them. My supervisor asked for one line and I chose it.
 >
 > These photographs are the only copy I have of a person's name erased from a card. They are not in any Museum system. I am giving them up because I am not able to hold them and because holding them is what I did last week.
 >
@@ -203,7 +203,7 @@ He sealed it with a Museum envelope, put the four Thursday photographs in, and w
 
 And he wrote a second line, smaller:
 
-> **Enclosure: four photographs, unaltered, taken 6 Oct approx 02:05. Registered post, receipt required.**
+> **Enclosure: four photographs, unaltered, taken 8 Oct approx 02:05. Registered post, receipt required.**
 
 And then, at twenty past six, he took it to the duty manager at the service desk, and Priest read the front of it, and read the second line, and then read all of it, standing at the desk with a mug in her hand, and did not interrupt him once, and took about four minutes over it.
 
@@ -233,9 +233,9 @@ He went out the service lane at ten past seven and stood on the pavement in the 
 
 It arrived out of nothing, with no wall behind it and no speaker, in a lane behind Civic Hill, in a man who had noticed that the print had gone out of the loading bay office across the road.
 
-It was about the envelope. He was almost certain it was about the envelope, in the way the other ones had been about the thing he was standing next to, and he did not know what it meant, and for the first time in nine days he did not have anywhere to put it, because the one book he had been keeping for things that did not make sense had been the same book he had just spent four hundred words emptying in front of a duty manager.
+It was about the envelope. He was almost certain it was about the envelope, in the way the other ones had been about the thing he was standing next to, and he did not know what it meant, and for the first time in two days he did not have anywhere to put it, because the one book he had been keeping for things that did not make sense had been the same book he had just spent four hundred words emptying in front of a duty manager.
 
-He wrote nothing. He stood in the rain and let it be unexplained, and noticed that not writing it down was the first thing he had done in nine days that was not a decision.
+He wrote nothing. He stood in the rain and let it be unexplained, and noticed that not writing it down was the first thing he had done in two days that was not a decision.
 
 ---
 
@@ -273,10 +273,31 @@ He was at the door.
 
 He went out into the rain and shut the door behind him with the care of a man who does not slam doors in a building he is insured for.
 
-Elias stood in the loading bay with the wind coming in under the roller and the dead letters still in a manila envelope on the corner of the desk, and the cage four feet away with the bell in it, and the phrase from the day book, and the sealed envelope in the Monday bag, and he thought, with a clarity that arrived from outside him and that he would have given a great deal to argue with:
+---
+
+The branch post office on Sillick Lane shut at half past nine on a Tuesday, which meant that by the time Dael Ordway had finished telling him the name of a claims manager he had about forty minutes and a decision to make with them.
+
+It took him six of the forty minutes to find the address, and he found it on the wrong piece of paper entirely, at the foot of a fault report form in a drawer in the post room, in a box marked **CLAIMS — POST ROOM COPY**, where it had been printed since before Elias worked here and had never been filled in by anybody: *All completed fault reports to be copied to the underwriting panel, Vail & Thwaite, Northglass — attention Cheryl Vosper, Claims.* The form was the one he had signed on the Saturday morning with four false words in it, and the address of the only person in the world who could not be reached through this building was printed on it in eleven-point type, and he stood in a post room in the rain and laughed out loud once, alone, and it was not a good sound.
+
+So he did it properly. He telephoned the conservation floor and asked Mara Iles for a second Museum envelope, and she came down to the service entrance with it in her hand, and he told her, without being asked, that it was for an insurer and not for the building, and she gave it to him and wrote nothing down, which was the single most expensive thing anybody did for him that week.
+
+Four photographs, the same four, and a second copy of the four hundred words typed out again in his own hand because he could not copy his own handwriting honestly, and on the front, in block capitals:
+
+> **E. VENN — SECURITY, GRADE 1 — TO THE CLAIMS MANAGER, VAIL & THWAITE, NORTHGASS**
+> **NOT TO THE BUILDING. NOT TO THE BOARD.**
+
+Registered, at the counter, receipt required, and the woman at the counter gave him the receipt without being asked and did not look at his face, and the item went into a bag with a tag on it, and a tagged bag is a thing that cannot be lost, and a lost thing is a thing nobody has to answer for.
+
+He put the receipt in the notebook and the notebook in the inside pocket, and he stood on the pavement in the rain for a minute and a half and understood, in the way he understood most things that week, about four seconds after it had already happened, that he had just posted the same four photographs to two addresses on the same evening, and that the reason was not that he trusted one more than the other.
+
+It was that a document which sits in one room is a document about one room, and a document which sits in two rooms is a fact, and a fact is a thing that does not need anybody's permission to be true.
+
+Then he went back up the hill in the rain, and the loading-bay door was still open, and the wind was still coming in under the roller where it had been all evening.
+
+Elias stood in the loading bay with the dead letters still in a manila envelope on the corner of the desk, and the cage four feet away with the bell in it, and the phrase from the day book, and two receipts in an inside pocket, and he thought, with a clarity that arrived from outside him and that he would have given a great deal to argue with:
 
 *Nobody in this building is protecting the thing. Everyone in this building is protecting the floor they are standing on, and the floors are all different heights, and one of the floors has four drawers' worth of somebody's wages in a box, and every single person in this building has gone to a great deal of trouble to make sure that box stays on the floor it is on.*
 
-And then, because he was a man who could not help it, and because it was the only thing in eight days that had gone right, and because the man who had done it had told him on a stair landing at eight o'clock on a Friday night that if he did not have to ask then it was not a favour:
+And then, because he was a man who could not help it, and because it was the only thing in two days that had gone right, and because the man who had done it had told him on a stair landing at eight o'clock on a Friday night that if he did not have to ask then it was not a favour:
 
 *And Ivo did it anyway. And I did not ask him.*

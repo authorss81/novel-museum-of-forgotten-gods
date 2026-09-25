@@ -2,7 +2,7 @@
 
 He did not sleep, and he was not surprised, and at ten on Sunday morning he sat on a bench in a laundrette with eleven machines running and a cup of tea he had not asked for and told his mother the thing he had come to say.
 
-"You asked me on Saturday why I never ask you for the letter."
+"You asked me on Sunday morning why I never ask you for the letter."
 
 "I did."
 
@@ -174,9 +174,9 @@ The label room was windowless and cold and lit by two strips, and the card cutte
 
 "Twenty minutes," Mara Iles said. "And I want you to know that I have thought about the room before I asked you to come down here, and I chose it, and here is why."
 
-"Because it's the room Dael offered me on Sunday."
+"Because it's the only room in this building with a card cutter in it."
 
-"It's the room Dael offered you on Sunday, which is a custodian's room with a bench and a door and no windows, and it is the only room in this building that is not a collections store, and I am a member of staff and you are a member of staff and I have put us both in it, and neither of us can be called out of a gallery by a member of the public." She put her bag down. "And it is the only room in this building with a card cutter in it, which means that in about four hundred years somebody will make a card in here with our two names on the back of it, and I thought that was worth the walk."
+"It is a conservation workspace, and it is entered by a card, and there is a camera on the lintel that covers the door and the bench and about a metre of the room, and you are on a restriction, and I have put us both in the one room in this building that photographs us." She put her bag down. "And neither of us can be called out of a gallery by a member of the public. And it means that in about four hundred years somebody will make a card in here with our two names on the back of it, and I thought that was worth the walk."
 
 "Sit down," she said. "No. Stand up. I want you standing, because I am going to read something and I would like you to hear it as a document and not as a voice."
 
@@ -192,7 +192,7 @@ She took a sheet out of the file. Not the notebook. A typed list, in her own han
 > *The reader did not say whether the number had an object. The witness asked. The reader said he had given the shape and the units and no object.*
 > *The witness did not fill the account box. The witness's reason, given aloud: the box takes a voluntary statement in the person's own words and countersigned, and the witness will not take one off a night cleaner at a plinth without his supervisor, and will not put a guard's second-hand version in a box that wants the man's words.*
 
-"That is the whole of the first one," Mara Iles said, "and it is accurate, and it is in the file, and there is nothing wrong with it anywhere, and it is going to be in the file for ever, and if somebody in four years asks me what happened in this building on the seventh of October, that is what I will hand them."
+"That is the whole of the first one," Mara Iles said, "and it is accurate, and it is in the file, and there is nothing wrong with it anywhere, and it is going to be in the file for ever, and if somebody in four years asks me what happened in this building on the tenth of October, that is what I will hand them."
 
 "Yes."
 
@@ -200,7 +200,7 @@ She took a sheet out of the file. Not the notebook. A typed list, in her own han
 
 "Mara—"
 
-"Hold on. I am doing it and you are going to let me." She squared the sheet. "Eight photographs, deposited by you on Tuesday, sealed, in an envelope with your name on it, and a covering statement of four hundred words in which you set out that you broke a printed rule twice, that you put a card back out of true deliberately, that you signed a device-book entry with no destination, and that a fault report of yours contains four false words. The first four of those are on the record. The fifth is on the record because you told a duty manager about it in a day book at six o'clock in the evening and I read the day book on Wednesday because I read the day book every day, and I have read the day book every day since the seventh of October, which you did not know, and I would like you to sit with the fact that I read it every day and that it took me two days to decide what to do about it."
+"Hold on. I am doing it and you are going to let me." She squared the sheet. "Four photographs, deposited by you on Tuesday, sealed, in an envelope with your name on it, and a covering statement of four hundred words in which you set out that you broke a printed rule twice, that you put a card back out of true deliberately, that you signed a device-book entry with no destination, and that a fault report of yours contains four false words. The first four of those are on the record. The fifth is on the record because you told a duty manager about it in a day book at six o'clock in the evening and I read the day book on Wednesday because I read the day book every day, and I have read the day book every day since the tenth of October, which you did not know, and I would like you to sit with the fact that I read it every day and that it took me two days to decide what to do about it."
 
 Elias stood very still.
 
@@ -213,8 +213,8 @@ She turned the sheet round and gave it to him the right way up.
 >
 > 1. An item of post addressed to *W. Case, c/o Museum letting, 14 Mill Lane, Low Ward* was received undeliverable and is held in the post room. It is not a Museum record and it is a private letter. It is not opened further by me and I have not circulated it.
 > 2. A request is hereby made to the Board for a written instruction as to the personal effects and correspondence held in staff locker 81, which bears a brass plate reading **CASE, W.** and which has not been opened. I record that the locker is not Museum property, that its contents are not Museum property, and that I am not able to open it and am not asking to.
-> 3. I record that a *name* should be entered in the box headed *account of any person present during result* on the protocol form of 7 October. The name is withheld in this note. I do not withhold it from the Board. I withhold it from the file, because the file is a document and a name in a document is a thing that follows a person, and this week in this building a man was asked about a drawer by a woman with a lanyard and I have not found out what she asked him.
-> 4. I record that a photograph of a card, taken by the reader on 6 October, shows an erased name, and that the Registry photographed the same card on 12 October and described the erasure as *partial*, and that both of those documents are now in two institutions' files and neither of them says the name.
+> 3. I record that a *name* should be entered in the box headed *account of any person present during result* on the protocol form of 10 October. The name is withheld in this note. I do not withhold it from the Board. I withhold it from the file, because the file is a document and a name in a document is a thing that follows a person, and this week in this building a man was asked about a drawer by a woman with a lanyard and I have not found out what she asked him.
+> 4. I record that a photograph of a card, taken by the reader on 8 October, shows an erased name, and that the Registry photographed the same card on 12 October and described the erasure as *partial*, and that both of those documents are now in two institutions' files and neither of them says the name.
 > 5. The name is **Wendel Case.** It is given here, in a covering note, to a member of the Board, and nowhere else, and I am aware that a covering note is a document.
 >
 > M. ILES, Senior Conservator and Accession Registrar. 18 Oct, 15:40.
@@ -227,7 +227,7 @@ Elias read it twice.
 
 "That's—"
 
-"That is me breaking a rule," Mara Iles said, "and I have done it, and you are not to thank me, and we are not even. And now sit down, because I have not said the other thing yet and I have been putting it off for eleven days and I am not going to put it off in a room I chose."
+"That is me breaking a rule," Mara Iles said, "and I have done it, and you are not to thank me, and we are not even. And now sit down, because I have not said the other thing yet and I have been putting it off for seven days and I am not going to put it off in a room I chose."
 
 ---
 
@@ -259,7 +259,7 @@ The room was very quiet. The boiler was off and the strips hummed.
 
 "And if I can't get to you."
 
-"Then you write it down on the back of a duty roster and you telephone me and you say *I have got something and I cannot get it to you*, and I will come and get it. That is the whole arrangement and it is not a condition, it is just what I am offering." She put one finger up, and it was the same finger as Fenn's, and it was the same finger as her own on Saturday afternoon in a corridor, and this book was full of women with one finger up. "Two. And this is the one you are not going to like. Nobody in this building decides on their own that a person is safer not knowing. If that is going to happen, it happens in the file, with two names on it, and the person it is about gets told eventually. Not never. Eventually."
+"Then you write it down on the back of a duty roster and you telephone me and you say *I have got something and I cannot get it to you*, and I will come and get it. That is the whole arrangement and it is not a condition, it is just what I am offering." She put one finger up, and it was the same finger as Fenn's, and it was the same finger as her own on Saturday afternoon in a corridor, and by that evening there were three women in this city who held one finger up and would not put it down. "Two. And this is the one you are not going to like. Nobody in this building decides on their own that a person is safer not knowing. If that is going to happen, it happens in the file, with two names on it, and the person it is about gets told eventually. Not never. Eventually."
 
 Elias Venn did not say anything for a while.
 
@@ -287,7 +287,7 @@ He walked her out to the lift, or as far as the stair, because the label room is
 
 "You."
 
-"I do. Not you, and not in a week, and not at ten at night on a Monday." She shifted her bag to her other hand. "It will be a form with his name on it and his own words on it and his own signature at the bottom, and it will say that he may leave it blank, and it will be countersigned by his supervisor, and it will not be filled in from a memory. And it will be the only document in this volume that anybody can be *proud* of, and I am not going to let you write a word of it."
+"I do. Not you, and not in a week, and not at ten at night on a Monday." She shifted her bag to her other hand. "It will be a form with his name on it and his own words on it and his own signature at the bottom, and it will say that he may leave it blank, and it will be countersigned by his supervisor, and it will not be filled in from a memory. And it will be the only document I have ever written that anybody can be *proud* of, and I am not going to let you write a word of it."
 
 "Understood."
 
@@ -301,7 +301,7 @@ Elias Venn stood on a landing on the first floor of a building he was not allowe
 
 ---
 
-He got off at ten to eleven.
+He got off at half past ten.
 
 The last post had gone down the lane at about seven and the blue bales were standing by the roller door in the rain in a row, three of them, with a sheet of paper over the top of them weighted with a brick, and somebody had come at about ten and taken it away, and there was a wet rectangle on the concrete where it had been.
 
@@ -311,7 +311,7 @@ Elias Venn stood in a loading bay in the rain and did the only arithmetic there 
 
 Then he wrote one line at the bottom and put the book away.
 
-> Sun 18 Oct, 22:40. Mara has it and I do not, and that is the correct position and it is the whole of what I have learned in twelve days and I have learned it from a woman with a cash book and a woman with a stopwatch and a woman with a bone folder, none of whom can read a bell and all of whom can read a room.
+> Sun 18 Oct, 22:40. Mara has it and I do not, and that is the correct position and it is the whole of what I have learned in seven days and I have learned it from a woman with a cash book and a woman with a stopwatch and a woman with a bone folder, none of whom can read a bell and all of whom can read a room.
 >
 > I have still got one thing in the book that is not in her file and I am not going to write it down here.
 >

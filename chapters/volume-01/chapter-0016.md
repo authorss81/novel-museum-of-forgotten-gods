@@ -1,6 +1,6 @@
 # Chapter 0016 — What Is in the Cupboard
 
-The bin went out at fifteen past seven on Friday morning and Elias Venn watched it go from the doorway of the loading bay, standing up, in his coat, at ten to eight, with a day book open on a sack of frames behind him and a working day in front of him that he had not been told he was allowed to have.
+The bin went out at fifteen past seven on Friday morning and Elias Venn watched it go from the doorway of the loading bay, standing up, in his coat, at a quarter past seven, with a day book open on a sack of frames behind him and a working day in front of him that he had not been told he was allowed to have.
 
 It was a wheelie bin. It came down the service lane on its own wheels, past the coal chute grille and the bins and the two shutters, and out through the gate onto the lane, and a man in a high-visibility jacket came up the lane behind it with a hand truck and a sheet of paper, and the sheet had columns on it, and the columns were a date and a number of bales and a destination, and he wrote one figure in a box and the figure was two hundred and something, and the whole transaction took about four minutes.
 
@@ -14,7 +14,7 @@ He did not go out into the lane.
 
 And he was careful, on the stairs afterwards, not to let himself be a man who had nearly stopped it. Because that was not the truth. A man who has almost stopped a thing and then does not stop it is a man who has found out what he wants. What he wanted, standing at the doorway at ten to eight, was to go out into the lane. What he did not do was the next part, which was to pick up the telephone at seven o'clock and ring the post room and ask them to hold one bale out of a hundred and fifty for a day. A man who rings at seven in the morning to hold one bale is a man who has admitted to a post room that he has been reading the post.
 
-That was the whole of it. He had been reading other people's post for nine days and he had never once been a person who was allowed to, and now there was a bin going out of the door and the only thing between the bin and a shovel was a decision, and he had made the decision, and it took about a second, and it was the first decision he had made in ten days that he had not written down.
+That was the whole of it. He had been reading other people's post for five days and he had never once been a person who was allowed to, and now there was a bin going out of the door and the only thing between the bin and a shovel was a decision, and he had made the decision, and it took about a second, and it was the first decision he had made in five days that he had not written down.
 
 ---
 
@@ -120,7 +120,7 @@ Elias Venn stood in the rain on a pavement in Low Ward with a queue behind a doo
 
 He could have said *I can't tell you that*, and it would have been a good answer, and it would have been true, and it would have closed the conversation, and nobody in that room would ever have heard a name or a place.
 
-He had had the choice and he had not taken it, and the reason he had not taken it was a table in Ferry Bank on Wednesday afternoon with a cloth on it and a hardback cash book with a rubber band round it, and a woman saying *thirty-one years I've had a copy of that sheet and nobody to give it to*, and four photographs in a registered envelope in the Monday bag that had gone out of a building on a Wednesday, and a mint in a basement that he had not opened, and a man's letter in a post room that Mara Iles was taking to the Board Secretary by the end of the day.
+He had had the choice and he had not taken it, and the reason he had not taken it was a table in Ferry Bank on Wednesday afternoon with a cloth on it and a hardback cash book with a rubber band round it, and a woman saying *fifty years I've had a copy of that sheet and nobody to give it to*, and four photographs in a registered envelope in the Monday bag that had gone out of a building on a Wednesday, and a mint in a basement that he had not opened, and a man's letter in a post room that Mara Iles was taking to the Board Secretary by the end of the day.
 
 He had handed over everything he could get hold of. Four times in four days. To a duty manager, to a duty manager again, to a registrar, and once by not doing anything at all.
 
@@ -140,7 +140,7 @@ The library was behind a glass door and the door was shut, and he had not raised
 
 "Say what?"
 
-"When I said *plinth*." And then he heard himself, and he heard the four seconds go by, and he stopped. "No. I don't have a number. There's a number in this and it's not mine to give out and it is not the number you want, and if I say it in this street it will be in four rooms by Monday and that will be the end of the offer in your coat and the beginning of something much worse for you. So I am not going to say it, and I am not going to say a name either, and I want you to know that the not-saying is the hardest thing I have done in ten days and it is not a trick."
+"When I said *plinth*." And then he heard himself, and he heard the four seconds go by, and he stopped. "No. I don't have a number. There's a number in this and it's not mine to give out and it is not the number you want, and if I say it in this street it will be in four rooms by Monday and that will be the end of the offer in your coat and the beginning of something much worse for you. So I am not going to say it, and I am not going to say a name either, and I want you to know that the not-saying is the hardest thing I have done in five days and it is not a trick."
 
 "Say what name."
 
@@ -152,11 +152,11 @@ Hattie Bramm stood very still on a wet pavement.
 
 "—"
 
-"There's a Case at number four. Sillick Lane. He can't write and he's in his sixties and his daughter does his post, and she came to me in the spring about a letters thing and I gave her the same slip of paper I give everybody." Her voice did not change at all. "And you have a name in this that starts the same and you won't say it in this street, and I have known the name Case since the spring and I have not said it once in this room and I am not going to start now, and that is not because I'm being careful. That's because I have been the person who knows a name in a room for thirty-one years and I know exactly what it costs the room to have one, and it costs me most of all, and I have paid it every time."
+"There's a Case at number four. Sillick Lane. He can't write and he's in his fifties and his daughter does his post, and she came to me in the spring about a letters thing and I gave her the same slip of paper I give everybody." Her voice did not change at all. "And you have a name in this that starts the same and you won't say it in this street, and I have known the name Case since the spring and I have not said it once in this room and I am not going to start now, and that is not because I'm being careful. That's because I have been the person who knows a name in a room for thirty-one years and I know exactly what it costs the room to have one, and it costs me most of all, and I have paid it every time."
 
 She went in.
 
-Elias stood on the pavement in the rain and had the four seconds again, and this time what came out of them was not a number and not a name, it was a nausea, because he had been about to be a man who keeps people safe, and he had just said a room out loud in a street in front of a glass door, and he could not take any of it back, and it was the third time in five days that he had put a fact in a public place and told himself it was because the person was owed it.
+Elias stood on the pavement in the rain and had the four seconds again, and this time what came out of them was not a number and not a name, it was a nausea, because he had been about to be a man who keeps people safe, and he had just said a room out loud in a street in front of a glass door, and he could not take any of it back, and it was not the first time that week he had put a fact into a room and told himself it was because the person was owed it.
 
 ---
 
@@ -180,7 +180,7 @@ Elias stopped.
 
 The man by the door.
 
-He was in his sixties, grey, in a plain dark coat, and there was a shopping bag on his knees with the top of a tin of tea sticking out of it, and a pair of work boots under the chair that had been resoled once, and a hearing aid he had not turned on, and he was sitting on a chair in a municipal library in Low Ward on a Friday afternoon with a piece of paper in his hand that had nothing on it.
+He was in his fifties, grey, in a plain dark coat, and there was a shopping bag on his knees with the top of a tin of tea sticking out of it, and a pair of work boots under the chair that had been resoled once, and a hearing aid he had not turned on, and he was sitting on a chair in a municipal library in Low Ward on a Friday afternoon with a piece of paper in his hand that had nothing on it.
 
 Elias Venn stood three feet away from him in a room with eleven empty chairs in it.
 
@@ -200,11 +200,11 @@ Hattie Bramm was at the door with her coat on and she watched him walk past the 
 
 He got the tram back up the hill at twenty to two.
 
-He had given a room, a row, a plinth, a date and a case to a woman in a street in front of a glass door, on a Friday afternoon, and he had said a number in the same street four hours ago to a woman in a queue, and a number in a queue is a thing that a man in overalls has to guess, and a number guessed wrongly in a room of eleven people is a rumour, and a rumour in this district travels four miles in a day and gets into a solicitor's file in a fortnight.
+He had given a room, a row, a plinth, a date and a case to a woman in a street in front of a glass door, on a Friday morning, and it was three hours since, and he had not said the number, and the not-saying was going to cost him more in a week than the saying would have cost him in a minute, and there was nowhere in the world to write that down.
 
 And the number was ninety-four.
 
-And the number was a count of people on a shift on the last morning a mill ever ran, and the pay run had listed fewer than were on the gate, and nobody in the city knew that but him, and he had just put it into a room.
+And the number was a count of people on a shift on the last morning a mill ever ran, and the pay run had listed fewer than were on the gate, and nobody in this city knew that but him, and it was in a notebook in an inside pocket, and it had been in a notebook since the sixth of October, and it was going to stay there, and that was the whole of what he had done this week that he was able to name.
 
 He sat on the tram with his hands on his knees and did the only arithmetic there was.
 
@@ -218,4 +218,4 @@ And a night cleaner in a shopping bag in a municipal back room with a piece of p
 
 Four doors, and four locks, and every one of them was locked by him.
 
-He got off the tram at the top of the hill at five past three and stood in the rain outside a building he was not allowed to walk into, and understood that he had spent five days giving things away to every person who had asked him for one, and that the only thing he had managed to keep hold of in ten days was a man in a chair who had not asked.
+He got off the tram at the top of the hill at five past three and stood in the rain outside a building he was not allowed to walk into, and understood that he had spent five days giving things away to every person who had asked him for one, and that the only thing he had managed to keep hold of in five days was a man in a chair who had not asked.

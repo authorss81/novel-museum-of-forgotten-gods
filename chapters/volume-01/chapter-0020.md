@@ -1,6 +1,6 @@
 # Chapter 0020 — Thirty-Eight Children and Two Teachers
 
-The docket came down onto the loading-bay desk at twenty past eight on Tuesday morning, which was before his hours, which meant somebody had known what he was going to be asked.
+The docket came down onto the loading-bay desk at twenty past eight on Tuesday morning, which was before the conservation floor opened and four hours before the assessor was due, which meant somebody had known what he was going to be asked.
 
 It was a single sheet on a clipboard with a printed form number and three signatures on it, and one of the three signatures was Dael Ordway's, and the disposition line said **NOT ON HOLD**, and the date line said the sixteenth, and the place line said *cage to lorry, w/c 20th*, and there was a witness line under all of it with a printed word on it and four boxes.
 
@@ -41,13 +41,13 @@ Anja Ward read the docket, and read the day book, and did not ask him a single q
 
 "Then it goes this weekend."
 
-"It does not go this weekend. It goes on the thirtieth, and the thirtieth is a Wednesday, and I have had it in the back of my head since Saturday and I have not told a soul because I am not going to be the woman who says a thing like that out loud in a building before it has happened." She put her hand flat on the docket. "Clause three of the conditions I issued on the fifteenth says that a proposed disposition not executed within ten working days lapses, and that the object returns to its last certified condition and its last certified place. I posted the proposal on the fifteenth at about ten in the morning under a plastic wallet on a wall, and ten working days off fifteen is the thirtieth, and on Wednesday night the proposal is dead, and on Thursday morning the cage is a piece of furniture in a corridor and there is nothing in anybody's hand."
+"It does not go this weekend. It goes on the twenty-ninth, and the twenty-ninth is a Thursday, and I have had it in the back of my head since Saturday and I have not told a soul because I am not going to be the woman who says a thing like that out loud in a building before it has happened." She put her hand flat on the docket. "Clause three of the conditions I issued on the fifteenth says that a proposed disposition not executed within ten working days lapses, and that the object returns to its last certified condition and its last certified place. I posted the proposal on the fifteenth at about ten in the morning under a plastic wallet on a wall, and ten working days off fifteen is the twenty-ninth, and on Thursday night the proposal is dead, and on Friday morning the cage is a piece of furniture in a corridor and there is nothing in anybody's hand."
 
 Elias Venn sat on a sack of frames and looked at her.
 
 "That's the third time this week something has come apart on a clause you wrote in a hurry."
 
-"It is the third time this week something has come apart on a clause somebody wrote in a hurry, and twice it came apart against me." She was almost smiling and it did not reach her face. "And the fourth time is next week, when a company that has a man booked to sign for a site on the fourth of November discovers that its proposal lapsed and has to start again, and there is not one clerk at Hallowgate Foyston who wants to start again in the last week of October. That is the whole of what I have got, Mr Venn. It is not justice. It is a Thursday."
+"It is the third time this week something has come apart on a clause somebody wrote in a hurry, and twice it came apart against me." She was almost smiling and it did not reach her face. "And the fourth time is next week, when a company that has a man booked to sign for a site on the fourth of November discovers that its proposal lapsed and has to start again, and there is not one clerk at Hallowgate Foyston who wants to start again in the last week of October. That is the whole of what I have got, Mr Venn. It is not justice. It is a Friday."
 
 "What about the request form."
 
@@ -55,7 +55,7 @@ Elias Venn sat on a sack of frames and looked at her.
 
 "That's an awful way to run a museum."
 
-"It is the only way anybody has ever found." Anja Ward picked the docket up. "I have until the assessor gets here and I am going to spend the morning on the telephone to a woman in Northglass who has a statutory duty and a satchel, and if I cannot get her to put this in writing by Friday then the docket stands and I will write a minute that says I tried, and I will be the woman who tried, and that is the best I can do and it is not enough. Go and open the loading bay. I want the cage out of the corridor by nine."
+"It is the only way anybody has ever found." Anja Ward squared the docket on the desk. "And if I cannot get it, then I will write a minute that says I tried, and I will be the woman who tried, and that is the best I can do and it is not enough. Go and open the loading bay. I want that cage off the middle of that floor before eleven, because a systems index in this building says it is standing on a route of escape, and I am not having that be the sentence in the minute."
 
 ---
 
@@ -71,7 +71,7 @@ And the crack was in the shoulder, under the staple, and the staple was bright a
 
 Elias Venn was thirty feet away, at the loading-bay desk, with a clipboard, and he watched the whole of it through the arch.
 
-Not *I was not allowed in*, which was true and had been true for nine days, and which was a piece of paper in a folder in a file he could not read. He could not go in. It was not authority. It was that he had spent ten days building a version of a room in his own head in which he was the only person who knew what was in the case, and there were four people in the Hall of Former Faiths at ten to eleven on a Tuesday morning doing it properly in front of each other, and one of them was a man in overalls with a strap wrench, and Elias Venn was not going to be in a room with a man in overalls again, and he understood that in about two seconds, standing at a desk, and that it was not about the object at all.
+Not *I was not allowed in*, which was true and had been true for nine days, and which was a piece of paper in a folder in a file he could not read. He could not go in. It was not authority. It was that he had spent nine days building a version of a room in his own head in which he was the only person who knew what was in the case, and there were four people in the Hall of Former Faiths at ten to eleven on a Tuesday morning doing it properly in front of each other, and one of them was a man in overalls with a strap wrench, and Elias Venn was not going to be in a room with a man in overalls again, and he understood that in about two seconds, standing at a desk, and that it was not about the object at all.
 
 ---
 
@@ -79,7 +79,7 @@ Aurelia Roth arrived at half past twelve and she was not the assessor from the t
 
 The seal. The label. The plinth. The pads. The anchor plate. The lead. The crutch under the east side of the case that had been there since the twelfth of October. Her own camera, and a second recording. And then the object, for about ninety seconds, on a tray, in her hand, under a light, while Elias Venn stood in a doorway and did not come in.
 
-"A hand bell," she said, when she had finished. "Unpitched at rest. No inscription, no dedication, no figure, no emblem. The staple is a mechanical repair. The hollow inside the lip is a left-hand grip, worn by a hand, over years, and there is a strike wear on the shoulder, and there is a good deal of metal fatigue at the crown, and it is about a hundred and fifty years old and it was rung hard and it was never looked after once in the whole of its working life. It is the best-quality material object I have examined in this building this year and there is nothing devotional about it whatever."
+"A hand bell," she said, when she had finished. "Unpitched at rest. No inscription, no dedication, no figure, no emblem. The staple is a mechanical repair. The hollow inside the lip is a left-hand grip, worn by a hand, over years, and there is a strike wear on the shoulder, and there is a good deal of metal fatigue at the crown, and it is a hundred and twenty years old, and every mark on it agrees with that, and it was rung hard and it was never looked after once in the whole of its working life. It is the best-quality material object I have examined in this building this year and there is nothing devotional about it whatever."
 
 "And the classification," Elias said.
 
@@ -91,7 +91,7 @@ The seal. The label. The plinth. The pads. The anchor plate. The lead. The crutc
 
 ---
 
-At four o'clock Dael Ordway came back onto the floor, and it was the first time in nine days, and he was not on nights and had not been on nights since the eleventh of October, and he was not the supervisor that week, and he came and found Elias at the desk.
+At four o'clock Dael Ordway came back onto the floor. He was not on nights and had not been on nights since the eleventh of October, and he was not the supervisor that week, and he had not been the one who put the restriction on, and he came and found Elias at the desk.
 
 "Ring the transfer clerk."
 
@@ -111,7 +111,7 @@ The booking book was a green hardback ledger, four columns, a date, a party, a h
 
 > **13 NOV — 11:00 — HALL OF FORMER FAITHS — 38 children, 2 teachers — per term booking — St Anselm's (Hall Lane)** — booked 1 Sep — **ref. SK/BK/0912**
 
-Thirty-eight children, on a Thursday in November, in a room built for school groups, on a booking made in September by a school on Hall Lane, entered in a book by a member of the public, in ink, on a form, with a reference.
+Thirty-eight children, on a Friday in November, in a room built for school groups, on a booking made in September by a school on Hall Lane, entered in a book by a member of the public, in ink, on a form, with a reference.
 
 It had been on the shelf since the first of September and it had survived everything. It had survived a fault report and a suspension and a letter in an envelope and a Saturday night in a corridor and a post room and a bin and a man of seventy-four in a canal. It was a piece of paper with a date on it and it was the most powerful object in the building, and it was in a ledger on a security desk, and nobody had read it since September because there was no reason to read a booking book.
 
@@ -121,7 +121,7 @@ Dael Ordway came down at half past four with his hat in his hands.
 
 "Say it."
 
-"I have been in this building for eleven years and I have never read the booking book either, and I want that on the record before I say the next thing, because it is going to be the sort of thing a man says to shift the blame and I am not doing that." Dael put the hat down. "This is a case and it is going to be lost. Not by anybody. It is going to be lost because it is Monday, it is Wednesday, and the fourth of November is a Thursday, and there is nothing in that gap."
+"I have been in this building for eleven years and I have never read the booking book either, and I want that on the record before I say the next thing, because it is going to be the sort of thing a man says to shift the blame and I am not doing that." Dael put the hat down. "This is a case and it is going to be lost. Not by anybody. It is going to be lost because the fourth of November is a Wednesday, and there is nothing at all in the gap between this afternoon and it."
 
 "You've read Quill and Frayle's paragraph nine."
 
@@ -129,15 +129,15 @@ Dael Ordway came down at half past four with his hat in his hands.
 
 "And Annexe D."
 
-"Annexe D is the best document this building has produced in my lifetime and it will hold the bell in that case for ever, and it will do nothing whatever for sixty-one people, because a classification is not a wage." Dael's voice did not go up. "I have had the Annexe since Wednesday and I have read it four times and every one of those four times I have read the sentence about it being attached to a local history and possibly to a claim, and I have thought about the woman who wrote it, and I have thought about her sitting there with a satchel, and I have thought: she is right, and it is a horrible thing that she is right, and I am the man who is going to have to say so to a solicitor in Northglass on the twenty-eighth of October with a straight face."
+"Annexe D is the best document this building has produced in my lifetime and it will hold the bell in that case for ever, and it will do nothing whatever for sixty-one people, because a classification is not a wage." Dael's voice did not go up. "I have had the Annexe since yesterday and I have read it four times and every one of those four times I have read the sentence about it being attached to a local history and possibly to a claim, and I have thought about the woman who wrote it, and I have thought about her sitting there with a satchel, and I have thought: she is right, and it is a horrible thing that she is right, and I am the man who is going to have to say so to a solicitor in Northglass on the twenty-eighth of October with a straight face."
 
 He put both hands flat on the ledger.
 
-"Which brings me to the favour. There is a booking in that book for the thirteenth of November. Thirty-eight children and two teachers, Hall of Former Faiths, eleven o'clock, a school on Hall Lane who booked it in September, and there is a Registry material-change inspection on the nineteenth of November, and a document that says *if a public event is scheduled, the disposition is deferred until the event has taken place*." He stopped, and Elias understood that Dael Ordway had written it himself. "And if the eleventh of November is the fifteenth of October, then the eleventh of November is the inspection and the ticket money and a text to a school in September, and if a public event is scheduled, the docket is deferred until the event has taken place, and the docket is the fourth of November, and so the fourth of November does not happen."
+"Which brings me to the favour. There is a booking in that book for the thirteenth of November. Thirty-eight children and two teachers, Hall of Former Faiths, eleven o'clock, a school on Hall Lane who booked it in September, and there is a Registry material-change inspection on the nineteenth of November, and a document that says *if a public event is scheduled, the disposition is deferred until the event has taken place*." He stopped, and Elias understood that Dael Ordway had written it himself. "And if the thirteenth of November is a school group, then the thirteenth of November is the ticket money and a text to a school in September and a date in a ledger that has been lying on that desk since the first of September, and if a public event is scheduled, the disposition is deferred until the event has taken place, and the docket is the fourth of November, and so the fourth of November does not happen."
 
 "Mr Ordway—"
 
-"So I am going to be the man who wakes thirty-eight children up on a Thursday morning in November," Dael said, "and I have never done anything else in eleven years that frightened me as much, and I am doing it, and I am not doing it for you and I am not doing it for the mill and I am not doing it for that woman on the stair landing. I am doing it because it is the only card on the table, and I have spent eleven years finding out what I would do on a Tuesday afternoon, and this is it."
+"So I am going to be the man who wakes thirty-eight children up on a Friday morning in November," Dael said, "and I have never done anything else in eleven years that frightened me as much, and I am doing it, and I am not doing it for you and I am not doing it for the mill and I am not doing it for that woman on the stair landing. I am doing it because it is the only card on the table, and I have spent eleven years finding out what I would do on a Tuesday afternoon, and this is it."
 
 He picked his hat up.
 
@@ -170,11 +170,11 @@ And then she put her pen down and said: "Now. The one you have not asked about."
 
 She turned round.
 
-"I am not going to ring Hattie Bramm," Mara Iles said. "I am not going to do it, and I would like you to hear the sentence in my own voice before you do it, because you have been carrying it round the building for three days and you are about to do it badly."
+"I am not going to ring Hattie Bramm," Mara Iles said. "I am not going to do it, and I would like you to hear the sentence in my own voice before you do it, because you have been carrying it round the building for four days and you are about to do it badly."
 
 "Okay."
 
-"Number one. A member of the public who asks a question in this building is a *member of the public*, and the moment a member of staff telephones a member of the public about it, she stops being a member of the public and becomes a person in a Museum file with an address, and I have a file on every live matter with a member of the public in it and I have read all of them, and every one of them is a person who came in and asked something and then got a telephone call." She held up one finger, and it was the last time in the volume that she did. "Number two. What you want from that woman is not a telephone number. What you want from that woman is for her to be the person who said the thing out loud in a room where it could not be unsaid, and I am not going to be the instrument for that, and if I ring her and ask her to come up here, then the day she walks into this building is the day she is asked, and *asked* is the word that a claim is built on, and it is the word that has been sitting under this whole thing for thirty-one years."
+"Number one. A member of the public who asks a question in this building is a *member of the public*, and the moment a member of staff telephones a member of the public about it, she stops being a member of the public and becomes a person in a Museum file with an address, and I have a file on every live matter with a member of the public in it and I have read all of them, and every one of them is a person who came in and asked something and then got a telephone call." She held up one finger, the way the other two of them did, and then she put it down again and did not use it twice. "Number two. What you want from that woman is not a telephone number. What you want from that woman is for her to be the person who said the thing out loud in a room where it could not be unsaid, and I am not going to be the instrument for that, and if I ring her and ask her to come up here, then the day she walks into this building is the day she is asked, and *asked* is the word that a claim is built on, and it is the word that has been sitting under this whole thing for thirty-one years."
 
 "Then how—"
 
@@ -196,7 +196,7 @@ At ten to two on the same Tuesday, a claims manager in Northglass telephoned the
 
 There was a long silence on the line.
 
-"That's the first completely straight answer anybody in this story has given me," said Cheryl Vosper. "I am writing that down."
+"That's the first completely straight answer anybody has given me since I took this file on," said Cheryl Vosper. "I am writing that down."
 
 "The form is in the post room. The sign outside it says QUA. Anyone can ask at the desk." He put the receiver down. He was in a suspended night guard's corridor on a Tuesday afternoon, and the police form was signed, and there was a man's name in a municipal payroll bureau's remittance file, and he had just told an insurance company that the Museum had no record of a man called Case, and the person who had made the name matter was an insurer in Northglass who was not police, and the thing that was going to happen next was going to happen because of a form in a post room and a claim, and not because of anything he had done.
 
@@ -226,7 +226,7 @@ The last post went down the lane at about seven. The blue bales had gone on the 
 
 > *Tue 20 Oct, 18:50. Post of 14 Mill Lane gone out, as usual. Not stopped. Three of us know. Say so in the room.*
 
-And then he took the booking book off the desk, where it had been since September, and copied the November line into the notebook, and then he did the thing he had been doing for thirteen days, and he rang Mara Iles on the conservation floor, and it was six minutes past seven and she was still there, and he read her the line: the thirteenth of November, the Hall of Former Faiths, eleven o'clock, thirty-eight children and two teachers, Hall Lane, booked on the first of September by a school, in ink, in a ledger that sits on a security desk eleven feet from where they were talking.
+And then he took the booking book off the desk, where it had been since September, and copied the November line into the notebook, and then he did the thing he had been doing every day since the Sunday, and he rang Mara Iles on the conservation floor, and it was six minutes past seven and she was still there, and he read her the line: the thirteenth of November, the Hall of Former Faiths, eleven o'clock, thirty-eight children and two teachers, Hall Lane, booked on the first of September by a school, in ink, in a ledger that sits on a security desk eleven feet from where they were talking.
 
 "Say the reason again," she said. "The one on the form."
 

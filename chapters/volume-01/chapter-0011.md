@@ -1,4 +1,4 @@
-# Chapter 0011 — The Card-Cutter Alcove
+# Chapter 0011 — What It Was Kept From
 
 Dael Ordway was on the loading-bay desk at seven on a Sunday morning with his coat still on, which meant he had come in on the way somewhere, and there was a page in front of him held flat with a mug.
 
@@ -198,7 +198,7 @@ At 14:40 Ivo Pell came into the loading bay with a toolbag, put the bag down und
 
 "What are you saying?"
 
-"I'm saying I've run a systems inventory," said Ivo, "for eight weeks, and it is due to be presented, and I am going to present it on Tuesday morning at seven, in the systems office, to Spence and to the duty manager and to the health and safety officer, and the insurance schedule is one of the documents, and the insurance schedule is the document that says what the building is worth and what it is insured against, and it is due for renewal in April." He picked the bag up again. "And a man who is suspended for a forty-seven-minute reader fault is not a man anybody is going to give an eight-week systems inventory to."
+"I'm saying I've run a systems inventory," said Ivo, "for eight weeks, and it is due to be presented, and I am going to present it on the Monday, at seven, in the systems office, to Spence and to the duty manager and to the health and safety officer, and the insurance schedule is one of the documents, and the insurance schedule is the document that says what the building is worth and what it is insured against, and it is due for renewal in April." He picked the bag up again. "And a man who is suspended for a forty-seven-minute reader fault is not a man anybody is going to give an eight-week systems inventory to."
 
 There was a space on the loading-bay desk about eleven inches wide and it was Elias's space, and he looked at it.
 

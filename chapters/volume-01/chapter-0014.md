@@ -34,7 +34,7 @@ He sat down.
 
 ---
 
-She made the tea and brought it in and sat down in the other chair and did not drink hers, and looked at him, and waited, and did not help him, and it was the most patient silence he had sat in for nine days.
+She made the tea and brought it in and sat down in the other chair and did not drink hers, and looked at him, and waited, and did not help him, and it was the most patient silence he had sat in for three days.
 
 "I've come about the mill," he said.
 
@@ -48,15 +48,15 @@ She made the tea and brought it in and sat down in the other chair and did not d
 
 "Then don't bother with the shape of it. Go on."
 
-"My building has a box of your old mill's office papers on a pallet. It's a museum, four miles up the hill. It's been in a store since it came in from a liquidator, which was 1976, and it has never been opened, and there's now a note on it in handwriting that isn't a printed label, and the note is a live staff number at my building, which is a way of saying that somebody in the last few days has gone looking in the same direction I have and got further than me."
+"My building has a box of your old mill's office papers on a pallet. It's a museum, four miles up the hill. It came in on a van from the works on the last working day in October 1974 with a lamp and eleven other items, out of a solicitor's office in Northglass, on a receipt, and it has never been opened, and there's now a note on it in handwriting that isn't a printed label, and the note is a live staff number at my building, which is a way of saying that somebody in the last few days has gone looking in the same direction I have and got further than me."
 
 Doreen Sarn put her cup down on the table without any noise at all.
 
-"And what's in the box," she said.
+"1974," she said.
 
-"Paper. Site's never been opened."
+"The seventh of November 1974. It's a carbon. It's the office copy and it lists eleven items and item ten is a bundle of wage sheets tied with tape, and the van is on it, and a lamp is on it, and a man in a fitter's trade is on it, and it went on a shelf and it has been on a shelf for fifty years." He did not put a hand on anything. "You told me it went in the second post and you told me it came back in the sack and you told me it went in the van. That's item five, or item ten, and it went out of this building on the Friday, and it came in here in the same load, and nobody has ever opened it."
 
-"Then it's not evidence yet, son, it's furniture."
+"And what have you come to ask me about it," said Doreen Sarn, "because you have not asked me a question yet and you have been here twenty minutes."
 
 "No, ma'am."
 
@@ -102,7 +102,7 @@ The second was a sheet of Museum notepaper on which he had written, standing up,
 
 And the third was a page of his own with a typewritten line on it, which he had been up most of the night typing at the desktop terminal in the security room, which was permitted, and which printed a carbon and did not keep a record of anybody's name, and which was a thing he had thought about for two days and would think about for a great deal longer.
 
-Doreen Sarn read the 1976 letter first, and she did not read it, because she had had it in her hand for thirty-one years, and she put two fingers on it and said, "Aye," and went on to the second.
+Doreen Sarn read the 1976 letter first, and she did not read it, because she had had it in her hand for forty-eight years, and she put two fingers on it and said, "Aye," and went on to the second.
 
 She read the nine entries. She went down the list with a finger, the way you go down a list you have done a thousand times, and she did not hurry, and at the seventh her finger stopped for slightly longer than at the others and came on, and Elias did not know why and thought about it for four days.
 
@@ -110,11 +110,11 @@ Then she came to the ninth and read it out loud.
 
 "**Lamp, fitter's, electric, navy enamel.**"
 
-"That's a shop lamp." She put the glasses off and cleaned them on the hem of the cardigan, which is a thing you do when you want a moment and do not want it to look like one. "That's the fitters' one, that is. There's four benches in that shop and a lamp on each one and a mate to each one, and the office had a pair of them, and I bought the office's off the forecourt for two shillings on the last morning, and that's the fitters' lamp in front of you and it's been to a museum and back round again and I don't suppose it knows it. Mine's its mate and it's in the press and it's been there thirty-one years and I'll not have anybody handle it."
+"That's a shop lamp." She put the glasses off and cleaned them on the hem of the cardigan, which is a thing you do when you want a moment and do not want it to look like one. "That's the fitters' one, that is. There's four benches in that shop and a lamp on each one and a mate to each one, and the office had a pair of them, and I bought the office's off the forecourt for two shillings on the last morning, and that's the fitters' lamp in front of you and it's been to a museum and back round again and I don't suppose it knows it. Mine's its mate and it's in the press and it's been there fifty years and I'll not have anybody handle it."
 
 "How much did you pay for that one?"
 
-"Two shillings, same as mine." She said it and then looked up. "Aye. I know. Two shillings. It's a fortune. I've thought about the two shillings for thirty-one years and it's a fortune and I'd do it again and that's the whole trouble with me."
+"Two shillings, same as mine." She said it and then looked up. "Aye. I know. Two shillings. It's a fortune. I've thought about the two shillings for fifty years and it's a fortune and I'd do it again and that's the whole trouble with me."
 
 She put her glasses back on and went to the third sheet.
 
@@ -158,7 +158,7 @@ Doreen Sarn sat in her chair by a gas fire and looked at a piece of Museum notep
 
 "The mill's post. When a mill closes, the post comes back to the mill, because the mill is the sender of record and there's nowhere else for it to go, and the office clears it into a sack and the sack goes with the rest of the office paper, because a sack of post is office paper." She took her hand away from her mouth. "I put an envelope in the second post on the twenty-second of October in my own writing with a proper stamp on it, and it went out of the building, and it came back to the building about ten days later, and I took it out of the sack and I did not look at it, because I knew what was in it and I'd just sent it, and I put it back in the office's out-tray and it went in the van."
 
-Elias Venn put his hand flat on the tablecloth and left it there.
+Elias Venn put his hand on the tablecloth and left it there.
 
 "So there's a wage sheet in a museum on a plinth's worth of shelf away from a box, in a city four miles away, in a drawer, in an envelope, with a date on the top corner of the twenty-second of October 1974 in your own writing."
 
@@ -180,7 +180,7 @@ She had the hardback cash book in her hand without any sign of having picked it 
 
 Elias Venn sat in a chair in a flat in Ferry Bank and did not say a word, and that silence went on for a good deal longer than was comfortable, and Doreen Sarn looked at him across a table with a cloth on it, and he understood that he had just made a mistake, and that the mistake was that he had said *the lamp saw*.
 
-"Then you can tell me," she said, "or you can not, and I am seventy-eight and I have a bad chest on a cold afternoon and I would rather you did not tell me than tell me badly. But you will tell me eventually, and when you do I will not be impressed, because there is nothing in a lamp and there never has been, and I have had a mate of that lamp in the press in this flat for thirty-one years."
+"Then you can tell me," she said, "or you can not, and I am seventy-eight and I have a bad chest on a cold afternoon and I would rather you did not tell me than tell me badly. But you will tell me eventually, and when you do I will not be impressed, because there is nothing in a lamp and there never has been, and I have had a mate of that lamp in the press in this flat since the week it came out of the shop."
 
 ---
 
@@ -192,7 +192,7 @@ What he did on the Wednesday afternoon was hand her a third thing, which was a f
 
 "Aye."
 
-"There's a block of flats on the mill side called Mill Lane, and my building's address is 14 Mill Lane, and my building has a letting office, and from 1998 my building has been the postal address for every man it employed on the hourly grades." He put his hand flat on the cloth, one inch from the hardback cash book. "There's a man called Wendel Case. He was a night porter in my building for nineteen years. He was on the books of the city payroll bureau at a different address from mine, and the bureau's remittance records carry his pension and his union subscription every month, and he has a locker in my basement with a tea tin in it. And he has not been on my building's books for eighteen months. And I'm not here to ask you about him, and I'll come back to him."
+"There's a block of flats on the mill side called Mill Lane, and my building's address is 14 Mill Lane, and my building has a letting office, and from 1998 my building has been the postal address for every man it employed on the hourly grades." He put a finger on the cloth, an inch from the hardback cash book, and left it there. "There's a man called Wendel Case. He was a night porter in my building for nineteen years. He was on the books of the city payroll bureau at a different address from mine, and the bureau's remittance records carry his pension and his union subscription every month, and he has a locker in my basement with a tea tin in it. And he has not been on my building's books for eighteen months. And I'm not here to ask you about him, and I'll come back to him."
 
 "Then why are you telling me?"
 
@@ -274,7 +274,7 @@ He took the refusal the way a man takes a refusal from a client, which is by not
 
 "Mary," said the young woman, "there's a file reference on the call sheet."
 
-"I know there's a file reference on the call sheet, and I've had nine years to get used to that, and you can put the call sheet in your file and be quite welcome to it." Doreen Sarn stood up, which took a hand on the table. "There's a lamp on that table, Mr Rhys. Navy blue, cradle handle, an electric one off an oil frame. It isn't mine and it never was. It's the office's, and it came out of the fitters' shop with the rest of the lot, and there's a mate to it in a museum four miles up that hill, and I would like to know what a solicitor thinks a pair of shop lamps from a mill that closed thirty-one years ago is worth."
+"I know there's a file reference on the call sheet, and I've had nine years to get used to that, and you can put the call sheet in your file and be quite welcome to it." Doreen Sarn stood up, which took a hand on the table. "There's a lamp on that table, Mr Rhys. Navy blue, cradle handle, an electric one off an oil frame. It isn't mine and it never was. It's the office's, and it came out of the fitters' shop with the rest of the lot, and there's a mate to it in a museum four miles up that hill, and I would like to know what a solicitor thinks a pair of shop lamps from a mill that closed fifty years ago is worth."
 
 Mr Rhys looked at it for about two seconds, and then he said, in a completely different voice:
 
@@ -320,7 +320,7 @@ He left at ten past five with a card and a photograph of a lamp and a *Mailed* r
 
 He walked down to the corner of Ferry Bank and Shale Row and stood in the wind and wrote the whole of it in his notebook, in the block hand, standing up, and the two dates were on the page: the twenty-second of October, 1974, and the fourth of November.
 
-And then he got the tram back up the hill with the two shillings and the eighty-one-year-old woman in a cardigan and the man in the good coat in his head, and came into the loading bay at ten past six, and stood at the desk, and looked at the bag on the corner of it.
+And then he got the tram back up the hill with the two shillings and the seventy-eight-year-old woman in a cardigan and the man in the good coat in his head, and came into the loading bay at ten past six, and stood at the desk, and looked at the bag on the corner of it.
 
 The Monday bag.
 
@@ -328,4 +328,4 @@ It was a canvas post bag with a canvas flap and a lead seal, and it had been sta
 
 His envelope was in it. Four photographs, in a block-letter hand, for the Board Secretary, registered, with a receipt.
 
-And the same bag, on the same Monday, every Monday, for eleven years, had gone out with the post of a letting agent, addressed to a man at 14 Mill Lane, and it had come back, and it had gone into the bin behind the loading bay, and the bin went out on a Monday as well, because the paper merchant came on Mondays, and on Mondays the blue bales stood by the roller door in the rain in a row, and every one of them was a Monday bag's worth of a man's post, and none of them had ever been opened, and none of them was ever going to be, and the only reason he knew it was because he had spent nine days learning to read the small print of this building and the small print said *post is received, not opened, not kept*, and every museum in the country had that line, and he had signed next to it for two years.
+And the same bag, on the same Monday, every Monday, for eleven years, had gone out with the post of a letting agent, addressed to a man at 14 Mill Lane, and it had come back, and it had gone into the bin behind the loading bay, and the bin went out on a Monday as well, because the paper merchant came on Mondays, and on Mondays the blue bales stood by the roller door in the rain in a row, and every one of them was a Monday bag's worth of a man's post, and none of them had ever been opened, and none of them was ever going to be, and the only reason he knew it was because he had spent three days learning to read the small print of this building and the small print said *post is received, not opened, not kept*, and every museum in the country had that line, and he had signed next to it for two years.

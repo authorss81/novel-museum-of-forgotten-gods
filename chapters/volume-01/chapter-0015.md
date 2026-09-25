@@ -37,7 +37,7 @@ Elias read it three times.
 
 "Number four is going to be a problem," he said. "The bell is in a cage in a service corridor now. It is out of its last certified condition. You cannot open that Hall to a school group until somebody puts it back and says so in writing."
 
-"I am aware of it. It's a condition I wrote on Thursday morning at six o'clock in order to force the question of where the bell goes, because I did not have time to force it properly and this is a document that forces it." She took her hand off the card. "And I want you to understand that I have issued four conditions in nine days that are all aimed at this building, and that not one of them is aimed at you, and that this is not generosity. It is that you are the cheapest thing in this building to leave alone."
+"I am aware of it. It's a condition I wrote on Thursday morning at six o'clock in order to force the question of where the bell goes, because I did not have time to force it properly and this is a document that forces it." She took her hand off the card. "And I want you to understand that I have issued four conditions in four days that are all aimed at this building, and that not one of them is aimed at you, and that this is not generosity. It is that you are the cheapest thing in this building to leave alone."
 
 "Ma'am—"
 
@@ -62,7 +62,7 @@ Elias read it at the desk and then he read it a second time with his finger on t
 
 *District lock positions: unchanged.*
 
-He had spent nine days working out that a bell in a sluice station four hundred metres away had something to do with a bell in a hall four floors above him, and the answer was not a wire. The answer was that a thing had stopped being held down, and that the holding down had a maintenance organisation behind it, and that the maintenance organisation had just written on a piece of letterhead that it had stopped, that it was not coming back this quarter, and that everything else was where it had always been.
+He had spent four days working out that a bell in a sluice station four hundred metres away had something to do with a bell in a hall four floors above him, and the answer was not a wire. The answer was that a thing had stopped being held down, and that the holding down had a maintenance organisation behind it, and that the maintenance organisation had just written on a piece of letterhead that it had stopped, that it was not coming back this quarter, and that everything else was where it had always been.
 
 They had taken it out of the building's control and told the building it had nothing to do, and they had done it in a form that said the *bell* was fine.
 
@@ -95,9 +95,9 @@ Before: a telephone could be signed out of slot twelve and signed back in, and t
 
 After: a telephone carried in a coat pocket in a gallery was in a coat pocket in a gallery, and the book said nothing, and there was no slot to be missing, and the tray that had been the evidence was in the paper store being used for something else.
 
-He had taken four photographs on a telephone that the Museum could once have proved he had in his hand, and the reason it could no longer prove it was that the Museum had improved itself, eleven days after he had broken a rule, and had done so in a document with a date and a Director's initials on it.
+He had taken four photographs on a telephone that the Museum could once have proved he had in his hand, and the reason it could no longer prove it was that the Museum had improved itself, seven days after he had broken a rule, and had done so in a document with a date and a Director's initials on it.
 
-He wrote that down too, in the notebook, and then he crossed it out, because a man who writes down the fact that an institution improved itself at the moment it stopped being able to see him is a man who has started keeping a second set of books again, and he had given the second set away on Tuesday in a sealed envelope and it was in the Monday bag on the desk beside him.
+He wrote that down too, in the notebook, and then he crossed it out, because a man who writes down the fact that an institution improved itself at the moment it stopped being able to see him is a man who has started keeping a second set of books again, and he had given the second set away on Tuesday in a sealed envelope, and it was on a shelf in the post room two floors above him in a Monday bag with his name on the outside of it.
 
 ---
 
@@ -140,7 +140,7 @@ Inside, because it was post for this building and the post room of this building
 >
 > Yours,
 > **I. Case**
-> *(writing for my father, who cannot write, and who is at number 14, Sillick Lane, and has been at number 14 since the year the mill shut, and who did the last count at the gate on the Friday morning, and who says he has never had anything to do with the paper in the tin and will not have it on his record)*
+> *(writing for my father, who cannot write, and who is at number 4, Sillick Lane, and has been at number 4 since the year the mill shut, and who did the last count at the gate on the Friday morning, and who says he has never had anything to do with the paper in the tin and will not have it on his record)*
 >
 > *(the money goes to my mother's name and my mother's dead since 1994 and I do not know how to change it and I have not been able to make myself ring them about it)*
 
@@ -182,7 +182,7 @@ The thing was a person, and the person had a daughter, and the daughter had writ
 
 And he knew exactly what the policy would say, because he could read it now, standing in a basement with his hand on a door, and it would say that correspondence addressed to Museum letting addresses and returned undeliverable is held for twelve months and then destroyed, and that no member of staff may act on a returned item without the written authority of the Director, and that the existence of an item of correspondence is not of itself evidence that the addressee is or was a member of staff.
 
-Every word of it correct. Every word of it written by somebody who was trying to be fair. And a daughter and a father in number 14 would be told, in the courteous language of a museum, that the Museum could not confirm that Mr W. Case had ever been a member of its staff, and the correspondence would be destroyed on schedule, and the tin would stay in locker eighty-one, and nobody would ever know that there had been a letter.
+Every word of it correct. Every word of it written by somebody who was trying to be fair. And a daughter and a father in number 4 would be told, in the courteous language of a museum, that the Museum could not confirm that Mr W. Case had ever been a member of its staff, and the correspondence would be destroyed on schedule, and the tin would stay in locker eighty-one, and nobody would ever know that there had been a letter.
 
 That was the worst of it. Not that somebody would be cruel. That a document would be *correct*.
 
@@ -190,7 +190,7 @@ And the other thing, which was the thing he actually had to look at, and which h
 
 It would be the second time. It was the same shape as the second time.
 
-The first time was a name in a coat pocket, and a box in a corridor, and a number nobody could reach, and it had kept for eleven days because he could not bear to hand it to a person who would have to use it. And on Tuesday he had handed four photographs to a duty manager in a sealed envelope, because a thing in a coat is a thing that dies with the coat, and it had worked, and it had cost him nothing that anybody could count.
+The first time was a name in a coat pocket, and a box in a corridor, and a number nobody could reach, and it had kept for seven days because he could not bear to hand it to a person who would have to use it. And on Tuesday he had handed four photographs to a duty manager in a sealed envelope, because a thing in a coat is a thing that dies with the coat, and it had worked, and it had cost him nothing that anybody could count.
 
 This was the same, only bigger, and it had a tin in it.
 
@@ -212,7 +212,7 @@ She looked at him for a second and a half.
 
 He told her all of it, in order, and he told it the way he had told Doreen Sarn, without stopping, and he did not soften any of it and he did not organise it in his own favour.
 
-The eight photographs and where they had gone. The finisher's refusal, and the five sleeves, and the fact that the drawer was now square and the signal was off it. The statement he had written and the fact that it said he had broken a printed rule twice. The two cards with her name in the margin. The Gallery's nine objects and forty-one drawers. The lamp, and the sheet, and the two shillings, and the envelope in the van that had come back with the mill's post. The 1974 receipt and a man in a fitter's trade off Sillick Lane. A seventy-eight-year-old woman in Ferry Bank who had made the two books agree and knew she had.
+The eight photographs, and where four of them had gone. The finisher's refusal, and the five sleeves, and the fact that the drawer was now square and the signal was off it. The statement he had written and the fact that it said he had broken a printed rule twice. The two cards with her name in the margin. The Gallery's nine objects and forty-one drawers. The lamp, and the sheet, and the two shillings, and the envelope in the van that had come back with the mill's post. The 1974 receipt and a man in a fitter's trade off Sillick Lane. A seventy-eight-year-old woman in Ferry Bank who had made the two books agree and knew she had.
 
 And then the letter.
 
@@ -251,7 +251,7 @@ The cage itself was the Museum's own. It had been in the loading bay since befor
 And on the wall above it there was a plastic wallet with a sheet in it, and the sheet was not the Museum's.
 
 > **AWAITING TRANSFER — H. & L. Foyston, Northglass — destination: quay-side secure store, awaiting re-issue to purchaser**
-> **Site clearance: Thursday 4 November.**
+> **Site clearance: Wednesday 4 November.**
 > **No accession permitted. ATE items quarantined in situ pending removal. All contents deemed chattels and fixtures of the works until proved otherwise. Bailiffs appointed over contents, from 4 Nov.**
 > **— Quill & Frayle, 14 Lincoln's Lane, in the matter of the Sillick Mill site, p. 34.**
 
@@ -265,7 +265,7 @@ Elias Venn stood in a loading-bay corridor for about four minutes looking at a p
 
 And underneath it, in the same column, on the same page, four lines further down, because it had been his shift on the seventh of October and it had not been his fault then either:
 
-> **00:24 — VENN, E. — telephone, personal, signed out 19:30 Fri, returned 08:20 Sat. No destination given.**
+> **00:24 — VENN, E. — telephone, personal, signed out 19:30 Wed, returned 08:20 Thu. No destination given.**
 
 Two lines in the same book. One of them said *a number in a coat*. The other said *a person's post*. And the top of the page said, in capitals, in print, in the same typeface as everything else in the world:
 
