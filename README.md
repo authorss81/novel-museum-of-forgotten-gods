@@ -1,7 +1,5 @@
-# Novel Fleet Scaffold
+# The Museum of Forgotten Gods
 
-This repository contains a long-form novel generation pipeline.
+A night guard hears memories in objects whose gods have been forgotten, and must decide what the objects still want.
 
-Read `AGENTS.md` before writing. The primary writer is `opencode/space-bunny-free`. The workflow writes batches of 10–20 chapters, validates them, reviews them, applies concrete fixes, updates continuity state, and dispatches the next phase.
-
-The repository is intentionally separate from `llops-android`.
+This repository is an independent long-form male-led webnovel pipeline. Read `AGENTS.md` before writing.
