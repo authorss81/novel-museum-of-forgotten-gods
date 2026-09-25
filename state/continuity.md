@@ -1,6 +1,6 @@
 # Continuity State
 
-Bootstrap canon is established. No chapter prose has been drafted; Volume 1 begins from its opening state in the bible and series outline. The Volume 01 outline and the Batch 0001 chapter cards are written and carry the locks below.
+Bootstrap canon is established. **Volume 01, Batch 0001 (Chapters 1–10) is now drafted** and carries the locks below. Everything in the "Fixed by Batch 0001" section is canon taken from finished prose and outranks the outline where the two differ.
 
 ## Series canon locks
 
@@ -13,39 +13,94 @@ Bootstrap canon is established. No chapter prose has been drafted; Volume 1 begi
 - Open Hand is the final civic practice produced by Commons, not an additional personal stage.
 - In the final charter, **tended** means an active relationship remains under Museum shared-trust custody, **returned** means its custody and interpretive authority have transferred to external living stewards, and **left absent** means no living community accepts an active relationship. These are disposition statuses, not synonyms for a successful reading.
 
-## Volume 01 canon locks (record before drafting Batch 0001)
+## Volume 01 canon locks (pre-existing, unchanged)
 
-**The four counts, fixed and separate.** Ninety-four people worked the final Sillick closing shift. The paid payroll lists ninety-two. Two people worked and were never entered in any book. Sixty-one people were short-paid on the final pay run — a pay figure, a different and overlapping group, which includes the two who were never entered. A person can belong to more than one of these groups: Hattie Bramm is in the first and the last, and Perry Loach is in the first and the last. The ninety-four and the sixty-one are **not** the same event and may never be substituted for one another. No batch may produce a fifth number. The shared protocol log at the end of Batch 0001 says *a number*; the real figure lives only in Elias's pocket notebook.
+- **Wendel Case is reconciled by the payroll, not the Museum's books.** He is absent from every Museum personnel file, current and archive, for eighteen months, and has no leaver's record either. His pension and union deductions continue because the Museum's hourly staff were administered by the **municipal payroll bureau**, which holds a remittance file the Museum does not own and that nobody told to remove him from. The deduction proves existence and money moving; it does not prove the Museum's books ever carried him.
+- **The corridor service bell is not a second god and not a second relic.** Pressed brass, part of the Museum's staff-call system for rooms that are on no floor plan, hard-piped to the ward-bell repeater line. It repeats what it hears, slightly out of tune. It cannot count, reach a person, make a request, or be the source of anything. It exists so the volume's escalation stays on *people who can be hurt*.
+- **The unlisted room is only ever seen through a vision panel.** Its door has clouded wired glass; the chair, the coat hook, the blank lanyards and the dustless chair are all seen through it. **Elias never opens that door in this volume** and the volume's last chapter depends on him not doing so. The service bell that answers hangs in the corridor, not in the room, and is not the dead civic repeater bracket in the same corridor — which has no bell and has had none for years.
+- **The eighteen-year-old Casket and the eighteen-year-old Quiet Wing instruction are one span of eighteen years.** The instruction is the paperwork of the Casket cover-up; Tomas's initials are in its attachments and are found in Movement 4, Chapters 31–40, not earlier. The name on the instruction's face belongs to nobody who has ever worked at the Museum. Volume 01 introduces Orrin Sable as a missing signature only.
+- **The museum's records are true, and that is the trap.**
 
-**The numeral sixty-one does double duty.** It is both the short-paid count and Perry Loach's age. In Chapter 6 the numeral belongs to the count. In Chapter 10, render Perry as *a night cleaner in his early sixties* and keep the numeral off the page, so the two never land in the same paragraph. The canon age stays 61 in the reference tables; only the prose avoids it.
+## Fixed by Batch 0001 — new canon taken from finished prose
 
-**Object states run in order and the hinge is dated.** The third ward-bell at South Sluice re-cracks on the Monday before Chapter 1, off-page, and that re-crack is what takes the Sillick bell from **stored** to **answering**. `Answering` keeps the bible meaning intact — the object repeats a small part of its last act — and the re-crack does not reach the bell; it **stops covering** it. The third ward-bell is one of twelve on the district's return lock and its ordinary work is to hold a district's attention down, so while it is intact no god-pattern in the district can be addressed in a room where somebody is asking. When it cracks, the suppression goes slack. **The route is the absence of a lock, not a wire** — nothing is connected to anything; something stopped being held down. What changes is the act's **form**: with nothing asked it comes out as **noise**, one note or the same note on an interval with no content, which is exactly what a guard writes down as a building noise; with a question asked, inside the Ch 10 protocol, the same act comes out as **content**. Tuesday 02:52 is the first time the act happens at all, unasked, and therefore the first time it is only noise — which is why Elias can log it. The bell is still **answering** in Chapter 4 and at the end of Chapter 10, where it repeats one short part of its last act on an interval and asks nothing of anybody. It reaches **demanding** only in the Chapter 22–24 tour. It is never **hollowed** in this volume.
+### The four counts
 
-**Six bell events in Batch 0001, each with a card and a clock time: Tue 02:52 (Ch 1); Wed 20:55 (Ch 2); Wed 23:40 (Ch 3, while Elias is at the case and the contact happens in the same ten seconds); Thu 23:58 (Ch 5, in the minute after he stops watching); Fri ~00:25 (Ch 8, briefly indistinguishable from the ward-bell's wrong strike); Sat 21:07 (Ch 10).** Then the interval after the ward-bell fails at 21:14. Five events by the end of Ch 9, six by the end of Ch 10, and the interval is **one** line, so **six notebook lines by dawn on Sunday**.
-**There is no schedule, and Ch 5 proves it by failing.** Elias waits 23:40–00:05 for a pattern to confirm, gets nothing, writes *no sound, Thu*, and the bell answers at 00:05 the moment he stops watching. A schedule could be handed to somebody; this cannot.
+**94** — people on the final Sillick closing shift. **92** — the paid payroll figure. **2** — worked and never entered in any book. **61** — short-paid on the final pay run (a pay figure, a different and overlapping group, which includes the two who were never entered). Fixed, separate, and never to be substituted for one another. No fifth figure may appear.
 
-**The small memory-ordering cost is Batch 0001's; the first *major* memory-displacement cost stays in Volume 03.** What Elias loses in Ch 8 is the order of two lines he wrote in a notebook entry, and there is no second entry because he does not have one. **This is the whole memory cost of Batch 0001.** Do not escalate it before Volume 03.
+**On the page as drafted:** 94 in Chapter 10 only; 61 in Chapter 6 only, in Hattie Bramm's mouth. **92 and 2 are held** for the Chapter 25 midpoint reversal, per the Volume 01 outline, and must not be spent in Batch 0002. *Recorded deviation:* the Batch 0001 outline's aftermath section says all four figures are "now on the page"; the two that are not are deliberately withheld so a reader who already has 94 can be told it was paid as 92. This hold is reversible but should not be broken without recording it here.
 
-**Hattie Bramm's standing is decided.** Sillick Mill gate clerk, on the closing shift. She held the book; a foreman called the figures aloud; she wrote them down. She was present and she heard it. She calls the count in the climax because she was there, not because Elias chose her. She is not a mystic and not a mouthpiece.
+**The numeral sixty-one does double duty** — it is the short-paid count *and* Perry Loach's age. In Chapter 6 it belongs to the count. In Chapter 10 Perry is rendered **"a night cleaner in his early sixties"** and the numeral never appears in the chapter at all. Canon age stays 61 in the reference tables; only the prose avoids it.
 
-**Wendel Case is reconciled by the payroll, not the Museum's books.** He is absent from every Museum personnel file, current and archive, for eighteen months. His pension and union deductions continue because the Museum's hourly staff were administered by the municipal payroll bureau, which holds a remittance file the Museum does not own and that nobody told to remove him from. The deduction proves existence and money moving; it does not prove the Museum's books ever carried him. This is the crime in miniature and it is the same shape as the false payroll page.
+### The week-one day map, as drafted
 
-**The corridor service bell is not a second god and not a second relic.** Pressed brass, part of the Museum's staff-call system for rooms that are on no floor plan, hard-piped to the ward-bell repeater line. It repeats what it hears, slightly out of tune. It cannot count, reach a person, make a request, or be the source of anything. It exists so the volume's escalation stays on people who can be hurt.
+| Day | Chapters | Clock | What fixes it |
+| --- | --- | --- | --- |
+| Mon | — | off-page | Third ward-bell at South Sluice re-cracks **21:40 Monday**. Systems log it at **04:12 Tuesday**. River Works notice dated Monday is pinned in the security room. Never shown happening. |
+| Tue | 1 | 19:40 – 03:10 Wed | First night of the five-night rota. First sound **02:52**. |
+| Wed | 2, 3, 4 | 19:00 – 04:00 Thu | One continuous night. Ch 2 closes 22:00; Ch 3 runs 22:00–00:30; Ch 4 runs 01:00–04:00. |
+| Thu | 5 | 19:00 – 00:12 | Elias sleeps through the daylight. **Ivo's systems night.** First Quiet Wing breach **22:14**, eleven minutes. |
+| Fri | 6, 7, 8 | 09:00 – 01:05 Sat | Ch 6 is Low Ward alone, 09:00–14:00. Ch 7 is 19:00–21:30 on the floor. Ch 8 is 23:40–01:05 on the controller fault. |
+| Sat | 9, 10 | 07:00 – 01:30 Sun | Ch 9 is the morning the school tour was booked, and the tour is cancelled. Elias comes off shift at 07:00. Ch 10 is 20:50–01:30. |
+| Sun | — | off-page | **Elias is suspended Sunday morning.** This is the first beat of Batch 0002 and is not written. |
 
-**The Museum's records are true, and that is the trap.** The door 7 controller has an old open ticket and a drop on Thursday night that writes no event, because the door relocks before the controller finishes a handshake — which is why nobody, including the systems, can ever prove a person went through. Friday has an authorised window of **23:40–00:30** and a real logged outage of **23:41–00:28: forty-seven minutes inside it**. The corridor camera shares the door 7 circuit, so the outage *is* the camera gap — and the last twenty-eight seconds of it are spent in a maintenance alcove on the **stair** side of the frame, which the camera does not cover, which is how the door is serviced and is the only reason Elias can put the reader back without appearing in the footage. Dael's fault report is built on the maintenance record, which is entirely accurate, and it needs one line from the guard on duty to be signed. The device tray book at the service entrance records a name and two times and is discoverable; Elias signs it out on Thursday for the label room, writes no destination, and signs it back in at 02:41. On Friday night he takes the phone out of the unlocked tray again with no entry at all — so the book shows it going home, and the book is right.
+**Correction to the pre-draft placeholder:** the Thursday bell sound is **00:05**, not 23:58. The Volume 01 day map and the Chapter 0005 card both put it at 00:05, and the outline's test requires the sound to arrive in the minute after Elias stops looking. Chapter 0005 as drafted has Elias wait 23:40–00:05, write *NO SOUND, THU* at 00:04, and be answered at 00:05.
 
-**Aesthetic rule for the object.** Elias's readings must never be neat. The number he gets is a number he cannot place, and the only corroboration he gets in Batch 0001 is a man who did not know he was corroborating it.
+### The six bell events, and the seven notebook lines
 
-**The eighteen-year-old Casket and the eighteen-year-old Quiet Wing instruction are one span of eighteen years.** The instruction is the paperwork of the Casket cover-up; Tomas's initials are in its attachments and are found in Movement 4, Chapters 31–40, not earlier. The name on the instruction's face belongs to nobody who has ever worked at the Museum.
+**Tue 02:52** (Ch 1) · **Wed 20:55** (Ch 2) · **Wed 23:40** (Ch 3) · **Thu 00:05** (Ch 5) · **Fri ~00:25** (Ch 8) · **Sat 21:07** (Ch 10), then the interval after the ward-bell fails at 21:14.
 
-**The unlisted room is only ever seen through a vision panel.** Its door has clouded wired glass; the chair, the coat hook, the blank lanyards and the dustless chair are all seen through it. **Elias never opens that door in this volume** and the volume's last chapter depends on him not doing so. The service bell that answers the hall bell hangs in the corridor, not in the room, and is not the dead civic repeater bracket in the same corridor — which has no bell and has had none for years.
+**The notebook holds seven entries about the bell itself.** Six soundings plus one written null result. The Saturday interval sits inside the 21:07 entry as a continuation line, not as an entry of its own. The notebook also carries other matter — the device-book times, the label room, the locker number, the accession number, the payroll reconciliation — and that is a different kind of writing. *Recorded reconciliation:* the pre-draft notes said "seven" in one place and "six" in another; seven entries, of which six are soundings, and no eighth.
 
-**Batch 0001's memory plant is the notebook, not the father's night.** In Ch 8 Elias writes two lines of a notebook entry and cannot afterwards put them in the order he wrote them. That is all. Do not add a second memory cost, and do not stage the night Tomas left — that is reserved.
+**There is no schedule, and Chapter 0005 proves it by failing.** Elias waits 23:40–00:05 for a pattern to confirm, gets nothing, writes the null result, and is answered at 00:05 the moment he stops watching. A schedule could be handed to somebody. This cannot.
 
-**Escalation discipline for the tour.** Chapter 10's version of Perry Loach's utterance is private, unprompted, in a closed room, and immediately suppressed. The version at the volume's public tour in Batch 0003 is public, prompted by a room, and answered by children. Never repeat the Chapter 10 beat.
+### Object states, as dramatised
 
-## Immediate starting state
+The Sillick bell is **answering** from Monday onward and **stays answering** through the end of Chapter 10. It repeats one short part of its last act — a single note, or the same note on an interval — and asks nothing of anybody. It never addresses Elias, never prevents him leaving, and is never `demanding` in this batch (`demanding` is Chapters 22–24) and never `hollowed` (that belongs to a later volume). The **false name on the card is why the crew keeps calling it unremarkable, not why it is quiet.** The route out of `stored` is the *absence* of a lock: nothing is connected to anything; something stopped being held down. The act's form changes with whether a question is asked — noise when nothing is asked, content inside the Chapter 10 protocol.
 
-Elias Venn is a 32-year-old Museum night guard, observant and competent but not yet a reliable reader. The Casket Incident is officially filed as a structural accident, Tomas Venn is missing, and the South Sluice failure has begun the Bell of the Unpaid Shift arc. Mara Iles, Ivo Pell, and the Museum staff are present in the ordinary workplace; no relationship or power shortcut has been earned yet.
+The **repair staple is a repair of a crack and the crack is still visible.** Mara identifies it in Chapter 3 as "a decision somebody made about a Tuesday morning." This is the cracked bell the series closes on; **Batch 0005 must not let it heal.**
 
-**Starting calendar.** Elias's first night in the manuscript is a **Tuesday**, 19:00–07:00. The third ward-bell re-cracked the previous Monday. His rota is nights Tuesday to Saturday. The full day map for the first ten chapters is pinned at the top of `outline/batches/volume-01-batch-0001.md` and must be read before drafting.
+The **god is never named in Batch 0001.** Narration uses *the hall bell*, *plinth thirty-four*, *the Sillick bell*. **"The Bell of the Unpaid Shift" is a Batch 0005 payoff.**
+
+### The Museum's physical and documentary layout, as drafted
+
+Five floors. **Ground:** public entrance on Civic Hill, Hall of Former Faiths (31 plinths, no-touching rule), Gallery of Unnamed Hands, security room, loading bay off the freight lift, service entrance with the device tray and book. **First:** conservation floor, registrar's office, label room, director's office. **Second:** Quiet Wing restricted rooms and the corridor outside door 7, plus the maintenance stair landing between the second and third floors. **Sub-level B:** unprocessed storage (bay 9 holds 1961/LW/41–52), staff lockers (41 of them) under the stair, wet-cardboard smell. **The Undercroft stair is not opened in this volume.**
+
+**Cameras, and what each one does and does not cover — this is load-bearing.**
+- *Label room (Ch 4):* lintel dome covering the doorway and the card cutter. **Does not cover the drawers.**
+- *Quiet Wing corridor (Ch 8):* fixed opposite the stair-side service alcove. Covers the corridor, **stops two feet short of the alcove mouth.** Shares the door 7 controller circuit, so the outage *is* the camera gap.
+- *Level-two archive corridor:* a restricted door that **logs card events** — Elias's Wednesday 02:02 presence is in the log in his own name.
+
+**Record formats, now stable and reusable:**
+- Museum accession numbers: year / letters / number — **1961/LW/44** (Sillick Mill: administrative papers, disposal, level B bay 9). The plinth 34 card's false number is **Acq. 4471 / B**.
+- Museum personnel file references: **PF** + three digits, e.g. **PF 118**. Personnel files are never retired. *The number on the relabelled box is a live reference and is not Case's, because Case has no file.*
+- Municipal payroll: surname/forename, grade, cost centre **M.Q.S. 4**, pension, union subs, hours. One person = four lines.
+- Case's locker is **81** on a printed locker card in the basement that Elias had read over for two years.
+- The Hall of Former Faiths **master key** goes out in a conservator's name and returns before the galleries are closed; the night guard's own key opens public galleries and nothing else.
+- **Work order 4412-S**, dated Friday 16:20, authorised 23:40–00:30 (fifty minutes), signed by a director, logged from the maintenance shop terminal under **PELL, I.** The logged outage is **23:41–00:28 — forty-seven minutes inside the window.**
+
+**The device policy, as drafted.** Personal phones live in an unlocked grey steel tray of numbered slots (Elias's is **12**) at the service entrance. The book beside it has name / time out / time back, and a printed head line: *NO PHOTOGRAPHY OF COLLECTIONS MATERIAL, LABELS, OR RECORDS. THE BOOK IS THE RECORD. THE TRAY IS NOT.* The desk at that tray is unmanned from 23:00 to 07:00; the only person who comes down the lane overnight is the duty manager on her round at about two, which is why Elias can be seen taking the phone on Wednesday night and cannot be seen taking it on Friday night. **Elias's signed entry is 01:52 out / 02:41 back on Thursday morning, with no destination written.** On Friday night he takes the phone again with **no entry at all**, so the book shows it going home and the book is right; on Saturday morning he returns it to slot 12 and signs only a back time — a name, and 08:20, and no time out — which is itself a discoverable half-entry.
+
+### Elias's costs, as dramatised
+
+**Batch 0001's entire memory cost is one thing:** in Chapter 8 he writes one notebook entry, in order, in a hand that changes twice, and afterwards cannot put the two halves in the order he wrote them. There is no second entry because he does not have one. Do not add a second memory cost. The first *major* memory-displacement cost is reserved for Volume 03, and the night Tomas left is reserved for Movement 4 and must not be staged.
+
+Sensory and physical costs, all real and reversible: nosebleed and an eleven-hour unbroken headache (Ch 3, repeated by Mara in Ch 10); phantom rope texture across the right palm for a week (Ch 10); tinnitus for two days; twenty minutes of lost time in the corridor (Ch 8).
+
+**His permanent cost for Volume 01 is professional and relational:** he loses his post, and Mara stops trusting the shared record once she realises the shared log says *a number* where the reading gave ninety-four. The Chapter 10 withholding is **on the page, in front of both witnesses.** Batch 0002 inherits a broken condition, not a fresh secret.
+
+### Minor working people (stable, not characters)
+
+- **Fenn** — surname on a badge, the label-room finisher on the overnight shift in Chapter 4. Fifty-five or so, has done it a very long time, notices a stranger in the drawers. Surname only, always.
+- **Priest** — the Museum's Saturday night duty manager on the freight lift, nineteen years in post. Tells Elias that Perry Loach was on the Sillick job before this building.
+- **Perry Loach** — now named on the page (Chapter 10), so Batch 0003's public tour does not have to introduce him twice. Night cleaner, Saturday shift, eleven years on these floors and forty years of floors before. A Sillick Mill fitter, and one of the short-paid.
+- **Helen Venn** — the letter is eighteen years old and lives on a shelf above the boiler at the laundrette. Elias has asked for it three times in one week and has never actually asked.
+
+### Elias's home
+
+A rented room above his mother Helen's laundrette in Low Ward, close enough to the tram line to make the hill practical. He rides the tram and walks the last stretch up Civic Hill. **Transport in Low Ward is the tram, both ways.**
+
+## Immediate starting state for Batch 0002
+
+Top of Sunday morning, 11 October. Elias is suspended from night duty. The formal re-inspection of plinth 34 is Monday 09:00 with a conservator and a Registry observer, and he is not allowed to attend it. The shared protocol log says *a number*; the figure is in his pocket notebook. The Sillick box is on a pallet in the loading bay under a hand-written label carrying **PF 118**, and it is scheduled to move. The west range is on the emergency circuit, the Quiet Wing readers have re-keyed, the door 7 module is still uninstalled in its box, and Dael has a real maintenance call before breakfast. Ivo is a co-defendant twice over and does not know it. Hattie Bramm has nine years of letters and is going to find out who he is.
+
+**Week Two (Batch 0002) is pinned in `workspace/volume-01/batch-0002/PROMPT.md`**, because the outline dates only Week One. Elias is suspended from night duty but is **not** barred from the building: he keeps his keys, works the security room and the loading-bay desk, and is barred from the collections floors and the Quiet Wing — so he is constantly adjacent to what he cannot touch. Ten chapters over ten days, Sunday 11 October to Tuesday 20 October, one chapter per day. **This map is a plan, not canon, until the batch is drafted; if the drafting batch changes a date, it records the change here.**

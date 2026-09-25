@@ -181,3 +181,18 @@ When it first speaks, it uses the borrowed voices of the volunteers. Later it sp
 - Ward's competence must make her dangerous, not cartoonishly evil.
 - Orrin is never retconned as a secret god or a surprise final villain. His final role is the culmination of choices introduced early.
 - Supporting relationships may change, but the story does not use a harem or instant romantic reward.
+
+## Volume 01 Working Cast
+
+These are ordinary people, not characters. They exist so that a workplace can be a workplace. Names and one detail each are stable; do not promote any of them into a plot function.
+
+| Name | Role | The one detail |
+| --- | --- | --- |
+| **Fenn** | Label-room finisher, overnight shift, first floor | Surname on a badge, never a first name on the page. Has done the work a very long time and hears an open drawer. |
+| **Priest** | Museum night duty manager, freight lift, long nights | Nineteen years in post and has seen everything twice. Tells people the plain version. |
+| **Casey** | Formerly of the Saturday school tour's donor office; referred to only as "the Hill office" | Sent an acknowledgement slip and expected to be photographed in the Hall. Not a villain, just a clipboard. |
+| **Wynne Loach** | 34, night bus conductor, Perry's daughter | Carries the working-shift theme into the neighbourhoods. Not yet on the page. |
+| **Doreen Sarn** | 78, retired Sillick Mill pay clerk | Keeps a private notebook and will not surrender it. The independent witness for the true count. Not yet on the page. |
+
+**Ivo's sister** is referred to only as having a chronic chest and no lungs to speak of, and by the cost of her bills. She is not named on the page in Volume 01 and her illness is never played for sympathy; it is the reason a twenty-five-year-old says yes to a Saturday.
+

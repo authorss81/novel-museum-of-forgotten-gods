@@ -45,6 +45,7 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - **saint-bearing object:** A physical object that carries a god-pattern's echo. Ordinary objects may carry human residue without carrying a god.
 - **corridor service bell:** Pressed-brass staff-call hardware, hard-piped to the ward-bell repeater line, that repeats what it hears. It is plumbing, not a relic, and it is not a god. Do not escalate it.
 - **device tray:** The numbered tray at a Museum's service entrance where personal phones are signed in and out. The book beside it records a name and two times and is discoverable. Collections material, labels, and records may not be photographed.
+- **Museum record formats:** accession references are year / letters / number, e.g. `1961/LW/44`; personnel file references are `PF` plus three digits, e.g. `PF 118`, and personnel files are never retired; work orders are a number and an `S`, e.g. `4412-S`; municipal payroll cost centres are `M.Q.S. 4` for the Museum's hourly staff. These formats are stable and can be compared against each other by a reader, which is a plot device as often as it is administrative detail.
 - **echo:** The strongest last meaningful act preserved in a saint-bearing object. An echo is perspective-bound and incomplete.
 - **resonance:** The condition in which an object, room, or record begins answering a question. Resonance is not automatically hostile.
 - **anchor:** A physical object, place, person, or agreed act that keeps a resonance within understandable limits. An anchor can be damaged or refused.
