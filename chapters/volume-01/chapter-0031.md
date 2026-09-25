@@ -28,7 +28,7 @@ She read it, and she did not argue with any part of it, and she said, "That's a 
 
 "That one."
 
-It was cupboard 14, off the old frame store corridor on the ground floor, which is to say eight feet from the place where the cage had stood for a month and did not stand now. The key was on a board and the board had a number on it and he signed for the key and signed it back. She stayed in the bay with the engine running and did not come in, because she was not a Museum employee and had been told that the loading-bay office was not a place a member of the public could be.
+It was cupboard 14, off the old frame store corridor, which is to say eight feet from the place where the cage had stood for a month and did not stand now. The key was on a board and the board had a number on it and he signed for the key and signed it back. She stayed in the bay with the engine running and did not come in, because she was not a Museum employee and had been told that the loading-bay office was not a place a member of the public could be.
 
 The box went on the bottom shelf, on its side, on a piece of hardboard somebody had cut for the purpose. It was about the size of a bread bin. And on the top of it, in a hand that was not his, was **1961/LW/51**.
 

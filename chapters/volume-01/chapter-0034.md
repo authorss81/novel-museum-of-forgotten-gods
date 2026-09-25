@@ -118,13 +118,13 @@ At 08:56 he rang the Museum's own switchboard from the front desk of the Museum,
 
 Because at 08:56, and he worked it out at about nine o'clock and it is the only clear thinking he did all day, a letter of authority from a Director to a bonded store in Northglass about a consignment of paper to a paper merchant at eight o'clock on a Friday morning is not a thing that anybody obtains in four minutes, and it is not a thing she would have granted at four minutes' notice, and there is no clause in the whole of this business that says otherwise.
 
-He had done the correct things, and they had taken from half past eight until nearly nine, and they had not worked, and he had done every one of them after the van was through the gate, which he was going to go over for the rest of the day, and nobody had done anything wrong, and the material had gone at twenty to eight.
+He had done the correct things, and they had taken from half past eight until nearly nine, and they had not worked, and he had done every one of them after the van was through the gate, which he was going to go over for the rest of the day, and nobody had done anything wrong, and the material had gone at twenty to nine.
 
 ---
 
 He telephoned Mara Iles at twenty past nine from the front desk, and she took it, and he said:
 
-""It's gone. This morning. The collection was at eight and it went at twenty to eight and I was standing on it when it went."
+""It's gone. This morning. The collection was at eight and it went at twenty to nine and I was standing on it when it went."
 
 She did not say anything for about four seconds. Elias Venn, who has spent a month in a building with a woman who writes everything down, has never heard four seconds of that silence from her and did not know what it was.
 
@@ -144,7 +144,7 @@ She did not say anything for about four seconds. Elias Venn, who has spent a mon
 
 "Give me a minute," said Mara Iles, "and do not say anything else on this telephone, I have to look at something."
 
-He stood at the front desk of a public museum on a Friday morning with a receiver in his hand and looked at a counter, and about fifty people came through the doors of that building between 09:20 and 09:26, and a pound a head, and a poster of a weighbridge at four foot six, and he counted them without meaning to and got fifty-one and put it away.
+He stood at the front desk of a public museum on a Friday morning with a receiver in his hand and looked at a counter, and about fifty people came through the doors of that building between 09:20 and 09:26, and a pound a head, and a poster of a weighbridge at four foot six, and he counted them without meaning to and got forty-six and put it away.
 
 "Right," she said. "Two things, and I am going to say them in the wrong order because I have not had a cup of tea. First: you were right, and you did it correctly, and there is nothing else available to anybody in this city at a quarter to nine in the morning about a consignment in bond at a store in Northglass, and I have checked, and there is no clause. I have wanted there to be a clause for five weeks and there is not one, and the reason there is not one is that this Museum has never had a consignment anybody wanted to stop."
 
@@ -199,7 +199,7 @@ Then he stopped for a while, and then he put the pen down, and then he picked it
 > **Nobody has done anything wrong today.**
 > **Arkwright read a sheet and weighed four lots and put a new strap on a book. Renwick signed for a weight. The merchant weighed it over and under because the law says so. The man on the compound in the wind is a facilities contractor and he is not the company and he has a pen for a fence.**
 > **And the man with the marker at 08:26 wrote a number in a box and the box had nothing above it.**
-> **It is a bin behind a loading bay four miles away with a hand truck and a sheet of paper, at a thousand times the scale, and the man with the hand truck is a professional, and the sheet says *general, as per schedule*, and *general* is the word that a hundred and forty people were lost behind at eight o'clock this morning.**
+> **It is a bin behind a loading bay four miles away with a hand truck and a sheet of paper, at a thousand times the scale, and the man with the hand truck is a professional, and the sheet says *general, as per schedule*, and *general* is the word that a hundred and forty people went behind in nine years of letters to a company that owns the fence, and the hundred and forty is a claim and not a count, and there may be more of them and there is no instrument in this building that can say how many.**
 
 And then, at half past two, with the rain going on the window of the loading-bay office and the building doing the flat dry sound a building makes when it is being kept warm by a plant room rather than by a boiler:
 

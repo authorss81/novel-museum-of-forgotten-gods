@@ -57,7 +57,7 @@ Anja Ward came down at 10:05 and read it standing, and she did not sit, and she 
 
 The Gallery of Unnamed Hands was quieter.
 
-That is not a thing a person can say about a room in a way that anybody else can check, and Elias Venn had known that for about four seconds before he said it to himself, and said it to himself anyway, standing in a corridor at half past ten on a Wednesday morning, and then spent a quarter of an hour proving it.
+That is not a thing a person can say about a room in a way that anybody else can check, and Elias Venn had known that for a moment before he said it to himself, and said it to himself anyway, standing in a corridor at half past ten on a Wednesday morning, and then spent a quarter of an hour proving it.
 
 He could not go into the Gallery. He had a key card that would not open the door and a restriction that would not let him through the door with a key card if the card worked, and the door has a counter on it, a little mechanical wheel, that is reset by a systems technician on a Tuesday.
 
@@ -79,17 +79,17 @@ He was embarrassed by the counting. He did it again at ten past eleven and got f
 
 Then he did the one that was hardest to do, and the hardest one was the shortest walk.
 
-The Quiet Wing corridor is on the top floor and it is barred to him and there is no counter on its door because his key card does not open it at all, and the thing he did instead was stand at the bottom of the stair that serves it, on the half landing, which is a public stair, which anybody in this building may use, and listen.
+The Quiet Wing corridor is on the top floor and it is barred to him and there is no counter on its door because his key card does not open it at all, and the thing he did instead was stand at the bottom of the stair that serves it, on the half landing. It is a public stair. Anybody in this building may use it. And he listened.
 
 He had done that on about six occasions in five weeks, always at the same time, always for the same length of time, and he had never told anybody he was doing it, and it was the only thing he had ever done in this building that was pure waste.
 
-On Wednesday the fourth of November, half past ten, six minutes: the same eleven things, with the addition of the civic repeater at the far end, which has been dead since the fifteenth of October and which makes no sound at all, and the addition of a door somewhere on that corridor, forty feet along, that he could not hear from a half landing and would not have heard if he had gone up.
+On Wednesday the fourth of November, half past ten, six minutes: he counted the same list again and got to eleven, and then he went back over his own list twice and took one off, because the civic repeater at the far end of that corridor is dead since the fifteenth of October and a bracket with no bell on it is not a sound, and he had put it in the list out of habit, the way you count a light that is off. Ten, then, and one he had not heard: a door forty feet along on the far side, which he could not hear from a half landing and would not have heard if he had gone up.
 
 On Wednesday the eleventh of November, twenty past eleven, six minutes: four things. Five at the second run.
 
 ---
 
-He was in the loading bay at about a quarter to twelve, doing the one job he had, and it happened.
+He had been in the loading bay since about a quarter to twelve, doing the one job he has, and at seven minutes to twelve it happened.
 
 It came up the stairwell.
 
@@ -105,13 +105,15 @@ So the bell rang in the corridor. It did not ring in the security room. It rang 
 
 A service bell of that kind does not ring by itself. It has a plunger on the wall beside it and a wire to a sounder and somebody has to press it.
 
-He stood in the loading bay and listened for it to happen again, and it did not happen again, and he waited for about four minutes, and nothing came down the stairwell, and at ten to twelve he went and stood in the front lobby with the door propped so that he could hear the stair, and nothing came down it, and at twenty to twelve he went upstairs as far as he was allowed to go, which is the second floor, and stood at the top of the Quiet Wing stair on the half landing with his heart going, and listened for four minutes, and nothing.
-
-He looked at his watch. He looked at the watch again at four minutes past, to be certain, because a man who is going to put a time in a notebook has to be sure of the time.
+He looked at his watch, and then he read the same time off the clock over the security room door, because a man who is going to put a time in a notebook has to be sure of the time, and because those two are not always the same answer.
 
 11:52.
 
-He got a pencil out on the half landing of a public stair and put it in the notebook on the page with two lines on it from yesterday, and he wrote:
+He stood in the loading bay and listened for it to happen again, and it did not happen again, and he waited until four minutes past twelve with his eyes on the stairwell door, and nothing came down it.
+
+Then, at about a quarter past twelve, he went upstairs as far as he was allowed to go, which is the second floor, and stood at the top of the Quiet Wing stair on the half landing with his heart going, and listened for four minutes, and nothing.
+
+He got a pencil out on that half landing and put it in the notebook on the page with two lines on it from yesterday, and he wrote:
 
 > **Wed 11 Nov, 11:52. Quiet Wing corridor. One stroke, pressed-brass service bell beside the unlisted door. About a second and a quarter. Half a tone flat — a semitone, near enough, under where that bell sits.**
 > **Dead since 15 Oct. It rang in the corridor and it did not come to the security room and the line to the board is dead. Nobody came. Nobody was going to come.**
@@ -127,7 +129,13 @@ Or holding something.
 
 Or standing in the way of something.
 
-Elias Venn had got as far as that on a half landing at ten to twelve on the eleventh of November and he stopped, deliberately, with the pencil still in his hand, because of the six sentences he had said out loud in a room of fifty-one people on a Saturday morning at ten to eleven and had meant.
+Elias Venn had got as far as that on a half landing at twenty past twelve on the eleventh of November, and then he did the thing he does with a thing he wants, which is to go looking for the thing that would make it false, and he found one inside two minutes.
+
+The notice in the Director's office at ten past five the day before does nothing. It is countersigned and it cannot be executed, and nobody has acted on it, and nothing in this building has changed since the seventh of November except a drawer, a cupboard, four photographs in a police file and a set of keys that now have a person to hand them to. A thing that does nothing is not the reason three corridors are quiet. And if it were the staying of the object that had made the Hall quiet, then the Hall had been quiet since the seventh, and the counter on that door said five hundred and eighty-eight at nine o'clock on the Saturday morning, and a gallery that reads five hundred and eighty-eight at nine in the morning is not a gallery that has gone quiet.
+
+Which left him with three quiet things and no cause for any of them, and with the additional difficulty that he had measured all three on a Wednesday in November, and a Wednesday in November is the day of the week on which a building like this one is at its least, and he had no other Wednesday to set it against. He wrote that down as well, on the same page, in the same pencil, because a man who keeps the bad line as well as the good one is a man who can be argued with.
+
+And he stopped there, deliberately, with the pencil still in his hand, because of the sentence he had said out loud at the end of a row in a public gallery on a Saturday morning at ten to eleven and had meant.
 
 *If it reaches one of you, then that is on me and not on you, and I will say so in this room at the time.*
 
@@ -141,7 +149,7 @@ He did not tell Ivo, who was in the systems office with a mug and would have bel
 
 He did not tell anybody for four days.
 
-He told himself that this was the protocol, and it was not, and he knew it was not while he was saying it, because the protocol is a card on a plinth with five lines on it and one of the five is a witness in the corridor who can say a word, and the protocol is for the object, and this was not the object. This was him, on a half landing, at ten to twelve, with a time in a book.
+He told himself that this was the protocol, and it was not, and he knew it was not while he was saying it, because the protocol is a card on a plinth with five lines on it and one of the five is a witness in the corridor who can say a word, and the protocol is for the object, and this was not the object. This was him, on a half landing, at twenty past twelve, with a time in a book.
 
 He did it because of what the sentence would do. If he said it, it would be a thing that had been measured, and a thing that has been measured in a building like this one is a thing that goes in a systems index, and a systems index is on a screen in a room with a kettle in it, and Ivo was right about that on Tuesday morning, and Ivo is right about it about twice a week.
 

@@ -24,7 +24,7 @@ Elias Venn stood at a counter in a public museum on a Sunday morning and read th
 
 "Go on."
 
-"Two hundred and forty-six exposures." The keyboard stopped. "There are four assessors on that rota. Two of them I've had in this building and one of them read a document into a record and took a bell's hands off it in about four minutes, in front of forty of us, on a Saturday, and she was right about every word of it, and I have not been able to forget it, and I don't think she's ever been thanked by anybody including me."
+"Two hundred and forty-six exposures." The keyboard stopped. "There are four assessors on that rota. Two of them I've had in this building and one of them read a document into a record and took a bell's hands off it in about four minutes, in front of fifty-one of us, on a Saturday, and she was right about every word of it, and I have not been able to forget it, and I don't think she's ever been thanked by anybody including me."
 
 "Mrs Grange has been thanked."
 
@@ -141,7 +141,7 @@ She had given the four minutes on a Sunday afternoon to a systems technician bec
 
 "I was at the desk," said Elias Venn.
 
-He did not go and find her. He thought about going and finding her until about ten past seven that evening, on a tram, on the wrong side of it, and he thought about it properly, and he worked out — he is not proud of this, and he wrote it down later, on the Monday, and then crossed most of it out — that he was not going to go and find her because he wanted the sentence, and because she had just handed it to somebody else for nothing, and because if he went to her on Monday morning and asked her for it she would give it to him, and it would be in his notebook, and it would be *his*, and it would not be a thing a woman said in a gallery and had to be argued with.
+He did not go and find her. He thought about going and finding her until about ten past seven that evening, on a tram, on the wrong side of it, and he thought about it properly, and he worked out — he is not proud of this, and he wrote it down that night, and then crossed most of it out — that he was not going to go and find her because he wanted the sentence, and because she had just handed it to somebody else for nothing, and because if he went to her on Monday morning and asked her for it she would give it to him, and it would be in his notebook, and it would be *his*, and it would not be a thing a woman said in a gallery and had to be argued with.
 
 That is the sixth time.
 

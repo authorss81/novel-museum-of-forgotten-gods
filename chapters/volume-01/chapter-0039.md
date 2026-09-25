@@ -139,7 +139,7 @@ Item 4 is the last four pages of the bundle and it is the reason the bundle is f
 
 It is headed: **HALL OF FORMER FAITHS — SCHEDULE 12 OBJECT AT PLINTH 34: DIRECTOR'S REPORT AND CERTIFICATION STATUS.**
 
-And what was decided in it, in a room on the second floor between about three o'clock and about twenty to five in the afternoon, by a director of fifty-three and three trustees and a board secretary and a registrar, was that the Hall of Former Faiths remains open, and the hall of former faiths remains open, and the school term continues, and no party not holding a collections pass is to be admitted to that room while the object is under Annexe E, and no school group is to be admitted to that room at all, and the hall certificate stands.
+And what was decided in it, in a room on the second floor between about three o'clock and about twenty to five in the afternoon, by a director of fifty-three and three trustees and a board secretary and a registrar, was that the Hall of Former Faiths remains open, and the school term continues, and no party not holding a collections pass is to be admitted to that room while the object is under Annexe E, and no school group is to be admitted to that room at all, and the hall certificate stands.
 
 And the reason it stands is condition four of the Director's own conditions of the fifteenth of October, which bars the room while any Schedule 12 carried object in it is caged, moved, or otherwise out of its last certified condition — and the object at plinth 34 is sealed, certified, re-anchored and has not been handled since the seventh of November, and is therefore not out of its last certified condition, and condition four is satisfied, and has been satisfied every day since the seventh, and the exhibit stays open.
 

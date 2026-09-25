@@ -28,7 +28,7 @@ He looked at Elias Venn.
 
 The material-change inspection was at eleven o'clock and the Hall of Former Faiths had been open to the public since ten, and it stayed open.
 
-That is the whole of it, and it needs saying once and clearly: the object was on plinth thirty-four, sealed, re-anchored, with a lead off the brass surround to the building earth and a green telltale at the base and a bright machine staple across a fracture in its shoulder that is not going to heal, and the plinth card said *Staple repair, fracture remains visible*, and the room was open, and the lights were on, and a public procedure with a statutory footing was going on at eleven o'clock in a public gallery with about thirty people in it, and a rope line, and a school group due at twelve.
+That is the whole of it, and it needs saying once and clearly: the object was on plinth thirty-four, sealed, re-anchored, with a lead off the brass surround to the building earth and a green telltale at the base and a bright machine staple across a fracture in its shoulder that is not going to heal, and the plinth card said *Staple repair, fracture remains visible*, and the room was open, and the lights were on, and a public procedure with a statutory footing was going on at eleven o'clock in a public gallery with about thirty people in it, and a rope line, and thirty adults due at twelve off a coach with a collections pass, and no children anywhere in the building, because the sub-group on Wednesday had put a notice on the board outside the door that said no school group was to come in at all while the object was under Annexe E, and there was a school group booked in for the same hour in the booking book on the security desk with a September date on it, and somebody in an office had struck the whole line through and initialled it, and nobody knew who.
 
 The people at the case, at eleven o'clock, were:
 
@@ -132,7 +132,7 @@ Nobody in the room said anything.
 
 "That is the stay," said Roth. "And I am recording, in 4(d), that the object is unreached, unchanged and inaccessible, and that the Registry has no threshold in the schedule for the number and age of the people in the room, and that a determination under this heading enters the public register on Friday morning and is available to any person without charge."
 
-The room was very quiet, and it was a public gallery at ten past one on a Thursday with about thirty people in it who did not know any of this was happening, and somewhere behind Elias Venn's left shoulder a woman of about thirty was reading a label about something else entirely, and a boy of about eleven walked past with his hands behind his back.
+The room was very quiet, and it was a public gallery at ten past one on a Thursday with about thirty people in it who did not know any of this was happening, and somewhere behind Elias Venn's left shoulder a woman of about seventy was standing in front of a label about a bell, reading it, with a shopping bag on the floor at her feet, and she had been there since twelve and had not once looked at the case.
 
 "Then the answer to your question," said Anja Ward, "is that the Hall is open and the lights are on and the certificate stands and the term continues and nobody may touch it, and that has been true for twelve days, and it will be true on Friday, and I have lost a gallery and I have not been able to get it back, and I wrote the clause that took it."
 
@@ -144,7 +144,7 @@ The room was very quiet, and it was a public gallery at ten past one on a Thursd
 
 ---
 
-Elias Venn used his question at ten past one, after the assessors had packed, and after the school group had come in at twelve and gone past the case and not stopped, because Ivo Pell had put the cover on a trestle table against the north wall and a person of twenty-five was standing in a doorway.
+Elias Venn used his question at ten past one, after the assessors had packed, and after the coach party had come in at twelve and gone past the case and not stopped, because Ivo Pell had put the cover on a trestle table against the north wall and a person of twenty-five was standing in a doorway.
 
 He asked it as a member of the public, in a voice he had practised about nine times and did not need to practise, because the question is one sentence long and he had been carrying it since the tenth of October.
 
@@ -172,9 +172,9 @@ She put the case down on the table, and did not close it, and stood there with h
 
 "What is the question."
 
-"That is yours and not mine, and I am not going to help you with it, because the moment I help you with it, it is the Registry that asked whether an object reaches a person, and it never will be." She looked at her watch. "The form is the same form you used in October and there is a box on it for a period, and the period is twenty-eight days from the date of determination, and the date of determination is today, and today is the nineteenth of November, and the twenty-eighth of November is a Thursday and it will be the eighteenth of December, and I have read that clause more times today than I have read anything in eleven years."
+"That is yours and not mine, and I am not going to help you with it, because the moment I help you with it, it is the Registry that asked whether an object reaches a person, and it never will be." She looked at her watch. "The form is the same form you used in October and there is a box on it for a period, and the period is twenty-eight days from the date of determination, and the date of determination is today, and today is the nineteenth of November, and the twenty-eighth of November is a Saturday, and twenty-eight days from today is the seventeenth of December, which is a Thursday, and I have read that clause more times today than I have read anything in eleven years."
 
-"Eighteen December," said Elias Venn.
+"The seventeenth of December," said Elias Venn.
 
 "It is a long way off," said Aurelia Roth. "It is the only dated thing in this business that is in your favour and it is in your hands, and in about three weeks every other route in it will have shut, and I have not the slightest doubt that you will fill the form in, and I have not the slightest doubt that you will do it without telling anybody, which is what you did in October, and I want you to know that I have written the date on the back of my own copy in pencil, and that I am not going to send it to you, and that if you do not use it I will regard that as the correct outcome."
 
@@ -194,7 +194,7 @@ He took it down. There is a sheet on the top of everything else, a buff cover sh
 
 > **QUIET WING — CARD ACCESS REORGANISATION. Instruction 06/QW/11. 11 October 2006.**
 
-The name at the foot of it is typed and is not on any list of people who have ever worked here. He has read that name about nine times in five weeks and he cannot get a handle on it, and he stopped trying in October, because he worked it out himself in about four seconds, standing at a terminal at ten to nine on a Friday night, on his own, and he has never told anybody he worked it out, and nobody ever told him.
+The name at the foot of it is typed and is not on any list of people who have ever worked here. He has read it about nine times in five weeks. He worked out in October, standing at a terminal on a Friday night at ten to nine, on his own, that the two letters at the front of it are the two letters at the front of his own name, and he has never told anybody that he worked it out, and nobody ever told him.
 
 He did not turn it over. He had come for the access record, which is a roll of dot-matrix printout with card numbers against doors and dates against card numbers, and it is a thing you read and not a thing you handle.
 
@@ -241,13 +241,13 @@ Elias Venn stood in a security room on the ground floor of the Museum of Quiet S
 
 Nobody who has ever worked at this Museum has those initials. He has looked. He looked in October, in a corridor, and found nothing, and told Anja Ward that he had found nothing, and she went and looked and told him that a name that is on no list of anybody is usually a contractor's signatory, and has been for eighteen years.
 
-There is one T. Venn in the world that he can reach, and the man has been dead for eighteen years, and there is a woman in Low Ward who has a white envelope in her hand every Sunday and has never opened it, and there is a boy who was fourteen years old for the whole of October 2006 and who is standing in a security room with his heart going and who did not speak a name in any corridor, in any gallery, at any plinth, in any year of his life except one, in the last week of October of 2006, in a room in this building, at fourteen, and has never been told that it was a name.
+There is one T. Venn in the world that he can reach, and the man has been dead for eighteen years, and there is a woman in Low Ward who has a white envelope on a shelf above a boiler and has never opened it, and there is a boy who was fourteen years old for the whole of October 2006 and who is standing in a security room with his heart going and who did not speak a name in any corridor, in any gallery, at any plinth, in any year of his life except one, in the last week of October of 2006, in a room in this building, at fourteen, and has never been told that it was a name.
 
 He is the fourteen-year-old.
 
 That is the whole of the turn and it took about ninety seconds and it is not supernatural and it is not a memory and nothing was taken from him.
 
-On the twenty-fourth of October, at about ten past one in the afternoon, on a site that was being cleared, there was a boy of fourteen on a work-experience exclusion zone four miles away, with a college tutor, a site induction record, and a foreman called Upton, who backed four feet to clear a crane hook and put his wrist on a sawn end of timber and got a fracture of the radial styloid, and he asked for that site by name in September, and his grandfather was a fitter at the Sillick, and nobody is to blame, and that boy is not him, and that boy is not him, and that boy is not him.
+On the twenty-fourth of October, at about twenty-five past one in the afternoon, on a site that was being cleared, there was a boy of fourteen on a work-experience exclusion zone four miles away, with a college tutor, a site induction record, and a foreman called Upton, who backed four feet to clear a crane hook and put his wrist on a sawn end of timber and got a fracture of the radial styloid, and he asked for that site by name in September, and his grandfather was a fitter at the Sillick, and nobody is to blame, and that boy is not him, and that boy is not him, and that boy is not him.
 
 That boy is not him. He is a man of thirty-two. He is a man of thirty-two who has stood in eleven corridors in five weeks, and a wrist in a plaster is somebody else's property and it is a different fourteen-year-old on a different site in a different decade and it has nothing whatever to do with a bell.
 
@@ -255,7 +255,9 @@ This is the fourteen-year-old, and the fourteen-year-old has been in the room si
 
 The ability is not a gift. It is a room he was in, in the last week of October 2006, at fourteen, and something in it fused to him, and it has been a voice ever since, and nobody ever asked him whether he wanted it and nobody ever told him that there had been a choice, and the choice was not there to be had, and it has taken him five weeks and a bell and a wage claim and a woman of seventy-eight with a cash book to work out that the thing he thought he was is a thing that happened to a boy in a room in a building in this city eighteen years ago.
 
-He has not proved anything. He cannot prove it. A work authorisation with a signature on it proves that on the second of November 2006 somebody authorised a man to seal a door in a corridor in this building, and the signature is T. VENN, and there is no T. VENN on any list of anybody who has ever worked here, and Elias Venn is not on any list of anybody who has ever worked here either, and there is one person alive in this city who could sign a document like that, and she is the Director, and her surname is Ward.
+He has not proved anything. He cannot prove it. A work authorisation with a signature on it proves that on the second of November 2006 somebody authorised a man to seal a door in a corridor in this building, and the signature is T. VENN, and there is no T. VENN on any list of anybody who has ever worked here, and there is no T. VENN on the bureau, and no T. VENN in a payroll run in this city since the year the building opened, and the file has sat on that shelf in that room for eighteen years and was never once locked out of it.
+
+And the two letters at the front of it are his own, and he has known that since October, and it has not got him one inch further, because a man who has found his own initials on a form has not found the hand that wrote them, and two letters are the cheapest thing a document can be made of. If anybody in this city is T. Venn then it is a hundred thousand people, and the list of them is the entire roll.
 
 He put the work authorisation back into the envelope. He put the envelope back inside the instruction. He put the instruction back on the top of the file. He put the file on the shelf under the terminal. He signed the file out and back in on the shelf's own sheet, because the shelf has a sheet, and he wrote the time on it, and he did not write what he had taken out.
 
@@ -267,7 +269,7 @@ He did not tell anybody for two days.
 
 He sat in the loading-bay office and he did not telephone Mara Iles, and he did not telephone his mother, and he did not telephone Quarry Bank, and he did not telephone Cheryl Vosper in another city, and he did not go up to the second floor and put a piece of paper on Anja Ward's table, and every one of those five was available to him on Thursday evening and all five of them were available on Friday morning.
 
-He told himself a reason and the reason was not good and he wrote it down and then crossed out four fifths of it, which is the first time in a hundred and fifteen pages that he has crossed anything out at all, and what is left is:
+He told himself a reason and the reason was not good and he wrote it down and then crossed out four fifths of it, which is the second thing in a hundred and fifteen pages that he has crossed out at all, and the first was two lines on a Sunday night about a woman he did not go and find, and what is left is:
 
 > **Two days. Because if I give it to somebody today it is a document somebody has seen, and after that it is a thing that happened, and I do not yet know what happened, and I have watched this building find out what happened in a corridor in November 2006 and put a name that is not on any list on the front of a form, and I am not doing it in a fortnight with a man in a good coat's signature in my hand and no more than that.**
 
@@ -275,7 +277,7 @@ And then he wrote the other one, and did not cross it out.
 
 > **Two days because if I say it on Thursday then on Friday I have said it, and I have said it, and there is no way of knowing afterwards whether I said it because of the document or because of the door.**
 
-He did the dead letters until nine o'clock. There were three hundred and nineteen of them and it was a Thursday.
+He did the dead letters until nine o'clock, and he did not write the number down, because it was on the page already that morning, and because a number that has stopped meaning anything is a number you stop putting in a book.
 
 And at about twenty past nine, at a table in a flat in Low Ward above a laundrette that shuts at ten, Elias Venn took out the notebook to write down what a piece of paper in a buff envelope said, because that is the only instrument he has ever had and he is a man who writes things down and it is the whole of who he is.
 
@@ -301,6 +303,6 @@ He should have found it frightening.
 
 He has had five weeks of a thing that frightened him — a bell in a case, a public gallery, a woman of fifty-four typing a gap in a run, a man of seventy-eight on a pavement, a woman of seventy-eight in a front room with a fire on, a name on a door in a bucket, a red disc in a post room — and every single one of them frightened him, and the things he was frightened of were all *processes*, and this is not a process. This is two sentences and he cannot tell which of them he is.
 
-He wrote nothing else on the page. He shut the notebook and put it in the inside pocket of his coat, where it had been every night since the tenth of October, and which is the one thing in this building that no standing instruction had yet found a clause about.
+He wrote nothing else on the page. He shut the notebook and put it in the inside pocket of his coat, where it had been every night since the tenth of October, and it is still the one article in this building that no standing instruction has yet managed to find a clause to put it under.
 
-Then he went to bed, and the crack in the bell's shoulder is still open under the staple and it is not going to heal, and the object is on plinth thirty-four, and the Hall is open, and the lights are on, and nobody may touch it, and a determination with a number on it is going up on a public register in Northglass in about eleven hours, and there is a form in his coat that says **TWENTY-EIGHT DAYS FROM THE DATE OF DETERMINATION — 18 DEC 2024** and a box on it with a period on it, and in seven days he is going to have to stand up in front of six families and explain what a bell is, and the day after that a woman of seventy-eight is going to open an envelope in her own front room at four o'clock in the afternoon with a gas fire on, and he still does not know, and he has known since the tenth of October, and the only difference between the tenth of October and the nineteenth of November is that in November he has said out loud, on a tape, in a room, that he did not know.
+Then he went to bed, and the crack in the bell's shoulder is still open under the staple and it is not going to heal, and the object is on plinth thirty-four, and the Hall is open, and the lights are on, and nobody may touch it, and a determination with a number on it is going up on a public register in Northglass in about eleven hours, and there is a form in his coat that says **TWENTY-EIGHT DAYS FROM THE DATE OF DETERMINATION — 17 DEC 2024** and a box on it with a period on it, and in seven days he is going to have to stand up in front of six families and explain what a bell is, and the day after that a woman of seventy-eight is going to open an envelope in her own front room at four o'clock in the afternoon with a gas fire on, and he still does not know, and he has known since the tenth of October, and the only difference between the tenth of October and the nineteenth of November is that in November he has said out loud, on a tape, in a room, that he did not know.

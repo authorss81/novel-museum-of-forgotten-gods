@@ -33,7 +33,7 @@ She turned a sheet round.
 > **This finding is made on the basis of the act and not on the basis of a distinction of professional status, and if a member of staff photographs collections material in the course of a duty, the duty is the reason and the status of the photographer is not a defence to it in any other case.**
 > **No disciplinary action.**
 > **Consequent condition, with effect from 1 Dec 2024:** Every photographic exposure of collections material, labels, or records made by a member of staff in the course of any survey, condition check, or schedule compilation shall be countersigned at the point of making by a supervisor, and the countersignature shall carry the reason and the schedule reference. The systems technician's post is unchanged. The condition is not a demotion. It is the removal of a man's ability to be alone in a room with a camera, and I am aware of that, and I am doing it, and I would like it recorded that I am aware of it.**
-> **A. WARD, Director. 15 Nov 2024.**
+> **A. WARD, Director. 17 Nov 2024.**
 
 She put it down.
 
@@ -123,7 +123,7 @@ She picked the form up and put it in the folder and did not close the folder.
 
 "Go on."
 
-"There is one thing I have to put in front of you and it is not on the card." She turned back. "In five weeks you have done the following: you got a Registry stay put on a Schedule 12 object by asking for an inspection in a corridor; you put a person's name in a room with a tape recorder in it who had never been asked to be in a room; you sent a set of photographs to a police station, which was Ivo's doing and which I have just permitted and which was correct; you stood in a public gallery on a Saturday with fifty-one people in it and asked a question of a bell; and you have stood in six corridors in five weeks and been the man who is not on the payroll."
+"There is one thing I have to put in front of you and it is not on the card." She turned back. "In five weeks you have done the following: you got a Registry stay put on a Schedule 12 object by asking for an inspection in a corridor; you put a person's name in a room with a tape recorder in it who had never been asked to be in a room; you sent a set of photographs to a police station, which was Ivo's doing and which I have just permitted and which was correct; you stood in a public gallery on a Saturday with fifty-one people in it and asked a question of a bell; and you have stood in eight corridors in five weeks and been the man who is not on the payroll."
 
 "I have."
 
@@ -145,7 +145,7 @@ At about half past nine, in the ground-floor corridor by the fire assembly point
 
 > **ASSISTANCE AT EVACUATION — LEVEL 2 & ABOVE — REMINDER.**
 > *A person on their own is a party. A person who is not sure whether they are a party is a party.*
-> **From 1 December 2024, countersignature required at the point of making for any photographic exposure of collections material, labels or records. Schedule reference to be stated. — Ref: SI14/5, 15.11.24.**
+> **From 1 December 2024, countersignature required at the point of making for any photographic exposure of collections material, labels or records. Schedule reference to be stated. — Ref: SI14/5, 17.11.24.**
 
 He stood and looked at it for a while.
 
@@ -157,6 +157,13 @@ And his mother, in a laundrette in Low Ward, on the Monday night, had said: *tak
 
 And on Wednesday the eighteenth of November, at about half past ten in the morning, he was going to stand in a room with a projector and a Board sub-group and a name he wrote on a Saturday in a conservation office, and on the twenty-sixth he was going to stand in a room with six families and a field officer and a fee of a hundred and forty pounds, and on Thursday morning he was going to stand in a room as a member of the public and be right, and none of those four rooms had anything in them that he had not got.
 
-That is the position on the seventeenth of November at twenty to eleven, at the end of the day, and and it is the position the rest of this is about: **he has run out of forms, and the only two moves left in this business are on Thursday and on the twenty-sixth, and neither of them is his, and he has a hundred and fifteen pages in a coat pocket that nobody in the world has read, and a woman of twenty-eight who has asked for it once.**
+That is the position on the seventeenth of November at twenty to eleven, at the end of the day, and it is the position everything after it is about: **he has run out of forms, and the only two moves left in this business are on Thursday and on the twenty-sixth, and neither of them is his, and he has a hundred and fifteen pages in a coat pocket that nobody in the world has read, and a woman of twenty-eight who has asked for it once.**
 
-He got off the tram at the top of the hill and walked down, in the cold, past the shuttered shop.
+He got off the tram at the top of the hill and walked down, in the cold, past the shuttered shop, and he went into the one that was not shut, because it opens until eleven and it is the only room in this city where nobody has ever asked him a single question, and he sat down with his back to the wall where he can see both doors.
+
+He did not do the letters. He took the notebook out and put it on the table and turned to the fourth page from the end and read the sentence that is on it, once, in his own hand, with his own lean on it, and it was still his, and he had read it that way every night for five weeks without once asking himself why he kept going back to it. Then he wrote the date at the top of a clean page, and one line under it:
+
+> **Tue 17 Nov, 20:55. Wednesday is a sub-group and Thursday is a determination and neither of them is mine. Everything I have said so far has been said in a room with somebody else's form on the table.**
+> **Item seven is the only move left that is mine and I have to decide it before Wednesday morning, because on Wednesday a name comes out of a minute in front of a projector and after that a hundred and fifteen pages in a coat pocket is a different object from what it is tonight, and I know that, and I have known it since the sixth of October, and I have been not-deciding it for five weeks.**
+
+He put the notebook back in the inside pocket of his coat and went home, and he did not tell anybody, which is what he has been doing since the eleventh of November, and it is why there is a bell in this business that exactly one person has heard, and he is sitting in a café on a Tuesday night in November with a notebook nobody has read.

@@ -134,7 +134,7 @@ Elias Venn put his cup down.
 
 "You've come about the address and you haven't asked me for it in five weeks and I've been waiting since the sixth of October, and I want you to know that I noticed that too, and I want you to know that I wasn't going to say it first." She put her cup down as well. "So say it properly. Ask me for the address on the envelope."
 
-And he had to start again, because he had come in with a sentence ready and it was the wrong sentence, which was *I don't want to put you on the spot*, and she was seventy-eight years old and had been the pay clerk of a mill for twenty-two years and had put three men in hospital with a sentence like that.
+And he had to start again, because he had come in with a sentence ready and it was the wrong sentence, which was *I don't want to put you on the spot*, and she was seventy-eight years old and had been the pay clerk of a mill for twenty-two years, and a sentence like that does not put anybody anywhere except the person who has to sit there and wait while it is said.
 
 "Doreen Sarn," he said. "On the twenty-second of October 1974 you put an envelope in the mill's out-tray. It was a second-post three-day, so it went out of the building on the Wednesday. Where did you address it to?"
 
@@ -202,7 +202,7 @@ And she refused him the one other thing, and she refused it in a way he had not 
 
 Elias Venn wrote it down.
 
-"That's his own hours," she said. "That is one man, on one grade, on his own card, on his own time, and two thousand and forty-one hours is what a fitter does in a year and a bit and it is *his*, and NIL is what he was handed in a brown envelope, and that is what was written on the card because that is what a leaving card is. It is not a wage. It is not a headcount. It is not a list. He wrote it himself at the gate on his last morning and he handed it in and it went in a file." She looked at him. "If you take those three words and put them next to anything else in this business, you will have made a man who worked thirty-one years into a number in a box, and he is seventy-one or he is dead and either way he is not yours to do that to."
+"That's his own hours," she said. "That is one man, on one grade, on his own card, on his own time, and two thousand and forty-one hours is what a fitter does in a year and a bit and it is *his*, and NIL is what he was handed in a brown envelope, and that is what was written on the card because that is what a leaving card is. It is not a wage. It is not a headcount. It is not a list. He wrote it himself at the gate on his last morning and he handed it in and it went in a file." She looked at him. "If you take those three words and put them next to anything else in this business, you will have made a man who worked thirty-one years into a number in a box, and I do not know whether he is alive and neither do you, and he is not yours to do that to either way."
 
 "I wasn't going to."
 

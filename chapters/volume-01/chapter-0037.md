@@ -48,7 +48,7 @@ Custody Disc 42, red, on the front rail. Padlock QA/1187. Eleven items, not open
 
 It is a piece of furniture. It is the most expensive piece of furniture in this building and there is no column anywhere in any document in this city in which a piece of furniture can say what it is worth.
 
-He wrote the time and the disc number and the padlock number and the fact of the polythene and the fact that he had not touched the cage, and then he copied all five lines into the notebook, which he does, and which is the first thing he has copied into it in five weeks, and which he did not think about at the time and has thought about every day since.
+He wrote the time and the disc number and the padlock number and the fact of the polythene and the fact that he had not touched the cage, and then he copied all five lines into the notebook, because that is what the notebook is for, and because it was the first thing he had put into it in five weeks, and he did not think about that at the time and has thought about it every day since.
 
 > **Bay check, Mon 16 Nov, 11:20. Not opened. Not to be opened before Fri 27 Nov, 16:00, in the addressee's own front room, per the undertaking of the conciliation service. The bay check is a check of a cage and this is a cage and the cage is a cage, and on Friday it stops being a cage for about two hours and I am not going to be in the room.**
 
@@ -83,7 +83,7 @@ Doreen Sarn was at the table with the fire on at ten past one.
 
 There was a plate on the sideboard and under the plate a registered letter face down, and there was a tumbler on the sill with a dead carnation in it that she had not thrown out, and there was a cardigan over the back of a chair and a pinafore over that, and a hardback cash book on the table with a rubber band round it.
 
-She had been expecting him. She said so, which unsettled him for about four seconds, and then explained: "You said Saturday. I've been expecting you since Saturday and I've decided that a man who says Saturday and comes on Monday is a man who is doing something in between, and I'm not going to ask you what."
+She had been expecting him. She said so, which unsettled him, and he could not have said afterwards for how long, and then she explained: "You said Saturday. I've been expecting you since Saturday and I've decided that a man who says Saturday and comes on Monday is a man who is doing something in between, and I'm not going to ask you what."
 
 "You can ask me."
 
@@ -99,9 +99,9 @@ She put her cup down.
 
 "That's what I said."
 
-"You said it about Cliff Sowerby's letter," Elias said. "You've had it since the Friday before last — since the thirtieth of October, in a coat, in a flat on Sillick Lane, and you put it in there, and nobody has ever told Cliff Sowerby that there is a letter for him in his own coat, and you have known for seventeen days."
+"You said it about Cliff Sowerby's letter," Elias said. "You've had it since the Wednesday of the week before last — since the thirtieth of October, in a coat, in a flat on Sillick Lane, and you put it in there, and nobody has ever told Cliff Sowerby that there is a letter for him in his own coat, and you have known for seventeen days."
 
-"Eighteen," said Doreen Sarn.
+"Seventeen," said Doreen Sarn. "I had it as eighteen on Friday and I have not told anybody that I had it wrong."
 
 "You said it in the third week of October. To me. At this table."
 

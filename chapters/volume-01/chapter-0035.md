@@ -8,7 +8,7 @@ The street was about a hundred yards long and had a chandler's on it and an auct
 
 Elias Venn had never been inside the building. He had a firm a few hundred yards off the same quay — Quarry Bank, at number four Irving Quay, two partners, one of them a former hospital-laundry union shop steward — and he had been in that building nine times, and he had a receipt from it dated the twenty-first of October with a blank form in its safe, and he had never walked this far.
 
-Mara Iles had the seller's carbon in a grey archival wallet and she had taken it out of drawer 6B herself, at twenty past eight that morning, with a key, in a public gallery, with nine people in the room, and she had put a slip of Museum paper in with it that said **1961/LW/44 — item 3 of 11, drawer 6B, lifted 14 Nov 2024, 08:20, M. ILES**, and she had not put it back, and she was going to.
+Mara Iles had the seller's carbon in a grey archival wallet and she had taken it out of drawer 6B herself, at twenty past eight that morning, with a key, in a public gallery, with nine people in the room, and she had put a slip of Museum paper in with it that said **1961/LW/44 — item 3 of 11, drawer 6B, lifted 14 Nov 2024, 08:20, M. ILES**, and the slip and the sheet went back into the drawer together at four o'clock that afternoon before she left the building, which is where a registrar keeps a document she has taken out of a drawer, and which is the only place in this chapter where the Museum's copy of the 1974 receipt exists.
 
 He had asked her whether she was going to do that. She had said: "I am going to open a drawer in a room I have the keys to, and take a sheet of paper out of it, and put it in a wallet, and a registrar may do that at any time of day or night without telling anybody, and the reason I am telling you is that I am taking it out of a drawer that has been open in a public room since the twelfth of October and somebody is eventually going to ask me why it was open, and I would rather the answer was in my own hand and dated."
 
@@ -36,7 +36,7 @@ Elias Venn did not move.
 
 "Because it is not mine." He said it without any weight at all. "It is not the firm's, either. It is the property man's, and the property man is a partner, and a partner can give it to a member of the public if he wants to. He does not want to. Why he does not want to is his business and not mine, and I have known him for twenty-two years and I am telling you that he is not being cruel to you, and I am telling you that I have asked him twice in the last three days and been told no twice, and both times he gave me a reason that was a reason." Rhys spread his hands. "And that is the whole of it. I have a clearance schedule I cannot give you and a job file I can, and if you want to spend the morning on the thing I cannot give you, you will waste a Saturday, and I would rather you didn't, because you look like a man who has been up since seven."
 
-"Three," said Rhys. "There is a Mrs Marsden in the transcription office and I have asked her to sit in on this, and she has been doing this for twenty-six years, and when she reads something out loud she reads it as it is and not as it might be, and if I have said anything in this firm in fifty weeks that has improved a document, you should stop me."
+"Three," said Rhys. "There is a Mrs Marsden in the transcription office and I have asked her to sit in on this, and she has been doing this for twenty-six years, and when she reads something out loud she reads it as it is and not as it might be, and if I have said anything in this firm in twenty-six years that has improved a document, you should stop me."
 
 ---
 
@@ -91,7 +91,7 @@ And the thing Elias Venn had not been ready for — the thing he would think abo
 > **Item nine.** Seller's carbon: *the fitter's lamp.* Buyer's carbon: *the fitter's lamp.* And on the seller's, in the right-hand margin, in ballpoint, in a hand that leans: *see below re F/B.*
 > **Item ten.** Seller's carbon: *bundle of wage sheets, tied with tape.* Buyer's carbon: *bundle of wage sheets, tied with tape, marked pay office.*
 > **Item eleven.** Seller's carbon: *the works-office clock, stopped.* Buyer's carbon: *clock, works office, stopped 05:54.*
-> **At the foot of the buyer's carbon, and only the buyer's:** *received, all, subject to weight.*
+> **At the foot of the buyer's carbon, and only the buyer's, and not one of the differences, because there is nothing under the seller's at all:** *received, all, subject to weight.*
 
 She read it the same way the second time.
 
@@ -117,9 +117,9 @@ Emyr Rhys had not said anything. He was standing back from the table with his ca
 
 "Item three's the important one, though," he said, and he said it carefully. "Not because it's a discrepancy. Because of what it says about a book. *Leaves one to ninety-six present* is a statement about a physical object made by somebody who had the object in front of her. *With entries to thirty October* is a statement about a date made by somebody who had a list. And there's only one gate book in this business as far as I know, and it's in a cage in bay nine in a museum, and it has got ninety-six leaves in it and the last entry on the ninety-sixth is somewhere about the middle of October, and I know that because your carbon says *leaves one to ninety-six present*, and that is a statement about a book somebody was holding, and ours has been in a file on this floor since 1974 and nobody but me has ever opened it."
 
-"Somebody took fifteen days out of it between the thirty-first and the last working day," said Mara Iles.
+"Then the last fortnight of trading is not in it," said Mara Iles. "The last entry on the ninety-sixth is about the middle of October and the buyer's carbon says entries to the thirtieth, and that is fifteen days of a works that was still trading."
 
-"Somebody took fifteen days out of it at some point in fifty years," said Rhys. "Or it came out of the book in 1974 in a yard in the rain with a fitter who had a hand truck and a van and eleven things to get in. Which is a very different sentence, and both of them are true, and I can't tell you which one, and neither can anybody in this room, and if you write *leaves 97 to 100 removed* in a document you will be asserting a thing you cannot support in a room with a man of seventy-eight in it who was at the gate."
+"Fifteen days out of it at some point in fifty years," said Rhys. "Or it came out of the book in 1974 in a yard in the rain with a fitter who had a hand truck and a van and eleven things to get in. Which is a very different sentence, and both of them are true, and I can't tell you which one, and neither can anybody in this room, and if you write *leaves 97 to 100 removed* in a document you will be asserting a thing you cannot support in a room with a man of seventy-eight in it who was at the gate."
 
 Arthur Neve put his hand up about two inches, which is all a man of his chest can manage at a table.
 
@@ -237,7 +237,7 @@ The line had four boxes. It had a date. It had a quantity. It had a destination:
 
 It did not have an address on it. It did not have a sender's name. It did not have a subject, and it did not have a contents line, and it was not going to, because it is a destruction schedule and a destruction schedule says how many and when, and everything else about an envelope is thrown away with the envelope.
 
-It was a Monday, and the week beginning Monday the twenty-first of October 1974 ran to the Sunday the twenty-seventh, and an envelope put in an out-tray on Wednesday the twenty-second with a second-post three-day card on the side of it would have arrived on the Thursday or the Friday, and the firm was still open, and there was a tray, and the tray had a date.
+It was a Monday, and the week beginning Monday the twenty-first of October 1974 ran to the Sunday the twenty-seventh, and an envelope put in an out-tray on Tuesday the twenty-second, with a second-post three-day card on the side of it and the mill's own van down to the sorting office on Wednesday afternoons, would have arrived on the Thursday or the Friday, and the firm was still open, and there was a tray, and the tray had a date.
 
 "So it's there," said Elias Venn. "Or it was."
 
@@ -279,7 +279,7 @@ And then he said the other thing, and he said it in a different voice, and it to
 
 "There is a job file for October 1974 upstairs. It is not shut. It has the job number on the spine, and the job number is on your delivery docket, because the docket was raised off the file. And in the file there is a fee ledger, and the fee ledger is a book, and books are not destroyed on a schedule, because books are the firm's own accounts and accounts are kept for the Registrar of Companies and a hundred years after that for a man in an office in Leeds who has never heard of you.
 
-"So in that ledger there is a line for the twenty-ninth of October 1974 which is a fee, and a description of what the fee was for, and a job number. And that line says what this firm was instructed to do for Hallowgate Foyston's predecessor in 1974, in four clauses, three of them long and the fourth one two words, and I have not read it in front of you because I wanted to photograph the two carbons first and because you have had a long morning." He put his hand on the binder. "Do you want me to read you a fee ledger?"
+"So in that ledger there is a line for the twenty-ninth of October 1974 which is a fee, and a description of what the fee was for, and a job number. And that line says what this firm was instructed to do for Hallowgate Foyston's predecessor in 1974, in four clauses, the first two of them long, the third of them one word and a dash, and the fourth one two words, and I have not read it in front of you because I wanted to photograph the two carbons first and because you have had a long morning." He put his hand on the binder. "Do you want me to read you a fee ledger?"
 
 "Yes," said Elias Venn.
 
@@ -291,7 +291,7 @@ And then he said the other thing, and he said it in a different voice, and it to
 
 They read it at five past twelve.
 
-The line was in a column with a date and a folio and a job number and it was in ink and it ran to four clauses and it had an amount against it that was eleven guineas, and eleven guineas in 1974 is a great deal of money for one line of typing.
+The line was in a column with a date and a folio and a job number and it was in ink and it ran to four clauses, of which the third was one word and a dash, and it had an amount against it that was eleven guineas, and eleven guineas in 1974 is a great deal of money for one line of typing.
 
 > **29 X 74. To attend site, Low Ward; take delivery of mill office papers, and —**
 
@@ -334,7 +334,7 @@ Elias Venn went down after him and found him on the pavement outside a chandler'
 
 Mara Iles took the tram back to Civic Hill with two certified copies in a wallet and the fourth word of a 1974 fee ledger in her own hand on a sheet of Museum paper, and Elias Venn walked, and got to Ferry Bank at half past one, and went up to the second floor of number 12 and knocked on the first door.
 
-Doreen Sarn was at the table with the fire on and the cash book in front of her and a pen in her hand and a sheet of large paper, because it was a Sunday in about three days and it was a Sunday every Sunday.
+Doreen Sarn was at the table with the fire on and the cash book in front of her and a pen in her hand and a sheet of large paper, because it was a Sunday tomorrow and it was a Sunday every Sunday.
 
 He told her the whole of it, in order, in about eleven minutes, and she let him get through all of it without saying anything at all, which he had not expected, and which he understood afterwards was the reason she had let him.
 
@@ -350,7 +350,7 @@ She put the pen down.
 
 "Yes."
 
-"Because if they'd taken instructions, then it's a firm that took instructions and didn't do them, and you can go and shout at a firm that took instructions and didn't do them. And if they didn't take instructions, then it's a firm that was told to fetch a van, and they fetched a van, and they wrote down what came off it, and they got paid eleven guineas for standing in the rain, and they were right." She looked at the fire. "And there was nobody there to shout at. Was there. There was a fitter with a hand truck and a foreman and a weighbridge man and me, and I was thirty-one and I was the pay clerk and I had a sheet of paper I'd copied out at my own table, and I did not have the nerve to go out to a solicitor's van and say *excuse me, this book has had fifteen days out of it*." She picked the pen up again. "I had the nerve in 1975. I had it in 1975 in a room in Northglass with a man from a claims office and he took it down and wrote it out and it went into a file in a drawer in a building, and by the time anybody came back for it the building had sold the paper."
+"Because if they'd taken instructions, then it's a firm that took instructions and didn't do them, and you can go and shout at a firm that took instructions and didn't do them. And if they didn't take instructions, then it's a firm that was told to fetch a van, and they fetched a van, and they wrote down what came off it, and they got paid eleven guineas for standing in the rain, and they were right." She looked at the fire. "And there was nobody there to shout at. Was there. There was a fitter with a hand truck and a foreman and a weighbridge man and me, and I was the pay clerk and I was twenty-eight years old with a sheet of paper I'd copied out at my own table, and I did not have the nerve to go out to a solicitor's van and say *excuse me, this book has had fifteen days out of it*." She picked the pen up again. "I had the nerve in 1975. I had it in 1975 in a room in Northglass with a man from a claims office and he took it down and wrote it out and it went into a file in a drawer in a building, and by the time anybody came back for it the building had sold the paper."
 
 "Mrs Sarn—"
 
