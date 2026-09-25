@@ -1,6 +1,6 @@
 # Character State
 
-Updated after Batch 0001 (Volume 01, Chapters 1–10) and after **three review-fix passes and a verification pass**. Neither pass moved a plot beat, a day, or the volume's ending. The second pass closed an arithmetic and clock class of defect and added one structural beat to Chapter 10 — the blank *account of any person present during result* box, and with it the first, small, deliberate breach of Mara's second condition. **Read the thread and condition entries below against `state/continuity.md`, which is the authority.** Ages are canon; states are as of the end of Chapter 10 / the top of Sunday 11 October.
+Updated after Batch 0001 (Volume 01, Chapters 1–10) and after **four review-fix passes and a verification pass**. No pass moved a plot beat, a day, or the volume's ending. The second pass closed an arithmetic and clock class of defect and added one structural beat to Chapter 10 — the blank *account of any person present during result* box, and with it the first, small, deliberate breach of Mara's second condition. The fourth pass changed no character's state at all: it repaired a queue count, two clock anchors, two tense joins, and this file's own arithmetic. **Read the thread and condition entries below against `state/continuity.md`, which is the authority.** Ages are canon; states are as of the end of Chapter 10 / the top of Sunday 11 October.
 
 ## Elias Venn, 32
 

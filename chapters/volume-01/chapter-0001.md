@@ -16,7 +16,7 @@ Nineteen fifty-five, a quarter of an hour after he had signed on. He wrote it in
 
 ---
 
-He had come on at nineteen forty. In the security room the terminal was still humming through its night log, and the building felt around him the way it always did after seven: a working building, not a haunted one. Pipes ticking. The conservation floor's extraction fans going through their long complaint one floor up. Behind Civic Hill, a tram, going away.
+He had come on at nineteen forty, and the hall door had been the first thing he did with the shift, ahead of the boards and the terminal, because a door that will not latch does not get better while a man is elsewhere. After the door, the security room, where the terminal was still humming through its night log and the building felt around him the way it always did after seven: a working building, not a haunted one. Pipes ticking. The conservation floor's extraction fans going through their long complaint one floor up. Behind Civic Hill, a tram, going away.
 
 The rota was on the board by the kettle, printed, laminated, gone slightly cloudy at the pins.
 
@@ -42,11 +42,11 @@ Below it, in biro, somebody had written *bell 3, still ringing* and initialled i
 
 Four hundred metres and a river away, a civic bell with a crack in it was striking a note that was not its note, and the building had a ready-made explanation for any other noise in the week. He read that the way he read everything on that board, as one more piece of the Museum's ordinary burden: somebody upstream had a problem, and the paperwork had come down the hill to tell us about it, and now if anybody on this floor heard a strange noise they would have somewhere to put it.
 
-He was aware, distantly, that this was the kind of thinking that made people comfortable and wrong. He let it go by. It was 19:44 and he had a building to walk.
+He was aware, distantly, that this was the kind of thinking that made people comfortable and wrong. He let it go by. It was 19:58 and he had a building to walk.
 
 The systems queue on the terminal had picked up the River Works notice overnight and filed it in the Museum's own log, which was how everything about this building worked: somebody else noticed something, and the Museum's terminal made a note of it, and the note arrived at twenty to five in the morning on a machine in an empty room. That was 04:12 Tuesday. There was a line on it and nobody had read it but him.
 
-Below that, the maintenance request queue. Six open items, all of them somebody else's problem in a good way: two lamps on the west range, a leak under the basin in the paper room that was being mopped rather than fixed, a request for a spare bulb the size of a fist. He read them, the way he read them every night, in case one of them had quietly become the sort of thing that would be a problem by six in the morning.
+Below that, the maintenance request queue. Six open items, all of them somebody else's problem in a good way: two lamps on the west range, a leak under the basin in the paper room that was being mopped rather than fixed, a door closer on the second-floor lav, a bin on the conservation floor reported as a smell rather than seen, a request for a spare bulb the size of a fist. He read them, the way he read them every night, in case one of them had quietly become the sort of thing that would be a problem by the time the day staff came on.
 
 Then he took his torch out of its drawer — the switch needed a second press, always had, since the spring — and a flask of tea, and a rag, and went out to do the floor.
 
@@ -54,9 +54,9 @@ Then he took his torch out of its drawer — the switch needed a second press, a
 
 Ivo was at the base of the stairs, doing the ground floor with a torch and a phone in his teeth, and he had a way of walking that made no sound at all, which was the most irritating thing about him.
 
-"Forty-four open," Elias said.
+"Six open," Elias said.
 
-"Forty-four." Ivo took the phone out of his mouth. "Door?"
+"Six." Ivo took the phone out of his mouth. "Door?"
 
 "FoF. Strike plate." He held up the screwdriver. "It was riding."
 

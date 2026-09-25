@@ -82,7 +82,7 @@ The corridor was very cold. The radiator halfway down had a valve that had been 
 
 At 00:18 he got the notebook out.
 
-He wrote one entry, in order, sitting on the floor with his back to the wall and the notebook on his knee and the torch off, by the emergency light. It is on the page. It is the only entry he has ever written in two hands, and he was never able to get it back into the order he wrote it.
+He wrote one entry, in order, sitting on the floor with his back to the wall and the notebook on his knee and the torch off, by the emergency light. It is on the page. It is the only entry he has ever written in two hands.
 
 > 23:52 in. No event on the panel. Corridor as plan. Draft under door 7 room — room has air, not a cupboard. 00:12 photo x4, corridor, 00:12–00:18. 00:18 now.
 
@@ -90,7 +90,7 @@ He wrote one entry, in order, sitting on the floor with his back to the wall and
 
 That is the page as it stands.
 
-The upper block is in the flat block hand he uses for things he wants to be able to find again: squared, unhurried, every letter its full height. The lower block is in a different hand entirely — smaller, faster, pressed harder, the hand of a man writing at a door with a torch off because a torch on would finish something. He is as sure as he is ever going to be that the upper one is the second half and the lower one is the first. He has no way of being sure of it at all, and the reason there is none is that both halves are complete and neither one refers to the other.
+The upper block is in the flat block hand he uses for things he wants to be able to find again: squared, unhurried, every letter its full height. The lower block is in a different hand entirely — smaller, faster, pressed harder, the hand of a man writing at a door with a torch off because a torch on would finish something. He is as sure as he is ever going to be that the upper one is the second half and the lower one is the first, and there is no way for him to be sure of it at all, because both halves are complete and neither one refers to the other.
 
 It is not a tremor. That was his first theory and it was wrong, because a tremor is a wobble inside a single letter and this is a different person. It is a different person, and the notebook is a wire-bound thing from a stall on Lantern Row, and the page he wrote on is the page he is holding, and he has no idea whatever is on the page before it.
 
