@@ -12,8 +12,11 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - **Lantern Society:** A private collectors' network that trades resonant objects and memory fragments.
 - **Returnist Movement:** A broad and divided movement that wants forgotten gods named again. It is a constituency and a pressure, not one faction with one leader.
 - **Civic Works:** The municipal labor network for transit, water, bridges, electricity, and public buildings.
+- **municipal payroll bureau:** The outside body that administered the Morrowgate Museum's hourly staff and still holds their remittance files. It is where a worker's deductions can outlive the employer's own personnel record. Not a faction and not an antagonist.
+- **Sillick Lane branch library:** The municipal branch library in Low Ward whose back room holds the weekly unpaid-bills queue. An ordinary civic building.
 - **Undercroft:** The old tunnel, cistern, and boiler network beneath the Museum and Civic Hill.
 - **Quiet Wing:** The Museum's restricted collection floor.
+- **loading bay:** The ground-floor dock off the Museum's freight elevator where deliveries are signed for and damp boxes are staged. A working surface, not a store.
 - **Last Cup:** Hesta Rell's small river-parish shrine. It is a place, not a magical cup that grants wishes.
 
 ## History and Mechanism
@@ -23,6 +26,7 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - **Hush Engine:** The citywide mechanism of names, records, ward-bells, and memory anchors that keeps divine patterns from reassembling. It began as a civic emergency response and has become self-preserving.
 - **First Witness:** The buried civic consciousness formed from the memories of 312 volunteers. It is a mechanism, not a god.
 - **ward-bell:** One of twelve civic bells connected to the Hush Engine. Bells are placed at bridges, waterworks, hospitals, stations, and other civic sites. The third bell fails in Volume 1.
+- **ward-bell maintenance:** The bells are civic infrastructure and are inspected and maintained by the **Civic Works** district works, not by the Registry. The Registry is the records and bell office: it holds the register, issues the notice when a district works reports a bell as degraded, and never attends the bell itself. A maintenance notice on a Museum notice board is therefore a Civic Works document that the Registry has countersigned, and the two bodies blaming each other in the paperwork is ordinary, not sinister.
 - **Casket Incident:** The 18-year-old breach at the Museum that erased a night shift from civic records and caused Tomas Venn to disappear.
 - **counter-witness:** A deliberate counter-pattern designed to keep the Hush from becoming a single controlling intelligence. Tomas Venn was the last known counter-witness.
 - **name lock:** The Engine's false-label and record function that keeps a god-pattern from being addressed as one continuing relationship.
@@ -39,6 +43,8 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - **Quiet Saint:** The Museum's official term for a forgotten or incomplete god-pattern held in an object. The term is a bureaucratic description, not a theological verdict.
 - **unclaimed:** An object or god-pattern with no surviving community that can safely accept responsibility. The Museum uses the word to mean that no current custodian has been identified; it does not mean the object has no history.
 - **saint-bearing object:** A physical object that carries a god-pattern's echo. Ordinary objects may carry human residue without carrying a god.
+- **corridor service bell:** Pressed-brass staff-call hardware, hard-piped to the ward-bell repeater line, that repeats what it hears. It is plumbing, not a relic, and it is not a god. Do not escalate it.
+- **device tray:** The numbered tray at a Museum's service entrance where personal phones are signed in and out. The book beside it records a name and two times and is discoverable. Collections material, labels, and records may not be photographed.
 - **echo:** The strongest last meaningful act preserved in a saint-bearing object. An echo is perspective-bound and incomplete.
 - **resonance:** The condition in which an object, room, or record begins answering a question. Resonance is not automatically hostile.
 - **anchor:** A physical object, place, person, or agreed act that keeps a resonance within understandable limits. An anchor can be damaged or refused.
@@ -69,6 +75,8 @@ These terms are the canonical names for the manuscript. Use the common noun in o
 - Say **resonance** for an active condition. Do not call every unusual noise a haunting.
 - Say **binding-name** for the ritual act. Do not use “true name” as a universal solution.
 - Use **return**, **release**, and **restoration** with different meanings. A returned god is active; a released echo is no longer held; restoration is a human process of repairing a relationship and may not include return.
+- **Travel inside Low Ward is by tram.** The city's separate night bus service is a different service; do not use the two for the same journey.
+- A large institution's most dangerous record is usually its **true** one. Maintenance logs, work orders, and payroll files do not lie; people do, around them.
 - Do not invent a new god for every chapter. A case may end with a mundane explanation, a refusal, a negotiated relationship, or a stable absence.
 - Do not use a System panel for status, experience, item names, or numerical power. The Index may appear at most once in an ordinary chapter and must say something concrete and incomplete.
 - Do not let an artifact solve a problem by answering the question before Elias asks it. The object can answer, mislead, or refuse.

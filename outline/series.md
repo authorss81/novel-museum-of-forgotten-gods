@@ -129,7 +129,7 @@ Morrowgate remains a damaged but living city. The Museum becomes a rotating publ
 
 **Midpoint reversal:** The Bell is not asking to be worshipped. Its echo is a worker's demand that unpaid labor be acknowledged, and honoring it publicly would expose decades of wage theft and alter the Museum's legal liability.
 
-**Climax:** Elias, Mara, and Ivo contain the bell through a worker-led memorial and return the original wage ledger to the families. The immediate crisis resolves, but the bell's final sound opens a locked door in the Quiet Wing.
+**Climax:** Elias, Mara, and Ivo contain the bell through a worker-led memorial and return the original wage ledger to the families. The immediate crisis resolves, but the bell's final sound brings a door off its latch in the Quiet Wing, unopened, and nobody touches it.
 
 **Power change:** Nightwatch to first Echo; costs establish the rules.
 
