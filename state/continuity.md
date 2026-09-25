@@ -23,11 +23,15 @@ Bootstrap canon is established. **Volume 01, Batch 0001 (Chapters 1–10) is now
 
 ## Fixed by Batch 0001 — new canon taken from finished prose
 
+*(These entries are the post-review state of the batch. Where the review of Batch 0001 changed a drafted fact, the corrected fact is the one recorded here.)*
+
 ### The four counts
 
 **94** — people on the final Sillick closing shift. **92** — the paid payroll figure. **2** — worked and never entered in any book. **61** — short-paid on the final pay run (a pay figure, a different and overlapping group, which includes the two who were never entered). Fixed, separate, and never to be substituted for one another. No fifth figure may appear.
 
 **On the page as drafted:** 94 in Chapter 10 only; 61 in Chapter 6 only, in Hattie Bramm's mouth. **92 and 2 are held** for the Chapter 25 midpoint reversal, per the Volume 01 outline, and must not be spent in Batch 0002. *Recorded deviation:* the Batch 0001 outline's aftermath section says all four figures are "now on the page"; the two that are not are deliberately withheld so a reader who already has 94 can be told it was paid as 92. This hold is reversible but should not be broken without recording it here.
+
+**The year in a Museum accession reference is the year the district series was opened, not the year the object came in.** This is a Low Ward house convention and it is stated aloud by Mara Iles in Chapter 3. `1961/LW/44` therefore means *Low Ward series, opened 1961, item 44*, which is why the Sillick box can be accessioned long after the series began and why nobody can date the box from its own label. A reference with no year in it, or with one letter where the form takes two — `Acq. 4471 / B` — **is not a Museum accession number at all.** Do not reintroduce 1961 as an event year anywhere; the 1961s that were atmospheric in the first draft have been removed. The mill closed **thirty-one years ago**, and Hattie Bramm has carried her sheet for thirty-one years, and those are the only thirty-ones in the timeline.
 
 **The numeral sixty-one does double duty** — it is the short-paid count *and* Perry Loach's age. In Chapter 6 it belongs to the count. In Chapter 10 Perry is rendered **"a night cleaner in his early sixties"** and the numeral never appears in the chapter at all. Canon age stays 61 in the reference tables; only the prose avoids it.
 
@@ -37,10 +41,10 @@ Bootstrap canon is established. **Volume 01, Batch 0001 (Chapters 1–10) is now
 | --- | --- | --- | --- |
 | Mon | — | off-page | Third ward-bell at South Sluice re-cracks **21:40 Monday**. Systems log it at **04:12 Tuesday**. River Works notice dated Monday is pinned in the security room. Never shown happening. |
 | Tue | 1 | 19:40 – 03:10 Wed | First night of the five-night rota. First sound **02:52**. |
-| Wed | 2, 3, 4 | 19:00 – 04:00 Thu | One continuous night. Ch 2 closes 22:00; Ch 3 runs 22:00–00:30; Ch 4 runs 01:00–04:00. |
+| Wed | 2, 3, 4 | 19:00 – 04:00 Thu | One continuous night. Ch 2 closes 22:10; Ch 3 runs 22:10–00:30; Ch 4 runs 01:00–04:00. Ch 4 stops at the service-lane sweep at 04:00 — **there is no 06:50 cleaners-in beat and no woman at the desk**, because the desk is unmanned 23:00–07:00. |
 | Thu | 5 | 19:00 – 00:12 | Elias sleeps through the daylight. **Ivo's systems night.** First Quiet Wing breach **22:14**, eleven minutes. |
-| Fri | 6, 7, 8 | 09:00 – 01:05 Sat | Ch 6 is Low Ward alone, 09:00–14:00. Ch 7 is 19:00–21:30 on the floor. Ch 8 is 23:40–01:05 on the controller fault. |
-| Sat | 9, 10 | 07:00 – 01:30 Sun | Ch 9 is the morning the school tour was booked, and the tour is cancelled. Elias comes off shift at 07:00. Ch 10 is 20:50–01:30. |
+| Fri | 6, 7, 8 | 09:00 – 01:05 Sat | Ch 6 is Low Ward alone, 09:00–14:00. Ch 7 is 19:00–21:30 on the floor. Ch 8 is 23:40–01:05 on the controller fault, and the maintenance landing is **00:29–00:50**, not 00:10–00:50. |
+| Sat | 9, 10 | 07:00 – 01:30 Sun | Ch 9 is the morning the school tour was booked, and the tour is cancelled. Elias comes off shift at 07:00, is sent home, and **goes back on at 19:30**. Ch 10 is 20:50–01:30. |
 | Sun | — | off-page | **Elias is suspended Sunday morning.** This is the first beat of Batch 0002 and is not written. |
 
 **Correction to the pre-draft placeholder:** the Thursday bell sound is **00:05**, not 23:58. The Volume 01 day map and the Chapter 0005 card both put it at 00:05, and the outline's test requires the sound to arrive in the minute after Elias stops looking. Chapter 0005 as drafted has Elias wait 23:40–00:05, write *NO SOUND, THU* at 00:04, and be answered at 00:05.
@@ -68,13 +72,16 @@ Five floors. **Ground:** public entrance on Civic Hill, Hall of Former Faiths (3
 **Cameras, and what each one does and does not cover — this is load-bearing.**
 - *Label room (Ch 4):* lintel dome covering the doorway and the card cutter. **Does not cover the drawers.**
 - *Quiet Wing corridor (Ch 8):* fixed opposite the stair-side service alcove. Covers the corridor, **stops two feet short of the alcove mouth.** Shares the door 7 controller circuit, so the outage *is* the camera gap.
-- *Level-two archive corridor:* a restricted door that **logs card events** — Elias's Wednesday 02:02 presence is in the log in his own name.
+- *Level-two archive corridor:* a restricted door that **logs card events**, and **no camera on the landing.** Elias's Wednesday **02:20** card read is in the log in his own name and Anja reads it back to him in Chapter 7. Inside: an eight-foot corridor, a painted-over window, a fire plan in a frame, and behind it the **personnel record as paper** — annual ring binders on a steel shelf, one per year from 1974, every year present, every binder undisturbed, columns of surname / grade / start / department / leaver's date and reason code. Four C surnames: Callaghan R (grounds), Cunliffe A (porter), Coverley D (porter), Crowther M (conservation). No W. Case, and no leaver's record for Case either. This scene is **staged in Chapter 4**, not reported later; Chapter 5 refers back to it.
+- *Hall of Former Faiths door:* not a restricted door. A night card on it at **01:26 Wednesday** logs a refusal and nothing else, and Anja has that in the access log too.
 
 **Record formats, now stable and reusable:**
-- Museum accession numbers: year / letters / number — **1961/LW/44** (Sillick Mill: administrative papers, disposal, level B bay 9). The plinth 34 card's false number is **Acq. 4471 / B**.
+- Museum accession numbers: year / letters / number — **1961/LW/44** (Sillick Mill: administrative papers, disposal, level B bay 9), where the year is the **series** year. The plinth 34 card's false number is **Acq. 4471 / B**, which is not a Museum number in any form.
 - Museum personnel file references: **PF** + three digits, e.g. **PF 118**. Personnel files are never retired. *The number on the relabelled box is a live reference and is not Case's, because Case has no file.*
 - Municipal payroll: surname/forename, grade, cost centre **M.Q.S. 4**, pension, union subs, hours. One person = four lines.
-- Case's locker is **81** on a printed locker card in the basement that Elias had read over for two years.
+- Case's locker is **81**, in a run of **forty-one lockers numbered 61–101** in two rows under the basement stair, on a printed locker card that Elias had read over for two years.
+- **Staff lockers are 61–101 and there are forty-one of them.** Any later reference to a total number of lockers, or to locker 81 sitting in a run of one to forty-one, is wrong.
+- **Corridor camera arrival times at 01:12**: 01:12:41, :44, :42, :45, :43 — five arrivals inside four seconds. There is no eleven-second spread anywhere in the camera material.
 - The Hall of Former Faiths **master key** goes out in a conservator's name and returns before the galleries are closed; the night guard's own key opens public galleries and nothing else.
 - **Work order 4412-S**, dated Friday 16:20, authorised 23:40–00:30 (fifty minutes), signed by a director, logged from the maintenance shop terminal under **PELL, I.** The logged outage is **23:41–00:28 — forty-seven minutes inside the window.**
 
@@ -84,9 +91,19 @@ Five floors. **Ground:** public entrance on Civic Hill, Hall of Former Faiths (3
 
 **Batch 0001's entire memory cost is one thing:** in Chapter 8 he writes one notebook entry, in order, in a hand that changes twice, and afterwards cannot put the two halves in the order he wrote them. There is no second entry because he does not have one. Do not add a second memory cost. The first *major* memory-displacement cost is reserved for Volume 03, and the night Tomas left is reserved for Movement 4 and must not be staged.
 
-Sensory and physical costs, all real and reversible: nosebleed and an eleven-hour unbroken headache (Ch 3, repeated by Mara in Ch 10); phantom rope texture across the right palm for a week (Ch 10); tinnitus for two days; twenty minutes of lost time in the corridor (Ch 8).
+**The two-hands entry, as it stands on the page — the batch's single most important notebook artefact, and it is quoted in Chapter 8 in two blocks in this order:**
 
-**His permanent cost for Volume 01 is professional and relational:** he loses his post, and Mara stops trusting the shared record once she realises the shared log says *a number* where the reading gave ninety-four. The Chapter 10 withholding is **on the page, in front of both witnesses.** Batch 0002 inherits a broken condition, not a fresh secret.
+> 23:52 in. No event on the panel. Corridor as plan. Draft under door 7 room — room has air, not a cupboard. 00:12 photo x4, corridor, 00:12–00:18. 00:18 now.
+
+> Room behind wired glass: chair (no dust on seat), coat hook, lanyards on shelf, name panels all blank, dust on everything else. Door shut and latched. Did not open it. Not going to.
+
+The **first** block is in his flat block hand, squared, every letter its full height. The **second** is in a different hand entirely — smaller, faster, pressed harder, the hand of a man writing at a door with a torch off. He is as sure as he will ever be that the first block is the second half he wrote, and has no way of being sure of it, and never will. **Sixteen minutes of the night are in neither block and in neither hand.** Do not restate this entry in a single hand, in one order, or as recoverable. It is not recoverable in this volume.
+
+Sensory and physical costs, all real and reversible: a nosebleed and a headache that **begins at 23:41 Wednesday and breaks at 10:40 Thursday — eleven hours and a minute**, clocked from the start because a cost you cannot time is a cost nobody has to believe in (Ch 3, the same figure repeated by Elias to Mara in Ch 10); phantom rope texture across the right palm for a week (Ch 10); tinnitus for two days; **twenty minutes of lost time in the corridor, of which sixteen minutes appear in the notebook in no hand at all** (Ch 8).
+
+**The Chapter 10 headache is a second, separate headache.** It is a new one, it is on the page from 21:41 Saturday, and the outline gives it two days. It does not conflict with the eleven-hour figure, which is the *previous* one. Batch 0002 inherits the two-day headache and should pay it off on the page.
+
+**His permanent cost for Volume 01 is professional and relational:** he loses his post, and Mara stops trusting the shared record once she realises the shared log says *a number* where the reading gave ninety-four. The Chapter 10 withholding is **on the page, in front of both witnesses — and it happens inside the protocol, not against it.** Mara's own rule is that her log does not take a bare figure: no object, no *a number*, because a figure with a guess under it is a rumour she will not sign. She writes *a number* **correctly**, on the evidence she was given. Elias has four seconds in which to supply an object — he has a mill, a catalogue number and nine seconds on a terminal — and he does not, and he hands her an **empty hand** when she asks for the notebook. Both of her Chapter 9 conditions are therefore still literally unbroken, which is the cruelty of it and the reason it can run for four volumes. **Do not restage this as Elias correcting Mara, or as Mara making an error.** Batch 0002 inherits a broken condition, not a fresh secret.
 
 ### Minor working people (stable, not characters)
 
@@ -94,6 +111,8 @@ Sensory and physical costs, all real and reversible: nosebleed and an eleven-hou
 - **Priest** — the Museum's Saturday night duty manager on the freight lift, nineteen years in post. Tells Elias that Perry Loach was on the Sillick job before this building.
 - **Perry Loach** — now named on the page (Chapter 10), so Batch 0003's public tour does not have to introduce him twice. Night cleaner, Saturday shift, eleven years on these floors and forty years of floors before. A Sillick Mill fitter, and one of the short-paid.
 - **Helen Venn** — the letter is eighteen years old and lives on a shelf above the boiler at the laundrette. Elias has asked for it three times in one week and has never actually asked.
+- **Cliff Sowerby** — Sillick Mill fitter's mate, number 14 Sillick Lane, mended the row's standpipe every autumn for a pint he would not take; the standpipe is dead and has been charged for twice. A Low Ward neighbour Hattie Bramm mentions. **He is deliberately not a second Wendel Case and the name must not drift back into the erasure plot.**
+- **Callaghan, Cunliffe, Coverley, Crowther** — the four C surnames in the Museum personnel record, Chapter 4. Two were porters; none is Case. They are furniture in the erasure, not candidates.
 
 ### Elias's home
 
@@ -101,6 +120,6 @@ A rented room above his mother Helen's laundrette in Low Ward, close enough to t
 
 ## Immediate starting state for Batch 0002
 
-Top of Sunday morning, 11 October. Elias is suspended from night duty. The formal re-inspection of plinth 34 is Monday 09:00 with a conservator and a Registry observer, and he is not allowed to attend it. The shared protocol log says *a number*; the figure is in his pocket notebook. The Sillick box is on a pallet in the loading bay under a hand-written label carrying **PF 118**, and it is scheduled to move. The west range is on the emergency circuit, the Quiet Wing readers have re-keyed, the door 7 module is still uninstalled in its box, and Dael has a real maintenance call before breakfast. Ivo is a co-defendant twice over and does not know it. Hattie Bramm has nine years of letters and is going to find out who he is.
+Top of Sunday morning, 11 October. Elias is suspended from night duty — **off the page, unseen, and not foreshadowed anywhere in Chapter 10**; the last thing he knows on Saturday night is Dael's Monday re-inspection. The formal re-inspection of plinth 34 is Monday 09:00 with a conservator and a Registry observer, and he is not allowed to attend it. The shared protocol log says *a number*; the figure is in his pocket notebook. The Sillick box is on a pallet in the loading bay under a hand-written label carrying **PF 118**, and it is scheduled to move. The west range is on the emergency circuit, the Quiet Wing readers have re-keyed, the door 7 module is still uninstalled in its box, and Dael has a real maintenance call before breakfast. Ivo is a co-defendant twice over and does not know it. Hattie Bramm has nine years of letters and is going to find out who he is.
 
 **Week Two (Batch 0002) is pinned in `workspace/volume-01/batch-0002/PROMPT.md`**, because the outline dates only Week One. Elias is suspended from night duty but is **not** barred from the building: he keeps his keys, works the security room and the loading-bay desk, and is barred from the collections floors and the Quiet Wing — so he is constantly adjacent to what he cannot touch. Ten chapters over ten days, Sunday 11 October to Tuesday 20 October, one chapter per day. **This map is a plan, not canon, until the batch is drafted; if the drafting batch changes a date, it records the change here.**

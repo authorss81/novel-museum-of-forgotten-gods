@@ -8,7 +8,7 @@ Ten past seven on Friday, and Elias Venn put the words *Sillick Mill* into a ter
 
 Bay nine. He read it four times. It was on the level he had walked past twice a week for two years, under the floor he had been staring at since Wednesday, behind a door he had personally tested for a working lock in his first fortnight.
 
-He read the second line again. *Not for issue. Not for exhibition.* Somebody in this building, in 1961, wrote a catalogue entry about a box of paper with the tone of a man nailing a lid on.
+He read the second line again. *Not for issue. Not for exhibition.* Somebody in this building had written a catalogue entry about a box of paper with the tone of a man nailing a lid on, and had left the year off, because the year on a Low Ward reference is the year the series was opened and the series was opened before the mill ever shut, and a man who wanted a box to be administrative would not have wanted anybody doing arithmetic on it.
 
 He got up and went down.
 
@@ -52,7 +52,7 @@ The box was at the end.
 
 Sillick Mill: administrative papers, disposal. Accession 1961/LW/44. A grey archive box, a foot and a half long, and on its end in the Museum's printed shelf-mark label, the same four lines the terminal had given him.
 
-Elias put his hand on the lid. He had it. It was eleven inches away from a piece of paper that had been in a drawer a storey up in a woman's hand since 1961, and a woman four miles away had spent nine years trying to reach it.
+Elias put his hand on the lid. He had it. It was eleven inches away from the sheet a foreman had copied a list out of on the last morning the mill ever ran, and eleven inches away from a piece of paper that had been in a drawer in a woman's hand four miles away for thirty-one years, and that woman had spent nine years of letters trying to reach it.
 
 "Open it," Ivo said.
 
@@ -130,7 +130,7 @@ The corridor had a bench in it and it had a window with the blind half down and,
 
 "Ma'am."
 
-"At 01:26 on Wednesday night you were at the Hall of Former Faiths door, which is locked, on a card that had opened nothing and logged nothing. At 01:34 you were on the first floor outside the label room, which is a conservation workspace, and there is a camera on that lintel. At 02:02 you were on level two in the archive corridor, which is a restricted door and logs. At 02:41 you were at the service entrance." She turned her head. "The Hall's master key went out in a conservator's name at 18:52 and came back at 23:52, before any of it. So at twenty-six minutes past one that hall was shut, and locked, and the key was on its hook, and you were outside it. I have checked twice, because I wanted to be sure I was wrong the first time."
+"At 01:26 on Wednesday night you were at the Hall of Former Faiths door, which is locked, on a card that had opened nothing and logged nothing useful. At 01:34 you were on the first floor outside the label room, which is a conservation workspace, and there is a camera on that lintel. At 02:20 you were on level two in the archive corridor, which is a restricted door and logs. At 02:41 you were at the service entrance." She turned her head. "The Hall's master key went out in a conservator's name at 18:52 and came back at 23:52, before any of it. So at twenty-six minutes past one that hall was shut, and locked, and the key was on its hook, and you were outside it. I have checked twice, because I wanted to be sure I was wrong the first time."
 
 Elias said nothing. There was nothing to say to that, and the one thing in his life he had never once done in this building was lie to a person who had come out of an office to say a thing to him in a corridor.
 
@@ -166,13 +166,13 @@ And she was gone down the corridor in a coat that had cost more than his month, 
 
 ---
 
-He had been on the level-two landing on Wednesday at 02:02, which was true and was in the log in his own name. The Master key had been on its hook since 23:52, which was also true, and the night key that opens public galleries and nothing else had opened the Hall of Former Faiths at 01:26 without a word of complaint, because that is the job of a night key, and because the door it opened was not a restricted door, and because nobody in the history of this building has ever needed a restricted door to be anything other than a door.
+He had been on the level-two landing on Wednesday at 02:20, which was true and was in the log in his own name, on a card event he had put there himself, for nothing, at five past two in the morning, because he had wanted to know. The Master key had been on its hook since 23:52, which was also true, and the night key that opens public galleries and nothing else had opened the Hall of Former Faiths at 01:26 without a word of complaint, because that is the job of a night key, and because the door it opened was not a restricted door, and because nobody in the history of this building has ever needed a restricted door to be anything other than a door.
 
-And that, standing at a terminal at ten to nine on a Friday night with a dead headache and a piece of paper in his pocket, was the thing about the week he could not put anywhere: every single thing he had done since Tuesday had been possible, and every single thing had left a record he could live with, and the reason was not him. It was the building. Somebody had built this wing so that a man could stand at a locked door for as long as he liked and never once be asked a question about it, and the same somebody had signed the wing's card access over eighteen years ago in a name that did not exist, and Elias understood that he was not the first man this building had arranged to be a problem for, and that the arrangement was eighteen years older than he was.
+And that, standing at a terminal at ten to nine on a Friday night with a dead headache and a piece of paper in his pocket, was the thing about the week he could not put anywhere. Every single thing he had done since Tuesday had been possible, and every single thing had left a record he could live with, and the reason was not him. It was the building. Somebody had built this wing so that a man could stand at a locked door for as long as he liked and never once be asked a question about it, and the same somebody had signed the wing's card access over eighteen years ago in a name that did not exist, and Elias understood that he was not the first man this building had arranged to be a problem for, and that the arrangement was eighteen years older than he was.
 
 He had not lied to her. He had made a decision, in a corridor, at twenty to nine, to answer a woman who had been decent to him on purpose, and the decision had not felt like trust. It had felt like the discovery of a third option in a choice he had believed was two-way.
 
-He did not open the instruction. It was restricted, it was on the second floor in a locked cage, and he had a card that would not open the cage, and he had a name on it that he could not put anywhere.
+He did not open the instruction either. It was restricted, it was on the second floor in a locked cage, he had a card that would not open the cage, and he had a name on the front of it that he could not put anywhere.
 
 He also did not ask about it. That was the decision the whole evening had actually been about, and he made it deliberately at 20:48 on a Friday night, standing at a terminal, with an hour and a half of his own time still in front of him, and the reason he made it was not integrity and it was not fear.
 

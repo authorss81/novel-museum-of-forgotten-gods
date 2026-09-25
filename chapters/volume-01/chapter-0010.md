@@ -10,7 +10,7 @@ Ivo had come in on a favour and was carrying a bag with a sheet of painted steel
 
 "No," said Ivo. "I have a sister with a chest. Come on."
 
-At 20:56 they took the cover up to the Hall of Former Faiths. The case on plinth thirty-four is a low vitrine with a brass surround and four feet, and the cover went over it without touching the plinth, and the four clamps went onto the surround, and the whole thing took nine minutes and looked exactly like what it was: a piece of painted steel over a case, with clamps on it, in a locked gallery, at nine o'clock at night.
+At 20:56 they took the cover up to the Hall of Former Faiths. The case on plinth thirty-four is a low vitrine with a brass surround and four feet, and the cover went over it without touching the plinth, and the four clamps went onto the surround, and the whole thing took nine minutes and looked like what it was: a piece of painted steel over a case, with clamps on it, in a locked gallery, at nine o'clock at night.
 
 "There," Ivo said. "And if anybody asks, you are doing a conservation procedure and I am the technician, and I am a technician, and that is not even a lie, it is just incomplete."
 
@@ -42,7 +42,7 @@ Mara came down at twenty-five past nine with the shared log under her arm and a 
 
 "Right. Where am I standing."
 
-"There. Door's behind you. You can see the plinth from the door and you can see the clock on the north wall. If that door moves at all, in or out, you say the word and it's over and I am out."
+"There. Door's behind you. You can see the plinth from the door and you can see the clock on the north wall. The word is *fault*. Ivo's got it and now you've got it as well, because I am not having this depend on one person having the right thought. If that door moves at all, in or out, either of you says it and it's over and I am out."
 
 "And the time limit."
 
@@ -164,17 +164,25 @@ Not that the object had spoken. It had answered a question, once, to a man who h
 
 Elias got his hand up to his face, found it wet, found the blood on his fingers, and could not for about ten seconds remember which of the two things he ought to be doing first.
 
-And then, because he could not help himself, and because a man who does not get a name is a man who can go on believing it was not a man, he went down to the service desk and asked the woman on it who was on the Hall on a Saturday night.
+And then, because he could not help himself, and because a man who does not get a name is a man who can go on believing it was not a man, he went down to the service desk and asked the duty manager who was on the Hall on a Saturday night.
 
-"Loach," she said. "Perry Loach. He's been on the floors eleven years and he does Saturdays because the money's better and don't tell him I said that." She looked up. "Why?"
+He was halfway down the service lane before he understood what he had just done, or rather, he understood it clearly and did it anyway. Thirty-one hours. Friday at half past midnight to Saturday at twenty past to nine is thirty-one hours, and it was thirty-one hours since a page in his coat had been written in two hands that had never met, and for the length of that walk he was certain the two facts were one fact and that a man in a corridor and a bell on a plinth were running off the same supply.
+
+They were not one fact. There was no document that joined them and there never would be. But he had held the two of them together for thirty-one hours without noticing, and that was the thing he wrote nothing down about, and it was going to be true of him for a long time.
+
+Priest looked up from a crossword folded to a hand's width.
+
+"Loach," she said. "Perry Loach. He's been on the floors eleven years and he does Saturdays because the money's better and don't tell him I said that." She capped her pen. "Why?"
 
 "Nothing. He's good with the door."
 
-"He is, though. He was on the Sillick job before this place."
+"He is, though." She went back to the grid. "He was on the Sillick job before this place."
 
-Elias stood at the service desk of the Museum of Quiet Saints and did not move for about four seconds. "The Sillick job," he said.
+Elias stood at the service desk of the Museum of Quiet Saints and did not move for about four seconds.
 
-"Dye house. Fitter, I think, or a fitter's mate." She went back to her screen. "That's his business, love. You want the overtime form, it's in the tray."
+"The Sillick job," he said.
+
+"Dye house. Fitter, I think, or a fitter's mate." She turned the paper over and began another clue. "That's his business. You want the overtime form, it's in the tray."
 
 And the second thing he understood was worse.
 
@@ -200,47 +208,61 @@ Elias let himself be walked. He got to the bench in the corner by the north wall
 
 "Rain. A gate. Cold hands. A man reading a list out loud." He was aware that he was talking too fast and could not stop. "And something on my hand, like a rope, like somebody hauling on a rope for a long time, and it stopped."
 
-Mara took all of it down, in order, exactly as he said it, and she did not once ask him whether he was sure, and she did not once say the word *careful*.
+Mara took all of it down, in order, exactly as he said it, and she did not once ask him whether he were sure, and she did not once say the word *careful*.
 
 "Cost," she said. "You've got a nosebleed. You've got—"
 
 "A headache. Same place. Last time it went eleven hours."
 
-"Right." She initialled it, and then she said, without any particular emphasis, as a person reading a column: "Mara. Result: ninety-four. One number, no units, no object, no date, no corroboration. Nothing else recorded."
+"Right." She initialled it. Then she went back up the page with the flat of her hand, the way you go back to the right column, and said:
 
-And she put her hand out for the notebook.
+"Units. And the object."
+
+"Units. People. It's a headcount of people on one shift."
+
+"You've given me the units. You haven't given me the object." She did not put the pencil down. "Elias, this log does not take a bare figure. There is no such thing as a number in this book on its own. If I cannot say what a figure is a figure *of*, then what goes in the result field is *a number*, because that is the whole of what I have. In four years somebody is going to open this page and ask me what ninety-four was a headcount of, and the only answer I will be able to give them is that I do not know, and a figure with an honest answer under it is a record. A figure with a guess under it is a rumour, and I do not sign my name under rumours."
+
+Ivo, from the door, in a completely different voice: "She's right, you know."
+
+"Ivo."
+
+"Not my business. It is genuinely not my business. It's her book."
+
+Mara wrote it. It took her about a second and a half.
+
+> Result: a number.
+
+And initialled it, and put the time against it, and did not look up.
+
+And Elias Venn sat on a bench in a locked gallery with a rope on his hand that was not there, and looked at the result field of the shared log, and said nothing.
+
+Then she put her other hand out, palm up, the way you ask for a thing you have an absolute right to ask for.
 
 ---
 
-Elias Venn did not say anything else.
+He had four seconds. He knew exactly what the four seconds were for, because he had had a week to think about it, and because the shape of the thing had been sitting in the back of him since Wednesday night like a stone in a boot.
 
-He did not say, *it was a headcount of the final shift of a mill*, because that was a guess. He did not say, *there is a list in a municipal library in Low Ward with names and figures on it, written out by a woman who held the book at that gate and has been carrying the arithmetic for thirty-one years with nowhere to put it down, and it is four miles and a lifetime from a bell in this building*. He did not say, *there is a box on level B with a catalogue number I can look up in nine seconds and I was refused at a gate by a house rule and I did not do anything stupid about it, and that was four hours ago and it is the right decision and it is the reason I am standing here with a number I cannot put next to anything.*
+She had written *a number* because he had not given her an object, and the protocol he had written out in his own handwriting in a shop on a bench at twenty to one that afternoon said the result goes in the shared log in her hand exactly as it came. And what had come was a gate in the rain, and a foreman reading a line of integers out loud so that the men it counted would know they had been counted, and the end of the line.
 
-What he said, with Ivo on one side of him and Mara on the other, was:
+He could have said *mill*. It was sitting in him whole, with a road to it: a box on level B, nine seconds on a terminal, a catalogue number he had typed on Friday evening and could type again in the morning. He could have said *a textile works in Low Ward, on the river bend above South Sluice* — a mill is an object, and objects are what her book is for, and then there would be a figure and a place and a date on a page in the file of a working institution with her name under it and his name beside it.
 
-"A number. I don't know what it counts."
+And if he said the mill, he would also be saying a man in a dye house and a woman holding a book at a gate in the rain, and he did not know that it was this mill. He had a bell that said a number, and a card in a drawer with a name rubbed out of it, and the two had never been in the same room.
 
-Mara's pen was already moving, because Mara Iles was a person who wrote things down.
+A fact in a file with her name on it is a fact he cannot be held to. A fact in a coat pocket is a fact he can be held to by nobody at all.
 
-She got to *a number* and stopped, and looked up at him.
+He had wanted the second one for a very long time, and he did not have to be asked, and that was the thing he had to look at for years afterwards in every room he ever sat in: not that he had lied, because he had not lied. He had found a procedure in this building that would do it for him, and he had let it, because it was reasonable and it was somebody else's job and it required him to say nothing at all.
 
-And Elias had four seconds.
+He had promised her, at twenty to one on the Saturday afternoon, in writing, in his own handwriting, two things. The first was that the result would go in the shared log in her hand exactly as it came. The second was that he would tell her everything, every time, and not the parts he had decided were relevant.
 
-He knew precisely what the four seconds were for. She had written *a number* because he had said *a number*. The page in front of her said *Result:*, and everything in this building for the next thirty years would run off that page, and if she wrote ninety-four it would be a fact in a file with her name under it and his name beside it, and it would be a fact he could not take back, and it would go to a woman from the Accord Registry on Monday morning with a screwdriver in her hand.
+Both of those were still true. That was the difficulty. Nothing had been broken. The condition had been kept exactly, to the letter, by a man with a place to put a number and a conservator with a book that would not take a bare figure, and the two of them behaving perfectly correctly.
 
-And if he did not correct her, then there would be a document in this building that said *a number* where the truth was ninety-four, and he would be the man who had let it be written, and the ninety-four would live in the inside pocket of a coat, and on Monday the case would be opened and the number would still be in his pocket and the file would be empty.
+He put his hand into the inside pocket of his coat, where the notebook had been every night since Tuesday, and stopped there for about a second, and took out an empty hand instead, and put that into hers.
 
-He could say the word *ninety*. He was going to say the word *ninety*. He had it in his mouth.
+Mara closed her fingers on nothing, looked at the empty hand, and did not ask about it.
 
-And what stopped him was not a reason. That was the thing he had to look at for a very long time afterwards, in every room he ever sat in for the rest of the life he had left: there was no reason. There was a gap of four seconds in which nothing had happened yet, and he stood in it, and he watched it go past, and the reason was that a fact in a file with her name on it is a fact he cannot be held to, and a fact in his pocket is a fact he can be held to by nobody at all, and that he had wanted the second one for so long that his body did not need to be asked.
+"Right. Good. That's the reading done. Eleven minutes, one question, cost named in advance, and the word said three times, once of them by you." She capped the pencil. "I'm going to say one thing and then I am going to go and check the paper and I am not going to say it again. If you have got something in that notebook that isn't on this page, then from tonight you and I have started keeping two books, and I would rather you told me now and got told off than told me in four years from an inquiry."
 
-He had promised her, at twenty to one on the Saturday afternoon, in writing, in his own handwriting, two things. The first was that the result would go in the shared log in her hand exactly as it came.
-
-Mara put the time in and initialled it. She tore nothing out, she did not query it, she did not even glance at him sideways, and she said:
-
-"Right. Good. That's the reading done. Eleven minutes, one question, cost named in advance, stop word said once when a door moved and once when you went down." She capped her pencil. "I'm going to say one thing and then I am going to go and check the paper and I am not going to say it again. If you have got something in that notebook that isn't on this page, then from tonight you and I have started keeping two books, and I would rather you told me now and got told off than told me in four years from an inquiry."
-
-Elias Venn sat on a bench in a locked gallery with a nosebleed and a rope on his hand that was not there, and did not open the notebook.
+Elias Venn sat on a bench in a locked gallery with a nosebleed and a rope on his hand that was not there, and had already given her an empty hand, and said nothing else.
 
 "That's it," he said. "That's the whole of it."
 
@@ -261,8 +283,8 @@ He went at midnight. The cleaning crew were still on the floor. The duty manager
 He got the notebook out at the loading-bay desk at ten past midnight, with his left hand, and wrote the last of it, and it was the seventh of the seven he had written about that bell, and he did not see the seven, he just wrote the one that was in front of him.
 
 > 21:07 Sat — 6th. Cover on from 20:56, Mara present, protocol on the bench. It came before we started. It was not addressed to anybody, it did not want anything, it was the same noise it has been all week, and I stood there and let it happen and did not move, and I want that written down because it is the first time I have been in a room with it and not gone to look.
-> 21:30–21:41 — read. Stop word said at 21:38 when the hall door swung on the draught. Came back on the floor, nose bleeding, headache under the left ear, rope on the right hand that is not there. Gate, rain, a foreman reading a list out loud, and the end of the list. **94.** A headcount of the people on one shift at one gate, in the rain, on the last day the mill ever ran. I cannot place it against anything I am allowed to hold.
 > 21:15 onward — four in six minutes, then nothing, same note each time. West range on the emergency circuit, wing readers re-keyed. Dael will have a maintenance call before he has breakfast.
+> 21:30–21:41 — read. Stop word said at 21:38 when the hall door swung on the draught. Came back on the floor, nose bleeding, headache under the left ear, rope on the right hand that is not there. Gate, rain, a foreman reading a list out loud, and the end of the list. **94.** A headcount of the people on one shift at one gate, in the rain, on the last day the mill ever ran. I cannot place it against anything I am allowed to hold.
 
 ---
 
@@ -274,7 +296,7 @@ Elias was in the loading bay because it is on his round, and because the duty ma
 
 He had not gone down. He had not asked. He had stood at the desk and watched eleven boxes come off a trolley and go onto pallets, and he had a rule in his head and he had kept it, and the rule had cost him the box he wanted and it was the only reason he was standing in this room able to look at anything.
 
-Ten of the boxes were damp and ordinary: grey archive boxes with printed shelf-marks, water-stained along the bottom, exactly what you would expect off the bottom shelf of bay nine on the second rack.
+Ten of the boxes were damp and ordinary: grey archive boxes with printed shelf-marks, water-stained along the bottom, what you would expect off the bottom shelf of bay nine on the second rack.
 
 The eleventh was on a pallet by itself, at the end, and it was wrapped in a dust sheet, and the dust sheet was the only clean thing in the loading bay.
 
@@ -296,15 +318,15 @@ Not a cost centre. He knew cost centres; he had read two pages of them on a clea
 
 And the number was not the porter's. He had looked. Friday night, half past eight, the current index and the archive to 1974, and there was no Case in either of them, and there was no file number for a Wendel Case in this building at all. So somebody had written PF 118 because PF 118 is what you write when you file a thing against a living member of staff, and there was no porter to file it against.
 
-Somebody had been looking for Wendel Case, had got exactly as far as he had got, had found the same absence, and had gone on to write a different name on the box. And they had moved it out of bay nine in the twenty-four hours since he had stood in front of it with a torch, put his hand on the lid, and gone back up because there was a rule.
+Somebody had been looking for Wendel Case, had got as far as he had got, had found the same absence, and had gone on to write a different name on the box. And they had moved it out of bay nine in the twenty-four hours since he had stood in front of it with a torch, put his hand on the lid, and gone back up because there was a rule.
 
 Elias stood with his hands at his sides in a loading bay twenty minutes after midnight and understood, all at once and in the wrong order, three separate things.
 
 He was not the only person searching. There was somebody else in this building doing the same work with the same materials, and that person had gone at the box from the other end, and that person had found a number where he had found a card, and neither of them knew the other existed.
 
-He had signed a false cause on Saturday morning with his own name at the bottom of it, and he had done it because he had been in a corridor he had no business being in, and because the alternative was a report with his name at the top of it, and Dael Ordway had taken that report into an insurer's file on Saturday morning and would be asked about it one day by a man from the Board. And there was now a document in this building that said nobody was in that corridor, and that document was the only reason he was standing on this floor at twenty past midnight with a box he wanted.
+He had signed a false cause on Saturday morning with his own name at the bottom of it, and he had done it because he had been in a corridor he had no business being in, and because the alternative was a report with his name at the top of it, and Dael Ordway had taken that report into an insurer's file and would be asked about it one day by a man from the Board. And there was now a document in this building that said nobody was in that corridor, and that document was the only reason he was standing on this floor at twenty past midnight with a box he wanted.
 
-And there was a woman on Sillick Lane's Friday queue with a folder in a table and nine years of letters, and a box that was about to be moved out of a building and out of her reach, and Elias Venn was suspended — that was Sunday, that was the morning, that was in about six hours — and the formal re-inspection of plinth thirty-four was at nine o'clock on Monday, and he was not going to be in the room.
+And there was a woman on a Friday queue in Low Ward with a folder on a table and nine years of letters, and a box that was about to be moved out of a building and out of her reach, and a conservator with a stopwatch and a shared log that said *a number* where the truth was ninety-four, and on Monday morning at nine o'clock a woman from the Accord Registry was going to open the case on plinth thirty-four with a screwdriver and would not be asking him about any of it, because he would not be in the building.
 
 He got the notebook out with his left hand because the right one was still strange, and he put it on a fresh page, under Wednesday's four seconds and Thursday's four capitals and Friday's half past midnight, and it was the last thing he was going to be able to write for a while:
 
@@ -317,7 +339,7 @@ He shut it. He put his thumb on the cover and left it there for a second, the wa
 
 He stood in a loading bay at ten to one on a Sunday morning with a duty manager who had not asked him one question about any of it, and a box on a pallet that was going out of this building within a day to a set of shelves in Northglass or a solicitor's strongroom or a skip.
 
-Elias Venn had a number in a notebook that was not in the file, and a false cause in a file he had signed that morning with his own name at the bottom of it, and a suspension that would land in five hours and take his nights off him until somebody in an office decided otherwise, and a colleague on a shop terminal who had walked past a live door at half past midnight, written nothing down, and would one day be asked about it by a man who was not yet him.
+Elias Venn had a number in a notebook that was not in the file, and a false cause in a file he had signed with his own name at the bottom of it, and a colleague on a shop terminal who had walked past a live door at half past midnight, written nothing down, and would one day be asked about it by a man who was not yet him.
 
 He put the notebook in the inside pocket of his coat, where it had been every night since Tuesday, and went up into a museum that was being shut for the morning.
 

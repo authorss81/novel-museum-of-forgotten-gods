@@ -138,4 +138,6 @@ In his notebook, in the same pen, he wrote the same five facts and then, under t
 
 > It went quiet everywhere else when it did it.
 
-And he put the notebook away, and he did the second sweep of the service lane, and the bell did not sound again that night.
+And he put the notebook away, and he did the second sweep of the service lane, and the bell did not sound again for the ninety minutes that were left of the part of the night he had agreed to think about, and at ten past ten the treatment rooms upstairs started going off one floor above his head.
+
+He went to see who was still working.

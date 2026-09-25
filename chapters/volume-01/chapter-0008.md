@@ -56,17 +56,19 @@ A shelf, and on the shelf a row of Museum-branded lanyards, in a row, the way th
 
 And dust. There was dust on the shelf, on the bracket, on the edge of a desk he could see the corner of, and there was no dust at all on the seat of the chair.
 
-That was the whole of it. He stood there for what felt like a long time and it was, later, four or five minutes. He could not hear anything. He could not smell anything. He put his hand flat on the door, which was what woke him up two floors away, and he said, out loud, to a shut and latched door on an unlisted corridor:
+That was the whole of it. He stood there for what felt like a long time and it was, later, four or five minutes. He could not hear anything. He could not smell anything. He put his hand flat on the door.
 
-"Two names are using the same record."
+And the sentence was in his head.
 
-And it was the only sentence in his head, and it was not his, and he had a card with a name under an erasure on it a floor below and a place away, and it fit that so exactly that for a moment he was not standing in a corridor at all.
+*Two names are using the same record.*
 
-Then it went, the way it had gone on Wednesday, without discussion.
+It was not a thought he had. It arrived the way the other one had arrived on Wednesday, from nowhere in particular — not a voice, not a wall, not a speaker, in a corridor with nothing switched on but the emergency light — and it belonged to no object in it, and it was there for about a second and a half and then it was not. And it was not his: he had a card a floor below with a name gone off the back of it, and the sentence fitted that so well that for a moment he was not standing in a corridor at all.
+
+He did not write it in either book. That was the second thing he took out of this corridor and kept, and it was the worse of the two, because on Wednesday he had at least been able to tell himself it was the beginning of a tinnitus.
 
 He stood there and looked at the chair through nine inches of clouded glass, and he understood, with a clarity that made him put his hand on the wall, that whoever kept that room — and somebody was keeping it, because you cannot keep a chair dusted for eighteen years by accident — had never once opened the door in front of him. The door was shut, and it was latched, and there was dust on the shelf beside it and none on the seat inside it, and if the room had been abandoned the chair would be the first thing to go.
 
-He did not open the door. He wants that on the record, and the record is that his hand was on it for two or three seconds, and then his hand was in his pocket, and then it was in his pocket for the rest of the night.
+He did not open the door. He wants that on the record, and the record is that his hand was on it for two or three seconds, and then his hand was in his pocket, and then it stayed in his pocket for the rest of the night.
 
 ---
 
@@ -80,11 +82,17 @@ The corridor was very cold. The radiator halfway down had a valve that had been 
 
 At 00:18 he got the notebook out.
 
-He wrote one entry, in order, sitting on the floor with his back to the wall and the notebook on his knee and the torch off, by the emergency light.
+He wrote one entry, in order, sitting on the floor with his back to the wall and the notebook on his knee and the torch off, by the emergency light. It is on the page. It has been on the page ever since, and it is the only entry he has ever written in two hands, and it has never once been in the same order twice.
 
-*23:52 in. No event on the panel. Corridor as plan. Draft under door 7 room — room has air, not a cupboard. Room behind wired glass: chair (no dust on seat), coat hook, lanyards on shelf, name panels all blank, dust on everything else. Door shut and latched. Did not open it. Not going to. 00:12 photo x4, corridor, 00:12–00:18. 00:18 now.*
+> 23:52 in. No event on the panel. Corridor as plan. Draft under door 7 room — room has air, not a cupboard. 00:12 photo x4, corridor, 00:12–00:18. 00:18 now.
 
-He read it back. It was a good entry. It was in order, it was legible, and it was the truth.
+> Room behind wired glass: chair (no dust on seat), coat hook, lanyards on shelf, name panels all blank, dust on everything else. Door shut and latched. Did not open it. Not going to.
+
+That is the page as it stands, and it is the page as it has stood since Saturday morning, and it is never once going to be in the same order again.
+
+The upper block is in the flat block hand he uses for things he wants to be able to find again: squared, unhurried, every letter its full height. The lower block is in a different hand entirely — smaller, faster, pressed harder, the hand of a man writing at a door with a torch off because a torch on would finish something. He is as sure as he is ever going to be that the upper one is the second half and the lower one is the first. He has no way of being sure of it at all, and he has spent the time since looking for one, and the reason there is none is that both halves are complete and neither one refers to the other.
+
+It is not a tremor. That was his first theory and it was wrong, because a tremor is a wobble inside a single letter and this is a different person. It is a different person, and the notebook is a wire-bound thing from a stall on Lantern Row, and the page he wrote on is the page he is holding, and he has no idea whatever is on the page before it.
 
 He could not afterwards put the two halves of it in the order he had written them, and he has never been able to, and he was not to know for thirty-one hours that this was a thing that had happened to him rather than a thing that he had noticed.
 
@@ -108,7 +116,7 @@ It rang once, badly, half a tone under, and then it rang again, and again, four 
 
 That was all it did. It had no pattern of its own; Elias listened to it for what felt like a minute and it never got a single note out on its own, it only ever arrived a fraction after something else did, flattened and dragged half a tone down its own pitch, and he understood, from the way the pipe ran and from the way the sound came off the bracket, that it was hard-piped to something — to the ward-bell repeater line, to the old civic repeater that still ran the bones of this hill.
 
-And he understood, in the middle of understanding it, that the bracket halfway down the corridor with nothing on it and the four screws still in their holes was a *dead* repeater of the same kind, and that nobody had ever taken the screws out because taking them out is work, and that somewhere in the ceiling of this corridor there is a piece of live plumbing that has been carrying a bell in a sluice station four hundred metres downriver around this building since 1961, and that no one has come to switch it off, and that no one has ever come to this corridor at all.
+And he understood, in the middle of understanding it, that the bracket halfway down the corridor with nothing on it and the four screws still in their holes was a *dead* repeater of the same kind, and that nobody had ever taken the screws out because taking them out is work, and that somewhere in the ceiling of this corridor there is a piece of live plumbing that has been carrying a bell in a sluice station four hundred metres downriver around this building since before the wing was sealed, and that no one has come to switch it off, and that no one has ever come to this corridor at all.
 
 The scary thing was not the bell. The bell was a bell, and it was plumbing, and it did the one thing repeaters do and no more.
 
@@ -120,21 +128,25 @@ At 00:27 he went into the alcove, and put the old unit back into the frame, and 
 
 At 00:28 the controller answered.
 
-He was through the door before it finished — not after, before, because the leaf comes back on the controller's reply and the reply and the leaf are the same half-second, and he was already on the level-two landing when the bolt went. At 00:28 the camera on that corridor came back up, and it came back onto an empty corridor, and there was nothing in the frame at all except a man-shaped absence in a set of wet boot prints on terrazzo that the facilities team would mop up at seven in the morning.
+He was through the door before it finished — not after, before, because the leaf comes back on the controller's reply and the reply and the leaf are the same half-second, and he was already in the stairwell with the fire door swinging when the bolt went. At 00:28 the camera on that corridor came back up, and it came back onto an empty corridor, and there was nothing in the frame at all except a man-shaped absence in a set of wet boot prints on terrazzo that the facilities team would mop up at seven in the morning.
 
 Forty-seven minutes. Inside a fifty-minute window, on a director's signature, under a technician's login.
 
 ---
 
-He went up. There is a maintenance landing between the second and third floors where the stair turns and the pipework goes into the wall and there is no camera and no window and no reason for a person to be standing there, and Elias Venn stood on it from ten past midnight until ten to one with his back to the wall and his coat zipped to the throat and the phone in his pocket, and did not sleep, and did not do anything useful.
+He went up. There is a maintenance landing between the second and third floors where the stair turns and the pipework goes into the wall and there is no camera and no window and no reason for a person to be standing there, and Elias Venn stood on it from the moment he came off the corridor until ten to one with his back to the wall and his coat zipped to the throat and the phone in his pocket, and did not sleep, and did not do anything useful.
 
 He went over the twenty minutes. That was the whole of the rest of the night.
 
 Twenty minutes is not long. He had done his quarter of an hour at a shut door on the Thursday, which had been the whole of that night's enterprise, and he had come back from it with a bracket. He had come back from this one with a chair.
 
-He had gone out of the security room at 23:52. He had walked ninety feet. And he was on the floor with his hand on a door, and there was no version of that which he could assemble, because he could remember the door and the draught and the glass and the blue-grey of the emergency fittings and he could remember nothing between the walking and the being-on-the-floor, and there was no second version of the notebook because he had only the one and it was in order and it said 23:52 in, and 00:12 photo, and the twenty minutes were simply not in it.
+He had gone out of the security room at 23:52. He had walked ninety feet. And he was on the floor with his hand on a door, and there was no version of that which he could assemble, because he could remember the door and the draught and the glass and the blue-grey of the emergency fittings and he could remember nothing between the walking and the being-on-the-floor. There was no second notebook, because he had only the one, and the one he had had said 23:52 in, and 00:12 photo, and 00:18 now, and nothing whatever in between, and it was written in two hands.
 
-At 00:30 somebody's boots came up the maintenance stair.
+He went through it four times on that landing.
+
+The last four minutes before the photographs were the ones he could account for, and he could account for them because he had been upright and cold and taking photographs, which is a thing a body does. The sixteen minutes before that were not on the page at all, in either hand, in either order. Somebody had been in that corridor for sixteen minutes and had not written a line of it, and the only reason the page was not completely empty was that there were two different men in it and they had each left one behind.
+
+Then, at 00:30, somebody's boots came up the maintenance stair.
 
 Elias did not move. He was on the landing with a wall at his back and the stairwell open in front of him, and Ivo Pell came up two flights and went past along the level-two corridor toward the alcove, and Elias watched him through the stairwell gap from about eight feet away, and could not see his face.
 
@@ -142,7 +154,7 @@ Ivo stopped. He stood at the alcove for a while. Then he came back to the stairw
 
 Elias did not call out.
 
-He lay there with his heart going and understood exactly what he was doing, and understood that it was the same thing he had done in a doorway on Tuesday with a brush, and the same thing he had done in a corridor on Wednesday with a door he had not opened, and the same thing he had done in a drawer with a bone folder: he was letting a moment pass because he could not survive the second half of it.
+He stood there with his heart going and understood exactly what he was doing, and understood that it was the same thing he had done in a doorway on Tuesday with a brush, and the same thing he had done in a corridor on Wednesday with a door he had not opened, and the same thing he had done in a drawer with a bone folder: he was letting a moment pass because he could not survive the second half of it.
 
 Ivo came back down and went past the landing again and down the stairs, and Elias stood in the dark and listened to him go all the way to the bottom.
 
@@ -156,6 +168,6 @@ Then he got the notebook out on the desk, because the notebook was where things 
 
 He wrote the corridor, the alcove, the bracket, the tray, the old unit back in the frame, 00:27, the door, the photo times. And then, on the same page, because it belonged on the same page and he had nearly left it out:
 
-> Fri 00:25 — 5th. Two notes came up through the floor together and I could not separate them for about four seconds and I have logged the sluice one on the River Works notice and the hall one in the book. Brass staff-call bell on the corridor bracket went at the same time, half a tone flat, repeating. It repeats. It cannot do anything else. It is not connected to anything; it is the plumbing carrying it.
+> Fri 00:25 — 5th. Two notes came up through the floor together and I could not separate them for about four seconds and I have logged the sluice one on the River Works notice and the hall one in the book. Brass staff-call bell on the corridor bracket went at the same time, half a tone flat, repeating. It repeats. It cannot do anything else. It is not the source of anything. It is the plumbing that carries it.
 
-> I cannot show anybody these are the same event. A timetable could be handed to somebody. This is not a timetable.
+> I cannot show anybody these are the same event, and there is no way of writing down the other sixteen minutes, so this page is the only account of tonight and it is in two hands and it is in the wrong order. Somebody should have two of these and compare them. I am the only one who has got one.

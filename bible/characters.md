@@ -189,7 +189,9 @@ These are ordinary people, not characters. They exist so that a workplace can be
 | Name | Role | The one detail |
 | --- | --- | --- |
 | **Fenn** | Label-room finisher, overnight shift, first floor | Surname on a badge, never a first name on the page. Has done the work a very long time and hears an open drawer. |
-| **Priest** | Museum night duty manager, freight lift, long nights | Nineteen years in post and has seen everything twice. Tells people the plain version. |
+| **Priest** | Museum night duty manager, freight lift and service desk, long nights | Nineteen years in post and has seen everything twice. Tells people the plain version. **She is the person who names Perry Loach in Chapter 10**, and who tells Elias Loach was on the Sillick job before this place. |
+| **Cliff Sowerby** | Sillick Mill fitter's mate, number 14 Sillick Lane, closed thirty-one years ago | Mended the row's standpipe every autumn for a pint he would not take; the standpipe is dead now and has been charged for twice. A Low Ward neighbour Hattie Bramm mentions in passing. **Deliberately not a second Wendel Case — do not let the name drift into the erasure plot.** |
+| **Callaghan, Cunliffe, Coverley, Crowther** | Four C surnames in the Museum's annual personnel binders, read in Chapter 4 | Two were night porters. None of them is Case. They exist so that the absence has a shape: the record is complete, undisturbed, and has no seam in it. |
 | **Casey** | Formerly of the Saturday school tour's donor office; referred to only as "the Hill office" | Sent an acknowledgement slip and expected to be photographed in the Hall. Not a villain, just a clipboard. |
 | **Wynne Loach** | 34, night bus conductor, Perry's daughter | Carries the working-shift theme into the neighbourhoods. Not yet on the page. |
 | **Doreen Sarn** | 78, retired Sillick Mill pay clerk | Keeps a private notebook and will not surrender it. The independent witness for the true count. Not yet on the page. |

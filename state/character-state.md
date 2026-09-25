@@ -1,6 +1,6 @@
 # Character State
 
-Updated after Batch 0001 (Volume 01, Chapters 1–10). Ages are canon; states are as of the end of Chapter 10 / the top of Sunday 11 October.
+Updated after Batch 0001 (Volume 01, Chapters 1–10) **and after the phase-002 review-fix pass**, which changed no plot beat and no relationship. Ages are canon; states are as of the end of Chapter 10 / the top of Sunday 11 October.
 
 ## Elias Venn, 32
 
@@ -8,23 +8,25 @@ Updated after Batch 0001 (Volume 01, Chapters 1–10). Ages are canon; states ar
 
 **What he wants, on the page.** Still the post and still the letter. But the batch's real movement is that his private wound got outranked in a plastic chair in a municipal library by a fifty-four-year-old woman's nine years of unanswered post, and he has not been able to put it back in its place.
 
-**What he has.** One bounded reading he cannot repeat on purpose. A headcount — ninety-four — that exists in one place only, in a pocket notebook, and is *not* in the shared log, which says *a number*. A hand-written label on a pallet carrying PF 118. Eleven minutes of standing at a shut door that produced no record and nothing at all. Twenty minutes of the corridor he cannot account for, and one notebook entry whose two halves he can no longer order.
+**What he has.** One bounded reading he cannot repeat on purpose. A headcount — ninety-four — that exists in one place only, in a pocket notebook, and is *not* in the shared log, which says *a number*. A hand-written label on a pallet carrying PF 118. Eleven minutes of standing at a shut door that produced no record and nothing at all. Twenty minutes of the corridor he cannot account for, of which **sixteen are in nobody's hand at all**, and one notebook entry in **two visibly different hands** whose order he can no longer recover. A card read at 02:20 on Wednesday night that logged him on a restricted door, and an access log Anja has already put back to him face to face.
 
-**Skill state.** Stage 0 — Nightwatch, with a provisional first demonstration of Stage 1. He can now build the conditions for a bounded contact: cover, clamp, anchor card, written question, written time limit, named cost, witness, stop word, exit. He cannot yet produce the contact on demand, cannot separate an owner's perspective from a fact, and lost two notebook lines in an order he cannot restore. **He has not been promoted. Stage 1 is confirmed in Chapters 11–12, not here.**
+**Skill state.** Stage 0 — Nightwatch, with a provisional first demonstration of Stage 1. He can now build the conditions for a bounded contact: cover, clamp, anchor card, written question, written time limit, named cost, witness, stop word, exit. He cannot yet produce the contact on demand, cannot separate an owner's perspective from a fact, and cannot put the two halves of one notebook entry back in the order he wrote them. **He has not been promoted. Stage 1 is confirmed in Chapters 11–12, not here.**
 
-**Flaw, on the page, three times.** A private second notebook (Ch 2). A false-signed device-book entry, a Saturday-morning half-entry, and a deliberately displaced card (Ch 4, Ch 9). A false maintenance cause signed in his own hand (Ch 9). A withheld number that put *a number* into a shared file where ninety-four belonged (Ch 10) — broken in front of both witnesses, with nothing said by either of them.
+**Flaw, on the page, four times.** A private second notebook (Ch 2). A signed device-book entry with no destination, a deliberately displaced card, and a restricted door card-read for information (Ch 4). A false maintenance cause signed in his own hand (Ch 9). And in Ch 10, **not a lie but something colder**: Mara's own rule — her log takes no bare figure — produces *Result: a number*, correctly, on the evidence he gave her. He had four seconds in which to supply an object and did not, and when she held her hand out for the notebook he gave her an empty one. **Both of his Chapter 9 promises are still literally unbroken**, which is why the thing cannot be unpicked later and why nobody in the building can accuse him of anything.
 
-**Costs unpaid and still owed.** A headache that will not break for two days. Tinnitus. A rope texture across his right palm for a week. A promise in his own handwriting to tell Mara everything, every time, which he has already broken once. A colleague who is a co-defendant twice over because Elias did not ask him for anything.
+**Costs unpaid and still owed.** A headache that will not break for two days — a **new** one, begun 21:41 Saturday, distinct from the eleven-hour-and-a-minute one that began 23:41 Wednesday and broke at 10:40 Thursday. Tinnitus. A rope texture across his right palm for a week. A promise in his own handwriting to tell Mara everything, every time, and to stop at ten minutes when he wrote eleven. A colleague who is a co-defendant twice over because Elias did not ask him for anything. And an entry in his own notebook in a hand he cannot account for.
 
 **What he is frightened of, specifically.** Not the building. That a person can be present, paid, and unlisted for a year and a half, and that everybody who looked at the rota saw nothing, because the rota was right.
 
 ## Mara Iles, 28
 
-**Where she is now.** A shared protocol log in her own hand whose result field says *a number*, initialled and timed, in a file that goes to a Registry observer on Monday. She asked him, once, whether there was anything in the notebook that was not on the page, and he said no. She looked at him for one second longer than she needed to and then scraped the anchor card into her palm and went out.
+**Where she is now.** A shared protocol log in her own hand whose result field says *a number*, initialled and timed, in a file that goes to a Registry observer on Monday — **and that entry is correct.** She asked for the units and the object; he gave her the shape and no object; her rule is that the log takes no bare figure, so she wrote what she actually had, and she did it in front of him. She then put her hand out for the notebook, was given an empty one, and did not ask about it. She asked him, once, whether there was anything in the notebook that was not on the page, and he said no. She looked at him for one second longer than she needed to and then scraped the anchor card into her palm and went out.
+
+**She has done nothing wrong and knows it, which is the problem.** There is no moment in the Chapter 10 scene where she is at fault, and Batch 0002 must not find one. What she has is a result field that says *a number* and a man who said ninety-four, and a professional rule that makes those two facts reconcilable, and a growing suspicion that the reconciling is the point.
 
 **Believes.** A noise is not yet a fact. Documentation can correct the institution. A card is written by a person in a room, and that room is the label room, and if she guesses wrong it costs two people a year.
 
-**Does not yet believe.** That his hearing is contamination, exactly as the character bible has it. What she actually has is a guard with a bleeding nose, a bad explanation, and now a result field that does not match what he said in the room. She has not decided what that is. **Batch 0002 opens on her noticing the gap between what he said at 21:30 and what she wrote, which is nothing — she wrote what she was told. The gap is between 94 and *a number*, and only Elias knows it is a gap.**
+**Does not yet believe.** That his hearing is contamination, exactly as the character bible has it. What she actually has is a guard with a bleeding nose, a bad explanation, and a result field that is one word shorter than the room was. She has not decided what that is. **The gap is between 94 and *a number*, and only Elias knows it is a gap — and, after the re-cut, only Elias knows there was anything to hide at all.** Mara's honest position is that she wrote down correctly what she was told, and she is right about that.
 
 **Wants from him.** The result in the shared log in her hand exactly as it comes; and everything, every time. Both agreed in writing on Saturday afternoon. The first is already broken. The second is about to be tested.
 
@@ -32,7 +34,7 @@ Updated after Batch 0001 (Volume 01, Chapters 1–10). Ages are canon; states ar
 
 ## Ivo Pell, 25
 
-**Where he is now.** Not rostered Saturday, in on a favour, and out at midnight. He built the cover, the clamps, the anchor card, the five-line protocol, and the stop word. He took the private duplicate notebook out of Elias's hand and handed it back and said, in effect, that Elias is building a set of books he alone can revise.
+**Where he is now.** On his own Saturday systems day, in his own workshop, with a cover cut and clamps in a bag and a jar of salt and ash he made on Thursday night in his own flat. He had already been in on the Friday controller and gone home at 00:35. He built the cover, the clamps, the anchor card, the five-line protocol, and the stop word — and, on Thursday, made Elias say the corridor arrangement out loud in the security room before agreeing to it, so that it could be repeated back to somebody later. That was his price and it was not a favour. He took the private duplicate notebook out of Elias's hand and handed it back and said, in effect, that Elias is building a set of books he alone can revise.
 
 **What he is frightened of.** Not the corridor. Losing his sister, who has a chronic chest and no lungs to speak of. He is behind on sleep before Elias asks him for anything, and he has said so once, in his own voice, and did not labour it.
 
@@ -76,9 +78,16 @@ Not yet on the page. **Wynne Loach is Perry's daughter**, not Ivo's sister; Ivo'
 
 One telephone call, three untruths, and a promise extracted without her asking: *there is nothing in the world you cannot tell me, love.* The letter is eighteen years old and has been taken out and put back so often the fold holds itself. She has now been asked about it three times in a week and has still not handed it over, and she is right not to.
 
+## Minor working people, unchanged by the review-fix pass
+
+- **Fenn** — label-room finisher, overnight. Surname on a badge, fifty-five or so, remembers a stranger in the drawers.
+- **Priest** — Saturday night duty manager, nineteen years in post, on the freight lift and at the service desk. **She is the person who names Perry Loach in Chapter 10** and who tells Elias Loach was on the Sillick job before this place. The chapter had drifted to an unnamed service-desk woman; it is Priest.
+- **Cliff Sowerby** — Sillick Mill fitter's mate, number 14 Sillick Lane, mended the row's standpipe every autumn for a pint he would not take. Added in the review-fix pass to replace an accidental second Wendel Case in Chapter 6. **A neighbour, not a thread.**
+- **Callaghan, Cunliffe, Coverley, Crowther** — the four C surnames in the Museum's personnel binders, Chapter 4. Two were porters. None is Case.
+
 ## Relationships, end of batch
 
-- **Elias / Mara:** adversarial professional respect. A protocol and two conditions, one of which is already broken. No intimacy, no romance, and the reader should feel the professional stake as the only thing on the table.
+- **Elias / Mara:** adversarial professional respect. A protocol and two conditions, **both of which are still literally unbroken and both of which have already been used against her.** No intimacy, no romance, and the reader should feel the professional stake as the only thing on the table.
 - **Elias / Ivo:** working friendship, and now complicity. Ivo is the first collaborator and the first person to name the flaw out loud. Ivo has never been asked for anything, which is the flaw's mechanism.
 - **Elias / Dael:** deferred-to becoming managed. Dael assigns him to the service-lane cameras as an instruction and then files what Elias signs. The institution can lie in its own handwriting, and Elias has now signed it.
 - **Elias / Hattie:** a debt, unacknowledged, four miles from a bell.

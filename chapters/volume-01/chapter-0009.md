@@ -40,7 +40,9 @@ He read the last line and thought: he is asking me to put my name at the end of 
 
 "And if somebody went down that corridor?"
 
-"Then the sheet's got a hole in it and I have to explain a hole." Dael looked at him. "You were on the door. Was anybody in the corridor between twenty to twelve and twenty-eight past?"
+"Then the sheet's got a hole in it and I have to explain a hole." Dael looked at him. "You were on the door. Was anybody in the corridor at all, and I'll give you the minutes because I have got them — twenty to twelve to twenty-eight past?"
+
+Elias worked out, in about half a second, that Dael had not picked the window at random. Those were the sixteen minutes the systems print could not account for inside a forty-seven-minute outage, and it was exactly the window a man would be standing in a corridor in, and it was the one window in the whole night that a systems print had any reason to be strange about.
 
 The security room was very quiet. There was a folder on the desk. There was a book on the table by the tray in the next room with Elias Venn's name in it in two columns and a duty manager's initials beside the 02:41, a drawer away, and Dael Ordway, who signed out that book and read it every month, had not mentioned it, and neither had Elias.
 
@@ -54,7 +56,7 @@ Elias Venn read a false cause, and understood exactly which four words of it wer
 
 ---
 
-"You're not rostered till seven tonight."
+"You're not on till seven tonight."
 
 "I know."
 
@@ -124,11 +126,11 @@ And he stood on the landing and let it be the end of the call, and it was, and t
 
 ---
 
-Ivo's workshop was a cupboard under the loading bay stairs with a bench in it, a vice, a pillar drill with a belt-driven motor, and a wall of small drawers that made the label room look like a library. Ivo was in there at ten past ten on a Saturday morning, on a Saturday he was not rostered for, on his own time, having come in on the Friday controller and been sent home at five minutes past midnight.
+Ivo's workshop was a cupboard under the loading bay stairs with a bench in it, a vice, a pillar drill with a belt-driven motor, and a wall of small drawers that made the label room look like a library. Ivo was in there at ten past ten on a Saturday morning, in the middle of his own systems day, on a Saturday he was not rostered for the floor and had come in anyway, having finished the Friday controller and gone home at five minutes past midnight.
 
-"You're not on today."
+"You're not on the floor tonight."
 
-"I'm not on today." Ivo had a piece of painted sheet steel on the bench, about a metre square, and had already cut it and folded the corners over. "Cover. It goes over the case, it doesn't touch the plinth, and the clamps hold it to the case surround so if anybody comes in they can see at a glance what's happening and why. Do you know why that matters?"
+"I'm not on the floor tonight." Ivo had a piece of painted sheet steel on the bench, about a metre square, and had already cut it and folded the corners over. "Cover. It goes over the case, it doesn't touch the plinth, and the clamps hold it to the case surround so if anybody comes in they can see at a glance what's happening and why. Do you know why that matters?"
 
 "Because it's a Saturday and there's a school group."
 
@@ -144,7 +146,7 @@ Elias sat down on an upturned crate.
 
 "How long does it hold?"
 
-"It doesn't hold. It shows." He tapped the jar. "It'll show a pull. Somewhere in the room, something will bend, and the ash goes first, and then you go. That's it. That's the whole invention. It's a line in the sand that you made yourself, in a building where nobody has drawn a line in the sand for you since 1961, and you take it away when you go, and you throw it away. It's rubbish. It's a thing to do so that stopping has a shape."
+"It doesn't hold. It shows." He tapped the jar. "It'll show a pull. Somewhere in the room, something will bend, and the ash goes first, and then you go. That's it. That's the whole invention. It's a line in the sand that you made yourself, in a building where nobody has drawn a line in the sand for you in your working lifetime, and you take it away when you go, and you throw it away. It's rubbish. It's a thing to do so that stopping has a shape."
 
 The cover took him most of an hour. They worked on it and did not talk about the twenty minutes.
 
@@ -228,9 +230,21 @@ He had the notebook out. He wrote down the two conditions, and the date, and the
 
 Mara Iles gave him a look that lasted exactly as long as it needed to.
 
-"Ten minutes," she said. "Write that down as well, and not one minute more than ten, because I have read what a man in a bad night does to a clock and I am not doing it again in this building. And Elias—"
+"Ten minutes," she said. "Write that down as well, and not one minute more than ten, because I have read what a man in a bad night does to a clock and I am not doing it again in this building."
 
-"Yes."
+He wrote **TEN MINUTES** on the card under the five lines, in pencil, and read it back.
+
+Then he rubbed it out and wrote **11 MIN** instead.
+
+"Eleven."
+
+"You said ten. I'll stop at ten." He put the pencil down and then picked it up again. "Write it as eleven. Because I am not going to stop at ten, I already know that, and if your book says ten then the first thing anybody reads when this goes wrong is that I overran. If your book says eleven, the first thing anybody reads is that I overran. I would rather have a number on your page that I have to argue with than one I agreed to in advance and then broke quietly."
+
+Mara Iles looked at the card for a second and a half.
+
+"That is either the most honest thing you have said to me this week, or a very good way of making sure nobody can pin the exact minute on you." She wrote the time limit on the back of her own copy in her own hand. "I am going to write eleven. And you are going to stop at ten, because that is what you have just promised me, and the eleven is only there in case you don't."
+
+"And Elias—"
 
 "You have understood what you have just promised me?"
 
@@ -240,6 +254,6 @@ Elias Venn looked at the bench, at the five lines, at the cover and the clamps a
 
 ---
 
-He went back on at eight and did the round. He did the Hall. He put the light on plinth thirty-four and stood in front of it and did not touch it and did not go near it, because he had made a promise on a landing in the middle of the morning about how it was to be done, and he was not going to start by cheating the first hour.
+He went back on at half past seven and did the round. He did the Hall. He put the light on plinth thirty-four and stood in front of it and did not touch it and did not go near it, because he had made a promise on a landing in the middle of the morning about how it was to be done, and he was not going to start by cheating the first hour.
 
 At 20:50 on Saturday night the building filled up around him, the way it always did on the one night of the week everybody was in it, and Elias went down to the workshop to get the cover, and Ivo was already there, and the clamps were in a bag, and the anchor card was in an envelope, and somewhere on the first floor a conservator was working late with the door open because it was the only evening she had.

@@ -16,7 +16,11 @@ The conservation lights in the Hall were on, low, and the room looked like a dif
 
 "What's wrong with it?"
 
-"Two dates and a gap." She put her finger under the second line. "Cast 1902. Acq. 4471 over B. A four-four-seven-one in the two-thousands means the object entered the collection in the year the number was issued, which is 1902. So somebody is telling me a bell was cast in 1902 and acquired in 1902. And then the next line says it was recovered on the closure of a works, which means it was acquired in the year the works shut." She took her finger off the glass. "So either this bell was cast and acquired in the same twelve months, or the acquisition number is a lie, or the closure is. And there is no textile works in Low Ward that closed in 1902, Elias, there is no textile works in Low Ward that was *casting* in 1902, and I've read the Low Ward series list and that is a series which begins in 1961."
+"Two dates and a gap." She put her finger under the second line. "Cast 1902. Acq. 4471 over B. And then the next line says it was recovered on the closure of a works, which is a second date the label will not give you, and there is no textile works in Low Ward that closed in 1902, Elias, there is no textile works in Low Ward that was *casting* in 1902. The Low Ward series is the shallowest thing we hold. It was opened in 1961, it is not a deep series, and I have read every box of it." She took her finger off the glass. "So the label has cast it in 1902, acquired it in an unknown year, and put it in a series that did not exist for fifty-nine years after the casting. One of those three is a lie and the one lying is the middle one, because it is the only one of the three that anybody typed."
+
+"That's the number."
+
+"That is the number." She looked at him. "And I will tell you the shape of it, because you are going to go and look. A Museum accession is a year, then letters, then a number. Nineteen sixty-one, slash L-W, slash forty-four. That is a Low Ward series item and you could read it out in a telephone call. And the year on the front of a Low Ward reference is the year the *series* was opened, not the year the object came in — district holdings are catalogued by district, not by date, which is why nobody in this building has ever been able to date a Low Ward box off its own label, and which is why that box of Sillick papers will tell you it is item forty-four and nothing else. Four-four-seven-one over B is not that shape at all. It has no year and it has one letter where the form wants two, and there is no series in this building that has ever been written like it, and there is no year I can put to it that is not a lie."
 
 "Which one do you think it is?"
 
@@ -62,9 +66,9 @@ She got the red-ended torch and put it flat against the side of the case and rak
 
 "Because you say it sounds."
 
-"You heard the case for a good quarter of an hour on Tuesday."
+"You heard the case for a good quarter of an hour on Wednesday."
 
-"No," Mara said. "You watched a case for a quarter of an hour on Tuesday. You watched it in the dark, on a monitor at half brightness, in a hall with fifty other objects in it, and a bell that makes a sound in a hall that is not making any other sound is a thing that every old building in this city has a perfectly good explanation for, and you have one, and it is on the wall, and it is written on official paper by men whose job it is to know." She picked up her cloth. "I'm not saying it isn't making a noise. I'm saying that a noise is not yet a fact, and if you take a noise to a room full of people who have to answer for the room, you had better have something under it besides your word and my inability to find a file."
+"No," Mara said. "You watched a case for a quarter of an hour on Wednesday. You watched it in the dark, on a monitor at half brightness, in a hall with fifty other objects in it, and a bell that makes a sound in a hall that is not making any other sound is a thing that every old building in this city has a perfectly good explanation for, and you have one, and it is on the wall, and it is written on official paper by men whose job it is to know." She picked up her cloth. "I'm not saying it isn't making a noise. I'm saying that a noise is not yet a fact, and if you take a noise to a room full of people who have to answer for the room, you had better have something under it besides your word and my inability to find a file."
 
 "I have my word."
 
@@ -128,7 +132,7 @@ She wrote for another few seconds. "Right," she said. "That's all. Go and sit on
 
 She picked up the tray and went out, and he heard her heels go away across the terrazzo and stop by the door and start again, and then the service door shut, and he was alone in the Hall of Former Faiths with a bell he had not touched and a nose he had not cut and a headache that came in under the ear and settled.
 
-It did not break. That was the part he wrote down later, in the notebook, in the small hours: that it stayed in the same place at the same level all the way through Thursday's daylight, through the whole of Thursday, unbroken, for eleven hours, so that on Thursday morning he was sitting on the edge of his bed in the room above the laundrette with his mother two floors down and the daylight coming off the river onto the wall, and he was quite certain that something in his jaw had come loose and could not be got back into place.
+It did not break. That was the part he wrote down later, in the notebook, in the small hours: that it stayed in the same place at the same level and did not shift once, and that it was still there on Thursday morning when he got off the bed, and that by then it had stopped being a thing that was happening to him and become a thing he was carrying.
 
 He did not write down the gate. He did not write down the rain, because there was no rain in that hall. He did not write down that somewhere under a voice reading figures there had been a total he could not catch, because a man who writes that down has to say what a total is for, and he had nothing to put it against.
 
@@ -140,7 +144,7 @@ He wrote:
 
 > The bell did not make a noise. A man said numbers. I could not get the total.
 
-> Head. Left ear. Continuous since 23:41, now 00:20, no change.
+> Head. Left ear. Continuous since 23:41, now 00:20, no change. Clock from here, not from when it stops.
 
 He read the last line twice, and it was true, and he thought — as he closed the notebook, as he had thought on Tuesday about a note in a log — that if he was careful, if he was this careful, for long enough, then nobody would ever be in a position to tell him what he was allowed to know.
 

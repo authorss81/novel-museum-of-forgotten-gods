@@ -1,6 +1,6 @@
 # Chapter 0005 — One Frame Short
 
-The headache had gone at twenty past to eleven on Thursday morning, in a shop on Lantern Row while Elias waited for a woman to mend the strap of his rucksack, and it had left without so much as letting him know it was going.
+The headache had gone at twenty to eleven on Thursday morning, in a shop on Lantern Row while Elias waited for a woman to mend the strap of his rucksack, and it had left without so much as letting him know it was going. Eleven hours and a minute, and the last thing he had done about it was write down the time it started, because a cost you cannot time is a cost nobody has to believe in.
 
 That was the part he could not put down. Not the pain. A pain that stopped was a body. A thing that stopped arriving at the end of a sentence you had not finished being told, without a headache in between, was a sentence you had not finished being told.
 
@@ -60,15 +60,7 @@ Pension standard, union subs. Eighteen months of them. Which meant that once a m
 
 Elias put his finger on the line and looked at it for a long time, and then he said the thing out loud in an empty room, because that is how you find out whether you believe something.
 
-"The deduction means he existed."
-
-"Yes."
-
-"The deduction means money moved."
-
-"Yes."
-
-"It doesn't mean this building's books ever carried him."
+"The deduction means he existed. It means money moved. It doesn't mean this building's books ever carried him."
 
 "No," said Ivo. "No, it doesn't."
 
@@ -78,7 +70,7 @@ Elias had spent two years being paid to be the man who notices. He had never onc
 
 ---
 
-The lockers were in the basement under the stair, forty-one of them in two rows, and they were numbered, and the numbers were on a card by the door that had not been reprinted since the building opened.
+The lockers were in the basement under the stair, forty-one of them in two rows, numbered from sixty-one to a hundred and one, and the numbers were on a card by the door that had not been reprinted since the building opened.
 
 He went down with a torch and found it on the second try, because he had looked at the card and there was a gap in it.
 
@@ -96,7 +88,7 @@ Elias stood in the basement under the stair and put the torch into it and looked
 
 He thought about it on the stairs afterwards, and this is the part that frightened him, and it is not the tin of tea: it is that in two years of walking past that card, of reading that card every single night on the way to the door he was about to lock, he had read a gap and had seen a gap, and had seen it the way you see a missing tile.
 
-There had been a hundred and forty-one other lockers. There had been a card. There had been a number between two other numbers, and it had been perfectly reasonable to read straight over it, because that is what a card of forty-one numbers is for, and because the numbers either side of it had been there every night for two years and had never changed and were never going to change.
+There had been forty other lockers. There had been a card. There had been a number between two other numbers, and it had been perfectly reasonable to read straight over it, because that is what a card of forty-one numbers is for, and because the numbers either side of it had been there every night for two years and had never changed and were never going to change.
 
 Nothing about the erasure had been hidden from him. That was the discovery, and it sat on the stairs: a person with a login and eighteen months and a legitimate reason had deleted a line from a system, and the deletion had propagated to a payroll terminal and an archive index and a sign-out book, and it had propagated as far as a printed card on a wall, and it had stopped there, and the reason it had stopped there is that a museum does not clear out a dead man's locker unless somebody asks it to, and nobody ever asked it to, because asking would have made a record, and that is the one thing in this building that nobody has ever wanted.
 
@@ -114,9 +106,9 @@ At 01:12 on fourteen nights, a man in a dark coat with a lantern came the length
 
 Ten of the fourteen. On two nights there was nothing at all. On two nights — the ninth and the eleventh, both Fridays, both within the last fortnight — the shape was there, coming down the corridor, and at the moment it should have been fully in frame it was half in frame, and then it was a different half in frame, and the middle was a smear of about a fifth of a second in which the recording had apparently lost its confidence.
 
-Elias wrote the times out. 01:12:41. 01:12:52. 01:12:48.
+Elias wrote the times out. 01:12:41. 01:12:44. 01:12:42. 01:12:45. 01:12:43.
 
-They were all within four seconds of each other and the smear was in the same four-second window every time, which meant it was not a person moving badly. It was a camera doing something, on a schedule, at the moment a man walked past the angle that the lens likes least.
+All of them inside four seconds of each other, on five different nights, by a man who is a shape and not a clock. And the smear was in the same four seconds every time, in the same place in the frame, which meant it was not a man moving badly. It was a camera doing something, on a schedule, at the moment a man walked past the angle that the lens likes least.
 
 Retention artifact. Frame rate dropped for maintenance to fit the buffer. The wall of the corridor at that angle is a white lime wall and the system was doing what systems do to a white wall.
 
@@ -172,15 +164,17 @@ Ivo turned his head and looked at him for a moment. Then he sat forward with his
 
 Ivo was quiet for a long moment. The fans came on a floor up and went off again.
 
-"You said *before I start*," he said. "You said the eleven minutes."
+"I want it said out loud," he said. "Not on paper. In this room, now, so that if it goes wrong I can stand in a corridor and repeat the words back to somebody and get the same answer."
 
-"You said the eleven minutes."
+Elias looked at him.
 
-"Right." He stood up and took his toolbag and swung it over his shoulder. "Two conditions. You go first, and you come out first, and you don't touch a single thing in there, and if I say *fault* you are already on your way out and you don't stop to ask why. That's it. I don't care about the door. I care about the ten minutes afterwards, when I'm standing in a corridor on my own with a fault on the panel that I've agreed not to write down, and a fault on a panel is the only evidence there is, and it evaporates at the end of the shift."
+"Two conditions, then," Ivo said. "You go first, and you come out first, and you don't touch a single thing in there, and if I say *fault* you are already on your way out and you don't stop to ask why. That's it. I don't care about the door. I care about the ten minutes afterwards, when I'm standing in a corridor on my own with a fault on the panel that I've agreed not to write down, and a fault on a panel is the only evidence there is, and it evaporates at the end of the shift."
 
-"Agreed."
+"Said out loud," Elias said. "In this room. Agreed."
 
 "Twenty-two fourteen, then. That one's due about now. That one's actually due, look at the panel, she's off the top."
+
+He was already on his feet and had the toolbag over his shoulder when he said it.
 
 ---
 
@@ -256,9 +250,15 @@ And he shut the notebook, and leaned back in the chair, and turned his head, bec
 
 The case was in the frame the whole time. He had not touched it. The case had a grey rectangle in it and a green telltale at the base and a seal Elias had checked at the start of the watch and could see across the room, and the note came out of it, and the hall did not get quiet first, and the hall did not get quiet after.
 
-He never got an answer to that one, and he turned it over for a week afterwards in a dozen different shapes. The one he settled on, and then unsettled, and then settled on again, was that it came at 00:05 because he had stopped looking.
+He never got an answer to that one.
 
-Seven minutes. He had seven minutes of the night in front of him and a notebook in his coat and a thing in it he had not written down, because he had not been able to, because you cannot write down the reason a thing happened when the reason is that you wanted it to.
+That was the honest position and he held it for a week afterwards, and it is worth being exact about how he held it, because the shape of it is the shape of his week. He had three times in a notebook and no schedule. He had put the Hall monitor on plinth thirty-four at twenty to twelve and sat in front of it for twenty-five minutes, and it had not come. Then he had written a null result in capitals, which is a thing you do to be fair to the record, and forty seconds after he had shut the notebook it had made a noise with the case in frame and nobody near it.
+
+It could have been late. It could have been that a thing which only happens when you are not looking is a thing that happens when you are not looking, and there is no way on this earth to write that down in a column headed *time / location / observation / action* without inventing a reason a thing happened when the reason is that you wanted it to. It could equally have been coincidence, and he wrote that down too, and did not believe it, and left it in the notebook anyway because a notebook with only the conclusions you like in it is a list of wishes.
+
+So the two possibilities sat side by side in him for the rest of the night, and neither of them was going to be resolved by a man with a swivel chair, and both of them had exactly the same consequence for Monday morning: there is no schedule to log. A schedule could be written down and handed to somebody. This cannot, and a thing that cannot be written down cannot be reported, and that is the whole of his problem.
+
+Seven minutes. He had seven minutes of the night in front of him and a notebook in his coat, and the only thing he wanted to put in it was the reason, and there was no column for that.
 
 He wrote, at 00:12, on the line under the capitals:
 

@@ -12,7 +12,7 @@ He worked the paint out with the blade, corner by corner, and scraped the crust 
 
 It clicked. He pulled it again to be sure, and it clicked.
 
-Nineteen fifty-one, ten minutes after he had signed on. He wrote it in the security log as *FoF door, strike plate re-set, screw into sound timber* and added the time, because a fault with no time on it is a fault with no end on it.
+Nineteen fifty-one, eleven minutes after he had signed on. He wrote it in the security log as *FoF door, strike plate re-set, screw into sound timber* and added the time, because a fault with no time on it is a fault with no end on it.
 
 ---
 
@@ -121,7 +121,7 @@ At 02:52 the bell on plinth thirty-four gave one note.
 
 ---
 
-He did not run. He want to say that afterwards, and it is true: he did not run, because there was nothing to run toward. A noise in a closed building is a noise. It is the oldest thing he knew about his job, and the whole of the craft is refusing to turn a sound into an event before you have seen the event.
+He did not run. He wants to say that afterwards, and it is true: he did not run, because there was nothing to run toward. A noise in a closed building is a noise. It is the oldest thing he knew about his job, and the whole of the craft is refusing to turn a sound into an event before you have seen the event.
 
 So he came down the row at his ordinary pace, and he did not turn the torch on, because a torch would have spoiled his night vision, and the hall's own cove lighting was more than enough to see by.
 

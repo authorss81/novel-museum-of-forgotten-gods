@@ -16,7 +16,7 @@ Elias stood in the rain and read the name twice, and understood that the paper i
 
 The Sillick Lane branch library opened at nine on a Friday and by nine twenty the back room was full. Not a demonstration. A queue, with tickets, and a folding table with a jug of water on it, and a woman at the table writing down names and addresses in a hard hand while a younger woman with a laptop read the letters out loud to whoever had come to the front.
 
-Elias had never seen an unpaid-bills queue in his life. He had read about hardship in a laundrette for eighteen years, sitting on a bench while a woman took a boy's chest in and out of a machine.
+Elias had never seen an unpaid-bills queue in his life. He had read about hardship in a laundrette for eighteen years, sitting on a bench by the door while a woman took washing out of a machine and put it on a trolley and counted the coins.
 
 He stood at the back for twenty minutes and watched the room work. That was the room, the queue, the hard hand, the letters read out loud, the jug of water. There were eleven people waiting. Two had come with a warrant threat they were going to be late on. One had a bag of paperwork she had brought in a wheelie bag and had been told to take it away. Nobody was shouting. The woman with the laptop had the flat affect of somebody who had read a hundred of these and still had not got used to them.
 
@@ -48,7 +48,7 @@ Hattie Bramm's hand did not stop, but it slowed, which was more information than
 
 "You know him."
 
-"I don't know *him*. I know a Wendel." She pulled a folder towards her out of the pile and did not open it. "Wendel Case, he was at number fourteen, he was a fitter's mate at the dye house, and he did this every autumn — the stopcock on the standpipe, the one at the bottom of the row, he used to do it for a pint and never take it, and there were six of us on that row and none of us thought that was remarkable, he just did it. And the standpipe's been dead three winters. Somebody put a different one in and charged us for it."
+"I don't know *him*. I know a Sowerby." She pulled a folder towards her out of the pile and did not open it. "Cliff Sowerby, he was at number fourteen, he was a fitter's mate at the dye house, and he did this every autumn — the stopcock on the standpipe, the one at the bottom of the row, he used to do it for a pint and never take it, and there were six of us on that row and none of us thought that was remarkable, he just did it. And the standpipe's been dead three winters. Somebody put a different one in and charged us for it."
 
 Elias put his hands flat on his knees so that they would stay still.
 
@@ -168,7 +168,7 @@ He left at 12:20 with three things and no photographs, which was a first in his 
 
 He had the shortfall list: sixty-one, and the fact that the mill's own sheet had gone into a museum on the hill.
 
-He had number fourteen, Sillick Lane, and the fact that a fitter's mate had mended a standpipe every autumn for a pint he would not take, and that the standpipe was dead now, and that nobody at the top of that street had any idea that was a fact worth keeping.
+He had number fourteen, Sillick Lane, and the fact that a fitter's mate called Cliff Sowerby had mended a standpipe every autumn for a pint he would not take, and that the standpipe was dead now, and that nobody at the top of that street had any idea that was a fact worth keeping.
 
 And he had a woman with nine years of letters in a folder on a table, who was going to write to him, because he had not given her a name and she was going to find one, and who was going to be right when she did.
 
