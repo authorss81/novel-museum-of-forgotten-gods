@@ -4,7 +4,7 @@ He had Friday daytime off, which meant he had Friday daytime in which nobody wou
 
 The tram took forty minutes down to the Low Ward loop and the stop was at the top of Sillick Lane, and Elias got off and stood for a moment on the pavement in the rain looking at the wrong side of the street.
 
-He had got the street out of the back of the binder, the posting sheets, not the personnel files. Grade-two porters, Museum payroll, 2001 through 2012: correspondence address, every single one, the same twelve words, *c/o Museum letting, Sillick Lane, Low Ward*. The Museum had rented the mill's porters' row for a decade and put its own address in front of it, and the row had gone to tenancies after that, and the tenancies had gone three times over.
+He had got the street out of the posting sheets, out of the card index tied into the level-two binders, on Thursday night, standing up, the way he had got everything else that week. Grade-two porters, Museum payroll, 2001 through 2012: correspondence address, every single one, the same twelve words, *c/o Museum letting, Sillick Lane, Low Ward*. The Museum had rented the mill's porters' row for a decade and put its own address in front of it, and the row had gone to tenancies after that, and the tenancies had gone three times over.
 
 He had not expected it to help. He had expected a row of doors. Instead there was a street with the tram on one side and a low wall on the other, and a laundrette, and a shuttered shop, and about forty flats above them with washing out, and a queue of people at the library door.
 
@@ -70,7 +70,7 @@ She took a breath and sat back. "Sixty-one. That's what's on the list. Sixty-one
 
 "Was there a count?" Elias said. "Of how many actually worked there? I've seen a mill headcount. There's usually—"
 
-"You weren't saying a number, love." She turned the folder again so it faced her. "Sixty-one, and it's a *pay* number, not a head count, and I've had it for nine years, and it's a pay number because the mill never had anything else. No count of us. No list of who was in which room. Nothing. Just what we were each paid and what we were each owed, on the last day, by a foreman with a book, and then a cheque list on the Friday."
+"You weren't saying a number, love." She turned the folder again so it faced her. "Sixty-one, and it's a *pay* number, not a head count, and I have had it since the year it happened, and it's a pay number because the mill never had anything else. No count of us. No list of who was in which room. Nothing. Just what we were each paid and what we were each owed, on the last day, by a foreman with a book, and then a cheque list on the Friday."
 
 "It was the closing day. The last day. That's when—"
 
@@ -164,7 +164,7 @@ Elias sat there in the plastic chair and felt a thing he had not been expecting 
 
 ---
 
-He left at 12:20 with three things and no photographs, which was a first in his week.
+He left at 12:20 with three things and no photographs, which was a first in his week. He would have stayed. There were nine people behind him in that room and the folder was not finished, and Hattie Bramm had not once looked at the door — and he was on at seven that night and the tram took forty minutes each way, and a man who wanted more out of this room than the room had to give would have had to buy it with the only thing he had left, which was her morning.
 
 He had the shortfall list: sixty-one, and the fact that the mill's own sheet had gone into a museum on the hill.
 
@@ -172,4 +172,4 @@ He had number fourteen, Sillick Lane, and the fact that a fitter's mate called C
 
 And he had a woman with nine years of letters in a folder on a table, who was going to write to him, because he had not given her a name and she was going to find one, and who was going to be right when she did.
 
-He got the tram back at 12:34 and was on the hill by one, and slept for two hours, and was in the Museum at ten to seven with a bell on plinth thirty-four, a card in a drawer a storey above him with a name under the ink, and a Museum catalogue number he could look up on the terminal before seven, which was the sort of thing that took nine seconds and which he had spent all day on a tram being told could not be had.
+He got the tram back at one and was on the hill by twenty past, and slept for two hours, and was in the Museum at ten to seven with a bell on plinth thirty-four, a card in a drawer a storey above him with a name under the ink, and a Museum catalogue number that would take him nine seconds on a terminal, which was the sort of thing he had spent all day on a tram being told could not be had.

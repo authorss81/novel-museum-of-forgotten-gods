@@ -4,7 +4,7 @@ At ten past ten on Wednesday the treatment rooms upstairs were finishing, and th
 
 She had a cloth over her forearm. She had a small torch with a red end. She had the manner of a woman who had been interrupted in something careful and had decided to be extremely fair about it.
 
-"Twenty minutes," she said. "I'm not being kind to you. I'm being kind to the object. If you're going to stand in front of it at two in the morning anyway, you may as well look at it properly, because a man who has looked at a thing properly is very much harder to frighten with it later."
+"Twenty minutes," she said. "I'm not being kind to you. I'm being kind to the object. If you're going to stand in front of it at half past ten at night anyway, you may as well look at it properly, because a man who has looked at a thing properly is very much harder to frighten with it later."
 
 "That was not what I—"
 
@@ -12,11 +12,11 @@ She had a cloth over her forearm. She had a small torch with a red end. She had 
 
 The conservation lights in the Hall were on, low, and the room looked like a different animal. Under proper light the bronze on plinth thirty-four was the colour of a wet coin, and the case top threw its own reflection back at them, and Mara went down the row with her eyes on the labels until she found the one she wanted and stood in front of it with her head on one side.
 
-"Right. First: this label is not written by me. I know the type. I have made four hundred of them." She read it out with no inflection at all. "Tally bell. Cast 1902, bronze. Recovered on the closure of a textile works, Low Ward. Acq. 4471 over B. Unremarkable industrial object, retained for completeness of the Low Ward series. That's the whole text. That's a label somebody sat down and chose."
+"Right. First: this label is not written by me. I know the type. I have made four hundred of them." She read it out with no inflection at all. "Tally bell. Cast 1902, bronze. Recovered on the closure of a textile works, Low Ward, used to call the shift to work. Acq. 4471 over B. Municipal Works, unremarkable industrial object, retained for completeness of the Low Ward series. That's the whole text. That's a label somebody sat down and chose."
 
 "What's wrong with it?"
 
-"Two dates and a gap." She put her finger under the second line. "Cast 1902. Acq. 4471 over B. And then the next line says it was recovered on the closure of a works, which is a second date the label will not give you, and there is no textile works in Low Ward that closed in 1902, Elias, there is no textile works in Low Ward that was *casting* in 1902. The Low Ward series is the shallowest thing we hold. It was opened in 1961, it is not a deep series, and I have read every box of it." She took her finger off the glass. "So the label has cast it in 1902, acquired it in an unknown year, and put it in a series that did not exist for fifty-nine years after the casting. One of those three is a lie and the one lying is the middle one, because it is the only one of the three that anybody typed."
+"Two dates and a gap." She put her finger under the third line. "Recovered on the closure of a textile works, Low Ward. That is a second date and the label will not give it to you, and there is no textile works in Low Ward that closed in 1902, Elias, there is no textile works in Low Ward that was *casting* in 1902. And the Low Ward series is the shallowest thing we hold — it was opened in 1961, it is not a deep series, and I have read every box of it." She took her finger off the glass. "So the label casts it in 1902, closes a works in some year it will not name, and files the result in a series that did not exist for fifty-nine years after the casting. Three claims. And the only one of the three that anybody typed is the accession number, and the accession number is not a Museum number in any form."
 
 "That's the number."
 
@@ -76,7 +76,7 @@ She got the red-ended torch and put it flat against the side of the case and rak
 
 She went out through the service door with her key and her torch and her cloth, and left Elias standing in a lit hall with a bell on plinth thirty-four and two hours of the night still in front of him.
 
-She came back at ten to midnight with a grey archival tray, the kind you carry paper in, and said she had left it on the bench by the door for the tape repair, and went out again.
+She came back at ten to midnight with a grey archival tray, the kind you carry paper in, and said she had left it on the bench by the door for the tape repair, and went out again for the rest of it.
 
 ---
 
@@ -88,7 +88,7 @@ It was not loud in the way a sound is loud. It was loud the way a thing is loud 
 
 A voice. Not in the room. A man's voice, middle-aged or older, flat with cold and tiredness, outdoors, and he was calling integers out loud, one after another, up a line, the way a man reads a line of figures off a board, and he was doing it a thousand times in a second, or the same second over and over, so that all that came through was the shape of it and not the content: a voice used to being heard over machinery, a gate in the rain, water on stone, a smell of wet wool, and figures, figures, figures, and then at the end of the run a total, and the total was there and he did not have it, it went past the place in him where numbers went, the way a name goes when somebody else shouts over it.
 
-Four seconds. He knew it was four seconds afterwards because his own watch, when he came back, had a hand across eight of the small marks, and he had not been anywhere near it.
+Four seconds. He knew it was four seconds afterwards because his own watch, when he came back, was sitting on a mark he did not remember passing, and he had not been anywhere near it.
 
 His hands were on the case glass, both of them, spread, and he did not remember deciding to put them there.
 
@@ -102,7 +102,7 @@ Mara put the tray down. She came across, took his chin, turned his face to the l
 
 "I opened the case."
 
-"You did not open the case. The seal is intact and I have been looking at it for twenty minutes." She took a paper towel from her coat and gave it to him. "Now. From the top. What happened?"
+"You did not open the case. The seal is intact, and I have had my eye on it since I went down to the workshop for the tray." She took a paper towel from her coat and gave it to him. "Now. From the top. What happened?"
 
 "A sound."
 
@@ -132,7 +132,7 @@ She wrote for another few seconds. "Right," she said. "That's all. Go and sit on
 
 She picked up the tray and went out, and he heard her heels go away across the terrazzo and stop by the door and start again, and then the service door shut, and he was alone in the Hall of Former Faiths with a bell he had not touched and a nose he had not cut and a headache that came in under the ear and settled.
 
-It did not break. That was the part he wrote down later, in the notebook, in the small hours: that it stayed in the same place at the same level and did not shift once, and that it was still there on Thursday morning when he got off the bed, and that by then it had stopped being a thing that was happening to him and become a thing he was carrying.
+It did not break. That was the part he wrote down later, in the notebook, in the small hours: that it stayed in the same place at the same level and did not shift once, and that it was still there on Thursday morning when he finally got off the bed, and that by then it had stopped being a thing that was happening to him and become a thing he was carrying.
 
 He did not write down the gate. He did not write down the rain, because there was no rain in that hall. He did not write down that somewhere under a voice reading figures there had been a total he could not catch, because a man who writes that down has to say what a total is for, and he had nothing to put it against.
 

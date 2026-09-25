@@ -1,6 +1,6 @@
 # Chapter 0007 — The Roster
 
-Ten past seven on Friday, and Elias Venn put the words *Sillick Mill* into a terminal and the Museum gave them back to him in four seconds, which was nine seconds less than the tram.
+Ten past seven on Friday, and Elias Venn put the words *Sillick Mill* into a terminal and the Museum gave them back to him in four seconds, which was faster than the tram had managed in six years of both of them taking it.
 
 > SILLICK MILL (LOW WARD): ADMINISTRATIVE PAPERS, DISPOSAL.
 > Accession 1961 / LW / 44. Location: unprocessed storage, level B, bay 9.
@@ -92,14 +92,14 @@ Elias read that twice. He was aware of the shape of what he was reading, because
 
 Wendel Case did not have a leaver's record. He had never been recorded as having gone.
 
-Elias thought about the way that had been done. Somebody had gone into a system with a login, and found a line, and removed the line, and had not been asked to write a reason, and the system had not complained, because a line that has never been written has nothing to check itself against. It had happened at 9:14 on a Tuesday eighteen months ago, and there had been no second copy, and there had been no meeting, and the person who did it had not needed to have ever been in the same room as the man whose name they took out.
+Elias thought about the way that had been done. Somebody had gone into a system with a login, and found a line, and removed the line, and had not been asked to write a reason, and the system had not complained, because a line that has never been written has nothing to check itself against. It had happened on a Tuesday eighteen months ago, and nobody had written down when on the Tuesday, and there had been no second copy, and there had been no meeting, and the person who did it had not needed to have ever been in the same room as the man whose name they took out.
 
 Two books. A line taken out of one and not out of the other, because the second one was held by the city and the city had not been told.
 
 He wrote the reconciling sentence into his notebook in the form he would need to be able to use in front of a person who did not want to hear it:
 
 > The bureau took his pension and his union for eighteen months because nobody told the bureau.
-> The Museum's line went in year one and stayed gone.
+> The Museum's line went in and stayed gone, and no one ever wrote down the reason.
 > He is proof that two systems can hold opposite facts about one man for eighteen months and neither of them be lying.
 
 And then, underneath it, the part that had been sitting in him since Tuesday night and which he could not make into a sentence that helped:
@@ -108,7 +108,7 @@ And then, underneath it, the part that had been sitting in him since Tuesday nig
 
 ---
 
-He was still sitting with that when the duty manager's phone rang on the security desk and then hers, on hers, an extension, and then the internal one that rang the security room directly, which it did four times a day and never for a good reason.
+He was still sitting with that when the duty manager's phone rang on the security desk, and then hers on the extension, and then the internal one that rang the security room directly, which it did four times a day and never for a good reason.
 
 She said, "Elias. Director wants you. First corridor. Now, please."
 
@@ -130,7 +130,7 @@ The corridor had a bench in it and it had a window with the blind half down and,
 
 "Ma'am."
 
-"At 01:26 on Wednesday night you were at the Hall of Former Faiths door, which is locked, on a card that had opened nothing and logged nothing useful. At 01:34 you were on the first floor outside the label room, which is a conservation workspace, and there is a camera on that lintel. At 02:20 you were on level two in the archive corridor, which is a restricted door and logs. At 02:41 you were at the service entrance." She turned her head. "The Hall's master key went out in a conservator's name at 18:52 and came back at 23:52, before any of it. So at twenty-six minutes past one that hall was shut, and locked, and the key was on its hook, and you were outside it. I have checked twice, because I wanted to be sure I was wrong the first time."
+"In the small hours of Thursday you were at the Hall of Former Faiths door, which is locked, on a card that had opened nothing and logged nothing useful. At 02:05 you were on the first floor in the label room, which is a conservation workspace, and there is a camera on that lintel. At 02:20 you were on level two in the archive corridor, which is a restricted door and logs. At 02:41 you were at the service entrance." She turned her head. "The Hall's master key went out in a conservator's name at 18:52 and came back at 23:52, before any of it. So at twenty-six minutes past one that hall was shut, and locked, and the key was on its hook, and you were outside it. I have checked twice, because I wanted to be sure I was wrong the first time."
 
 Elias said nothing. There was nothing to say to that, and the one thing in his life he had never once done in this building was lie to a person who had come out of an office to say a thing to him in a corridor.
 
@@ -142,7 +142,7 @@ Elias said nothing. There was nothing to say to that, and the one thing in his l
 
 "And the second thing."
 
-"The second thing is a work order." She handed him a single sheet, and it was real, and it was dated Friday afternoon at 16:20, and it authorised an outage on the Quiet Wing corridor reader, door seven, for a window of 23:40 to 00:30, and it was signed at the foot by a director, and the log reference at the top was a systems reference and not a name.
+"The second thing is a work order." She handed him a single sheet, and it was real, and it was dated Friday afternoon at 16:20, and it authorised an outage on the Quiet Wing corridor reader, door seven, for a window of 23:40 to 00:30, and it was signed at the foot by a director, and the log reference at the top was a systems reference and not a name. The number was 4412-S.
 
 "It's logged off the shop terminal," Anja Ward said. "Which means it is logged under a systems technician's login, which is normal and is not anybody's fault except his."
 
@@ -170,11 +170,11 @@ He had been on the level-two landing on Wednesday at 02:20, which was true and w
 
 And that, standing at a terminal at ten to nine on a Friday night with a dead headache and a piece of paper in his pocket, was the thing about the week he could not put anywhere. Every single thing he had done since Tuesday had been possible, and every single thing had left a record he could live with, and the reason was not him. It was the building. Somebody had built this wing so that a man could stand at a locked door for as long as he liked and never once be asked a question about it, and the same somebody had signed the wing's card access over eighteen years ago in a name that did not exist, and Elias understood that he was not the first man this building had arranged to be a problem for, and that the arrangement was eighteen years older than he was.
 
-He had not lied to her. He had made a decision, in a corridor, at twenty to nine, to answer a woman who had been decent to him on purpose, and the decision had not felt like trust. It had felt like the discovery of a third option in a choice he had believed was two-way.
+He had not lied to her. He had made a decision, in a corridor, at half past eight, to answer a woman who had been decent to him on purpose, and the decision had not felt like trust. It had felt like the discovery of a third option in a choice he had believed was two-way.
 
 He did not open the instruction either. It was restricted, it was on the second floor in a locked cage, he had a card that would not open the cage, and he had a name on the front of it that he could not put anywhere.
 
-He also did not ask about it. That was the decision the whole evening had actually been about, and he made it deliberately at 20:48 on a Friday night, standing at a terminal, with an hour and a half of his own time still in front of him, and the reason he made it was not integrity and it was not fear.
+He also did not ask about it. That was the decision the whole evening had actually been about, and he made it deliberately at ten to eight on a Friday night, standing at a terminal, with a corridor and a woman in it still waiting on the other side of the building, and the reason he made it was not integrity and it was not fear.
 
 The reason was that the moment he asked Anja Ward about a name on an eighteen-year-old instruction, she would have to go and look. And if she went and looked, then within a week somebody would know that a night guard had asked about the Quiet Wing instruction. And he did not yet know what the answer was, and he was extremely clear, standing there, about the fact that he did not want anyone to know that he was asking.
 
@@ -202,7 +202,7 @@ Ivo came out of the shop at four to nine with his toolbag and stopped in the doo
 
 Elias said nothing about it.
 
-He had a piece of paper in his pocket that said 23:40 to 00:30, signed by a director, and a technician on the floor who had decided, on his own, without being asked, to say nothing to anyone about leaving a restricted door standing open for three quarters of an hour.
+He had a piece of paper in his pocket that said 23:40 to 00:30, signed by a director, and a technician on the floor who had decided, on his own, without being asked, to say nothing to anyone about leaving a restricted door standing open for fifty minutes on a director's signature.
 
 And the rule he had written for himself on Wednesday — that asking would have made it a favour, and that he wanted a fault he could have found on his own — sat exactly where he had put it, doing exactly what he had built it to do, which was to keep him from asking anybody for anything at all.
 

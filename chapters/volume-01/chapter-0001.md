@@ -12,7 +12,7 @@ He worked the paint out with the blade, corner by corner, and scraped the crust 
 
 It clicked. He pulled it again to be sure, and it clicked.
 
-Nineteen fifty-one, eleven minutes after he had signed on. He wrote it in the security log as *FoF door, strike plate re-set, screw into sound timber* and added the time, because a fault with no time on it is a fault with no end on it.
+Nineteen fifty-five, a quarter of an hour after he had signed on. He wrote it in the security log as *FoF door, strike plate re-set, screw into sound timber* and added the time, because a fault with no time on it is a fault with no end on it.
 
 ---
 
@@ -27,6 +27,8 @@ The rota was on the board by the kettle, printed, laminated, gone slightly cloud
 > Two-person rule, sub-level B freight lift, no exceptions.
 
 Five nights on, two off, and a rota that stacked them badly if you were Ivo, who had a systems day under every one of his guard nights and a systems night at the end of the week, and who had started coming on shift with the specific quiet of a man who had been awake since Tuesday.
+
+The rest of the house rules were on the same board in the same printing, and one of them had a tray under it. Every personal phone in the building went into a grey steel cupboard at the service entrance, unlocked, in numbered slots, and went out again into a paper book with a column for a name and two for times. He had been signing that book two years and had never once read the line printed across the head of it, and the line was about photographs, and the tray had two hundred and six slots in it, and there was never any reason to look at which one was yours.
 
 The notice board above it had three things on it. A fire drill rota nobody had read since the spring. A reminder about the donors' gallery photography ban. And a River Works maintenance notice, printed on their letterhead, dated Monday, which somebody had pinned at an angle.
 
@@ -153,4 +155,4 @@ At 03:10 he walked the Hall one more time because the log said he had, and the b
 
 Forty-one children and two teachers were booked into that room at eleven on Saturday morning, and there were three more nights of this rota to get through before then, and the sound was in the log now, in the Museum's own hand, with a time on it, and a sound with a time on it does not stay a sound. It becomes a record. And records are what the building keeps.
 
-Elias turned the terminal off at ten past three, with four hours of the shift still in front of him, and sat out the rest of it as quietly as a man can sit out four hours.
+Elias turned the terminal off at ten past three, with the best part of four hours of the shift still in front of him, and sat out the rest of it as quietly as a man can sit out the best part of four hours.

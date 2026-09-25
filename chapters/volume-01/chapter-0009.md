@@ -32,7 +32,7 @@ He read the last line and thought: he is asking me to put my name at the end of 
 
 "Dael."
 
-"44 in the service lane has been dropping for about two years, and the plant people have an open ticket that is a thousand days old, and the order that was authorised last night is not the first and it will not be the last, and the last one I have to shout about is the one that puts a *gap* in a restricted door on a building that has had one unexplained incident in eighteen years." He took his hat in his hands and turned it round. "Elias, do you know what an unexplained incident is, in the language of the insurers? It is not an incident. It is a hole. It is a place where a report should be and there isn't one. And a hole in a restricted door on a collection building is the exact shape of the thing that ends careers, and mine would go first because mine is the name on the sheet."
+"The service-lane door number in forty-four has been dropping for about two years, and the plant people have an open ticket that is a thousand days old, and the order that was authorised last night is not the first and it will not be the last, and the last one I have to shout about is the one that puts a *gap* in a restricted door on a building that has had one unexplained incident in eighteen years." He took his hat in his hands and turned it round. "Elias, do you know what an unexplained incident is, in the language of the insurers? It is not an incident. It is a hole. It is a place where a report should be and there isn't one. And a hole in a restricted door on a collection building is the exact shape of the thing that ends careers, and mine would go first because mine is the name on the sheet."
 
 "How much of that is the insurers and how much is you?"
 
@@ -40,9 +40,9 @@ He read the last line and thought: he is asking me to put my name at the end of 
 
 "And if somebody went down that corridor?"
 
-"Then the sheet's got a hole in it and I have to explain a hole." Dael looked at him. "You were on the door. Was anybody in the corridor at all, and I'll give you the minutes because I have got them — twenty to twelve to twenty-eight past?"
+"Then the sheet's got a hole in it and I have to explain a hole." Dael looked at him. "You were on the door. Was anybody in the corridor at all, and I'll give you the window, because I've got it: fifty-two minutes past eleven, to twenty-eight past midnight. That's the whole of it. The systems only start at twenty to twelve. I've given you the extra because you were on the door and you should have all of it."
 
-Elias worked out, in about half a second, that Dael had not picked the window at random. Those were the sixteen minutes the systems print could not account for inside a forty-seven-minute outage, and it was exactly the window a man would be standing in a corridor in, and it was the one window in the whole night that a systems print had any reason to be strange about.
+Elias worked out, in about half a second, that Dael had not handed him a window into anything. The print accounted for the outage in two lines and a duration, and a duration is not a witness. Inside those thirty-six minutes there were thirty-six minutes in which two men in this building had been somewhere with nothing whatever to say about it, and the only two people in Morrowgate who could have filled any of it in were the man asking and the man answering. And in sixteen of those minutes, Dael could not have known either, because Dael did not know, and neither did the systems, and neither would ever.
 
 The security room was very quiet. There was a folder on the desk. There was a book on the table by the tray in the next room with Elias Venn's name in it in two columns and a duty manager's initials beside the 02:41, a drawer away, and Dael Ordway, who signed out that book and read it every month, had not mentioned it, and neither had Elias.
 
@@ -64,7 +64,7 @@ Elias Venn read a false cause, and understood exactly which four words of it wer
 
 "On what grounds?"
 
-"On a maintenance notice, which is the truth, because the fault on forty-four is real and the fault on seven is real and I cannot open a Hall of Former Faiths to forty-one children while I have an unexplained outage on a restricted door in the same building and a re-inspection on plinth thirty-four at nine on Monday morning with one of our conservators opening it and a Registry observer sitting in the front row taking minutes." He was already writing the note. "Which means I ring the Hill office at nine and I tell them a mechanical fault and no danger to visitors, which is true, and I write a letter to the school, and I will personally answer two emails about whether Tuesday works instead. And on Monday a woman from the Accord Registry is going to open that case with a screwdriver and I am going to have to stand next to her while she does it and say the words *nothing has changed* out loud."
+"On a maintenance notice, which is the truth, because the fault on forty-four is real and the fault on door seven is real and I cannot open a Hall of Former Faiths to forty-one children while I have an unexplained outage on a restricted door in the same building and a re-inspection on plinth thirty-four at nine on Monday morning with one of our conservators opening it and a Registry observer sitting in the front row taking minutes." He was already writing the note. "Which means I ring the Hill office at nine and I tell them a mechanical fault and no danger to visitors, which is true, and I write a letter to the school, and I will personally answer two emails about whether Tuesday works instead. And on Monday a woman from the Accord Registry is going to open that case with a screwdriver and I am going to have to stand next to her while she does it and say the words *nothing has changed* out loud."
 
 "That'll be honest."
 
@@ -126,7 +126,7 @@ And he stood on the landing and let it be the end of the call, and it was, and t
 
 ---
 
-Ivo's workshop was a cupboard under the loading bay stairs with a bench in it, a vice, a pillar drill with a belt-driven motor, and a wall of small drawers that made the label room look like a library. Ivo was in there at ten past ten on a Saturday morning, in the middle of his own systems day, on a Saturday he was not rostered for the floor and had come in anyway, having finished the Friday controller and gone home at five minutes past midnight.
+Ivo's workshop was a cupboard under the loading bay stairs with a bench in it, a vice, a pillar drill with a belt-driven motor, and a wall of small drawers that made the label room look like a library. Ivo was in there at ten past ten on a Saturday morning, in the middle of his own systems day, on a Saturday he was not rostered for the floor, having finished the Friday controller and gone home at half past midnight, five minutes over his own roster.
 
 "You're not on the floor tonight."
 
@@ -134,7 +134,7 @@ Ivo's workshop was a cupboard under the loading bay stairs with a bench in it, a
 
 "Because it's a Saturday and there's a school group."
 
-"Because it's a Saturday and there's a school group," Ivo agreed. "Ivo Pell, junior guard, in the Hall, with a sheet of steel and a bag of ash, at half nine in the morning, in front of a woman from a donor's office. If I do it in a room with a door that shuts I have to explain it to one person. If I do it in the Hall I have to explain it to forty-one children and their teachers and the press in due course." He held up a clamp. "Bought these Thursday. Stole the two good ones out of the display stock, which I am not telling you about, which is the sort of thing that gets a person talked about in a canteen."
+"Because there used to be a school group," Ivo agreed. "Forty-one children, two teachers and a Hill office that sends a girl, eleven o'clock, and your supervisor pulled it at a quarter past seven this morning with a maintenance note. I have spent nine hours today being the man who did not get to find out why. If I build it in a room with a door that shuts I have to explain it to one person. If I build it in the Hall, the Hall is the only room in this building with a plinth in it that nobody walks past, and in a week nobody will remember that anything was ever happening in there at all." He held up a clamp. "Bought these Thursday. Stole the two good ones out of the display stock, which I am not telling you about, which is the sort of thing that gets a person talked about in a canteen."
 
 "Have you eaten?"
 
@@ -168,7 +168,7 @@ They made two anchor cards. It took twenty minutes and it was filthy work and th
 
 The clock on the workshop wall said twenty past twelve.
 
-"I've got to be on at seven for the swap and I haven't slept," said Ivo. "And while you're standing there doing the thing with your face: what are you writing down."
+"There's a new controller module sitting in its box in that shop and there is no way on God's earth to get it into that frame without somebody standing in a corridor while it happens," said Ivo. "And I haven't slept. And while you're standing there doing the thing with your face: what are you writing down."
 
 Elias had not realised he was doing it. He had the notebook out and he was writing down the times, and the temperatures, and the state of the seal, and the door, and Ivo was watching him do it.
 
@@ -190,7 +190,7 @@ He took the notebook out of Elias's hands, held it up, and handed it straight ba
 
 Mara Iles was on the conservation floor at twenty to one on a Saturday afternoon because it was the only day in the week she had told her own staff she would be in, and because a registrar who is not there is a registrar who is not asked anything.
 
-He showed her the five lines first, before he explained anything, because he had worked out on the tram that morning that this was the only version of the conversation in which she was doing her job.
+He showed her the five lines first, before he explained anything, because he had worked out on the stair landing that morning, on his own, that this was the only version of the conversation in which she was doing her job.
 
 She read it twice. "Who wrote this?"
 
@@ -224,7 +224,7 @@ He had the notebook out. He wrote down the two conditions, and the date, and the
 
 "Saturday," he said. "Tonight. Before Monday, because on Monday morning a woman from the Registry opens that case with a screwdriver and I have no standing in the room at all."
 
-"That is the first sensible thing anybody in this building has said about thirty-four all week." She took the page and folded it once and put it in her coat. "And the west range circuit is still on a fault, and the school group was cancelled at nine o'clock this morning, so if you were planning to be alone in this building tonight, this is the part where I find out."
+"That is the first sensible thing anybody in this building has said about thirty-four all week." She took the page and folded it once and put it in her coat. "And the west range circuit is still on a fault, and the school group was cancelled at a quarter past seven this morning and I am still writing letters about it, so if you were planning to be alone in this building tonight, this is the part where I find out."
 
 "Saturday night is the long night," Elias said. "Cleaners from nine, conservation to eleven, facilities on for the sluice, the duty manager's on the freight lift. Ivo's coming in on a favour. It's the only night of the week I can do this with a door that anybody can open."
 
@@ -242,11 +242,7 @@ Then he rubbed it out and wrote **11 MIN** instead.
 
 Mara Iles looked at the card for a second and a half.
 
-"That is either the most honest thing you have said to me this week, or a very good way of making sure nobody can pin the exact minute on you." She wrote the time limit on the back of her own copy in her own hand. "I am going to write eleven. And you are going to stop at ten, because that is what you have just promised me, and the eleven is only there in case you don't."
-
-"And Elias—"
-
-"You have understood what you have just promised me?"
+"That is either the most honest thing you have said to me this week, or a very good way of making sure nobody can pin the exact minute on you." She wrote the time limit on the back of her own copy in her own hand. "I am going to write eleven. And you are going to stop at ten, because that is what you have just promised me, and the eleven is only there in case you don't. And Elias — you have understood what you have just promised me?"
 
 Elias Venn looked at the bench, at the five lines, at the cover and the clamps and the jar of salt and ash, and at his own handwriting in a notebook that had more in it than it had had a week ago, and that the more was the price.
 
@@ -254,6 +250,6 @@ Elias Venn looked at the bench, at the five lines, at the cover and the clamps a
 
 ---
 
-He went back on at half past seven and did the round. He did the Hall. He put the light on plinth thirty-four and stood in front of it and did not touch it and did not go near it, because he had made a promise on a landing in the middle of the morning about how it was to be done, and he was not going to start by cheating the first hour.
+He went back on at half past seven that evening and did the round. He did the Hall. He put the light on plinth thirty-four and stood in front of it and did not touch it and did not go near it, because he had made a promise on a landing in the middle of the morning about how it was to be done, and he was not going to start by cheating the first hour.
 
 At 20:50 on Saturday night the building filled up around him, the way it always did on the one night of the week everybody was in it, and Elias went down to the workshop to get the cover, and Ivo was already there, and the clamps were in a bag, and the anchor card was in an envelope, and somewhere on the first floor a conservator was working late with the door open because it was the only evening she had.

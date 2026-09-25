@@ -4,7 +4,7 @@ At 23:39 on Friday night Elias Venn went down to the service entrance, unlocked 
 
 He did not sign for it.
 
-There was no way to sign for it. The book beside the tray had a name in it from Thursday night, 01:52 out, 02:41 back, in his own handwriting, with no destination. The desk itself had been unmanned since eleven o'clock and would be until seven, and the only person who ever came down this lane in the small hours was the duty manager on her round at about two, which is precisely why he had done it in front of her on Wednesday and why he could not do it at all tonight. He would have had to leave the book open on the table with a pen laid across it, on an unattended desk, in a building with a camera on the corner of the lane, and that would have been a thing that got looked at.
+There was no way to sign for it. The book beside the tray had a name in it from the small hours of Thursday, 01:52 out, 02:41 back, in his own handwriting, with no destination. The desk itself had been unmanned since eleven o'clock and would be until seven, and the only person who ever came down this lane in the small hours was the duty manager on her round at about two, which was precisely why he had done it in front of her, and precisely why he could not do it at all tonight. He would have had to leave the book open on the table with a pen laid across it, on an unattended desk, in a building with a camera on the corner of the lane, and that would have been a thing that got looked at.
 
 So he took the phone out of an unlocked cupboard and put it in his coat, and the book went on saying the phone had gone home, and the book was right.
 
@@ -14,7 +14,7 @@ Ivo had the old unit out of the frame by then. Elias heard the tray lid, one sha
 
 *Reader fault.* Not *door released*. The whole point of the fault was that it never got far enough into the conversation to finish the word.
 
-Elias sat in the security room with the Hall monitor on and the corridor monitor on and the panel on, and he did nothing whatsoever between 23:41 and 23:52, because he had decided at twenty to ten that he would go in a minute after the half rather than a minute after the quarter, and that the time in front of him was going to be spent exactly the way Ivo had said it would be, which was not at all.
+Elias sat in the security room with the Hall monitor on and the corridor monitor on and the panel on, and he did nothing whatsoever between 23:41 and 23:52, because he had decided at twenty to ten that he would go in eight minutes after the half hour, and not a minute before it, and not a minute after either, and that the time in front of him was going to be spent exactly the way Ivo had said it would be, which was not at all.
 
 The wing's access policy was in the handbook, page nineteen, paragraph four: *while an authorised maintenance window is open on a card reader, the fail-secure leaf will stand released until the controller answers*. It was the one piece of sensible engineering in the whole of the wing. A technician could get at the frame without a key and without a wedge and without lying, and the door would re-arm the instant the reader came back, and the whole of the risk was contained by a signature and a clock.
 
@@ -82,23 +82,23 @@ The corridor was very cold. The radiator halfway down had a valve that had been 
 
 At 00:18 he got the notebook out.
 
-He wrote one entry, in order, sitting on the floor with his back to the wall and the notebook on his knee and the torch off, by the emergency light. It is on the page. It has been on the page ever since, and it is the only entry he has ever written in two hands, and it has never once been in the same order twice.
+He wrote one entry, in order, sitting on the floor with his back to the wall and the notebook on his knee and the torch off, by the emergency light. It is on the page. It is the only entry he has ever written in two hands, and he was never able to get it back into the order he wrote it.
 
 > 23:52 in. No event on the panel. Corridor as plan. Draft under door 7 room — room has air, not a cupboard. 00:12 photo x4, corridor, 00:12–00:18. 00:18 now.
 
 > Room behind wired glass: chair (no dust on seat), coat hook, lanyards on shelf, name panels all blank, dust on everything else. Door shut and latched. Did not open it. Not going to.
 
-That is the page as it stands, and it is the page as it has stood since Saturday morning, and it is never once going to be in the same order again.
+That is the page as it stands.
 
-The upper block is in the flat block hand he uses for things he wants to be able to find again: squared, unhurried, every letter its full height. The lower block is in a different hand entirely — smaller, faster, pressed harder, the hand of a man writing at a door with a torch off because a torch on would finish something. He is as sure as he is ever going to be that the upper one is the second half and the lower one is the first. He has no way of being sure of it at all, and he has spent the time since looking for one, and the reason there is none is that both halves are complete and neither one refers to the other.
+The upper block is in the flat block hand he uses for things he wants to be able to find again: squared, unhurried, every letter its full height. The lower block is in a different hand entirely — smaller, faster, pressed harder, the hand of a man writing at a door with a torch off because a torch on would finish something. He is as sure as he is ever going to be that the upper one is the second half and the lower one is the first. He has no way of being sure of it at all, and the reason there is none is that both halves are complete and neither one refers to the other.
 
 It is not a tremor. That was his first theory and it was wrong, because a tremor is a wobble inside a single letter and this is a different person. It is a different person, and the notebook is a wire-bound thing from a stall on Lantern Row, and the page he wrote on is the page he is holding, and he has no idea whatever is on the page before it.
 
-He could not afterwards put the two halves of it in the order he had written them, and he has never been able to, and he was not to know for thirty-one hours that this was a thing that had happened to him rather than a thing that he had noticed.
+He could not afterwards put the two halves of it in the order he had written them, and he never did.
 
 ---
 
-At twenty-five minutes past midnight something happened on the other side of the building that he has thought about more than the room.
+At twenty-five minutes past midnight something happened two floors under him that he has thought about more than the room.
 
 The note came up through the floor.
 
@@ -112,7 +112,7 @@ And the third one — a small flat brass sound, half a metre to his right, out o
 
 It was a service bell. Staff call, for the rooms behind that corridor, of a kind he had seen in every building he had ever worked in: a dome, a striker, a bracket, two inches of it, and a pipe going up into the ceiling.
 
-It rang once, badly, half a tone under, and then it rang again, and again, four or five times in as many seconds, keeping time with something.
+It rang once, badly, half a tone under, and then it rang again, and again, four or five times in as many seconds, keeping time with something. By the fourth repetition Elias understood that whatever was down at the sluice station had struck more than once, and that the repeater was being a repeater and nothing else.
 
 That was all it did. It had no pattern of its own; Elias listened to it for what felt like a minute and it never got a single note out on its own, it only ever arrived a fraction after something else did, flattened and dragged half a tone down its own pitch, and he understood, from the way the pipe ran and from the way the sound came off the bracket, that it was hard-piped to something — to the ward-bell repeater line, to the old civic repeater that still ran the bones of this hill.
 
@@ -120,7 +120,7 @@ And he understood, in the middle of understanding it, that the bracket halfway d
 
 The scary thing was not the bell. The bell was a bell, and it was plumbing, and it did the one thing repeaters do and no more.
 
-The scary thing was that in eighteen years he had walked this building two hundred times and had never known it was live, and that it was live, and that it was live *tonight*, four seconds after something down at the Hall of Former Faiths rang a bell for no reason he could name.
+The scary thing was that in two years he had walked this building two hundred times and had never known it was live, and that it was live, and that it was live *tonight*, four seconds after something down at the Hall of Former Faiths rang a bell for no reason he could name.
 
 He put his hand flat on the floor. He could feel nothing through a concrete slab. He had the phone out and the notebook out and he did not write a word, because there was nothing to write that was not an accusation, and he sat on the floor of an unlisted corridor from 00:25 until 00:27 and listened to a piece of the building's own plumbing repeat somebody else's mistake to an empty hall.
 
@@ -138,7 +138,7 @@ He went up. There is a maintenance landing between the second and third floors w
 
 He went over the twenty minutes. That was the whole of the rest of the night.
 
-Twenty minutes is not long. He had done his quarter of an hour at a shut door on the Thursday, which had been the whole of that night's enterprise, and he had come back from it with a bracket. He had come back from this one with a chair.
+Twenty minutes is not long. He had done his eleven minutes at a shut door on the Thursday, which had been the whole of that night's enterprise, and he had come back from it with a bracket. He had come back from this one with a chair.
 
 He had gone out of the security room at 23:52. He had walked ninety feet. And he was on the floor with his hand on a door, and there was no version of that which he could assemble, because he could remember the door and the draught and the glass and the blue-grey of the emergency fittings and he could remember nothing between the walking and the being-on-the-floor. There was no second notebook, because he had only the one, and the one he had had said 23:52 in, and 00:12 photo, and 00:18 now, and nothing whatever in between, and it was written in two hands.
 

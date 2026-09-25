@@ -8,7 +8,7 @@ Dael Ordway was in the security room with the building log open when Elias came 
 
 "You've got a repeat. Fifteen minutes."
 
-Elias put his bag down. On the wall behind Dael the notice board still carried the River Works sheet from Monday, pinned at its angle, with *bell 3, still ringing* in biro underneath it. Elias had thought about taking that down eleven times since Tuesday and had not done it, and now he was glad of every one of the eleven.
+Elias put his bag down. On the wall behind Dael the notice board still carried the River Works sheet from Monday, pinned at its angle, with *bell 3, still ringing* in biro underneath it. Elias had thought about taking that down a dozen times since Tuesday and had not done it, and was now glad of every one of the dozen.
 
 "There's no fault."
 
@@ -47,7 +47,7 @@ He wrote:
 > Tue 02:52 — FoF 34. Note out of the metal, no strike. Seal good, sensor good, plinth good, door good. No entry to room.
 > Wed — started watching.
 
-Then he thought about how that looked, and crossed out *started watching*, and wrote *WED 20:00 station set on FoF 34, seal and plinth re-checked, hall empty, amb. 15°*, which is what you write when you are starting a log. It is not the same as a log, because a log has an institution behind it and a signature, and a notebook has only a man in it, and Elias understood perfectly well that a man in a notebook is a man who has decided to be the last place a fact lives. He wrote the time anyway.
+Then he thought about how that looked, and crossed out *started watching*, and wrote *WED 20:40 — FoF 34, seal, plinth, amb. 15°*, which is what you write when you are setting up a log for a round you have not walked yet. He wrote the time in advance on purpose, because a man who enters a time after the event is a man whose times are his own, and then he went up and walked the twenty-forty, and it was the minute he put his hand on the door, which is the minute the building itself would agree with if anybody ever thought to ask it. He wrote it anyway. A notebook is not a log. A log has an institution behind it and a signature, and a notebook has a man in it, and Elias understood perfectly well that a man with a notebook is a man who has decided to be the last place a fact lives.
 
 He was not being clever. He was being a guard. In his experience, the things that got people hurt were the things nobody had written down anywhere, and the things that got *him* in trouble were the things he had written down somewhere a supervisor could find. So he did the only version of the job available to him, which was to make two copies and keep one of them under his own lock and better than his own handwriting.
 
@@ -85,7 +85,7 @@ He stood in the middle of an empty hall and looked at thirty-four for another ni
 
 ---
 
-The accession record for an object like that would be on the first floor, in the registrar's office, and the registrar's office at nineteen hundred on a Wednesday was a lit doorway with a woman in it who had not come down to say good evening.
+The accession record for an object like that would be on the first floor, in the registrar's office, and the registrar's office at half past nine on a Wednesday was a lit doorway with a woman in it who had not come down to say good evening.
 
 "You'll be the security."
 
@@ -132,12 +132,12 @@ At his desk in the security room, before he keyed off the terminal, he typed one
 
 > 20:55 — FoF 34. Repeat of Tue 02:52, same single note, no visible movement, seal intact, hall empty and unentered throughout. Ambient 15°C. Possible west-range ductwork expansion. Noted, not investigated, per instruction.
 
-He read *not investigated, per instruction* and understood that he had just written a sentence with his own name on it that would be very hard to unpick later, and that he had written it because Dael had told him to, and that he was going to be glad of it for about eleven hours.
+He read *not investigated, per instruction* and understood that he had just written a sentence with his own name on it that would be very hard to unpick later, and that he had written it because Dael had told him to, and that he was going to be glad of it for a good many hours yet.
 
 In his notebook, in the same pen, he wrote the same five facts and then, under them, on the next line, smaller:
 
 > It went quiet everywhere else when it did it.
 
-And he put the notebook away, and he did the second sweep of the service lane, and the bell did not sound again for the ninety minutes that were left of the part of the night he had agreed to think about, and at ten past ten the treatment rooms upstairs started going off one floor above his head.
+And he put the notebook away, and he did the second sweep of the service lane, and the bell did not sound again for the hour that was left of the part of the night he had agreed to think about, and at ten past ten the treatment rooms upstairs started going off one floor above his head.
 
 He went to see who was still working.

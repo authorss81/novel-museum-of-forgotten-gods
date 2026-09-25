@@ -6,7 +6,7 @@ Elias stood in front of the case at one in the morning with a headache that had 
 
 The Museum made labels in one room. He had worked out that much in his first year, from the trays of finished cards that went up on the conservation floor every Monday and came back down with corrections, and from the fact that nobody in the galleries ever seemed surprised by a label. They were cut in the label room on the first floor, by conservation staff, on a card cutter, by people whose names were on a list somewhere. A guard could not go in there. A guard could stand in a doorway and ask, and get told, in a voice like a closing door, that the room was not his.
 
-He had been doing the round for two hours. He was not going to get a file. He was not going to get a file tomorrow either, because the only person who could produce one had told him in a corridor that some objects came in without a file at all, and had told it to him in the specific tone of a woman naming the last time she guessed and what it cost.
+He had been on the floor for six hours. He was not going to get a file. He was not going to get a file tomorrow either, because the only person who could produce one had told him in a corridor that some objects came in without a file at all, and had told it to him in the specific tone of a woman naming the last time she guessed and what it cost.
 
 Then, because a card that opens nothing is a thing somebody has to report, he went back down to the Hall door at twenty-six minutes past one and put his card on it out of pure habit.
 
@@ -61,7 +61,7 @@ He got the card up to the bench light. New card stock, which he knew because the
 
 Then he did what he had come to do, and he did it with the flat of a bone folder against the back and the light coming across it, and the shine came up, and there was writing under it.
 
-The card had been used before. That was the whole finding, and it was a stupid one to arrive at at two in the morning in a room with a woman at the far end of it. The back of a card in a drawer is not blank, because the back of a card is where the maker goes.
+The card had been used before. That was the whole finding, and it was a stupid thing to arrive at, at two in the morning, in a room with a woman at the far end of it. The back of a card in a drawer is never blank, because the back of a card is where the maker goes.
 
 There were two lines. The first had been taken off with something dry and hard, pressed hard enough to lift the fibres and leave them standing up like frost on a window, and what was left of it was a shape and a place and a date with the last figure gone: a foundry name, *Low Ward*, and a year nobody could read any more. The second had been gone at by the same rubber, less carefully, in a hurry, on a different line, and it had not gone at all.
 
@@ -182,8 +182,7 @@ Elias wrote in the notebook:
 
 > Thu 01:52 – 02:41 — phone out of tray, slot 12, book signed both ends, no destination given.
 > Thu 02:05 – label room, first floor. Cards for the hall are cut by hand, not printed. Card for 34 is recent. Two lines on the back: a maker's line gone at properly, and a second line gone at badly and not gone at all. W. Case. Card put back crooked. Deliberate. My decision.
-> Thu 02:20 – level 2, archive corridor. Restricted door, card-read, will be in the log in my name. No camera on the landing.
 
-He read the third line. He left it.
+He read it twice. He left it.
 
-At four he did the second sweep of the service lane, and the wet came in under the service door the way it always did on a wet night in the autumn and stopped at the mat, and the building ticked, and the note under his ear went on being thin and patient, and there were three hours of the shift in front of him and one name in a coat pocket, and he went up the hill in the rain at seven to sleep for four hours before Thursday.
+At four he did the second sweep of the service lane, and the wet came in under the service door the way it always did on a wet night in the autumn and stopped at the mat, and the building ticked, and the note under his ear went on being thin and patient, and there were three hours of the shift in front of him and one name in a coat pocket, and he went up the hill in the rain at seven to sleep for three hours before the evening.

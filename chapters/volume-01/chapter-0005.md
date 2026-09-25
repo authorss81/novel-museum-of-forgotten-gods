@@ -1,10 +1,10 @@
 # Chapter 0005 — One Frame Short
 
-The headache had gone at twenty to eleven on Thursday morning, in a shop on Lantern Row while Elias waited for a woman to mend the strap of his rucksack, and it had left without so much as letting him know it was going. Eleven hours and a minute, and the last thing he had done about it was write down the time it started, because a cost you cannot time is a cost nobody has to believe in.
+The headache had gone at eighteen minutes to eleven on Thursday morning, in a shop on Lantern Row while Elias waited for a woman to mend the strap of his rucksack, and it had left without so much as letting him know it was going. Eleven hours and a minute, and the last thing he had done about it was write down the time it started, because a cost you cannot time is a cost nobody has to believe in.
 
 That was the part he could not put down. Not the pain. A pain that stopped was a body. A thing that stopped arriving at the end of a sentence you had not finished being told, without a headache in between, was a sentence you had not finished being told.
 
-He had slept four hours. He had dreamed about numbers and could not have told anybody which numbers.
+He had slept three hours. He had dreamed about numbers and could not have told anybody which numbers.
 
 At seven that evening Ivo Pell came in with a toolbag and a paper cup of the machine coffee from the shop and the specific cheerfulness of a man who has been awake for nineteen hours and has decided to be funny about it.
 
@@ -16,7 +16,7 @@ At seven that evening Ivo Pell came in with a toolbag and a paper cup of the mac
 
 "I know."
 
-"I did a systems day and then I did a night, and tomorrow I do a systems day, and on Friday I do systems day, junior guard, and a controller swap, and I go home at half past midnight and lie in the dark calculating whether Friday was worth it." He dropped the toolbag. He had lost weight since the summer. "So. What are we doing. Give me something with a screen in it."
+"I did a systems day and then I did a night, and tomorrow I do a systems day, and on Friday I do a systems day and a controller swap, and I go home at half past midnight and lie in the dark calculating whether Friday was worth it." He dropped the toolbag. He had lost weight since the summer. "So. What are we doing. Give me something with a screen in it."
 
 Elias took the chair by the monitors and put the notebook on the desk, and for a long moment he said nothing, and then he said, "Wendel Case."
 
@@ -32,7 +32,7 @@ Ivo stopped with the cup halfway up.
 
 Ivo put the cup down. "Elias, has anyone *left*? People leave. There's a difference and it's a very boring difference and it involves a card being handed back and a leaver's form."
 
-"He's not on any list. Not the current one. Not the archive. I read the archive in the back of the binder behind the fire plan on level two, which I now know is the complete personnel record for this building since 1974, and there is no W. Case anywhere in it, and there are four C-surnames and one of them is Callaghan and one is Cunliffe and neither of them has ever been a porter."
+"He's not on any list. Not the current one. Not the archive. I read the ring binders behind the fire plan on level two, which I now know is the complete personnel record for this building since 1974, and there is no W. Case anywhere in it, and there are four C-surnames and one of them is Callaghan and one is Crowther and neither of them has ever been a porter."
 
 "Then he left and his paperwork is somewhere else. Municipal. Ward. Agency. You know what this city is like, a man's service record goes three places and one of them is a filing cabinet in a basement in a district office that hasn't had a fire drill since the jubilee."
 
@@ -48,7 +48,7 @@ Elias got September's down off the board and spread it on the desk, because Sept
 
 Two pages, top to bottom, line by line, surname and forename and grade and cost centre and Museum cost centre code. The bureau paid by grade and the grades were on separate lines, so a person took up four lines and a building took up pages. And every single line ended in the same code, which was the thing that made the sheet useful to him: every hourly person in this building carried it. Night porters, cleaners, weekend stewards, the two men who do the small electrical work. Municipal code M.Q.S. 4. Every one of them.
 
-And near the bottom, between a *Cunliffe, A.* and a *Deakin, R.*, on four separate lines:
+And near the bottom, between a *Clough, R.* and a *Deakin, R.*, on four separate lines:
 
 > CASE, W. — Grade 2 (Porter) — cost centre M.Q.S. 4 — pension std — union subs —
 > hours 141.5 — gross —
@@ -94,6 +94,12 @@ Nothing about the erasure had been hidden from him. That was the discovery, and 
 
 The system had been perfect. The building was not part of the system.
 
+Underneath the personnel columns, on a card index tied into the same rings, there was a decade of posting sheets for the hourly grades. Not a record of anybody. A record of where the Museum had told the bureau to send a man's letters. Grade two, porter, 2001 through 2012, two hundred and eleven lines, and on every single one of them the same address in the same column, in the same twelve words.
+
+> c/o Museum letting, Sillick Lane, Low Ward.
+
+He read it four times standing up. The Museum had rented the mill's porters' row out of the mill's own street and put its own name in front of it for a decade, and the row had gone to tenancies after that, and the tenancies had gone three times over. And somewhere in that street was a man who had a pension and a union subscription coming out of a building four miles from the only address this building had ever written down for him.
+
 ---
 
 The corridor camera was the worst of it, and it took him forty minutes to work out why it was the worst of it.
@@ -102,17 +108,17 @@ The corridor outside the Quiet Wing had been re-cabled in 2019 and the camera on
 
 He put the playback at speed and went through the last fourteen nights, and he did it the way he had been trained to do investigations, which was to look for a person rather than for an event. He had done it forty times in two years and it was a thing he was good at: a porter is a shape, a shape is a habit, a habit is a time of night and a place a man cannot help being.
 
-At 01:12 on fourteen nights, a man in a dark coat with a lantern came the length of that corridor and turned at the end and went away.
+At 01:12, on ten of the last fourteen nights, a man in a dark coat with a lantern came the length of that corridor and turned at the end and went away.
 
-Ten of the fourteen. On two nights there was nothing at all. On two nights — the ninth and the eleventh, both Fridays, both within the last fortnight — the shape was there, coming down the corridor, and at the moment it should have been fully in frame it was half in frame, and then it was a different half in frame, and the middle was a smear of about a fifth of a second in which the recording had apparently lost its confidence.
+Ten of the fourteen. On two nights there was nothing at all. On two nights more — the seventh night back and the fourteenth night back, both Fridays, both inside the last fortnight — the shape was there, coming down the corridor, and at the moment it should have been fully in frame it was half in frame, and then it was a different half in frame, and the middle was a smear of about a fifth of a second in which the recording had apparently lost its confidence.
 
-Elias wrote the times out. 01:12:41. 01:12:44. 01:12:42. 01:12:45. 01:12:43.
+Elias wrote the times out. On the seventh: 01:12:41, and then 01:12:44. On the fourteenth night back: 01:12:42, 01:12:45, 01:12:43.
 
-All of them inside four seconds of each other, on five different nights, by a man who is a shape and not a clock. And the smear was in the same four seconds every time, in the same place in the frame, which meant it was not a man moving badly. It was a camera doing something, on a schedule, at the moment a man walked past the angle that the lens likes least.
+Two nights, five arrivals, the whole of them inside four seconds of one another, and the smear in the same four seconds on both of them and in the same place in the frame. Which meant it was not a man moving badly. It was a camera doing something, on a schedule, at the moment a man walked past the angle that the lens likes least.
 
 Retention artifact. Frame rate dropped for maintenance to fit the buffer. The wall of the corridor at that angle is a white lime wall and the system was doing what systems do to a white wall.
 
-And that was the correct answer, and it was completely true, and it was also the answer that took the man out of the picture four times in two weeks, and Elias sat and looked at it and understood that he did not want the correct answer this time and that wanting it was the whole of his difficulty.
+And that was the correct answer, and it was completely true, and it was also the answer that took the man out of the picture twice in two weeks, and Elias sat and looked at it and understood that he did not want the correct answer this time and that wanting it was the whole of his difficulty.
 
 He went and looked at the bracket.
 
@@ -126,7 +132,7 @@ No bell on it. No bell on it for years, obviously; it was bare iron with a shado
 
 Elias had not heard Ivo come up. "I know door seven."
 
-"It dropped again at nine. Twenty seconds, maybe. I was in the shop and the alarm came in on the panel as a fault, not as a door event, which is a thing it has never once done in four years." Ivo sat down heavily. "It's got the old ticket. You know the one. *Reader intermittent, self-recovers, no fault found.* Nine hundred and forty-one days open, I checked. There's a replacement module on order, it went in on the fourteenth, it's coming, and I don't have to chase anything because the ticket's open, so I leave it alone."
+"It dropped again at lunchtime. Twenty seconds, maybe. I was in the shop and the alarm came in on the panel as a fault, not as a door event, which is a thing it has never once done in four years." Ivo sat down heavily. "It's got the old ticket. You know the one. *Reader intermittent, self-recovers, no fault found.* Nine hundred and forty-one days open, I checked. There's a replacement module on order, it went in on the twelfth, it's coming, and I don't have to chase anything because the ticket's open, so I leave it alone."
 
 "How long has it been doing the fault-not-door-event thing?"
 
@@ -222,19 +228,17 @@ And then he understood the other half of it, which was worse. The silence had co
 
 "No," Elias said. "There never is. And that is not a gap in the system, Ivo. That is the design. Somebody, a long time ago, made a door that cannot say a word about a man standing in front of it, and they made it do that on purpose, and I don't know why, and I don't think anybody who did it to it knew either."
 
-And then he went back to the desk and pulled the Hall up on the monitor, because there was a locker card in the basement that he had read over every night for two years without ever once reading, and a corridor on a screen that he had looked at forty times without looking at, and he was going to spend the rest of the night finding out whether the two of them were about the same man.
+And then he went back to the desk and pulled the Hall up on the monitor, because there was a locker card in the basement that he had read over every night for two years without ever once reading, and a corridor on a screen that he had looked at forty times without looking at, and he was going to go back to that desk and sit in front of it with the only three things he actually had, which were three times in a notebook.
 
 ---
 
 Because there was one more thing he had been carrying around since Tuesday, and it was a stupid thing, and it was the only thing he had.
 
-Three times. 02:52, 20:55, 23:40. Three events in three nights, and the only theory those three supported was that it was happening more often, and more often is not a theory a man can take to anybody. But if it were on a cycle — if it were, say, every two hours and twenty minutes, or every five hours, or at some point every night — then it was a cycle, and a cycle could be written down, and a thing that can be written down can be handed to somebody.
+Three times. 02:52, 20:55, 23:40. Three events in two nights, and the only theory those three supported was that it was happening more often, and more often is not a theory a man can take to anybody. But if it were on a cycle — if it were, say, every two hours and twenty minutes, or every five hours, or at some point every night — then it was a cycle, and a cycle could be written down, and a thing that can be written down can be handed to somebody.
 
-He had a notebook with three times in it. He had a monitor and a swivel stand and a locked gallery he had a key to. He had eight and a half hours of the night left and nothing else to do with them.
+He had a notebook with three times in it. He had a monitor and a swivel stand and a locked gallery he had a key to, and the rest of the night in front of him with nothing at all in it.
 
-He put the monitor on plinth thirty-four and he watched it and he waited. It was twenty-five past ten when he started, and he had an hour and a quarter of the corridor first.
-
-23:40. Nothing. He had not been watching at 23:40, and he had not been watching at 23:40 for two nights, and noticing that was a thing to do and not to do.
+He put the monitor on plinth thirty-four at 23:40 and watched it. Nothing. He had not been watching at 23:40 on either of the two nights it had happened, and noticing that was a thing to do and not to do.
 
 23:52. Nothing.
 
@@ -252,17 +256,17 @@ The case was in the frame the whole time. He had not touched it. The case had a 
 
 He never got an answer to that one.
 
-That was the honest position and he held it for a week afterwards, and it is worth being exact about how he held it, because the shape of it is the shape of his week. He had three times in a notebook and no schedule. He had put the Hall monitor on plinth thirty-four at twenty to twelve and sat in front of it for twenty-five minutes, and it had not come. Then he had written a null result in capitals, which is a thing you do to be fair to the record, and forty seconds after he had shut the notebook it had made a noise with the case in frame and nobody near it.
+That was the honest position and he held it for a week afterwards, and it is worth being exact about how he held it, because the shape of it is the shape of his week. He had three times in a notebook and no schedule. He had sat in front of a monitor on plinth thirty-four for twenty-five minutes and it had not come, and then he had written a null result in capitals, which is a thing you do to be fair to the record, and less than a minute after he had shut the notebook it had made a noise with the case in frame and nobody near it.
 
 It could have been late. It could have been that a thing which only happens when you are not looking is a thing that happens when you are not looking, and there is no way on this earth to write that down in a column headed *time / location / observation / action* without inventing a reason a thing happened when the reason is that you wanted it to. It could equally have been coincidence, and he wrote that down too, and did not believe it, and left it in the notebook anyway because a notebook with only the conclusions you like in it is a list of wishes.
 
-So the two possibilities sat side by side in him for the rest of the night, and neither of them was going to be resolved by a man with a swivel chair, and both of them had exactly the same consequence for Monday morning: there is no schedule to log. A schedule could be written down and handed to somebody. This cannot, and a thing that cannot be written down cannot be reported, and that is the whole of his problem.
+So the two possibilities sat side by side in him for the rest of the night, and neither of them was going to be resolved by a man with a swivel chair, and both of them had exactly the same consequence for Monday morning: there is no schedule to log. A schedule could be handed to somebody. This cannot, and a thing that cannot be written down cannot be reported, and that is the whole of his problem.
 
 Seven minutes. He had seven minutes of the night in front of him and a notebook in his coat, and the only thing he wanted to put in it was the reason, and there was no column for that.
 
 He wrote, at 00:12, on the line under the capitals:
 
-> 00:05 Thu — 4th. First one I have sat and waited for. I cannot show anyone that these are connected. A timetable could be handed to somebody. This is not a timetable.
+> 00:05 Thu — 4th. First one I have sat and waited for. I cannot show anyone that these are connected. A timetable could be handed to somebody and a man could be shown it. This is not a timetable and I cannot show it to myself.
 
 Then he sat for another three minutes, which he did not log, and thought about the other thing.
 
