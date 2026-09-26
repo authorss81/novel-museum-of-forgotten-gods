@@ -544,3 +544,70 @@ The volume's argument is that **this institution will do almost anything correct
 - **Perry Loach's 06:14 and a wage book**, a conciliation service with a public schedule of interim payments, Cliff Sowerby who now knows he is on it, **Doreen Sarn's registered letter face down on her own table, and Helen Venn's letter on a shelf above a boiler.**
 - **A bell in a shut room, silent since the thirteenth of December, with an open crack, under a stay stricter than the condition it is under.**
 - And **nine addresses off a road in Broad Street in three days in November, to which nobody will go, because a person who is not on a sheet is not a person anybody goes to see, and there is no list of them and there never will be, because you cannot take a list of a thing nobody kept.**
+
+---
+
+# VOLUME 02 — BATCH 0002 (CHAPTERS 61–70), "THE SENTENCE, AND THE ROOM"
+
+**Ten chapters, 40,884 words by `wc -w`:** 61: 4,377 · 62: 4,806 · 63: 4,268 · 64: 3,841 · 65: 4,217 · 66: 3,804 · 67: 3,855 · 68: 3,974 · 69: 3,603 · 70: 4,139. The batch prompt's target was 2,400–3,400 a chapter with 61 and 70 longer; the chapters run longer and sit inside the range the last fifty drafted chapters established (Volume 01 runs 4,328–9,163; Chapters 51–60 run 3,237–5,633). **No chapter was padded to reach a figure and no complete scene was cut to reach one, and the longer chapters are the ones with a document in them and a document is the subject.**
+
+## WHAT THE BATCH DID, IN ONE PARAGRAPH
+
+**The lawful door turned out to be a form with no box on it that says *why*, and the person who could walk through it was not Elias Venn.** Clause 7 of a supply agreement closed on the morning the Hall of Former Faiths reopened; a man of twenty-five wrote four sentences about a person to a records officer who had never been asked for anything in six years; **she produced the answer in four minutes and it was a name the case already had, and the case then asked for a whole file, and got one, because item six of an inquiry's terms of reference is the only thing in the document with no subject in it.** A binder of every morning the Museum was ever sent came out of a drawer on Marsh Lane with the records officer's own nine-line log of every time she has ever been asked for anything, and **it let the Museum date, for the first time in a hundred and forty years, the moments its own copy of the world changed: three mornings — the sixth, the eleventh and the twelfth of December 2024 — nine rows, no field but OCCUPANCY touched, and it also showed that five of the nine cannot be dated by any document in this case at all.** And then the fourth column, and the demotion of the fifth of December, and the discovery that the fifth of December is the first of the nine and not the nine, and a dead man's name in a museum, and a rope nobody can explain, and a Director who gives away the only instrument that reaches a household, and the floor, stated once, by two strangers, on a doorstep and in a corridor.
+
+## THE FIVE BEATS DID NOT FUSE
+
+1. **The sentence (Ch 61).** Four paragraphs, one line, four minutes, a null, and the first sentence anybody in this business has written about a person for a stranger. **And the first lawful door in the case that Elias Venn cannot walk through, because he is not the subscriber and cannot be, and the Director minuted that the Museum did not ask the question — a man asked it and was not allowed to and found the man who was.**
+2. **The comparison (Ch 62).** Item 6, a letter with the cost said aloud first, a binder, and **a record of issue with nine entries in six years in a woman's own hand, eight of them her own audits and the ninth a museum.** Nobody explains why the fields are going empty. The arithmetic of about a third of a street, once, as addresses and never as persons.
+3. **The museum, publicly (Ch 63).** A meeting in a gallery, the 1902 sentence said out loud to about ninety people, and about nine addresses the Museum has a card for and cannot write to, and nobody in the room able to say which nine. **The escalation is a gallery and the number of people who can be hurt went up because of a room and not because of an object.**
+4. **Portability and the refusal (Ch 65, 68).** A mat bought for two pounds down on a Saturday, and the sentence that a practice with a mat in it is not portable and a practice with two pounds in it is. **And the Museum's decision, four lines, two names: we will not keep the sheet, we will keep the fact that we saw it, and we are a party and not a bystander.**
+5. **The floor and the name (Ch 69, 70).** *You cannot take a list of a thing nobody kept*, said by a registration officer with a satchel and a school business manager with a book, and not argued about. And then `NAYLOR, W.` in a column headed OCCUPANT (PRIOR), in a registrar's hand, in a room, on purpose, for the first time in a hundred and twenty years.
+
+## THE COST AND THE COST CURVE
+
+**No memory cost of any kind. No second notebook entry of any kind. No time lost, no name gone, no blood, no headache.** The Chapter 8 two-hands entry is untouched. The fifty-seven minutes are untouched and were not escalated. **He has read nothing in twenty-four days.** The first major memory-displacement cost remains reserved for Volume 03. **The notebook is new, costs thirty-five pence, has nine pages, and now has one rule at the top of the first page in his own hand: *a fact a person gives me on a street is theirs until it is in a file. Do not write it down.***
+
+**His costs in this batch are all refusals and two of them are the growth.** He refused a stop word when one was offered (22 Jan) and refused sixteen addresses and dates in a postman's hand (25 Jan), and he did not go and look at the public register (26 Jan), and he stood on a pavement in Broad Street with nothing in his hands for the first time since 6 October. He has stopped collecting. **He has also stopped being embarrassed about counting and has not called any of it a virtue, which is the whole of the difference between a method and a posture.**
+
+## THE DEVIATIONS AND THE RECORDED CHANGES, ITEMISED
+
+1. **THE PROMPT'S DAY MAP WAS A MIXTURE OF THE TWO CALENDARS AND WAS NOT USED.** Full table in `state/continuity.md` under *THE DAY MAP AS DRAFTED, AND IT IS THE PINNED LINE*. The beats did not move; only the days moved, so that every institutional scene is on a weekday. 13, 18–19, 20, 21, 22, 25, 26, 27, 28 January and 3, 4, 5 February 2025.
+2. **The prompt's card 69 said the practice is four weeks old; on the pinned line it is three weeks and three days and Frank Dunning says so.** The prompt's card 64 said the workers' panel has been up forty-seven days; that is the 13 January figure, and the figure at 21 January is fifty-five and the prose says fifty-five. The prompt's card 61 said a clerk would telephone him; **she telephones first, because the clause does not say how a query reaches an office.**
+3. **THE PROMPT'S CARD 70 NAMED THREE DOCUMENTS AND ONE DATE. It is three documents and three dates, and the finding is that the fifth is in two systems and the sixth in three.** The new fact is the fourth column and the demotion of the fifth of December.
+4. **THE FOUR COUNTS ARE UNTOUCHED.** `grep -rnoE "\b(92|94|61)\b"` over Chapters 61–70 returns **zero**. No total, no shortfall, no difference of a Sillick pay figure, no payroll subtraction. **Perry Loach does not appear in this batch at all.** The only arithmetic is a systems technician counting three documents, a registrar declining a subtraction between about two hundred and forty households and four hundred and twelve addresses, a records officer counting nine entries in her own log, and Elias Venn working out the shape of the next eleven days on a pavement in nine seconds.
+5. **T. VENN and R.M.J. are not named and the ability is not explained.** The bell is silent. **The bell at 11:52 on 11 November 2024 is not referred to in this batch at all.**
+6. **THE MAT ON THE FLOOR OF THE HALL OF FORMER FAITHS IS THE SCHOOL MAT FROM ST ANSELM'S, received into this building on 30 December 2024, and Chapter 65 establishes on the page that the two mats in this case are different objects with identical descriptions and that a card is a class.** It does not contradict Chapter 54, 55, 57 or 58.
+7. **EIGHT META CONSTRUCTIONS FOUND BY THE SWEEP AFTER DRAFTING AND REMOVED** — *this chapter* ×6, *this volume*, *this batch* ×2 — and one in `chapter-0060.md`, a closed Batch 0001 file, which the Batch 0001 summary already claimed had been stripped. **That is the only change this batch has made to a Chapter 51–60 file and it is a one-clause repair.**
+8. **Eleven date and weekday corrections were made between the first draft and the verified text**, and every one is in `state/continuity.md` under the day map. **The final sweep, run with the ordinal-capable pattern, returns twenty-eight phrases and zero mismatches against the pinned line.**
+
+## WHAT THE BATCH DELIBERATELY DID **NOT** DO
+
+- It did not explain it. Nobody says why the fields are going empty, Ivo Pell is stopped from saying it in a room, and **the depot's position is stated a third time and is correct.**
+- It did not make a villain, a buyer, a market, a network, the Lantern Society, a new god or a new antagonist. **The operator number is a contractor's and the depot may not release it and has said why.**
+- It did not answer whether the threshold pattern is the object or the place. **It made it portable and referred the question to the one office with jurisdiction, which has already refused.**
+- It did not use the public register, and it did not put a child, a pensioner or a person receiving a service on a card or in a file.
+- It did not re-stage the two failures of condition 2, and **condition 2 is not amended and is not displaced.**
+- It did not spend the cost curve, and it did not give him a stop word — it made him refuse one.
+- It did not touch the 1976 classification sheet, the empty column in the 1974 accession register, the unclaimed Loach line, Helen Venn's letter, the shortfall total or the school group's struck-through booking. **The room at the east end of the Quiet Wing corridor is still not described.**
+- **It did not resolve anything.** Nine consequences are held open, the twenty-four days end with all nine open, and the last line of the batch is a name and a question.
+
+## THE HANDOFF TO BATCH 0003
+
+**Friday the fifth of February 2025, at about half past eleven at night, at a table in a rented room, the last page of a nine-page notebook, four days before the first Registry slot in Northglass:**
+
+> **A name field is for the bill.**
+> **And what is a name field for. It is for the second person, not the first. It is not for the person it names — it is for whoever has to find them again, and the person it names is the one thing in the chain with nothing to do, and everybody in this case has spent nine weeks talking to the wrong end of it.**
+>
+> **There are about four hundred and twelve households on a wire and nine rows on it that have a name missing off them, and the number of people those nine are is not four hundred and twelve and is not nine and is not knowable, and the only two people in this city who could put a number of people to anything are a school business manager and a registration officer and both of them have said no.**
+>
+> **The bill goes out. The name comes back.**
+
+**Live on the fifth of February, and all of it is on the page:**
+- **SATURDAY 6 FEBRUARY 2025, 11:00. The first Registry slot, four assessors, no emergency provision, and a woman of about forty-five that nobody in this building has ever spoken to, who was written to on 22 January with a question that is not a classification question.** Form A/3 is unanswered and will be answered about then, and the two dates are the same day and neither was arranged.
+- **A binder on Marsh Lane that stops at 19 January, a fourth column in it, and about nine names in that column that the Museum had already thrown away and now has back.**
+- **A dead man's name on a Museum document, written on purpose, in a registrar's hand, in an inquiry file, with a witness.**
+- **A rope in two, joined by a sheet bend, about 1935, and nobody in this city knows what it is for, and a box of minutes on the ground floor that a systems technician is not allowed to open.**
+- **A sheet of A4 in a plastic wallet on a table in 88 Sillick Lane, three weeks and three days old, portable, and now formally nothing: no form, no file, no register, no minute, and the Museum has minuted that it is a party and will answer for it.**
+- **A mat that can be bought for two pounds, about nine of them sold since 4 January, and nobody's job.**
+- **A postman moved on 9 February who does not know it, a walk sheet that goes into a rack and is binned in two years, and a woman of eighty-one who is not allowed back until April and is the only person who can say anything about Walter Naylor.**
+- **A card under a panel that will be corrected and never read, and a museum that has just made itself a party, and a bell in a room that is open, that is silent, and that has lost a gallery and a fortnight to a mat.**

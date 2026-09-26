@@ -121,7 +121,7 @@ The change log is four lines per event and it is not a document anybody gives ou
 
 > **NOTE (added by hand, 16 Dec, R.M., counter):** *06/12 03:41 was the nightly address-file refresh, not a keying. The refresh clears the occupier field on any record carrying NCO set in the previous 24 hours. Set on 05/12 at 16:22 by OP-2201, source record not visible to this office. I am not chasing it. R.M.*
 
-And the reason code, in the printed legend at the foot of the log, because codes have legends and this is the one code in the whole of the business that this batch is about:
+And the reason code, in the printed legend at the foot of the log, because codes have legends and this is the one code in the whole of the business that everybody in this case is about:
 
 > **NCO — NO CURRENT OCCUPANT. Set by walk survey only. Consequence: record closed to delivery; occupier field not required; item returned or offered to neighbour.**
 
