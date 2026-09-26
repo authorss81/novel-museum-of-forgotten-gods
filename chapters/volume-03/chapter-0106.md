@@ -26,7 +26,7 @@ Gwilym Petherick read it twice with his glasses on and gave it back.
 
 He did not stop.
 
-"**That is three point eight six metres above Newlyn, at the Northglass pier gauge, at about two in the morning on the nineteenth. It is a real number and it was made by a real instrument and the man who made it is good.**" He put a finger on the line. "**And it is about four miles downstream of Ferry Bank, past a bend, and there is about eleven miles of channel between that gauge and the low bank, and a level is not a height and a height is not a level, and the difference between three point eight six at Northglass and whatever happens at Ander's Row is a slope and a channel and a bend, and nobody in this country has printed a table that converts one to the other for that reach, because the Northglass gauge is the funded one and it has been the funded one since 1911.**"
+"**That is three point eight six metres above Newlyn, at the Northglass pier gauge, at about two in the morning on the nineteenth. It is a real number and it was made by a real instrument and the man who made it is good.**" He put a finger on the line. "**And it is about four miles downstream of Ferry Bank, past a bend, and there is about eleven miles of channel between this wharf and the low bank, and a level is not a height and a height is not a level, and the difference between three point eight six at Northglass and whatever happens at Ander's Row is a slope and a channel and a bend, and nobody in this country has printed a table that converts one to the other for that reach, because the Northglass gauge is the funded one and it has been the funded one since 1911.**"
 
 "**And the notice says so.**"
 
@@ -38,7 +38,7 @@ He did not stop.
 
 They were on the quay at about twenty past two with the tide out and about eleven inches of green on the stonework, and the tide line was where it had been every day of his working life, and Petherick put the folding rule against it and read a number off it and wrote it on a piece of A4 in biro.
 
-"**There. Three point eight six would be about** ***"*** **and that is a level and not a number I have made up, and I will not tell you what it is a measurement of, because that is the whole of your question and I have to answer it in four separate pieces and one of the four is a piece I do not have.**"
+"**There. Three point eight six would be about a foot above that line, and that is a level and not a number I have made up, and I will not tell you what it is a measurement of, because that is the whole of your question and I have to answer it in four separate pieces and one of the four is a piece I do not have.**"
 
 "**Go on.**"
 

@@ -145,7 +145,7 @@ Marianne Cope did not write it down. That is on the record in one line of a hand
 
 "**It is true and it is unevidenced and I have told you what happens with those.**"
 
-Ro(i)sin Mellor took the pen and looked at item four for about eleven seconds, and then she put the pen down, and then she said the sentence that two professionals had already said in this case about a different instrument in a different month, and she said it without knowing she had said it before.
+Roisin Mellor took the pen and looked at item four for about eleven seconds, and then she put the pen down, and then she said the sentence that two professionals had already said in this case about a different instrument in a different month, and she said it without knowing she had said it before.
 
 "**Then it can close,**" she said. "**I am not writing something in there to get seven hundred and fifty pounds. I am not going to do that. I have never done anything like that in my life and I am not starting on a Tuesday.**"
 
@@ -167,7 +167,7 @@ Ro(i)sin Mellor took the pen and looked at item four for about eleven seconds, a
 
 "**Wharf Street.**"
 
-"**No. Four miles downriver, off the Cattle Market end, and it is a bonded store and it is not our building and it is not our room, and the council holds a lease on it and I do not know what is in it, and I have not been able to get at my own December file since the fifteenth of January.**" She went down. "**I am not complaining about that. Nobody is going to lose a night’s sleep over my file. I am telling you because you are a person and not an insurer, and because you have been asking the right question for two days, and because in about four years somebody is going to want a list of the paper that was in that flood and I am the person who knows where the paper is, and I have told nobody.**"
+"**No. Four miles downriver, off the Cattle Market end, and it is a bonded store and it is not our building and it is not our room, and the council holds a lease on it and I do not know what is in it, and I have not been able to get at my own December file since the fifteenth of January.**" She went down. "**I am not complaining about that. Nobody is going to lose a night's sleep over my file. I am telling you because you are a person and not an insurer, and because you have been asking the right question for two days, and because in about four years somebody is going to want a list of the paper that was in that flood and I am the person who knows where the paper is, and I have told nobody.**"
 
 ---
 

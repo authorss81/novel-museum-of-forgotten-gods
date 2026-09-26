@@ -114,7 +114,7 @@ The letter came on Thursday the third of June to a first-floor flat above a shop
 
 Kathleen Orrey was sixty-one and had run a stationery and newsagent's for nineteen years and had a claim in since December for the water that came into the ground floor and up to the second stair in the second week of December, and it had not been settled, and she had been sent a form, and she had sent it back, and the form had come back.
 
-"**I have done everything you have asked me to do twice,**" she said, **on the telephone, to Elias Venn, on Wednesday the fourth, at about eleven in the morning, and she was not complaining, which was the thing he noticed.** "**I filled it in. I sent it back with photographs of the shop. They sent it back and they said it was incomplete. So I filled it in again and I sent it back again, and this time somebody rang me and was very nice about it and said it had gone to a different team because of the deadline.**"
+"**I have done everything you have asked me to do twice,**" she said, **on the telephone, to Elias Venn, on Friday the fourth, at about eleven in the morning, and she was not complaining, which was the thing he noticed.** "**I filled it in. I sent it back with photographs of the shop. They sent it back and they said it was incomplete. So I filled it in again and I sent it back again, and this time somebody rang me and was very nice about it and said it had gone to a different team because of the deadline.**"
 
 "**And you thought the second letter was about June.**"
 
@@ -137,6 +137,12 @@ Kathleen Orrey was sixty-one and had run a stationery and newsagent's for ninete
 There was a pause of about four seconds.
 
 "**I left it out,**" said Kathleen Orrey. "**Because after the photograph they told me it had to be a document, and I sent the letter, and then they told me the letter was not the right kind of letter, and I have not got the right kind of letter, and I did not want to write something in a box that was not true, so I left it out and I sent it anyway.**"
+
+"**One more thing and then I will let you get on,**" she said. "**You asked me twice whether it was all right to send it to a stranger. I am going to answer the question you have not asked. The two pages came with the first letter. They came in December and they have been on the shelf under my counter ever since with a rubber band on them, and I have not opened them, because I have a shop to open. Take them. And when you have finished with them, take them back to the office they came from, because they are mine and not theirs, and I would like them back when this is over.**"
+
+"**I will bring them back myself.**"
+
+"**You will not, and that is not a criticism. Nobody comes back. That is the whole of what I have learned about a piece of paper since December.**"
 
 ---
 
