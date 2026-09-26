@@ -6,7 +6,7 @@
 
 ---
 
-## And the referral had been in the file since the fourth of June, which is eleven weeks and a day, and the sentence that opened the whole of it is one a claims handler of thirty-four said out loud before she read anything at all, which is that a date is worth this household nothing
+## And the referral had been in the file since the fourth of June, which is eleven weeks, and the sentence that opened the whole of it is one a claims handler of thirty-four said out loud before she read anything at all, which is that a date is worth this household nothing
 
 Marianne Cope had written to her own district office in July and had been told by nobody that they had read the letter, and she wrote again in August for the same file, and she was not going to be told a third time, and she said so.
 

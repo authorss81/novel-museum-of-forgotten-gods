@@ -637,3 +637,31 @@ Clause 7, which closed on the morning the Hall reopened · the supplied-file arc
 - **Volume 02 has never been reviewed by a reviewer who was not the writer. Volume 03 Batch 0001 needed three repair passes, Volume 03 Batch 0002 needed one, and Volume 03 Batch 0003 has not been reviewed at all.** A review performed by the writing agent is a repair and not a certification, so no `reviews/` artifact has been written for any of it. This phase wrote no review file, for the same reason, and did not create a `.done` marker.
 - **The weekday sweep for Batch 0003 parsed 35 dated phrases out of 285 weekday tokens on its more generous instrument and 9 on its stricter one, and the unparsed counts are 250 and 276. Neither is zero and neither may be reported as zero.** All ten of the more generous instrument's apparent mismatches were false positives of two documented shapes — a hyphenated compound ordinal parsed as its second half, and a paired-ordinal chapter heading — and five real calendar errors were found and repaired. **A later pass should not describe either instrument as having checked the batch, and the two spelled-out notebook figures it found that a digit-only sweep cannot read are the fourth consecutive batch in which that has been the case.**
 - **A bold clause nested inside a bold paragraph is a live class. This batch produced zero instances in its own chapters; the per-line parity test that strips code spans only returns 0 and 0 on all ten files.**
+
+---
+
+# AFTER THE REPAIR PASS OF 26 SEPTEMBER 2026
+
+## CLOSED OR PAID IN THE REPAIR PASS
+
+- **THE SURNAME HAD NO SOURCE, and closing it made the batch better.** The echo gives the whole name now, and the address never came from him, and `RG/26/6` has a second paragraph that says so. **A thread a review opened by asking *where does this come from* has been answered by a worse answer, which is the correct outcome.**
+- **THE STRIKE-THROUGH TIMELINE.** One line, four points, and the office's apology letter now says the entry *is being corrected* and *will be* struck through, which is what makes the two days between the letter and the line a beat instead of a fault.
+- **THE ELEVEN WEEKS.** Marguerite Sowle's wait is 77, 78 and 81 days and the chapters say eleven weeks in six places. **It was never a rounding error; it was the beat.**
+- **THE PROSE CASE-AGE COUNTER.** Twenty-three places brought onto each chapter's own notebook header. **The notebooks were all right, which is the fourth consecutive time in this manuscript that the spelled-out prose figure is the thing that is wrong and the typed header is the thing that is right.**
+- **THE LICENCE'S BOXES.** Eight, everywhere, and the state layer with them.
+
+## CARRIED ON PURPOSE, UNCHANGED
+
+- **Everything in the three boxes above this one is unchanged.** The register ends on Friday 1 October and nobody appointed anybody. The memory cost is Chapter 144 and this batch spent none of it. **What Chapters 128 to 130 cost was a nosebleed, eleven seconds, and a living woman's name in a column, and there is no *forty minutes of not hearing a room* and there is no *mark in his palm*, and a later writer who spends either has invented a fact about a man's body.**
+- **The moral floor is still said zero times at full length and it is still available and still may not be said by Elias Venn and still may not be said in a public room.**
+- **The woman of about forty-three is still unnamed and still unnamed everywhere she appears, and `Ashgill` and *forty-three* still return zero across Chapters 121 to 127.**
+
+## OPEN, AND IT IS THE NEXT BATCH'S PROBLEM, NOT OURS
+
+1. ⚠ **THE SWEEP HAS THREE BLIND SPOTS AND NOBODY HAS CLOSED THEM.** A weekday sweep found none of the twenty real faults in Batch 0003. It cannot see a **unit**, a **sex**, or a **magnitude**. ⚠ **Open, and it is a standing instruction rather than a task: the per-line interval checker does not exist in `scripts/`, which no writer may edit, and neither does a pronoun checker or a quantity checker. Their specifications now live in `state/current.md` and in the Batch 0004 prompt, and no batch may describe its sweep as having checked the batch.**
+2. ⚠ **THE PINNED LINE IS NOT THE REAL CALENDAR AND A REPAIR PASS WILL GET IT WRONG.** It happened once inside this very repair, on Chapter 123's *"a Friday night"*, and it was put back. ⚠ **Any pass that reads a real weekday to check a chapter is a pass that will damage correct prose, and the check has to be written against `weekday + 2`.**
+3. **A SCENE ASSERTED OFF A PAGE IS A DEFECT CLASS NOW.** Chapter 122 put a Monday-9-August conversation in Fisher Lane in a chapter that covers that Monday. It is now an aside on the Monday, in nine minutes, between a quay and a form. **A chapter may refer to a conversation that happened between its own scenes; it may not assert a day the volume has not given it.**
+
+## LOGGED AND NOT OURS TO CLOSE
+
+- **Volume 03 Batch 0003 has now been reviewed once by something other than the agent that wrote it, and the review's own verdict on the state layer stands: its sweep reports five real-calendar repairs, all of which are visible in the files, and it is honest that neither instrument's unparsed count is zero — but it does not cover unit, sex or number-magnitude classes, and it missed a real weekday on a real date in Chapter 122. Its coverage is narrower than *the batch is verified* implies.** **No `reviews/` artifact has been written for any batch, and this phase did not write one, because a review file is a reviewer's statement and not a writer's.**

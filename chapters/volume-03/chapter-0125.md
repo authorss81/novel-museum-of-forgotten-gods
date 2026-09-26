@@ -2,7 +2,7 @@
 
 **On Monday the twenty-third and Tuesday the twenty-fourth of August 2025 the first licences under the second instrument were issued, and a woman of forty-one signed the one line on the form that is for a person, and a man of thirty-two was asked to sign another one and did not, and the argument about what a signature is and is not was had in a room above a shop in Fisher Lane by four people and it is an argument this case has been having since a goods-out docket in October, and nobody improved on it, and the one thing that came out of the room was that nobody could tell a woman of forty-one what her signature was for in a sentence.**
 
-**The instrument is a printed form. It has a box for a period and it has five other boxes and two of them are for people and one of them is for a second person, and the second-person box is the only box in the whole of this flood that anybody has ever thought about as a promise rather than as a box, and a man of twenty-five who is not a flood officer explained in about nine sentences what that promise is worth, and then told the man of thirty-two what he had cost.**
+**The instrument is a printed form. It has a box for a period and it has five other boxes and then two more that are for people and one of the two is for a second person, and the second-person box is the only box in the whole of this flood that anybody has ever thought about as a promise rather than as a box, and a man of twenty-five who is not a flood officer explained in about nine sentences what that promise is worth, and then told the man of thirty-two what he had cost.**
 
 ---
 
@@ -19,7 +19,7 @@
 > **6. This licence does not permit entry to any part of the premises not described in box two. It confers no right of entry upon any person other than the applicant.**
 > **7. A licence is not a person and is not recorded as one.**
 
-"**Seven boxes,**" said Mara Iles, "**and I have been sitting here for about nine minutes and I have counted them three times and there are seven, and I want that said out loud in a room because everybody who has seen this instrument in the last fourteen days has said *one box* and they have meant one box for a period, and there are six more, and the six more are people.**"
+"**Eight boxes,**" said Mara Iles, "**and I have been sitting here for about nine minutes and I have counted them three times and there are eight, and I want that said out loud in a room because everybody who has seen this instrument in the last fourteen days has said *one box* and they have meant one box for a period, and there are seven more, and two of the seven are for people and the other five I have not got to and am not going to.**"
 
 "**Say the important one,**" said Marianne Cope.
 
@@ -93,7 +93,7 @@ There were five people in the room and the man of thirty-two was one of them and
 
 ---
 
-## And on the Tuesday afternoon a man of twenty-five who is a systems technician and not a flood officer said what a second person is worth, in about nine sentences, and then said the thing nobody in the case had said to the man of thirty-two in thirty-six weeks
+## And on the Tuesday afternoon a man of twenty-five who is a systems technician and not a flood officer said what a second person is worth, in about nine sentences, and then said the thing nobody in the case had said to the man of thirty-two in thirty-seven weeks
 
 Ivo Pell had come in at about two and had been in the room for nine minutes without saying anything, which is what he does.
 
@@ -139,7 +139,7 @@ He looked along the table at the man of thirty-two, who had been at the end of i
 
 "**That is two reasons.**"
 
-"**It is one reason and it took me thirty-six weeks and two of them are the same.**"
+"**It is one reason and it took me thirty-seven weeks and two of them are the same.**"
 
 Nobody argued with him, which is the correct treatment, and Hazel Cray wrote four words on a pad and this time she did not turn the pad round, and then she turned it round.
 
@@ -156,10 +156,10 @@ She had written the same four words on the fourth of August and had turned the p
 ---
 
 > **Tue 24 Aug, 23:30. Thirty-seven weeks and two days since the sixth of December. The practice is thirty-three weeks and one day old. The bell has said nothing for two hundred and fifty-four days and the panel on its case is two hundred and seventy days old.**
-> **A form with seven boxes and a licence in it, of which one is for a period and two are for people and one of the two is a promise. And the answer to the question a woman of forty-one asked in a room above a shop in Fisher Lane at about eleven o'clock on the Tuesday morning, which is that a signature is so that if anybody says this was never done to this house there is a person named who did it and can be asked whether it was.**
+> **A form with eight boxes and a licence in it, of which one is for a period and two are for people and one of the two is a promise. And the answer to the question a woman of forty-one asked in a room above a shop in Fisher Lane at about eleven o'clock on the Tuesday morning, which is that a signature is so that if anybody says this was never done to this house there is a person named who did it and can be asked whether it was.**
 > **And the second half of it, which is that if anybody says she did not let him in then there are two names on a piece of paper and somebody has to decide which of them they believe, and that is the whole of what a signature is, and a claims handler of thirty-four said it to a claimant for the first time in nine years and had said it to about nine hundred officers in training and not once to the person it was about.**
 > **A woman of forty-one with a husband in a wheelchair who came home from hospital on the fourteenth of June got a licence on the twenty-fourth of August in category (e), other, describe, after eleven days and a telephone call and a note in a system that is not on her form, and she signed the only line on it that is for a person and she asked what it was for and she was told and she said it was worth having and she wrote the reference on the back of her hand with a biro because she had nothing to write it with.**
-> **And a man of thirty-two did not sign box eight. Six times now in five weeks and twenty-eight weeks in the case, and the reason is the first line of the first page of a book, and a man of twenty-five with a condition of his own that has been in force since the first of December 2024 said the thing nobody had said to him in thirty-six weeks, and the thing was that being useful and being a party are not opposites and I have been treating them as opposites because it was convenient, and a second person is not a pair of initials and a signature is a signature.**
+> **And a man of thirty-two did not sign box eight. Six times now in five weeks and twenty-eight weeks in the case, and the reason is the first line of the first page of a book, and a man of twenty-five with a condition of his own that has been in force since the first of December 2024 said the thing nobody had said to him in thirty-seven weeks, and the thing was that being useful and being a party are not opposites and I have been treating them as opposites because it was convenient, and a second person is not a pair of initials and a signature is a signature.**
 > **He is right and I am not going to argue with a man of twenty-five who came in from a building on a hill on a Tuesday afternoon to say a thing he was not asked to say, and I am not going to write down the thing he said either, because he asked to have it minuted by somebody who does not like him and nobody in that room does not like him, and that is the second time in six weeks that the correct instrument has not existed and I have got a sheet of ten items on it and item six is *whether anybody has ever asked*, and somebody has now asked, and the answer is yes, and the answer is a form.**
 > **The moral floor was not said in this room of five. It is the box that was not there. A household cannot be an applicant. A household cannot be a witness. A household is a person at an address on a date and this form has no box for a date, and a woman of forty-one was put in box one with *none* written in the grade or post line, and a note was put in a system instead of on her form, and she will never see the note.**
 > **The bill goes out. The name comes back.**

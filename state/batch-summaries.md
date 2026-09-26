@@ -952,3 +952,28 @@ A second instrument and the clause that made it catastrophic (Ch 121) · a schoo
 - A woman of sixty-one at the end of a table who has a second question and has said in a room in advance that it is not now, and who told a room that nobody in this case has walked to a door.
 - A man of fifty-five with a laminated sheet in a buttoned pocket, a condition set in a car park in July, a message in a hut nobody has collected, and a decision in a room not to ask him again.
 - A first of October that is twenty-four days away and that two people chose and neither has ever said in a room what happens on it.
+
+---
+
+# Volume 03 — Batch 0003, REPAIR PASS OF 26 SEPTEMBER 2026
+
+**An independent review of the batch found twelve blocking faults, eight medium ones, four more of the same classes found while repairing, and four defects in the Batch 0004 prompt. All twenty-eight are repaired. No chapter was restarted, no planned beat was moved, and the planned ending of the volume is untouched. Full record: `state/continuity.md` under `VOLUME 03, BATCH 0003 — REPAIR PASS OF 26 SEPTEMBER 2026`.**
+
+## WHAT THE BATCH SPENT, UNCHANGED
+
+**A second flood instrument and the clause that came alive with it · a school roll and a premises inventory and the reason they cannot be joined · the reading of a 1902 card, performed, with a null minuted as a null · the household, the form, and a neighbour's second line about a child of nine · what a signature is for, said to the person it was about · the first public attempt and its failure in a branch library · the midpoint reversal and its second half · a key on a fob, eleven seconds, and a name said in a hall · a misidentification and the third card in a private series · a correction, and a decision not to ask a man of fifty-five.** None of that moved. **A repair pass is not a rewrite and the batch's shape is its own.**
+
+## WHAT THE REPAIR CHANGED, AND THE ONLY TWO THINGS THAT MATTER
+
+1. ⚠ **THE NAME NOW COMES WHOLE OUT OF THE OBJECT, AND THE ADDRESS NEVER CAME FROM HIM AT ALL.** The echo says *I'm Marguerite Sowle.* The duty officer supplied the address from a book in nine seconds and the book was right, and she says so out loud, and the record says so, and Elias's own notebook says that this is worse than what he said in the room. **The review found a hole where a source should have been and the repair put something harder in it than a source.**
+2. ⚠ **THE STRIKE-THROUGH HAS ONE TIMELINE AND THE OFFICE APOLOGISED BEFORE IT WAS ALLOWED TO FIX ANYTHING.** 3 September 11:20, 12:20, 12:30; a letter on the Friday afternoon saying the entry *is being corrected* and *will be* struck through; 7 September at 10:10. **The two days between the letter and the line were a fault and are now the best beat in the chapter, and the correction is still one line, and it is still enough for exactly one woman and nothing whatever for the other.**
+
+## WHAT THE REPAIR DID NOT TOUCH, AND WHY THAT MATTERS
+
+**The moral floor is still said zero times. The store is still shut. The rope is still not carded and Fenn's sentence is unimproved. The woman of about forty-three is still unnamed and `Ashgill` and *forty-three* still return zero across Chapters 121 to 127. No memory cost, no time lost, no name gone, no `T. VENN`, no `R.M.J.`, no Perry Loach, no stop word, no new antagonist, no new god, no school group in the Hall of Former Faiths, and `\b(92|94|61|482|494)\b` is still 0.** **The volume's plan, its ending and its locks are intact.**
+
+## THE LESSON, AND IT IS THE ONLY PART OF THIS THAT A NEXT WRITER HAS TO DO ANYTHING WITH
+
+⚠ **The batch's own sweep reported the batch clean and there were twenty real faults in the prose. All forty notebook interval figures were correct — the sweep was right about what it checked — and it could not see a unit, a sex, a magnitude, a count of things on a form, a source that did not exist, a timeline with four versions, or a number off by a week in the prose while the header above it was right. This is the fourth consecutive batch in which the spelled-out prose figure is the thing that is wrong.**
+
+⚠ **A weekday sweep is not a verification. The Batch 0004 prompt has been corrected and now carries the instruction, and `state/current.md` and `state/open-threads.md` carry it too, together with the fact that a repair pass made the same real-calendar mistake the writer makes — on a line that was already right — and had to put it back.**

@@ -1629,6 +1629,56 @@ Read out, and then the other half, which is not in the file and is not going in 
 | The store opened | **Nowhere.** Shut, padlocked, shuttered, and the man who was in a boat once is not going in again. |
 | Bold-marker parity, per line, both parities, and four-asterisk sequences | ⚠ **TWO INSTRUMENTS AND THEY DISAGREE, AND THE DISAGREEMENT IS THE DOCUMENTED FALSE-POSITIVE CLASS.** **Code spans stripped only: 4 odd lines and 0 four-asterisk sequences. Code spans AND single-asterisk spans stripped: 0 odd and 0 four-asterisk. All 4 are legitimate bold runs containing an italic span and all 4 render correctly — chapters 0124, 0126 (twice) and 0126 again, at lines 128, 86, 141 and 154, and the last three are a quoted line in which a woman's own sentence is italicised inside the bold. ⚠ **The raw count is 4 and the corrected count is 0, and the corrected count is the one that means something, and the false-positive number is a measurement taken at a moment: it moves every time a record quotes a marker sequence in order to describe it, which is the only way these files talk about their own markup, and this row is one of the records that does it. The batch produced zero genuine nested-bold or stray-closer faults in its own ten chapters. |
 | Duplicated paragraphs over twenty-five words across the ten files | **0.** |
-| Length, re-derived after the last edit | **4,570 · 4,323 · 5,207 · 4,124 · 4,630 · 4,650 · 5,736 · 5,296 · 5,437 · 5,243 = 49,216 words.** Shortest Chapter 124 at 4,124, longest Chapter 127 at 5,736. ⚠ **No target was set and no house range was quoted at this writer, and a range quoted at a next writer is a range somebody has to be right about, and this prompt had been wrong about one twice already.** |
+| Length, re-derived after the last edit, **and again after the repair pass of 26 September 2026** | **BEFORE THE REPAIR: 4,570 · 4,323 · 5,207 · 4,124 · 4,630 · 4,650 · 5,736 · 5,296 · 5,437 · 5,243 = 49,216 words.** ⚠ **AFTER THE REPAIR: 4,586 · 4,334 · 5,240 · 4,121 · 4,648 · 4,650 · 5,737 · 5,426 · 5,612 · 5,284 = 49,638 words.** Shortest Chapter 124 at 4,121, longest Chapter 127 at 5,737. **The figure a next writer is given must be the second one and the first is left here only so that nobody mistakes a repair for a rewrite.** ⚠ **No target was set and no house range was quoted at this writer, and a range quoted at a next writer is a range somebody has to be right about, and this prompt had been wrong about one twice already.** |
 | Meta language | ⚠ **12 hits, all whole-word, all in the narrator's voice, none in dialogue, no production note and no warning glyph.** Pattern: `this chapter · this volume · this batch · the reader · no chapter · not one word of it`. By location: **5 in the two-paragraph bold logline block that opens a chapter, 5 in a notebook block, and 2 in a section heading.** ⚠ **This is Volume 03's own convention and it is the same convention the Batch 0001 verification pass measured at 22 hits across ten chapters and then examined and left alone, on the ground that the logline block is in the narrator's voice, that Volumes 01 and 02 do not have it, and that whether the volume should open its chapters that way is a decision for a pass with a brief. The count here is twelve against that twenty-two, and the two hits in section headings are the shape the Batch 0001 pass explicitly called house style. The production note and the warning glyph that were in Chapter 101 were removed in that pass and are not reintroduced here.** A later pass that decides the convention should go should decide it for the whole volume and not raid three chapters. |
 | `Ashgill` and *forty-three* by chapter | **0 in Chapters 121 to 127; one `Ashgill` in 128 as the schedule entry the name is written against; the woman in person only in 129.** |
+
+---
+
+# THE REPAIR PASS OF 26 SEPTEMBER 2026, AND WHAT THE SWEEP ABOVE DID NOT SEE
+
+⚠ **The table above is the sweep the writing phase ran on itself. It reported the batch clean. An independent review then found twelve blocking faults and eight medium ones in the same ten files. Every one of the twenty is real, all twenty are repaired, and the record is in `state/continuity.md` under `VOLUME 03, BATCH 0003 — REPAIR PASS OF 26 SEPTEMBER 2026`. This section exists so that the next reader of the table above cannot take it for a certificate.**
+
+## WHAT THE SWEEP COULD NOT SEE, BY CLASS
+
+| Class | What it was | Where |
+| --- | --- | --- |
+| ⚠ **A source that did not exist** | The echo gave a first name and the surname entered the pivotal scene from nowhere, in a paragraph that also claimed a telephone call had produced it. | `ch-0128` — now *I'm Marguerite Sowle*, whole, out of the same eleven seconds |
+| ⚠ **Two files disagreeing about who said what** | The notebook credited Elias with saying an address that Delyth Morgan says on the page, in four places. | `ch-0128` ×3, `ch-0129` ×1 — and it is now a turn: the address came out of a book and the book was right |
+| ⚠ **A unit** | *Four centimetres* where the figure is four **millimetres**, which the same chapter states four times and which Chapter 127's whole argument depends on. | `ch-0121` logline |
+| ⚠ **A sex** | A woman in canon written as *he* and *his* three times, and given an age — fifty-five — that is nowhere in the canon. | `ch-0123` ×2, `ch-0128` ×1 |
+| ⚠ **A magnitude** | *Eight hundred and thirty children* where Chapter 122 says about three hundred and eighty, five times, and the state layer agrees. | `ch-0126` |
+| ⚠ **A count of things on a form** | The same licence was six boxes, seven boxes and eight boxes in four places. | `ch-0125` logline, heading, body, notebook |
+| ⚠ **A timeline with four versions** | A strike-through on the Friday, on the Saturday, and on the Tuesday, with a letter reporting it as done four days before it was. | `ch-0129` ×4, `ch-0130` ×2 |
+| ⚠ **A counter that ran the wrong way** | Six knocks by 28 August, five on 1 September. | `ch-127` |
+| **A number off by a week, in the prose only** | The case-age counter sat one week behind each chapter's own notebook header in twenty-three places. **Every notebook header was already right.** | `ch-0125`, `ch-0128`, `ch-0129`, `ch-0130` |
+| **A waiting period off by two weeks** | *Nine weeks* for a woman who opened a door on 18 June and was asked about it on 3, 4 and 7 September. | `ch-0129` ×3, `ch-0130` ×2 |
+| **A real weekday on a real date** | *Monday the twenty-fourth* for 24 August. **Wrong on the real calendar and on the pinned line, and Chapter 121's own derived day table prints it as a Tuesday.** | `ch-0122` |
+| **A real weekday on a real date, twice** | *on **Friday** … for three days*, said on Wednesday 1 September, where three days back is the **Sunday**, and Sunday 29 August 2025 is a pinned Sunday. | `ch-0127`, `ch-0128` |
+| **A real weekday on a real date** | *not starting on a **Saturday** afternoon in a hall*, said on the **Friday** third. | `ch-0129` |
+| **A date on which there was no water** | A woman wrote *10 June* as the day her front door stopped being a way in and out, in a flood of 18–19 June, and the notebook built its failure on it. | `ch-0126` ×2 |
+| **A scene asserted off the page** | A Monday-9-August conversation in Fisher Lane, in a chapter that covers that Monday. | `ch-0122` |
+| **A markup artifact** | *a hall with a_METHODIST hall on the sign* | `ch-0128` |
+| **A logline figure contradicting its own chapter** | *not assessed for a second time in ten weeks*, against an instrument that runs 15–31 August and a character who says *the second half of August* out loud. **The state layer had carried the wrong figure and was corrected with it.** | `ch-0121` ×2, `state/continuity.md` |
+
+## WHAT WAS RE-RUN AFTER THE REPAIRS, AND WHAT IT RETURNED
+
+| Check | Returned |
+| --- | --- |
+| Duplicated paragraphs of twenty-five words or more, ten files | **0.** |
+| `****` sequences | **0.** |
+| Odd `**` per line, code spans stripped | **4** — the documented nested-bold-inside-italic false-positive class, one of them a quoted woman italicising her own sentence inside the bold, all rendering correctly. Unchanged from before the repair, because none of the twenty faults was a markup fault. |
+| Moral floor at full length, and within eighty characters of `Venn` | **0 and 0.** Still said in none of the ten and referred to as unsaid in 128, 129 and 130 in the narrator's own hand. |
+| `T. VENN` · `R.M.J.` · `Perry Loach` · `OCCUPANT (PRIOR)` · `M.Q.S. 4` · `Municipal Works` · `Marsden` · `Anja` · `stop word` · `displac*` · `memory cost` | **0 each.** |
+| `\b(92\|94\|61\|482\|494)\b` | **0.** |
+| Stray underscore in running prose | **0** — the one artifact is gone. |
+| `Ashgill` and *forty-three`, Chapters 121 to 127 | **0 and 0.** The restraint in Chapter 129 survives the repair intact. |
+| Weekday tokens, line scope | **287 seen · 3 bound to an explicit date in the same line · 284 UNPARSED · 0 mismatches among the 3.** ⚠ **284 is not zero and may not be reported as zero.** |
+| Weekday tokens, paragraph scope, one date per paragraph only | **8 seen · 5 uniquely bound · 3 unparsed · 2 apparent mismatches, both hand-read and both false positives of a multi-date notebook block bound to the wrong anchor** — one of them the block that opens with *TUESDAY 10 AUGUST 2025* and the other the two lines about a boiled egg on *the Wednesday*, where the only Wednesday in 8–14 December 2024 on the pinned line is the ninth, and the ninth is correct. |
+| ⚠ **The repairs themselves, re-derived by hand** | **`ch-0122` Tuesday the twenty-fourth = pinned Tuesday ✓ · `ch-0127` and `ch-0128` Sunday = pinned Sunday 29 August ✓ · `ch-0129` Friday afternoon = pinned Friday 3 September ✓ · `ch-0123` thirteen days from 6 to 19 August ✓ and *a Friday night* = a pinned Friday, left alone ✓ · 26 July to 7 September = 6w1d ✓ · 1 June to 7 September = 14w0d ✓ · 19 June to 9 July = 20 days ✓ · 4 June to 20 August = 11w0d ✓ · 18 June to 3, 4, 7 September = 11w0d, 11w1d, 11w4d ✓ · 12 July to 3 September = 7w4d, so *seven weeks* ✓.** |
+| Case-age and practice-age, all ten notebook headers, off `2024-12-06` and `2025-01-04` | **10 of 10 and 10 of 10, and none of the twenty figures was touched by the repair**, because none of them was wrong. |
+| Day map, ten headers | **Exact against the prompt's table, with the deliberate 25–26 August gap left empty.** |
+
+## THE ONE ERROR THIS REPAIR PASS MADE ITSELF
+
+⚠ **Chapter 123's *a Friday night*, about a telephone minute taken on 6 August 2025, was changed to *a Wednesday night* by a check reading the real calendar. 6 August 2025 is a real Wednesday and a pinned Friday, and the original was correct. It has been put back. This is the ninth recurrence of the real-weekday-on-a-real-date failure and the first one committed by a repair pass on a line that was already right, and it is written down here because a class of error that appears in the corrector as well as in the writer is a class that belongs in a checklist rather than in a memory.**

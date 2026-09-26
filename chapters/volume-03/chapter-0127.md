@@ -142,7 +142,7 @@ Yvette Carrow sat down, which she had not done.
 
 "**Then I am not the villain in this,**" she said, "**and I have been the villain in this for four days and I would like it recorded that I have been wrong about myself for four days in the correct direction, and that a woman of forty-seven has just told me in a room that I have no power over this, and that is the second time anybody in this case has told me that and the first time I believed it.**"
 
-"**You are not the villain,**" said Hazel Cray. "**You are the woman who made the form wider. And I want that said differently, because I have been in this flood since the first of June and I have watched a man of forty-four in this building be right about a column of numbers for three months, and I have watched a woman of fifty-five with a rule be right about a height for three months, and neither of them is a villain, and this is the same shape, and the shape is a person doing their job with a box in front of them.**"
+"**You are not the villain,**" said Hazel Cray. "**You are the woman who made the form wider. And I want that said differently, because I have been in this flood since the first of June and I have watched a man of forty-four in this building be right about a column of numbers for three months, and I have watched a man of fifty-five with a rule be right about a height for three months, and neither of them is a villain, and this is the same shape, and the shape is a person doing their job with a box in front of them.**"
 
 ---
 
@@ -194,7 +194,7 @@ The room above the shop in Fisher Lane was let by the hour and on the evening of
 
 "**Then I have got no other instrument.**
 
-"**You have got twenty-two things that nobody owns and that nobody can be asked about, and a grey box, and about eleven seconds at a time, and you have said no to a knock five times in five weeks and you are about to do the opposite of a knock and you are doing it because a form has no box for it,**" said Mara Iles, from the doorway. "**And I am not going to tell you not to, and I want you to notice that I did not tell you not to, and I want you to notice that I knew about it on Friday and I have not said a word about it for three days, and I would like both of those to be in your book and neither of them to be an excuse.**"
+"**You have got twenty-two things that nobody owns and that nobody can be asked about, and a grey box, and about eleven seconds at a time, and you have said no to a knock six times in five weeks and you are about to do the opposite of a knock and you are doing it because a form has no box for it,**" said Mara Iles, from the doorway. "**And I am not going to tell you not to, and I want you to notice that I did not tell you not to, and I want you to notice that I knew about it on the Sunday and I have not said a word about it for three days, and I would like both of those to be in your book and neither of them to be an excuse.**"
 
 He did not write it down. That was the fourth line, and it held.
 
