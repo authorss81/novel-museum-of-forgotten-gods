@@ -611,3 +611,49 @@ The volume's argument is that **this institution will do almost anything correct
 - **A mat that can be bought for two pounds, about nine of them sold since 4 January, and nobody's job.**
 - **A postman moved on 9 February who does not know it, a walk sheet that goes into a rack and is binned in two years, and a woman of eighty-one who is not allowed back until April and is the only person who can say anything about Walter Naylor.**
 - **A card under a panel that will be corrected and never read, and a museum that has just made itself a party, and a bell in a room that is open, that is silent, and that has lost a gallery and a fortnight to a mat.**
+
+---
+
+# VOLUME 02, BATCH 0003 (CHAPTERS 71–80), "THE MIDPOINT"
+
+**Saturday 6 February 2025 to Sunday 28 February 2025. Twenty-two days. Three weeks and a day. Ten chapters, 43,473 words by `wc -w`** (71: 3,838 · 72: 4,315 · 73: 4,836 · 74: 3,503 · 75: 5,338 · 76: 4,209 · 77: 3,931 · 78: 4,957 · 79: 3,708 · 80: 4,838). **No chapter was padded to reach a figure and no complete scene was cut to reach one.** The batch opens on the morning of the first Registry slot and closes on the afternoon before the hearing, with the Board in March three days away.
+
+## WHAT THE BATCH DID
+
+1. **The first Registry slot, and the first time anybody in this case has ever spoken to S. Tully.** Two answers on one Saturday morning, both issued late and both on paper: **`this schedule has no box for it`, confirmed, with the reason nobody asked for — there is no object in the Museum's file, because a description is not a classification and a card is a description** — and, for Form A/3, **a refusal that is not a refusal: a period runs from a determination, there is no determination, so the request has never begun, and it is listed anyway for Thursday 6 March 2025 with a named assessor.** And a screen produces `VENN, E., M.Q.S. 4`, a payee field, correct, and the only thing keeping him a legal neighbour since December.
+2. **The landlord's returns, and the reversal, earned entirely out of documents.** A water authority in nine seconds, a freeholder and a managing agent on a bill, a Director's letter asking a question and not a document, a letting agent of about thirty-nine who has refused six things since the autumn and who answers the question **by reading about four hundred and twelve rows out loud in a committee room with no names in them** and signs a **Statement of Tenure Programme that is the first good instrument in twelve weeks**: nine blocks, a quarterly cycle, about four hundred and twelve tenancies, every notice lawful, and the program running to **the first of October 2025 and then finished.**
+3. **The midpoint, in a public room, in front of about a hundred and ten people, on Wednesday the seventeenth of February.** **It is not a curse and it is not a machine and it is not a god. It is a landlord's programme and a man with a handheld in the last four inches of it. What is being taken is not a home; it is the ability to be recognised as a legal neighbour — a name in a field, an address on a return, a knock that gets an answer.** Nobody is a villain. **And the second half: there is a household in the ward that is owed nothing and is on no list of people owed anything, and nobody will ever knock at it, and that is not a failure of the practice, that is the practice working exactly as designed, and the design is a list, and a list of the owed is a list of the owed.**
+4. **The reading that was wrong, conceded out loud in a room.** **The fifth of December is a Saturday afternoon, a man was out, and a field cleared overnight, and there is no cause.** Elias Venn says in about nine seconds that he stood on it because it was the only date in the case with a person in it and he did not want the case to be a machine. The plastic wallet comes out on a table for the first time in nine weeks and goes back in, and it is worth nothing, and he keeps it.
+5. **The moral floor used and not restated.** Quoted in eleven words at a door, and used twice: to stop anybody asking a man of sixty-five whether he was at home, and to write **address not in roll following recorded change of occupancy, possible omission, date of change not in local copy** in a justification box for the first time in nine years. And a rule said out loud to a stranger for the first time in his life: *a fact a person gives me in a street is theirs until it is in a file.*
+6. **The rope.** A box of minutes opened properly, with the systems technician not in the room, and the answer is not a god: **CIRCULATION, 11,400 over six weeks, a route fouled at the third stanchion, IT IS NOT ON THE SCHEDULE, IT IS FURNITURE** — and the sentence in the minute and the sentence in a transfer clerk's mouth ninety years apart are the same sentence. And a folded list that says **nine**, and nobody in a hundred and forty years has asked what it is a count of.
+7. **The card under the panel, corrected at ninety days, dated, struck through, and never to be read.** **And a trustee of about seventy who objects first, on the ground that this Museum told the public twice in January that it would not put a person's name in a public document, and asks for the word *hook* in the minute so that it will not be tidy.**
+8. **The close, which is a decision and not an event. A date, a boundary, and a document somebody has to keep. It is not a rescue, it is not a covenant, and it is not a miracle** — and the reason a covenant cannot be written is structural: **the minute somebody is keeping it, it is not what it is now, and there would be a fourth rule that nobody wrote, and the fourth rule would be *somebody is keeping it*.**
+
+## WHAT THE BATCH DELIBERATELY DID **NOT** DO
+
+- **It did not make a villain, a buyer, a market, a network, the Lantern Society, a new god or a new antagonist.**
+- **It did not answer whether the threshold pattern is the object or the place**, and the Registrar refused to answer it in the hall, in February, in front of the man who keeps the practice.
+- **It did not state a total, a shortfall or a difference, and it did not convert a count of addresses into a count of people.** The reversal's counter-example is *found by classification*, not by arithmetic.
+- **It did not restate the moral floor in the same words, did not give Elias Venn a stop word, and did not spend the cost curve.** He read nothing in three weeks and a day.
+- **It did not re-stage the two failures of condition 2, and condition 2 is not amended.** It did not name T. VENN or R.M.J., did not explain the ability, and did not describe the room at the east end of the Quiet Wing corridor. **The bell is silent and the bell at 11:52 on 11 November 2024 is not referred to.**
+- **It did not resolve anything.** Ten consequences are held open, the twenty-two days end with all ten open, and the last line of the batch is a question and it is not *what a name field is for*.
+
+## THE HANDOFF TO BATCH 0004
+
+**Sunday the twenty-eighth of February 2025, at about half past eleven at night, at a table in a rented room in Low Ward, the last page of a nine-page notebook, and a Saturday in March eleven days away:**
+
+> **A date. The first of April, the first of July, the first of October, and after the first of October the programme in this ward is finished. It is on a piece of paper in an office in Pemberton Row that any person may have at no charge on any working day, and nobody had asked for it in eighteen months, and it is a cycle and not a promise, and the woman who gave it to me said on the telephone in the right words why it is not a promise, and I have written that down in the margin twice and both times it has been true.**
+> **A boundary. Rule three. Anybody taking part may stop at any point, and nobody's asked afterwards why.**
+> **And a bit of paper on a table in a plastic wallet, and somebody's got to keep it, and it is me.**
+> **The bill goes out. The name comes back.**
+> **Who keeps it.**
+
+**Live on the twenty-eighth of February, and all of it is on the page:**
+- **A nil return due Tuesday the eleventh of March, a hearing on Tuesday the eighteenth of March at half past ten, and a Board on Tuesday the eleventh of March, and a schedule of collections with a dead man's name in it that may be requested by a member of the public for ever.**
+- **A determination day on Thursday the sixth of March, a woman of about forty-five in a room, and a question on a form that has never begun.**
+- **A promise to say nothing, written out in a registrar's own hand on a sheet in a plastic wallet, to be read on the step at 88 Sillick Lane on Saturday the twenty-second of March, four days after the hearing.**
+- **A landlord's programme with a first of April, a first of July and a first of October on it, and a statement of programme in a file in Low Ward, and a hardback book of every visit since 2019 that nobody will ever see.**
+- **About four hundred and twelve tenancies in nine blocks, of which the case can name none, and five of the nine December blanks that have no date in any institution in this city, and a Saturday afternoon in December at a door where a man of about sixty-five was out.**
+- **A practice that cannot be a rota because a permission cannot be scaled, a mat that can be bought for two pounds, about nine of them sold, and nobody's job.**
+- **A card corrected under a panel that nobody will ever lift, a rope that was for circulation, a clerk of works in 1935, and a list folded into the back of a minute that says nine.**
+- **A trustee of about seventy who wants the minute untidy, a solicitor who is not frightened of anybody and who has said he will not get a nine-page notebook, and a man of thirty-two who has been asked a question for the first time in twelve weeks and answered it.**
