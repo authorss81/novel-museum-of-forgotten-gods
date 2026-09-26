@@ -26,7 +26,7 @@ The conservation store on the fourth level is a room with a bench in it and a ru
 
 "**No.**"
 
-"**The accession rule is that the year is the year the series was opened and not the year the object came in,**" said Rhiannon Iddon, from the doorway, with nineteen years of it in her voice. "**`BQ` is Bequests, general, and the series was opened in 1968 out of the Ashgill bequest, and every object in it carries 1968 whatever year it came through the door. The object is the twenty-second in the series and the series is the bequests and there are about four hundred objects in it.**"
+"**The accession rule is that the year is the year the series was opened and not the year the object came in,**" said Rhiannon Iddon, from the doorway, with nineteen years of it in her voice. "**`BQ` is Bequests, general, and the series was opened in 1968 out of the Kettering bequest, and every object in it carries 1968 whatever year it came through the door. The object is the twenty-second in the series and the series is the bequests and there are about four hundred objects in it.**"
 
 "**And people get that wrong.**"
 
