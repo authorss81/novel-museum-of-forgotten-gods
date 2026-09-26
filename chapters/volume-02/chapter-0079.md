@@ -2,7 +2,7 @@
 
 On the morning of Thursday the twenty-fifth of February 2025 the panel went back onto the case at plinth thirty-four, and it was ninety days old, and it had come off once, on the thirtieth of December, for about three hours, and the tape was tired, and the woman who printed it had asked that it stay and had been asked about it in a public room on the twenty-first of January and had said no in a public room on the same afternoon, and nobody in this building has the standing to remove a requester's panel, and nobody tried.
 
-Underneath it the card was different, and the difference is four struck lines and a paragraph, and it is on the page because it is the only correction this institution has made to a public card in about a hundred and twenty years and it will never be read by anybody.
+Underneath it the card was different, and the difference is four struck lines and a paragraph. It is the only correction this institution has made to a public card in about a hundred and twenty years and it will never be read by anybody.
 
 > **HAND BELL.** *Unpitched at rest, no inscription, no figure, no devotional content. Larger than life-size, used for sounding, worn hollow inside the lip where it was held. Cast 1902. Staple repair, fracture remains visible. Quiet Accord classification Annexe D permanent, to be displayed, under no circumstances to be removed from public view by a museum acting alone.*
 >
@@ -56,9 +56,9 @@ Nobody said anything for about nine seconds.
 
 ---
 
-**And then a man of thirty-two standing in a store at the back of a building he is barred from read a line of it out loud, and it is on the page because it is the last time in this case that the rope and the thing a person said about the rope in a public gallery in January were in the same sentence, and they are the same sentence, and they are ninety years apart.**
+A man of thirty-two, standing in a store at the back of a building he is barred from, read a line of it out loud. It is the last time in this case that the rope and the thing a person said about the rope in a public gallery in January are in the same sentence, and they are the same sentence, and they are ninety years apart.
 
-"Fourteen years ago a man in a hall said *a rope is a printing press with a walking speed*, and he said he had tied about forty thousand of them, and he was right, and I wrote it down and said that none of the four people we had asked had answered about this rope."
+"Five weeks ago a man in a hall said *a rope is a printing press with a walking speed*, and he said he had tied about forty thousand of them, and he was right, and I wrote it down and said that none of the four people we had asked had answered about this rope."
 
 "You've not said that in a room," said Mara Iles.
 
@@ -66,7 +66,7 @@ Nobody said anything for about nine seconds.
 
 ---
 
-**And the Registrar read the second half of the page and then she put her hand flat on the bench and said the thing that keeps the whole of this out of a god, and she said it to a store, and there were four people in it and one of them was not Museum staff.**
+The Registrar read the second half of the page and then put her hand flat on the bench and said the thing that keeps the whole of this out of a god. She said it to a store. There were four people in it and one of them was not Museum staff.
 
 "The minute answers what the cord is for," she said. "**It is in a clerk's hand in a box that has been under a bench for about ninety years and it says *CIRCULATION* in capitals and it says the route was fouled at the third stanchion on the last three Saturdays. It also says the join is to be made as the join the old line was made, which means somebody in 1935 knew what the join was and wrote down that the new one was to be the same, and in January a woman of fifty-four found a sheet bend in the middle of the floor and said it took somebody four seconds in good light, and a systems technician counted the lays and said it was a sheet bend and not a fisherman's and that the difference is four inches of spare cord.**"
 
@@ -76,13 +76,13 @@ Nobody said anything for about nine seconds.
 
 "Say that again."
 
-"**I have been in this store fourteen years and there are nine of them in that bin,**" she said, "**and the room upstairs has got nine things on plinths and about two hundred and twenty and twenty-two cards saying why the other plinths are empty, and I have never once put those two nines next to each other and I am not going to do it now because I have got a key board.**"
+"**I have been in this store fourteen years and there are nine of them in that bin,**" she said, "**and the room upstairs has got nine things on plinths and about twenty-two cards saying why the other plinths are empty, and I have never once put those two nines next to each other and I am not going to do it now because I have got a key board.**"
 
 Then she went up.
 
 ---
 
-**And a registrar of twenty-eight said the last thing in the store, and it took about eleven seconds, and it is on the page because it is the only time in eleven weeks that anybody in this case has said out loud what the discipline is.**
+A registrar of twenty-eight said the last thing in the store. It took about eleven seconds, and it is the only time in eleven weeks that anybody in this case has said out loud what the discipline is.
 
 "**I am going to say one thing and then I am going to stop and I want it minuted somewhere, and I do not care where.**" She did not look up from the page. "**I have watched two people in eleven weeks want an answer out of a room. One of them is a Director who held a meeting in a gallery without an answer and said so. One of them is a man in a coat who stands at the end of tables. And they are both tired, and both of them have been reaching for something in this building since October, and the reason they have is that this is the only building in this city where anybody can put a name on a card, and it is very hard to be in it and not ask it to say something.**
 
@@ -101,12 +101,12 @@ Then she went up.
 > **Thu 25 Feb, 23:30. The panel is back and the card under it is right and nobody will ever read it and I have written the whole of the card out twice tonight because I wanted it on this page more than I wanted it on a card, and that is a thing I noticed myself doing and did not stop.**
 > **The card is corrected. Three lines struck through, dated the twenty-fifth, a paragraph underneath, her initials and Fenn's. It is under a piece of A4 with tired tape on it and it is going to be there in 2040 and somebody is going to lift the tape and find a dead body's name struck through and a date, and that is what a correction is for, and a woman of fifty-four told a Director that in a public room in January and she was right and it is the only argument in this case that I have never once wanted to argue against.**
 > **And the box is open. It was open for about twenty minutes. Mrs Farrier had the key and Fenn was there and the Registrar asked for it in writing on Monday under item six with a stated purpose and a Director signed it and none of us is a systems technician.**
-> **Ivo was not there. He is the only person in that building who would have known what to look for, and he said so himself in a gallery in January on his knees and he was right and he has been right about the rope since the twenty-first of January, and being right about it has cost him the room, and nobody mentioned it and he did not ask, and he was on the fourth floor on the Thursday doing nine jobs and he did not come down. I want that written down in his favour and against nobody, and I am the man who wrote it, and I would like somebody to check it one day and find that it is true, because he has been right about a rope in public for five weeks and has had a room every time he has been right and has been in none of them.**
+> **Ivo was not there, and nobody mentioned it and he did not ask, and he was on the fourth floor on the Thursday doing nine jobs and he did not come down. I want that written down in his favour and against nobody, and I am the man who wrote it, and I would like somebody to check it one day and find that it is true, because he has been right about a rope in public for five weeks and has had a room every time he has been right and has been in none of them.**
 > **And the minute says CIRCULATION in capitals and it is about a route from the north door to the south door that fouled at the third stanchion on three Saturdays, and about eleven thousand four hundred people over six weeks, and about a join to be made as the join the old line was made. And in January a transfer clerk with a clipboard on his knee and forty thousand of them said a rope is a printing press with a walking speed, and I wrote it down, and the sentence in the minute and the sentence in his mouth are the same sentence ninety years apart, and they are true, and I have had both of them for five weeks and did not put them together until a Registrar read a paragraph out loud in a store.**
 > **And it says THE LINE IS NOT TO BE MOVED FOR THE PROTECTION OF THE OBJECTS. IT IS NOT ON THE SCHEDULE. IT IS FURNITURE. Ninety years. In capitals. Before I was born, before the bell was cast a name that does not exist, before the mat, before any of it.**
 > **And a woman who has done the key board for fourteen years said there are nine ropes in a bin and nine things on plinths and she has never put the two nines next to each other and she is not going to start now because she has got a key board, and she went up, and she has said the only sentence anybody has said in this case that everybody in the room believed instantly.**
 > **And a list folded into the back of a September 1935 minute says nine. No maker. No date. No accession number for any of them. A clerk inventorying a room for a works schedule. And the number has been nine ever since and nobody in a hundred and forty years has asked what it is a count of, and I have wanted to ask all day and I did not, and the reason I did not is that Mara said the sentence first and it was better than mine would have been.**
-> **What she said: that clerk of works answered one question and it is the right answer to that one, and it is not the answer to what a cord line is doing in a room with nine small things in it that people stop at, and no professional is going to answer that in a store on a Thursday morning, and she wanted it written down that a professional looked at it and did not claim it. She asked for it to be minuted somewhere and did not care where and I am putting it here because here is where I have got.**
+> **She asked for it to be minuted somewhere and said she did not care where, and I am putting it here because here is where I have got, and she would have been within her rights to ask for the item-six minute and she did not, and I do not know why.**
 > **The bill goes out. The name comes back.**
 > **What a name field is for.**
 > **And the one that has not moved in eleven weeks and will not move this week, and which a clerk of works in 1935 answered for half of it and a registrar in February refused to answer for the other half: what a rope is for. And the answer so far is a route from one door to another door, and that is most of it, and it is not all of it, and I have decided to stop being the person who is going to finish the sentence.**

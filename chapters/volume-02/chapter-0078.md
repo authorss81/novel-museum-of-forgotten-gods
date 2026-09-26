@@ -28,11 +28,11 @@ There are two meanings of the word and on Wednesday the twenty-fourth of Februar
 >
 > **To: the Director. Copy: the Board Secretary.**
 >
-> **1. A matter will be listed for a preliminary hearing on **Tuesday 18 March 2025 at 10:30**, under rule 9. The listing is provisional and is at the direction of the officer. The Museum will be notified as a party. The Museum has already recorded that it accepts that position, on 27 January 2025, and that record is the reason for this letter.**
+> **1. A matter will be listed for a preliminary hearing on Thursday 18 March 2025 at 10:30, under rule 9. The listing is provisional and is at the direction of the officer. The Museum will be notified as a party. The Museum has already recorded that it accepts that position, on 27 January 2025, and that record is the reason for this letter.**
 >
 > **2. Under rule 9, a party must state in writing, not later than seven days before the hearing, what documents it holds that are relevant to the matter.**
 >
-> **3. **A nil return is a valid return.** The officer would be grateful for a nil return in those words. A party that returns a document it does not wish to produce is worse for that party than a party that returns nothing, and the officer has had that argument twice this year and does not enjoy it.**
+> **3. A nil return is a valid return.** The officer would be grateful for a nil return in those words. A party that returns a document it does not wish to produce is worse for that party than a party that returns nothing, and the officer has had that argument twice this year and does not enjoy it.**
 
 **Nobody in that building had ever been asked for a nil return. Every request that had come into that building in eleven weeks had asked for something, and this one asked for the absence of something, in a form, with a date on it. And the date was the eleventh of March. And the schedule of collections was going to the Board on the eleventh of March. And a nil return was due on the same day that a dead man's name was going in front of a board, and nobody in that building had worked out at ten past four on the Friday afternoon that those two things were the same afternoon.**
 
@@ -60,7 +60,7 @@ The room was a committee room on the fourth floor with the blinds up. There were
 
 ---
 
-**And then he asked the question nobody in that building had prepared for, and it took about nine seconds, and it was asked pleasantly and without any weight.**
+He asked then the question nobody in that building had prepared for. It took about nine seconds and it was asked pleasantly and without any weight.
 
 "You held a meeting in the Hall of Former Faiths on the seventeenth of February. Public meeting, doors propped, a sheet of A4 on a stand, about a hundred and ten people, and a letting agent read a commercial programme out loud from the wrong side of your rope line."
 
@@ -86,7 +86,7 @@ The room was a committee room on the fourth floor with the blinds up. There were
 
 ---
 
-**And then he turned to the man of thirty-two at the end of the table, who had been in the room for ninety minutes without saying a word, and it is on the page because it is the first time in this case that anybody who is not in this building has asked Elias Venn a question.**
+He turned then to the man of thirty-two at the end of the table, who had been in the room for ninety minutes without saying a word. It is the first time in this case that anybody outside this building has asked Elias Venn a question.
 
 "You are the witness on the notice," said the partner. "**Are you the person who writes it down.**"
 
@@ -120,7 +120,7 @@ The room was a committee room on the fourth floor with the blinds up. There were
 
 ---
 
-**And the rest of the day was the schedule of collections, which is going to a board on the eleventh of March with about eleven entries and the entries for 1974 marked incomplete, and whose second entry is not an object, and it has a person's name on it, and on the Wednesday the twenty-fourth of February at about half past three in the afternoon a woman of sixty-four who chairs this Museum's board asked the Registrar to come and explain it to a trustee a fortnight before the Board, and it took about four minutes and it is the shortest exchange in the business and the hardest one.**
+The rest of the day was the schedule of collections, which is going to a board on the eleventh of March with about eleven entries and the entries for 1974 marked incomplete, and whose second entry is not an object, and it has a person's name on it, and on the Wednesday the twenty-fourth of February at about half past three in the afternoon a woman of sixty-four who chairs this Museum's board asked the Registrar to come and explain it to a trustee a fortnight before the Board, and it took about four minutes and it is the shortest exchange in the business and the hardest one.**
 
 The trustee is about seventy and has been a trustee for about nine years and he is a different person from Mrs Vessey and he has said almost nothing before lunch on the day itself and there is no reason to give him a name.
 
@@ -142,7 +142,7 @@ The trustee is about seventy and has been a trustee for about nine years and he 
 
 The trustee thought about it for about as long as it takes to read it.
 
-"**My objection is not the name,**" he said. "**The name is correct and it is supported and I have read the support. My objection is that this Museum has just told the public, in a gallery, twice, that it will not put a person's name in a public document — and it did that on the seventeenth of January in a meeting and again in a minute on the twenty-seventh — and here is a man's name going into a Board paper.**"
+"**My objection is not the name,**" he said. "**The name is correct and it is supported and I have read the support. My objection is that this Museum has just told the public, twice, that it will not put a person's name in a public document — it did that in a public room in November and again in a minute on the twenty-seventh of January — and here is a man's name going into a Board paper.**"
 
 "That is fair."
 
@@ -160,7 +160,7 @@ The trustee wrote for about nine seconds.
 
 ---
 
-**And the last thing that happened that week was a card cut in a label room on the afternoon of Wednesday the twenty-fourth of February, and it is four inches by six, and it is not a description of anything, and it is the first card anybody in this building has cut in about a hundred and forty years that is a statement rather than a label, and it is dated for the following morning and Fenn cut it and put it in a plastic sleeve on the front desk, and it says this.**
+The last thing that happened that week was a card cut in a label room on the afternoon of Wednesday the twenty-fourth of February. It is four inches by six and it is not a description of anything, and it is the first card anybody in this building has cut in about a hundred and forty years that is a statement rather than a label, and it is dated for the following morning, and Fenn put it in a plastic sleeve on the front desk, and it says this.
 
 > **HALL OF FORMER FAITHS — plinth 34.**
 > **The card at this plinth was corrected on Thursday 25 February 2025. Three lines at the foot of it were untrue and are struck through and dated.**
@@ -177,10 +177,10 @@ The trustee wrote for about nine seconds.
 > **Nobody in eleven weeks has told me that not keeping a notebook is a risk to the case. Everybody has told me it is the only honest arrangement. Both are true and I have been told one of them and it is the one that lets me sleep, and I have not slept properly since the sixth of December anyway.**
 > **And he said the sentence to the Registrar that I have been carrying since November and could not put down either, and he worked out in a fortnight that a museum cannot put a name on a card without making a hook of it, and that his client owns about four hundred and twelve addresses, and that he wanted to know whether she meant her building or his. And then he said he was not frightened of her, and asked her to say *a knock* again in the same words in March in front of nine people, and said that if she said it differently he would notice and would not mention that he had noticed. That is a threat and it is also how a hearing works and he declined to apologise for it and I would not have let him.**
 > **And the conciliation service has asked this Museum for a nil return in writing, in a form, with a date on it, and it is the eleventh of March, and the Board paper is the eleventh of March, and a nil return is due on the same afternoon that a dead man's name goes in front of a board, and nobody in that building had worked out at ten past four on Friday afternoon that those two things are the same afternoon.**
-> **And the trustee. About seventy. Nine years on that board. He objected, and his objection was not the name — the name is correct and supported and he read the support — his objection was that this Museum told the public twice in January that it would not put a person's name in a public document, and here is a man's name going into a Board paper. That is the best objection anybody has made to anything in eleven weeks and it is not a legal objection and he is not a lawyer and he is a trustee and he had nine minutes before the sub-group wanted him.**
+> **And the trustee. About seventy. Nine years on that board. He objected, and his objection was not the name — the name is correct and supported and he read the support — his objection was that this Museum told the public twice — in a public room in November and in a minute on the twenty-seventh of January — that it would not put a person's name in a public document, and here is a man's name going into a Board paper. That is the best objection anybody has made to anything in eleven weeks and it is not a legal objection and he is not a lawyer and he is a trustee and he had nine minutes before the sub-group wanted him.**
 > **And then he said he had no objection and wanted it minuted that he objected first, and he wanted the word *hook* in the minute so it would not be tidy, and he said he was going to look at a building for nine years and did not know it was possible that one of its schedules could contain a person.**
 > **Nobody in this business has ever wanted a minute to be untidy. Everybody has wanted a minute to be correct. I have been doing the second thing for eleven weeks and I have got the technique so good that I have been doing it in rooms with nobody in them, and a man of about seventy sat in one of those rooms on Wednesday afternoon and asked me a question I could not answer in four seconds, and I have now been asked two questions by two men in two days and I could not answer either of them quickly, and that is the first good news I have had since the fourth of December.**
-> **And the corrected card goes back under the panel tomorrow morning and nobody will ever read it, and Fenn has cut a card about the fact of the correction, which is the first card in about a hundred and forty years in this building that is a statement and not a description, and she has put the requester's name and the date and a reference to a minute on it, and put it in a plastic sleeve on a front desk, in a lobby, in a public building. That is a person's name on a card in a public room and Mara has spent eleven weeks refusing to do that, and Fenn did it on purpose with a name and a date and a reference, and I have been turning it over for six hours and I cannot decide whether that is a hook or the opposite of a hook, and I have written that here so that whoever comes after me finds it written down and does not have to decide it tonight.**
+> **And the corrected card goes back under the panel tomorrow morning and nobody will ever read it, and Fenn has cut a card about the fact of the correction, which is the first card in about a hundred and forty years in this building that is a statement and not a description, and there is no name on it and no reference to a minute on it, and it is signed *F., label room*, and it is on a front desk in a plastic sleeve, in a lobby, in a public building, and a member of the public may pick it up. That is a card in a public room about a card in a public room and it names nobody at all, and Mara has spent eleven weeks refusing to do less than that, and I have been turning Fenn over for six hours and I cannot decide whether that is a hook or the opposite of a hook, and I have written it here so that whoever comes after me finds it written down and does not have to decide it tonight.**
 > **The hearing is on the eighteenth of March at half past ten. A nil return is due on the eleventh. A board paper is due on the eleventh. A corrected card goes back under a panel on the twenty-fifth. And on the twenty-second of March, four days after the hearing, a registrar of twenty-eight will read four lines on a step in Low Ward that promise to say nothing, and a man of about sixty-five with a plastic wallet on a table behind him will hand them out if he thinks they should be handed out.**
 > **The bill goes out. The name comes back.**
 > **What a name field is for.**

@@ -1,32 +1,32 @@
 # Chapter 0074 — The Reading That Was Wrong
 
-The comparison was done on Museum notepaper, in ink, by hand, by two people, on the morning of Friday the twelfth of February 2025, and it is on the page because both of them were in the room and neither of them wanted to do it and the Director had asked for it in writing on the Thursday with a cost stated first, and the cost had been *that if it does not fit we will have spent a day*, and it did not fit, and the day was worth it.
+The comparison was done on Museum notepaper, in ink, by hand, by two people, on the morning of Friday the twelfth of February 2025. Neither of them wanted to do it. The Director had asked for it in writing on the Thursday with a cost stated first, and the cost had been *that if it does not fit we will have spent a day*, and it did not fit, and the day was worth it.
 
-**Four documents on a table on the fourth floor, at about ten past ten on a Friday in February, with the blinds half down.**
+**Four documents on a conservation board laid across two trestles in the store behind the front counter, at about ten past ten on a Friday in February, with the counter shutter up and the queue going past the doorway.**
 
-The district's fourth column, from the binder, on a plastic sleeve, with about nine rows populated in it and a prior value in nine names. The Museum's own block, read off a screen and written out, nine rows with a space in the occupancy field and a date against four of them. **Sonia Boulton's statement of the eleventh of February, four lines of facts and a refusal, with a programme paper of the twenty-fourth of August 2023 available at no charge at 11 Pemberton Row, which a woman at a counter sent for on the Thursday afternoon and which came back within the hour, by hand, in an envelope with a reference on it.**
+The district's fourth column, from the binder, on a plastic sleeve, with about nine rows populated in it and a prior value in nine names. **The Museum's own block, which is a screen in the systems office on the fourth floor and which in this store is a print run of the second of December in brown paper bands that has been in a box behind this counter since the day it was made, and which nobody in this building has ever taken out of the box.** Nine rows with a space in the occupancy field and a date against four of them. And a drawer card from 1954 with THRESHOLD GROUP on it, face up, because the box was in that drawer and the card was in the box. **Sonia Boulton's statement of the eleventh of February, four lines of facts and a refusal, with a programme paper of the twenty-fourth of August 2023 available at no charge at 11 Pemberton Row, which a woman at a counter sent for on the Thursday afternoon and which came back within the hour, by hand, in an envelope with a reference on it.**
 
-And a man of thirty-two who had brought nothing and had been in the building since ten on a printed card with the word WITNESS in a box, in company, not before eight.
+And a man of thirty-two who had brought nothing and had been in the building since ten on a printed card with the word WITNESS in a box, in company, not before eight, standing at the end of the board with his hands behind his back, because there is one chair in a store like this and it is behind the counter and it belongs to the woman at it.
 
-"**Go on, then,**" said Ivo Pell, standing up, with a mug, at about ten past ten. "**Four dates. Fifth of December, tenth, tenth, eleventh. That's the fifth, the tenth, the tenth and the eleventh, applied on the sixth, the eleventh, the eleventh and the twelfth, and they are four addresses on the east side of one street and they are eighty, eighty-four, eighty-eight and ninety, and block five's term ends fall between the twentieth of November and the seventeenth of December, and every one of those four dates is in that window.**"
+"**Go on, then,**" said Ivo Pell, on his feet, with a mug, at about ten past ten. "**Four dates. Fifth of December, tenth, tenth, eleventh. That's the fifth, the tenth, the tenth and the eleventh, applied on the sixth, the eleventh, the eleventh and the twelfth, and they are four addresses on the east side of one street and they are eighty, eighty-four, eighty-eight and ninety, and block five's term ends fall between the twentieth of November and the seventeenth of December, and every one of those four dates is in that window.**"
 
 "Yes."
 
 "So it's the programme."
 
-"**Three of them are the programme,**" said Ivo Pell, and he put the mug down, and he did not say it in a way that anybody in the room enjoyed. "**Eighty-four, ninety and eighty. Third, term ends, keys back, void raised, a postman goes round about a fortnight later and gets no answer because there's a lock-up on it or a skip on the pavement or a notice on the door, and he sets what he sets, and the field clears the next morning, and the card comes back. That's the whole of it and it takes about three weeks and the three weeks is a man with a handheld walking a street. And I want it written down that the three weeks is a man, because that is the bit I have been getting wrong for nine weeks, and the man is the machine. The machine is three weeks long and it is a body.**"
+"**Three of them are the programme,**" said Ivo Pell, and he put the mug down, and he did not say it in a way that anybody standing in that store enjoyed. "**Eighty-four, ninety and eighty. Third, term ends, keys back, void raised, a postman goes round about a fortnight later and gets no answer because there's a lock-up on it or a skip on the pavement or a notice on the door, and he sets what he sets, and the field clears the next morning, and the card comes back. That's the whole of it and it takes about three weeks and the three weeks is a man with a handheld walking a street. And I want it written down that the three weeks is a man, because that is the bit I have been getting wrong for nine weeks, and the man is the machine. The machine is three weeks long and it is a body.**"
 
 "Agreed," said Mara Iles. "And what about the fourth."
 
-"**Eighty-eight is a Tuesday problem.**" He did not look at the sheet. "**No. Eighty-eight is a Saturday problem, and it is worse, and I have been staring at it for about a minute and a half and I want somebody else to say it.**"
+"**Eighty-eight is a Saturday problem,**" he said, without looking at the sheet, "**and it is worse, and I have been staring at it for about a minute and a half and I want somebody else to say it.**"
 
 "Mara."
 
-"**The tenancy at eighty-eight is current,**" said Ivo Pell. "**It has been current since about 2019 and it runs to the twenty-second of August. It was not in block five. It is not in any block. It was not served. There is no notice at 88 Sillick Lane, there has never been a notice at 88 Sillick Lane, and a man lives there and has done since the summer before last and is in there most evenings, and somebody walked up to that door on the afternoon of Saturday the fifth of December at twenty-two minutes past four and asked whether anybody was there to take a parcel and got the answer that the machine had already got.**"
+"**The tenancy at eighty-eight is current,**" said Ivo Pell. "**It has been current since about 2019 and it runs to the twenty-second of August. It was not in block five. It is not in any block. It was not served. There is no notice at 88 Sillick Lane, there has never been a notice at 88 Sillick Lane, and a man lives there and has for a few years and is in there most evenings, and somebody walked up to that door on the afternoon of Saturday the fifth of December at twenty-two minutes past four and asked whether anybody was there to take a parcel and got the answer that the machine had already got.**"
 
 ---
 
-**Nobody said anything for a moment. And the man who said something was the man who had been standing at the west end of a rope in a public gallery on the twentieth of January counting plinths.**
+Nobody said anything for a moment. The man who said something was the man who had been standing at the west end of a rope in a public gallery on the twentieth of January, counting plinths.
 
 "Say the next part," said Elias Venn. "Say it properly, because I have been in this case for nine weeks and I have got a thing in a plastic wallet and I would like to hear somebody say the next part in a room before I do."
 
@@ -44,21 +44,21 @@ Ivo Pell put the mug down.
 
 ---
 
-**And the registrar of twenty-eight said the sentence that stopped the morning, and she said it standing up, and she said it about eleven seconds after somebody had been about to say something else.**
+The registrar of twenty-eight said the sentence that stopped the morning. She said it from the end of the board, about eleven seconds after somebody had been about to say something else.
 
 "**Nobody is going to ask him.**"
 
 "Agreed," said Ivo Pell, who had not been about to say anything.
 
-"**I want it minuted that nobody is going to ask Frank Dunning whether he was at home on the afternoon of Saturday the fifth of December 2024,**" said Mara Iles. "**And the reason is not kindness. Kindness would be a reason I could give to the Director and she would agree with and move on. The reason is that the only thing we would want from him is the word *no*, and the word *no* would be about a Saturday afternoon, and it would not be about the field, and it would not be about the card, and it would not be about any of it. And then he would be a man in an inquiry who said a thing once, in a room, in front of strangers, in about 1974 he would have been on a gate, and in 2025 he would be a man who was out on a Saturday.**"
+"**I want it minuted that nobody is going to ask Frank Dunning whether he was at home on the afternoon of Saturday the fifth of December 2024,**" said Mara Iles. "**And the reason is not kindness. Kindness would be a reason I could give to the Director and she would agree with and move on. The reason is that the only thing we would want from him is the word *no*, and the word *no* would be about a Saturday afternoon, and it would not be about the field, and it would not be about the card, and it would not be about any of it. And then he would be a man in an inquiry who said a thing once, in a room, in front of strangers, and in 1979 he would have been on a gate, and in 2025 he is a man who is out on a Saturday.**"
 
-She put her hand flat on the table, which she does.
+She put her hand flat on the edge of the board, which she does.
 
 "**We have wanted a cause since the sixth of December. We have had a code and a legend and a contractor's number and a date, and every one of them is correct, and the cause is a man on a Saturday afternoon who did not get an answer at a door, and there is no cause, and the honest position is that we have been reading a person into a field for nine weeks because we needed a person in it.**"
 
 ---
 
-**And it was the man who had been reading one into it who had to say so, out loud, in a room, on the morning of Friday the twelfth of February 2025, and he said it in a few seconds and then sat down, and it is on the page because he said it and did not soften it and did not say *partly*.**
+The man who had been reading one into it had to say so, out loud, on the morning of Friday the twelfth of February 2025, in a store with a queue going past the doorway. He said it in a few seconds and then sat down on the edge of a trestle, and he did not soften it and he did not say *partly*.
 
 "I have been standing on the fifth of December since the sixteenth of December," he said. "**Since the sixteenth of December I have had a piece of paper in a plastic wallet with that date on it and it is the only piece of paper in this city that has it, and I told a woman in a room with a printer in it that I would not have it copied, and I have been carrying it for nine weeks and I have built a whole reading on it and I have asked four men in four weeks to go and look at a thing and not one of them has ever been able to.**"
 
@@ -66,21 +66,21 @@ Nobody said anything.
 
 "**It is not a date in a programme. It is a body on a Saturday afternoon at a door that was not answered. And the reason I have been standing on it is that it is the only date in this case that has a person in it, and I have been looking for a person since the sixth of December because I did not want the case to be a machine.**"
 
-"That is not a confession," said Anja Ward, from the end of the table, "**and I am not going to let it be heard as one in a minute. It is a correction of method and it is nine weeks old and it is the most useful thing anybody in this room has said since the twenty-second of January. Put it in the item-six minute in those words.**"
+"That is not a confession," said Anja Ward, from the end of the board, "**and I am not going to let it be heard as one in a minute. It is a correction of method and it is nine weeks old and it is the most useful thing anybody in this building has said since the twenty-second of January. I will write it up on the fourth floor this afternoon and it will go in the item-six minute in those words.**"
 
-And then a man of twenty-five said something kind, and it was the only kind thing anybody said all morning, and the man it was said to could not stand it and had to go and stand by a window for about nine minutes, and everybody in the room let him, and nobody mentioned it afterwards.
+A man of twenty-five said something kind, and it was the only kind thing anybody said all morning, and the man it was said to could not stand it and had to go and stand in the doorway for about nine minutes, and everybody in the store let him, and nobody mentioned it afterwards afterwards.
 
 "**For what it's worth, the fifth of December is the reason we found out at all,**" said Ivo Pell. "**If the first code hadn't been the first code you would never have asked a question, and there'd be no binder and no column and no letting agent. I'm not saying that's a defence of anything. I'm saying it isn't nothing.**"
 
-"It's not nothing," said Elias Venn, at the window, with his back to the room, and that was the whole of it and he did not turn round.
+"It's not nothing," said Elias Venn, in the doorway, with his back to the store, and that was the whole of it and he did not turn round.
 
 ---
 
-**And then they did the other half of it, and the other half took about four minutes and it is the part of Friday the twelfth of February that the whole of the last two movements has been walking towards and neither of them noticed.**
+They did the other half of it, and it took about four minutes, and it is the part of Friday the twelfth of February that the whole of the last two movements has been walking towards and neither of them noticed.
 
-Ivo Pell wrote the classification out on the sheet, in ink, in three lines, and it is the finding and it is on the page and it is short.
+Ivo Pell wrote the classification out on the sheet, in ink, in three lines. It is the finding and it is short.
 
-> **The nine rows.** **Four of them carry a date. All four are on the east side of Sillick Lane. Three of those four sit inside the term-end window of block five of a lawful programme, and one of them does not, and the one that does not is 88 Sillick Lane, and the tenancy there is current.**
+> **The nine rows. Four of them carry a date. All four are on the east side of Sillick Lane. Three of those four sit inside the term-end window of block five of a lawful programme, and one of them does not, and the one that does not is 88 Sillick Lane, and the tenancy there is current.**
 > **Five of them carry no date in any document in this case, in any institution in this city. A programme cannot explain a row that cannot be placed on a day.**
 > **And the Broad Street clearances of 26, 27 and 28 November sit inside block four, whose term ends fell between the twentieth of October and the twenty-ninth of November. Same lag. Same man. Same key.**
 
@@ -94,7 +94,7 @@ Ivo Pell wrote the classification out on the sheet, in ink, in three lines, and 
 
 ---
 
-**And the last thing that happened in that room on the morning of Friday the twelfth of February 2025 was that a man of thirty-two took a plastic wallet out of his coat and put four things on a table, and it is the only time in this case that the contents of it have been in a room, and it took him about four seconds, and the room did not ask to see it and he did not offer.**
+**And the last thing that happened in that store on the morning of Friday the twelfth of February 2025 was that a man of thirty-two took a plastic wallet out of his coat and put four things on a conservation board, and it is the only time in this case that the contents of it have been in a building, and it took him about four seconds, and nobody asked to see it and he did not offer it, and about nine people went past the doorway while it was on the board.**
 
 A printed card that had come back marked undeliverable. A bank statement belonging to another man. A counter receipt, about four inches by two, with a woman's handwriting in biro on the back of it.
 
@@ -103,7 +103,7 @@ And the fourth thing, which is the keystone of nine weeks of a case, and which i
 > **05/12 16:22 · 88 SILLICK LN · NAME · (populated) → (cleared) · NCO · OP-2201**
 > **06/12 03:41 — nightly file refresh, not a keying. Field cleared where NCO set in previous 24h. DS-NCO-11190.**
 
-He looked at it for a moment. Then he put it back in the wallet and put the wallet in his coat, and **he did not tear anything out, and he did not leave it, and he did not give it away, and nobody in the room asked him to do any of those things and the Director had told him on the Friday of the previous week, in a corridor, that she was not going to take it off him, and she had been right then as well.**
+He looked at it for a moment. Then he put it back in the wallet and put the wallet in his coat, and **he did not tear anything out, and he did not leave it, and he did not give it away, and nobody in the store asked him to do any of those things, and the Director had told him on Friday the fifth of February, in a corridor on the fourth floor at about half past four, that she was not going to take it off him, and she had been right then as well.**
 
 "That is the only document in this city with the fifth of December on it," he said. "**And it is not evidence of anything, and it is not a copy, and it is not in a file, and it is not going to be in a file, and it dies with me, and I have known that since the sixth of December, and I did not know what it was worth until about a quarter past ten this morning.**"
 
@@ -122,7 +122,7 @@ He looked at it for a moment. Then he put it back in the wallet and put the wall
 > **And the fifth of December is not the wrong date because it is late. It is the wrong date because it is the only one in the case that is a person, and I went looking for a person, and there is not one. There is a key.**
 > **And the other half, which is worse, and I have got to write it down or I will pretend tomorrow that I did not. Five of the nine have no date anywhere. A programme is a document with dates on it. A row with no date has not been placed in a programme; it has been placed nowhere. And Ivo says the five are the ones to be frightened of and the four are not, and I have been frightened of a bigger number for nine weeks and he is telling me to be frightened of a smaller one.**
 > **And the Broad Street three are block four and the same man and the same lag and about four in the afternoon on three days at the end of November, and the houses on that road emptied at the end of November, which nobody in this case had ever connected to anything, and I have got a woman with a satchel who has nine houses on a pad and has been to about four of them since the twenty-eighth of January.**
-> **And the plastic wallet is in my coat. Four things. I took it out on a table in a room for the first time in nine weeks and put it back, and I did not tear it out and I did not leave it, and nobody asked me to, and Anja told me on Friday night that she was not going to take it off me and she was right then too, and I did not believe her, and I believe her now, and believing her now is the thing that has happened to me this week.**
+> **And the plastic wallet is in my coat. Four things. I took it out on a board in a store behind the front counter for the first time in nine weeks and put it back, and I did not tear it out and I did not leave it, and nobody asked me to, and Anja told me on the Friday before this one, which was the fifth, in a corridor on the fourth floor at about half past four, that she was not going to take it off me, and she was right then too, and I did not believe her, and I believe her now, and believing her now is the thing that has happened to me this week.**
 > **The bill goes out. The name comes back.**
 > **What is a name field for.**
 > **And the one that is left, and it is not a question about a system: whether a man who is out on a Saturday afternoon is a thing that happened or a thing somebody did. And the answer is that it is a thing a Saturday afternoon does, and it does it on its own, and it does not know.**

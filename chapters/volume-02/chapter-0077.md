@@ -10,7 +10,7 @@ The hall at 88 Sillick Lane has a table in it, a mat on the floor in front of th
 
 **Nobody in this case has ever asked Frank Dunning a question about any of it. He has said so himself, twice, to a registrar and to a Director, and he has said that it is the best three weeks he has had in about nine years, and he is about sixty-five, and he is not frightened and he is not reassured, and there are about nine names on the sheet in four hands and about a dozen lines under them with a date and a time against each, and it is a piece of A4 in a plastic wallet on a table in his hall, and it dies with him.**
 
-He was asked a question on the twentieth of February, in that hall, by a Director who had come down the hill on a bus and paid a pound, and she asked it properly and she said the cost out loud first, and the cost took about ninety seconds and it is on the page because the man she was asking could not have done anything else with it.
+He was asked a question on the twentieth of February, in that hall, by a Director who had come down the hill on a bus and paid a pound, and she asked it properly and she said the cost out loud first, and the cost took about ninety seconds, and the man she was asking could not have done anything else with it.
 
 "The cost is this and I am going to say it before I ask. **If I ask you for the sheet, and you give it to me, then in about four years there is a piece of paper in a museum in this city with the names of about nine people on it, and one of them is a woman of eighty-one who was taken to a clinic on the thirteenth of January, and one of them is a postman who works Thursdays, and neither of them has been asked, and I would be the person who asked.** I wrote to a woman of fifty-four in December and offered her a pound and a bus and no questions and she came and spent a morning on a rope and a woman of twenty-eight signed a minute on the twenty-seventh of January that this Museum will not hold a record of anything that happens in this hall. **So I have already decided the answer in a room on the fourth floor and I have told the world and you have read about it in a newspaper.**"
 
@@ -34,7 +34,7 @@ And then he gave the reason, and nobody had asked him for it.
 
 ---
 
-**And then, at about ten past four, a registrar of twenty-eight said the other half, and the other half is the whole of the afternoon, and she is not Elias Venn, and he was in the room and said nothing about it for fifty minutes, and Ivo Pell looked at him twice.**
+At about ten past four, a registrar of twenty-eight said the other half, and the other half is the whole of the afternoon. She is not Elias Venn. He was in the room and said nothing about it for fifty minutes and Ivo Pell looked at him twice.
 
 "**You cannot be a register, and you cannot be a rota, and I want to say why in about a minute and it is not the reason anybody is expecting,**" said Mara Iles, "**and it is not because of the sheet and it is not because of privacy. It is rule three.**"
 
@@ -54,13 +54,13 @@ She put her hand on the table, next to the wallet, and did not touch it.
 
 ---
 
-**And then a systems technician of twenty-five asked the question that has been in this case since the fourth of December and that nobody has ever asked in a room, and he asked it badly, on purpose, and it took about nine seconds.**
+A systems technician of twenty-five then asked the question that has been in this case since the fourth of December and that nobody has ever asked in a room. He asked it badly, on purpose, and it took about nine seconds.
 
 "Where has to be," said Ivo Pell, "**for this to be the same thing.**"
 
 "Say that again."
 
-"**Where does a practice have to happen for it to be the same practice. Because there's a mat down by the wall at about number forty and it's the same three rules and nobody wrote a new sheet, and about nine of us stood on it, and I have been frightened of that since the eighteenth of January. **And it works at number forty because number forty is on Frank's sheet. And it would not work in Ferry Bank and it would not work at the end of Broad Street and it would not work in a school, and the only reason is a piece of A4.**"
+"**Where does a practice have to happen for it to be the same practice. Because there's a mat down by the wall at about number forty and it's the same three rules and nobody wrote a new sheet, and about nine of us stood on it, and I have been frightened of that since the eighteenth of January. And it works at number forty because number forty is on Frank's sheet. And it would not work in Ferry Bank and it would not work at the end of Broad Street and it would not work in a school, and the only reason is a piece of A4.**"
 
 "Whoa," said Frank Dunning.
 
@@ -76,7 +76,7 @@ The hall was quiet for a moment, and about four of the nine people on the sheet 
 
 ---
 
-**And then Frank Dunning said something to Elias Venn that nobody else in the hall heard, and it is on the page because Elias Venn has refused three things in ten weeks and this is the fourth and it is the only one that was not about evidence.**
+Frank Dunning said something to Elias Venn that nobody else in the hall heard. Elias Venn has refused three things in ten weeks and this was the fourth, and it was the only one that was not about evidence.
 
 "You've not got one, have you."
 
@@ -90,7 +90,11 @@ The hall was quiet for a moment, and about four of the nine people on the sheet 
 
 "It belongs to the street."
 
-"It does not belong to the street," said Frank Dunning, "**and don't get that wrong, and don't tell anybody in a museum that. The street doesn't own it. **I** own it. It is on my table and I wrote it out and it is my rule and if I stop running it there is no practice, and nobody is going to take it off me and nobody is going to keep it for me and that is the correct arrangement, and I am sixty-five and I am telling you that a rule that belongs to a street is a rule that belongs to a council, and I have seen what a council does with a room.** So you can say what you like in a corridor. It is mine."
+"It does not belong to a street," said Frank Dunning, "**and don't get that wrong, and don't tell anybody in a museum that. A street is a council with a different name, and I have seen what a council does with a room, and that is the whole of what I know about why this cannot be handed round.**"
+
+"Then whose is it."
+
+"**Not mine, and I will tell you why I have been arguing with you about it for eight minutes. The third one is in a different hand. It has been on that sheet since the eighth of January and I have never asked who put it there, because it is the only line on that paper nobody has ever proposed to change, and I was not going to be the man who asked.**" He put his hand flat on the table, the way a registrar does. "**So it belongs to whoever is on the step, and what is mine is the table and the kettle and the running of it at three o'clock, and if I stop there is no practice, and nobody is going to take that off me and nobody is going to keep it for me, and that is the correct arrangement, and I am sixty-five.**"
 
 "I understand."
 
@@ -111,7 +115,7 @@ Mara Iles wrote it out and turned it round.
 
 Frank Dunning read it twice.
 
-"**The twenty-second of March,**" he said. "**Not the twenty-first. On the twenty-second of March my tenancy's still got six weeks to run and I'm still the man with the table.**"
+"**The twenty-second of March,**" he said. "**Not the twenty-first. On the twenty-second of March my tenancy has still got four weeks and two days to run and I am still the man with the table.**"
 
 "**Then the twenty-second of March,**" said Mara Iles, "**and I'll come up the hill and I'll read it out on the step, and Mr Dunning will hand it out if he thinks it should be handed out, and I am not going to take it off him.**"
 
@@ -121,10 +125,10 @@ Frank Dunning read it twice.
 > **The Director asked him for the sheet and he said no in about four seconds and then he gave the reason before anybody asked him for it, and he has been waiting since December for somebody to ask so that he could say no and be reported as having refused, and I have been in nine rooms in ten weeks and I have not once had that.**
 > **And then she told him. She told a man of about sixty-five that the block he lives in goes into a programme on the first of April and his tenancy ends on the twenty-second of August and will not be renewed, and she said it because she did not know which block he was in and she would rather ask him than ask the agent, and he said *I knew in November*, and he said a woman at number twelve had been telling people since September and nobody had written it down, and then he said nobody had ever said it out loud to him, and everybody he has told has said *oh* and gone to their dinners.**
 > **And he put it on the sheet. He said the biggest thing anybody has ever put on there is a fact about a house and a date, and that it is not even a person. And he was right and I have been thinking about it for five hours.**
-> **And Mara said the thing I have not been able to say in ten weeks and she is not me and I was in the room. The practice cannot be a register and cannot be scaled and cannot be a rota, and the reason is rule three, which is a permission, and you cannot scale a permission, and a rota is a duty, and a duty a person can stop at any point without a form is a suggestion with a list on it. Nobody in this case has ever looked at that rule. It has been on that sheet since the eighth of January in a different hand and every single person in this business has accepted it without examining it, including me, and it is the reason the whole thing has not become a programme, and it is a sentence somebody wrote in a hall in January and nobody has ever thanked her for it.**
+> **And Mara said the thing I have not been able to say in ten weeks and she is not me and I was in the room. I am not going to write her argument down again, because it took her about a minute and it is on the page where she said it and a notebook is not a transcript. What I am going to write down is the thing I could not see from the corridor, and it is one sentence long: nobody in this business has ever looked at that rule, including me, and it is the reason the whole thing has not become a programme.**
 > **And the other half, which is the one I have to write down. The Museum can hold the mat. The Museum cannot hold the knock. A mat is two pounds and goes on a Friday count. A knock is not an object and has no accession number and there is no box for one in this country, and the only reason there has not been one in four hundred years is that nobody has ever needed one, and about nine people in Low Ward do.**
 > **And Ivo asked the question. He asked where it has to happen for it to be the same thing, and nobody in that room knows, and the two answers we have are a mat that can be bought in a shop in Fisher Lane and a tenancy with a landlord and a term and a document, and if it is the mat then the hall is furniture and there are nine mats in this city, and if it is the place then it is a programme. And Mara said she was not going to say which, in that hall, in front of the man who keeps it, in February. And she is right. And I have been circling that question for ten weeks from a corridor and I do not have an answer and I am not going to have one in March either, and I have decided to stop trying to be the one who finds it, and that is the second thing I have given up in eight days and I have not lost anything by either of them.**
-> **And a man of about sixty-five asked me if I had got a word, and I said no, and he said the street does not own it, he owns it, and if he stops there is no practice, and nobody is going to take it off him and nobody is going to keep it for him, and that a rule that belongs to a street is a rule that belongs to a council and he has seen what a council does with a room.**
+> **And a man of about sixty-five asked me if I had got a word, and I said no, and he said a street is a council with a different name, and that he does not own the line and will not say who wrote it, and that if he stops there is no practice, and nobody is going to take it off him and nobody is going to keep it for him, and that a rule that belongs to a street is a rule that belongs to a council and he has seen what a council does with a room.**
 > **That is the fourth time in ten weeks I have said no to a thing that would have made me safer. I have said no to a word, and to a piece of paper, and to a hand out of a file, and now to a rule that belongs to a street. And the reason every one of the four is the same reason, and it is the three lines at the top of the first page, and I said my own rule out loud at a door in Broad Street yesterday to a stranger and she did not understand it and I explained it and I have no proof that I said it except her.**
 > **And a registrar put four lines on his sheet in her own hand and got his permission to, and the date on it is the twenty-second of March, and it is a promise to say nothing, and it is the first thing in this business anybody has written that is a promise to say nothing, and she is going to read it out on a step in this ward and the man with the table is going to hand it out if he thinks it should be handed out, and neither of them is going to be able to take it back off the other.**
 > **The bill goes out. The name comes back.**

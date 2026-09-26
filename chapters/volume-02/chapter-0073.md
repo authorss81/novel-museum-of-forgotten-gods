@@ -21,7 +21,7 @@ And what she read was this.
 > **SUPPLY ACCOUNT 88 SILLICK LANE — ACCOUNT HOLDER: MORTON HAY & BAKER (LETTING & MANAGEMENT) LTD, 11 PEMBERTON ROW, LOW WARD.**
 > **ACCOUNT HOLDER'S ROLE: managing agent. Freeholder of record: NEWTON BAY (ESTATES) LIMITED.**
 
-Neither of them is on a list anybody in this case has ever been given. **Both of them are on a bill. That is the whole of the eleven seconds and it is the answer to nine weeks of standing in corridors, and a records officer four miles away worked it out from a definition on page one of a two-page instruction, because a name field is for the bill, and a bill is a document with a name on it that somebody in an office has to look at every month.**
+Neither of them is on a list anybody in this case has ever been given. **Both of them are on a bill. That is the whole of the nine seconds and it is the answer to nine weeks of standing in corridors, and a records officer four miles away worked it out from a definition on page one of a two-page instruction, because a name field is for the bill, and a bill is a document with a name on it that somebody in an office has to look at every month.**
 
 Elias Venn was not in that room and heard it at about half past ten on the Thursday morning in a corridor from a man of twenty-five who came down a staircase to find him, which is the eleventh time in nine weeks that this has happened and the fourth time in four days.
 
@@ -29,7 +29,7 @@ Elias Venn was not in that room and heard it at about half past ten on the Thurs
 
 ---
 
-**The Director wrote the letter on the Thursday morning and she said the cost out loud before she signed it, in a room, and it was minuted in that order, and it is on the page because it took about a minute and she was right about it in a way that made the room uncomfortable.**
+The Director wrote the letter on the Thursday morning and said the cost out loud before she signed it, in a room, and it was minuted in that order. It took about a minute and she was right about it in a way that made the room uncomfortable.
 
 "The cost is this and I am going to state it before I sign it and I would like it minuted that I said it first. **I am going to write to a letting agent's office asking them a question, and the question is going to be about four hundred and twelve households, and I am a public institution with a public address and I have a threshold group of about four hundred and twelve households on my own letterhead, and I am going to put the number four hundred and twelve in a letter to a commercial firm and ask them what they are doing with it.**
 
@@ -45,7 +45,7 @@ Nobody stopped her.
 > **The purpose is stated so that you may refuse it. If you decline, a letter saying so is the most useful thing this Museum will receive this month.**
 > **A. WARD, Director.**
 
-****It went out by hand at about ten o'clock on the Thursday, because the post from Civic Hill to Pemberton Row is a day and a half and a Director of fifty-three had decided almost at once that a day and a half was a day and a half she could not afford. The room went on with its morning, and at about twenty past eleven the telephone on the front desk rang and a woman asked for the Director by name and gave her name and said four sentences.****
+**It went out by hand at about ten o'clock on the Thursday, because the post from Civic Hill to Pemberton Row is a day and a half and a Director of fifty-three had decided almost at once that a day and a half was a day and a half she could not afford. The room went on with its morning, and at about twenty past eleven the telephone on the front desk rang and a woman asked for the Director by name and gave her name and said four sentences.**
 
 "Sonia Boulton. I'm the letting agent. Your letter came by hand about a quarter of an hour ago and I've read it twice. **I'll come myself at half past three and I'll not send anything, and I'd like it understood that I am not sending anything.**"
 
@@ -83,7 +83,7 @@ She was let in by a woman at a counter who has been at a counter for nineteen ye
 
 ---
 
-**And she answered it by reading four hundred and twelve rows out loud, in a committee room, in about nineteen minutes, with no names in them, and nobody in the room was able to write it down, and that is the most important thing anybody has done in this case in nine weeks and it was done by a commercial professional who was under no obligation to do it.**
+**And she answered it by reading the programme out loud, in a committee room, in about nineteen minutes, with no names in it, and nobody in the room was able to write it down, and that is the most important thing anybody has done in this case in nine weeks and it was done by a commercial professional who was under no obligation to do it.**
 
 "I am going to read the programme, not the schedule," she said. "The programme has nine blocks in it. It has dates in it. It has no tenancy in it. **Nothing I am going to say this afternoon is a person's information and none of it is privileged and none of it is a trade secret, and all of it is my client's commercial position, which I am disclosing to you because a Director asked me a question with a purpose on it and because I have been carrying this since the autumn and there is nobody in this city to carry it to.**"
 
@@ -116,7 +116,7 @@ She was let in by a woman at a counter who has been at a counter for nineteen ye
 
 ---
 
-**And then the second half of the afternoon, which is the half that has been the reason for the whole of this case, and she was the fourth person in nine weeks to say it and the first one to say it about a document.**
+The second half of the afternoon was the half that has been the reason for the whole of this case. She was the fourth person in nine weeks to say it and the first one to say it about a document.
 
 "There is one more thing and I would like it said before I say it, because it is the reason I read that out and not this." She closed the hardback. "**A tenancy is a document with a name at the top of it and an address in the middle and a start date and a term and an end date, and it is the only thing in this country that says a person is a neighbour of a place. Not a bank. Not a doctor. Not a register of electors, which says a person can vote at an address. A tenancy says a person is responsible for a place, and it is signed, and it is dated, and it can be produced in a room, and it is the thing your landlord would produce if anybody ever asked him who lived there.**"
 
@@ -126,7 +126,7 @@ She was let in by a woman at a counter who has been at a counter for nineteen ye
 
 ---
 
-**And then she signed a piece of paper, which is the first document in this case in nine weeks that anybody has produced on purpose, and it is the first one that has a name on it and nothing else on it, and it is the first one anybody in this room has ever seen that could be read out in a hearing without a single person in it.**
+Then she signed a piece of paper, which is the first document in this case in nine weeks that anybody has produced on purpose, and it is the first one that has a name on it and nothing else on it, and it is the first one anybody in this room has ever seen that could be read out in a hearing without a single person in it.
 
 > **STATEMENT OF TENURE PROGRAMME.**
 > **Morton Hay & Baker (Letting & Management) Ltd, 11 Pemberton Row, Low Ward.**
@@ -145,7 +145,7 @@ She was let in by a woman at a counter who has been at a counter for nineteen ye
 
 ---
 
-**And the sub-group member of sixty-four asked the only question in the room that was not about the programme, and it was the question everybody should have asked on the twelfth of December and nobody did.**
+A trustee of about sixty-four, who had said nothing for an hour, asked the only question in the room that was not about the programme, and it was the question everybody should have asked on the twelfth of December and nobody did.
 
 "Mrs Boulton. The Museum's addresses and your tenancies. **Are they the same four hundred and twelve?**"
 
@@ -169,7 +169,7 @@ She was out of the door at about ten past four and a woman of thirty-nine with a
 > **I am going to write this one down at the top because it is the only thing in this entry that matters and if I bury it I will not see it again. A name field is for the bill. Mara said that on the eleventh of January. Ivo said it to a registrar on the eleventh of January. I wrote it on the fifth of February. And a woman of about fifty in an office on Marsh Lane has said it to me in the only form that has ever produced anything, which is: ring the water. A bill has an account holder on it and an account holder is a name in a field and it is read every month by a person in an office who is paid to read it. Four pounds tenpence. Nine seconds. NEWTON BAY (ESTATES) LIMITED, and a managing agent called Morton Hay & Baker of 11 Pemberton Row, which is nine hundred yards from the corner of Sillick Lane.**
 
 > **Nine weeks. Nine weeks of corridors and binders and a binder four inches thick and a woman at a counter and a records officer four minutes and a clause seven spent in an hour — and the whole of it was in a bill the whole time, and not one person in this case, including me, thought of ringing a water authority, and I have been the man who takes things off lists for nine weeks and it turns out I have also been the man who does not pick things up.**
-> **And the programme. Nine blocks. About four hundred and twelve tenancies. Started in the summer of 2023 on a piece of paper with a date on it. A block goes into it on the first working day of a quarter. No tenancy in that block is renewed at the next term end. Notices go out on the cycle date, on paper, by hand, by a person whose name is on the notice. Every notice lawful. No notice challenged. Not one of them late.**
+> **And the programme. Nine blocks. About four hundred and twelve tenancies. Started in the summer of 2023 on a piece of paper with a date on it. A block goes into it on the first day of a calendar quarter. No tenancy in that block is renewed at the next term end. Notices go out on the cycle date, on paper, by hand, by a person whose name is on the notice. Every notice lawful. No notice challenged. Not one of them late.**
 > **Nobody has done anything wrong. That is not a sentence. It is a fact about nine documents and I have had it in front of me for four hours and I keep putting it down and picking it up.**
 > **And block six is this month. Seventeenth of February to the twenty-fourth of March, and every one of those dates is a date a person had a piece of paper put through their door about, and the agency will stand on the step and confirm it, and there is not one date in that window that anybody in this case has ever held in their hand.**
 > **And the other thing, which is the thing, and I want it at the top as well. A tenancy is the only document in this country that says a person is a neighbour of a place. She said it almost at once and she said it as though everybody in the room already knew it and I have been in this case for nine weeks and I did not know it until a letting agent of about thirty-nine said it in a committee room on a Thursday afternoon.**
