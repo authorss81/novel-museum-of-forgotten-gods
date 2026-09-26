@@ -187,7 +187,7 @@ Elias Venn did not touch it. He stood in a hall in a rented pair of shoes and lo
 He did not pick it up. He read it upside down from about a foot away, and it was a perfectly ordinary statement, printed on a machine, on two sides, and it is worth putting the whole of the face of it down, because that is the object and everything else in this business is a room the object was in.
 
 > **COUNTERPATH — STATEMENT OF ACCOUNT**
-> **Account 40-**·**·**-**·**98 · sort code ·· · · · · ··**
+> **Account 40-**·**·**-**·**98 · sort code ·· · · · · ··
 > **Correspondence address: 88 SILLICK LANE, LOW WARD.**
 > **Period 1 Nov 2024 to 30 Nov 2024. Statement issued 2 December 2024.**
 > **D. DUNNING, F. — current account**

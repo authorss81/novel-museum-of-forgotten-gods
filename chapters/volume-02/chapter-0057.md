@@ -6,7 +6,7 @@ The first thing anybody in that building did about a shrine in a classroom was t
 
 ---
 
-**It was found on Monday the twenty-second of December at about four in the afternoon by a caretaker, and it was found because it was in the way.**
+**It was found on Tuesday the twenty-second of December at about four in the afternoon by a caretaker, and it was found because it was in the way.**
 
 The room is a Year 5 classroom on the ground floor with two external doors, one to the corridor and one onto the yard, and the yard door is an exit, and the exit is on a fire risk assessment that a woman of fifty-four updates every August, and the assessment is a document about eleven pages long and it has a line on it that says *no obstruction at any exit or entrance, including temporary items*, and the word *including* is on the line and the *including* is the whole of it.
 
@@ -16,15 +16,15 @@ Coir face, rubber backing, seven hundred by four hundred, rolled.
 
 "It's blocking the push bar," said the caretaker. "You can't get the door open with your hip and there's a bin against the other side of it."
 
-He moved the table eleven inches. He did not open the mat. He rolled it out onto the floor of the corridor with his foot, because it was in the way and because he is a caretaker, and he put it against the wall of the corridor opposite a radiator, and **that is where it was on Monday morning, and about four inches of its edge was on the floor of a corridor that every child in that school walks down eleven times a day.**
+He moved the table eleven inches. He did not open the mat. He rolled it out onto the floor of the corridor with his foot, because it was in the way and because he is a caretaker, and he put it against the wall of the corridor opposite a radiator, and **that is where it was on Wednesday morning, and about four inches of its edge was on the floor of a corridor that every child in that school walks down eleven times a day.**
 
 **And that is how a household object reaches three hundred and eighty children. Not by a god. By a push bar, and a word on a form, and a caretaker with a foot, and an object put against the wall opposite a radiator because a corridor is warm and that is where a thing goes.**
 
-**And it happened on the same afternoon that a man of about sixty-five carried one up the hill to a museum in a plastic bag, four miles and four miles from the other, and nobody knew, and nobody will ever find out from this book, and it is on the page because it is the whole of the second movement of this case and it is going to be in a file in March.**
+**And it happened on the same day that a man of about sixty-five carried one up the hill to a museum in a plastic bag, four miles and four miles from the other, and nobody knew, and nobody will ever find out from this book, and it is on the page because it is the whole of the second movement of this case and it is going to be in a file in March.**
 
 ---
 
-**Marion Kelsh found out on the Tuesday morning, the twenty-third, at about eight, and dealt with it in about nine minutes, and she is fifty-four, and she is the school business manager, and she has done that job for nineteen years, and there is no mysticism in her at all.**
+**Marion Kelsh found out on the Wednesday morning, the twenty-third, at about eight, and dealt with it in about nine minutes, and she is fifty-four, and she is the school business manager, and she has done that job for nineteen years, and there is no mysticism in her at all.**
 
 She did four things and they are all on a piece of paper.
 
@@ -41,7 +41,7 @@ And she filled in a form. Not the Museum's. Not a Registry form. Not a form abou
 > **Date found 22.12.24. Corrected 23.12.24, 08:40. Action by: M. Kelsh, school business manager.** *(Form untouched. The form is a school form and has no amendment box in it, and nobody had to find one.)*
 > **Storage: school office, locked filing cabinet, shelf B, item logged on the premises inventory at line 214.**
 
-**"Stored,"** she said, when a supply teacher asked her at about nine o'clock on the Tuesday why it was in her filing cabinet, **"because the assessment says it can't be in a corridor, and because it belongs to a child, and because a thing that belongs to a child is not a thing this school has any business throwing out. So it's on the inventory. Line 214. It's got a line number. It's got a number, which is the school number, not an accession number, and it is a number and it is on a piece of paper and the piece of paper is in a folder in a drawer in a building that has never heard of a museum."**
+**"Stored,"** she said, when a supply teacher asked her at about nine o'clock on the Wednesday why it was in her filing cabinet, **"because the assessment says it can't be in a corridor, and because it belongs to a child, and because a thing that belongs to a child is not a thing this school has any business throwing out. So it's on the inventory. Line 214. It's got a line number. It's got a number, which is the school number, not an accession number, and it is a number and it is on a piece of paper and the piece of paper is in a folder in a drawer in a building that has never heard of a museum."**
 
 ---
 
@@ -49,7 +49,7 @@ And she filled in a form. Not the Museum's. Not a Registry form. Not a form abou
 
 She rang at about half past ten. She was not on the notification list. She was a person who had a mat in her corridor.
 
-"I'm not going to pretend I know what your museum does," Marion Kelsh said, later, in a corridor, to two people. "I'm going to tell you what I know. On Friday a caretaker moved a table out of the way of a fire door and rolled a mat into our corridor, and on Saturday about forty children went round it, and on Sunday the head said we were having a discussion about it in assembly and I said no, and I said no because it is a mat and a woman in a photograph and a jar of coins, and the day we put that in an assembly is the day thirty-eight children in one room have got a shrine in it, and there is one person in this school responsible for that and it is me and it is not a decoration."
+"I'm not going to pretend I know what your museum does," Marion Kelsh said, later, in a corridor, to two people. "I'm going to tell you what I know. On the Tuesday a caretaker moved a table out of the way of a fire door and rolled a mat into our corridor, and about forty children went round it that afternoon, and on the Wednesday the head said we were having a discussion about it in assembly and I said no, and I said no because it is a mat and a woman in a photograph and a jar of coins, and the day we put that in an assembly is the day thirty-eight children in one room have got a shrine in it, and there is one person in this school responsible for that and it is me and it is not a decoration."
 
 She said the rest of it in a corridor at eleven o'clock on the Tuesday with the door of a classroom shut behind her, and Elias Venn was in that corridor because he had come to the school at about ten o'clock on the Tuesday morning, the twenty-ninth, alone, uninvited, unannounced, and with no reason that anybody could audit, and he was let in by a man at a gate who asked him which child he had come for and he said *none* and the man said *there's nobody to see* and he said *I know, I'll wait by the office* and the man let him stand by the office, and he stood by the office for about an hour, and that is the whole of his standing in this case and it is better than any door he has ever had.
 
@@ -79,7 +79,7 @@ And the document was the resolution of the sub-group of the eighteenth of Novemb
 
 ---
 
-**The trouble is condition two of the Director's standing conditions of the fifteenth of October 2024, and it had already failed once, on **Monday the twenty-third of December**, in this building, over a different mat, and nobody in the corridor at a school in Hall Lane knew that, and nobody in this building knew it was about to fail again, and a condition does not get better by being asked twice.**
+**The trouble is condition two of the Director's standing conditions of the fifteenth of October 2024, and it had already failed once, on **Wednesday the twenty-third of December**, in this building, over a different mat, and nobody in the corridor at a school in Hall Lane knew that, and nobody in this building knew it was about to fail again, and a condition does not get better by being asked twice.**
 
 > **2.** No Schedule 12 carried object to be removed from the building except on a docket countersigned **by a person who is not an officer or employee of this Museum.** My signature is not sufficient.
 
@@ -87,7 +87,7 @@ A mat from a classroom is not a Schedule 12 carried object and never has been. B
 
 **And the only person who can countersign it is a person who is not an officer or employee, and the only such person who is connected to that object is a girl of nine in Year 5 whose name is written on the underside of the corner of it in ballpoint, and the Museum cannot establish that the name belongs to a person at the address written beside it, and the school will not release a pupil's property to a person the school cannot identify.**
 
-The condition was written on the fifteenth of October by a Director of fifty-three to stop a Museum employee being the only signature on a document about a thing in a public room. It is the best condition anybody in this building has ever written. It is in force. It has not been displaced. And on **Monday the twenty-third of December** it produced, in a conservation office in this building, at about twenty past two in the afternoon, over a different mat, the following sentence, and then on the twenty-ninth it produced the same sentence again over this one, in a corridor in Hall Lane, and the sentence is:
+The condition was written on the fifteenth of October by a Director of fifty-three to stop a Museum employee being the only signature on a document about a thing in a public room. It is the best condition anybody in this building has ever written. It is in force. It has not been displaced. And on **Wednesday the twenty-third of December** it produced, in a conservation office in this building, at about twenty past two in the afternoon, over a different mat, the following sentence, and then on the twenty-ninth it produced the same sentence again over this one, in a corridor in Hall Lane, and the sentence is:
 
 "**We cannot give it back. The second condition says a person who is not an officer or employee of this Museum countersigns it, and the only person like that who has anything to do with it is a child, and I will not put a nine-year-old's name on a docket in this city to move a door mat, and the child's name is the only name I have, and it is on the mat in pencil, and I cannot prove it, and so we hold it, and holding it is the second condition working exactly as it was written to.**"
 
@@ -111,7 +111,7 @@ He had been standing by the office since ten o'clock. He had not been in the roo
 
 "Why."
 
-"Because a man came to a school on a Monday with no reason and I thought you'd want to know that he'd come, and I did not know what else to do with him."
+"Because a man came to a school on a Tuesday with no reason and I thought you'd want to know that he'd come, and I did not know what else to do with him."
 
 Marion Kelsh almost laughed and did not.
 
@@ -119,7 +119,7 @@ Marion Kelsh almost laughed and did not.
 
 "Would the museum put one on?"
 
-"No," said Marion Kelsh. "**And that's the bit I've been turning over since Friday. Because a museum's whole job is putting names on things. That's it. That's a museum. You put a name on a thing and you charge a pound and you put it behind glass and you let people come and look at it. And if your museum's as good as its form says it is then the one thing it will not do, all winter, with nobody watching, is put a name on a card that it can't stand behind. So no. And I'd have bet money on it in August and I wouldn't have believed the argument till Friday.**"
+"No," said Marion Kelsh. "**And that's the bit I've been turning over since the twenty-third. Because a museum's whole job is putting names on things. That's it. That's a museum. You put a name on a thing and you charge a pound and you put it behind glass and you let people come and look at it. And if your museum's as good as its form says it is then the one thing it will not do, all winter, with nobody watching, is put a name on a card that it can't stand behind. So no. And I'd have bet money on it in August and I wouldn't have believed the argument till Friday.**"
 
 She looked down the corridor at a door mat lying against a wall opposite a radiator with four inches of it on the floor, and a wear hollow in it about a foot long, and thirty-eight children in a building that has three hundred and eighty of them in it.
 

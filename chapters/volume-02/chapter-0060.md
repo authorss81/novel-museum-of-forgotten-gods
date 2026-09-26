@@ -4,7 +4,7 @@ It took him five days and it took him four attempts and the fourth one is the on
 
 The finding is a fact on a document. It is not a shape and it is not a feeling and it is not a god. **It is that the same date is written in two systems in two buildings four miles apart, and one of those systems is the source of the other, and nobody in either building has ever been told that the second one exists.**
 
-Thursday the fifth of December 2024 is in both of them. On the afternoon of the fifth, at twenty-two minutes past four, a body pressed a key on a handheld in a street in Low Ward. At about eleven minutes past four the following morning, in an office on Marsh Lane, a file went out.
+Saturday the fifth of December 2024 is in both of them. On the afternoon of the fifth, at twenty-two minutes past four, a body pressed a key on a handheld in a street in Low Ward. At about eleven minutes past four the following morning, in an office on Marsh Lane, a file went out.
 
 ---
 
@@ -36,7 +36,7 @@ He wrote that down, and it is the third line of the Wednesday entry, and then he
 
 ---
 
-**He rang the district's addressing service on the Thursday morning of the ninth of January at about twenty past nine, and he was put through to a records officer of about fifty called Mrs Toft, and he did not have a card, and he did not have standing, and he asked her the only question that mattered and it was the correct question, and it took her about nine seconds to understand and about nine minutes to answer.**
+**He rang the district's addressing service on the Friday morning of the eighth of January at about twenty past nine, and he was put through to a records officer of about fifty called Mrs Toft, and he did not have a card, and he did not have standing, and he asked her the only question that mattered and it was the correct question, and it took her about nine seconds to understand and about nine minutes to answer.**
 
 "Is there a record of the files you send out?"
 
@@ -77,7 +77,7 @@ He was in company with a systems technician. It was after eight. The two documen
 > **05/12 16:22 · 88 SILLICK LN · NAME · *(populated)* → *(cleared)* · NCO · OP-2201**
 > *Held on the back of a receipt, in a woman's handwriting, given out loud in a room with a printer in it on 16 December to a man in a coat. Not a copy. Not a release. The only copy.*
 
-> **[2] DISTRICT ADDRESSING SERVICE — INBOUND CHANGE SCHEDULE. Supplied-file archive, clause 7. Printed 9 Jan 2025.**
+> **[2] DISTRICT ADDRESSING SERVICE — INBOUND CHANGE SCHEDULE. Supplied-file archive, clause 7. Printed 8 Jan 2025.**
 > **05/12 · 88 SILLICK LN · OCCUPANCY · *(name)* → *(blank)* · DS-NCO-11190 · applied 06/12 04:11**
 
 And the two documents were put side by side on a table about four inches apart, and **a sheet of Museum notepaper was put under both of them, and on the sheet a systems technician wrote four lines and a distance, and the distance is on the sheet because somebody asked for it.**
@@ -86,7 +86,7 @@ And the two documents were put side by side on a table about four inches apart, 
 >
 > **1. The same effective date appears in two systems: 5 December 2024.**
 > **2. The systems are not independent. The district's occupancy field is changed by an inbound change carrying a source prefix derived from a delivery-system code, applied without local verification. The delivery office is on Nether Kiln Lane. The district addressing office is on Marsh Lane. The distance between them is four miles. The Museum of Quiet Saints is three quarters of a mile from the delivery office and is a subscriber to the district's daily file.**
-> **3. The delivery system is upstream. The district is downstream of it. This Museum is downstream of the district. **This Museum has not been told, by any person, in any document, at any time, that it is downstream of a delivery sheet.**
+> **3. The delivery system is upstream. The district is downstream of it. This Museum is downstream of the district.** **This Museum has not been told, by any person, in any document, at any time, that it is downstream of a delivery sheet.**
 > **4. No screen was photographed. No exposure was made. Both documents are paper and both are transcribed by hand and are initialed by the Registrar. Condition of 1 December 2024 not engaged.**
 > **5. The Museum's threshold-group block of about four hundred and twelve rows is not versioned and cannot date any change in it. This join was made from outside this building's systems, on two documents, one of which was given to a member of the public out loud by a member of the public's own staff.**
 
@@ -104,7 +104,7 @@ Nobody had said that. It had been on a page in an office on Marsh Lane since abo
 
 "So what do we do," said Elias Venn.
 
-"We use it," said Ivo Pell. "**On Wednesday, tomorrow, in a room with a registrar in it, and I will write to a records officer of about fifty called Mrs Toft and ask her one question about one line, and the line is 88 Sillick Lane, and the question is what the field said on the fourth of December, and I have known for four years that I was allowed to ask and I have never once had a reason.**" He did not pick the mug up. "And she is going to ring me, because the clause says a subscriber may query a line and it does not say how, and she is going to ring me and ask me why a museum wants to know what a field said on a Friday in December, and I am going to have to write a sentence, and I have never written a sentence in that agreement in four years, and I have got two days."
+"We use it," said Ivo Pell. "**On Wednesday, in two days, in a room with a registrar in it, and I will write to a records officer of about fifty called Mrs Toft and ask her one question about one line, and the line is 88 Sillick Lane, and the question is what the field said on the fourth of December, and I have known for four years that I was allowed to ask and I have never once had a reason.**" He did not pick the mug up. "And she is going to ring me, because the clause says a subscriber may query a line and it does not say how, and she is going to ring me and ask me why a museum wants to know what a field said on a Wednesday in December, and I am going to have to write a sentence, and I have never written a sentence in that agreement in four years, and I have got two days."
 
 ---
 
@@ -123,7 +123,7 @@ A name field in this city is a field for who to bill, and who to write to, and i
 
 And a district addressing service has nine hundred subscribers, and the electoral roll is built off it, and the council tax base is built off it, and a public museum's local-notification list is built off it, and **the fourth line of a card at plinth thirty-four in the Hall of Former Faiths, in a public room, for about a hundred and twenty years, is *retained for completeness of the Low Ward series*, and the field in front of the name on that card has always been an occupancy field, and the name that was in it was the name of an organisation that does not exist, and a hundred and twenty years of a public museum have been printing somebody else's billing contact as though it were a history of an object.**
 
-And a Council's occupancy field went empty at twenty-two minutes past four in the afternoon on Thursday the fifth of December 2024, and a card went into a letter box, and it came back.
+And a Council's occupancy field went empty at twenty-two minutes past four in the afternoon on Saturday the fifth of December 2024, and a card went into a letter box, and it came back.
 
 ---
 
@@ -133,11 +133,11 @@ Nobody in that room was going to answer it, so he did, and he said it to a regis
 
 "**Ivo said a name field is for finding him. Mara, you said on the fourth of December that a name is a thing that happens to a person. A systems technician at Nether Kiln Lane said the code is about a house that isn't a home. And this—"** he put two fingers on the sheet of notepaper, on the two lines of it, **"—this says a name field is for somebody to pay a bill, and it has said that since about 2011, and it says that a change of occupancy does not of itself alter the existence of the address or the number of persons at it or any person's legal residence.**
 
-"So I want to ask the thing I have been carrying since the Sunday before last and I have asked it in a corridor and I have not been answered and I have thought about it for a month. **What is a name field for.**"
+"So I want to ask the thing I have been carrying since the Sunday the thirteenth of December and I have asked it in a corridor and I have not been answered and I have thought about it for a month. **What is a name field for.**"
 
 Mara Iles looked at the sheet for a while, and then she took her reading glasses off, which she had not done in the room before.
 
-"**For the bill,**" she said. "That's the answer and it is the right answer and it is the whole answer and it has been available to anybody who wanted it since about 2011 on page one of a two-page instruction given to two hundred and thirty postmen, and I have never seen it, and neither has he, and neither has the Director, and it is the most important sentence anybody has said in this building since the seventh of November, and it is not a sentence anybody said. It is a definition. It is in a box at the top of a form.**"
+"**For the bill,**" she said. "That's the answer and it is the right answer and it is the whole answer and it has been available to anybody who wanted it since about 2011 on page one of a two-page instruction given to two hundred and thirty postmen, and I have never seen it, and neither has he, and neither has the Director, and it is the most important sentence anybody has said in this building since the seventh of November, and it is not a sentence anybody said. **It is a definition. It is in a box at the top of a form.**"
 
 "And it is the answer to a different question," said Ivo Pell, "and it is on the form, and the question you are asking is not the question the form answers. The form answers *what is the field*. **You are asking what it is for.**"
 
@@ -155,7 +155,7 @@ Mara Iles looked at the sheet for a while, and then she took her reading glasses
 
 **Three.** Two thousand nine hundred and four changes in nine days in the district, in every zone, and about a third of a street in Sillick Lane in a fortnight, and about nine addresses off a road called Broad Street in three days in the last week of November, and eleven households on that road who have answered their doors this month because their fields are still full and nobody has touched them, and the row is on a rounds sheet every Thursday and the rounds sheet is the only list that has any of these households on it.
 
-**Four.** A school of about three hundred and eighty children and about two hundred adults with a mat on premises inventory line 214, and a woman of fifty-four who will not put a child's name on a card, and a public museum that has cut its first card in a hundred and forty years with four words in the field where a name goes, and the four words are *no name available*, and they are in a room that is shut until the fourteenth of January.
+**Four.** A school of about three hundred and eighty children and about two hundred adults with a mat on premises inventory line 214, and a woman of fifty-four who will not put a child's name on a card, and a public museum that has cut its first card in a hundred and forty years with four words in the field where a name goes, and the four words are *no name available*, and they are in a room that is shut until the thirteenth of January.
 
 **Five.** A form registered and posted on the twelfth of December with eleven stamps on it, asking the Registry whether it will ask how many people are in a room and how old they are, with a period of twelve months in the box for a period. It has not been answered. It will be answered on or about the sixth of February, and the sixth of February is the same day as the first inspection slot on a rota in Northglass, and neither of those two facts was arranged by anybody.
 
@@ -182,5 +182,5 @@ And the question, which nobody answered, and which he wrote out longhand at abou
 > **And there is a clause seven in an agreement in an office on Marsh Lane that closes on Wednesday, which is the morning the Hall reopens, and a man of fifty called Mrs Toft has never been asked for anything in six years, and a man of twenty-five has done the arithmetic standing up, and a registrar has taken her glasses off, and a Director has signed two documents in a month and said the cost out loud first both times, and a woman of eighty-one stopped on a wall on the eighth of January and went to a clinic on the Monday, and a woman of fifty-four has a hundred and forty names in a drawer and has not given them to anybody and is not going to, and a man of about sixty-five stands on his own step in the dark and says his own name to nobody about four hundred times a year.**
 > **That is what is on the table in this case on the eleventh of January 2025. It is a hundred and forty years of a rope line, and nine blanks, and four miles, and a fifth of December, and about two hundred and ten addresses on a round that a man of about fifty walks every Thursday, and one field, and a date.**
 > **What is a name field for.**
-> **I have not got a stop word. I have never had one. Nobody was ever going to give me one and Mara Iles told me on the eighth of January that she had decided not to and that it was not a kindness, and I have accepted it, and I have not been in a room since the twenty-second of December, and I am not going to be in a room for a while, and that is the position I am in and it is not temporary and it is not going to be temporary, and there is a clause seven that closes on Wednesday and nobody in this building knows it is there and I am not the subscriber and a man of twenty-five has to write a sentence about a person and he has never written one.**
+> **I have not got a stop word. I have never had one. Nobody was ever going to give me one and Mara Iles told me on the seventh of January that she had decided not to and that it was not a kindness, and I have accepted it, and I have not been in a room since the twenty-second of December, and I am not going to be in a room for a while, and that is the position I am in and it is not temporary and it is not going to be temporary, and there is a clause seven that closes on Wednesday and nobody in this building knows it is there and I am not the subscriber and a man of twenty-five has to write a sentence about a person and he has never written one.**
 > **So somebody has to ask.**

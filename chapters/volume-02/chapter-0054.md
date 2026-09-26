@@ -136,9 +136,9 @@ Nobody could remove it. Not because they would not. Because the instruments do n
 
 A door mat from a flat in Low Ward is not a Schedule 12 carried object. It has no classification, no number, no location in a systems index, and no owner of record. Both conditions therefore do not apply to it, which means that there is no docket to be raised, because a docket is a document about a Museum object, and there is no document here, and a mat in a corridor is not a Museum object and cannot be made into one by anybody in the building without a form that does not exist.
 
-**And on the Monday, at about twenty past two in the afternoon, a registrar drafted one anyway, because that is what she is, and it failed, and the way it failed is on the page because the next chapter is built out of it and because it is the first time in this case that the best control in this building stopped a good person doing the right thing.**
+**And the next day, at about twenty past two in the afternoon, a registrar drafted one anyway, because that is what she is, and it failed, and the way it failed is on the page because the next chapter is built out of it and because it is the first time in this case that the best control in this building stopped a good person doing the right thing.**
 
-She drafted a movement docket for a door mat on the Monday morning. She drafted it properly, with an item, a quantity, a method of carriage, a destination, a date and a time out, and a carrier, and a countersignature in the space for **a person who is not an officer or employee of this Museum.**
+She drafted a movement docket for a door mat on the Wednesday morning. She drafted it properly, with an item, a quantity, a method of carriage, a destination, a date and a time out, and a carrier, and a countersignature in the space for **a person who is not an officer or employee of this Museum.**
 
 And then she read condition two again, and the sentence in it, which is in a Director's own hand on a card in a corridor in October: *My signature is not sufficient.*
 

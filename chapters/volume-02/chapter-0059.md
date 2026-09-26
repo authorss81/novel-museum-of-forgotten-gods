@@ -12,7 +12,7 @@ The mechanism is this and it is not a mystery and it is not a god.
 
 A household whose name field is empty cannot be delivered to. A household whose name field is empty does not get a council's letter, a doctor's letter, a school's letter, an electoral return, a bank statement that arrives, a card from a museum, a determination notice, or a registered letter from anybody. A household that cannot be delivered to is not a household that anybody goes and sees, because a person goes and sees a household by writing to it, and the writing comes back, and after the writing comes back twice the whole system stops trying, correctly, because that is what a system is for.
 
-**And then, on the twenty-eighth of December, a woman on a counter on Nether Kiln Lane wrote four lines of a change log out on the back of a receipt in her own hand because a man in a coat asked her for them, and a systems technician counted four hundred and some dead letters on a Saturday because he had nothing else to do, and a registrar found that a school keeps the best name-and-place book in the county on a corridor wall in a hardback, and a woman of eighty-one sat in her own kitchen on the afternoon of New Year's Day and worked out the one thing that none of those four people could do.**
+**And then, on the sixteenth of December, a woman on a counter on Nether Kiln Lane wrote four lines of a change log out on the back of a receipt in her own hand because a man in a coat asked her for them, and a systems technician counted four hundred and some dead letters on a Monday because he had nothing else to do, and a registrar found that a school keeps the best name-and-place book in the county on a corridor wall in a hardback, and a woman of eighty-one sat in her own kitchen on the afternoon of New Year's Day and worked out the one thing that none of those four people could do.**
 
 **Somebody has to say it. Not write it. Not key it. Not enter it in a field. Somebody has to stand on a step and say a name out loud in a street, to a person at a door, in front of witnesses, so that a person is a person on a Tuesday and not a field on a wire.**
 
@@ -31,7 +31,7 @@ And there is a fourth thing, which is not a rule, and which is the only instrume
 
 **There is no form for it, and the reason there is no form for it is not that nobody has got round to it. It is that nobody in this city has a form for a person standing in their own doorway, and five institutions were asked, and all five said no, and all five were right, and the reasons are on the page because the reasons are the argument.**
 
-The Museum of Quiet Saints, asked on Tuesday the seventh of January by a woman of fifty-four with a plastic wallet, on a telephone, by a registrar of twenty-eight: no, and the reason given by a registrar of twenty-eight on a telephone is that **it is not a practice, it is a relationship, and this institution has a category for the first and no category for the second, and the category it has is *Schedule 12, carried object, no activity observed in the period of inspection*, and putting a person's street into that would be a lie on a public card and we cut one of those in October and it is still lying on a plinth.**
+The Museum of Quiet Saints, asked on Thursday the seventh of January by a woman of fifty-four with a plastic wallet, on a telephone, by a registrar of twenty-eight: no, and the reason given by a registrar of twenty-eight on a telephone is that **it is not a practice, it is a relationship, and this institution has a category for the first and no category for the second, and the category it has is *Schedule 12, carried object, no activity observed in the period of inspection*, and putting a person's street into that would be a lie on a public card and we cut one of those in October and it is still lying on a plinth.**
 
 The municipal conciliation service, asked on the seventh: no, and the reason given by a field officer is that **it is not a claim, it is not a dispute, it is not a matter of payments, and I have a form for a person who says they have been underpaid and I have a form for a person who says a record is wrong, and you would be the first person in nine years to bring me a third thing, and the third thing would last about a fortnight and then it would be a thing people say they did in a room in January.**
 
@@ -77,7 +77,7 @@ And an old woman of eighty-one stood on a doorstep in January and found out that
 
 Then she went home, and she did her own front step as well, at about ten past four, in the last of the light, and then on the Friday the eighth she went out again and got as far as the wall at the bottom of the lane and had to sit down on it for about four minutes.
 
-She went to the clinic on the Monday the eleventh, and the clinic is on Fisher Lane and the woman who ran it had been coming to the Friday queue at the library for six years and did not know she was going to be in the story. The clinic is on Fisher Lane and the woman who ran it had been doing the Friday queue at the library for six years and did not know she was going to be in the story.
+She went to the clinic on the Monday the eleventh, and the clinic is on Fisher Lane and the woman who ran it had been coming to the Friday queue at the library for six years and did not know she was going to be in the story.
 
 "Her heart," said the clinic. "Not a collapse. A woman of eighty-one stood on a doorstep in the cold wind for about an hour and a quarter and her heart did what a heart of eighty-one does. She's to have it monitored and she's to stop and she's not to stand about in the cold. **And she'll do what she's told for about eleven weeks and then she'll be back, because she is eighty-one and she has never in her life been told to stop.**"
 
@@ -85,9 +85,9 @@ She went to the clinic on the Monday the eleventh, and the clinic is on Fisher L
 
 ---
 
-**Elias Venn came down the hill at about six on the Friday the eighth of January and it was properly dark and the practice had been off for about an hour and a half, and he was on a pavement in Sillick Lane with about nine other people in it, and he was the ninth, and nobody had asked him to do anything.**
+**Elias Venn came down the hill at about six on the Friday the eighth of January and it was properly dark and the practice had been off for about an hour and a half, and he was on a pavement in Sillick Lane with about nine people in it, and he was the ninth, and nobody had asked him to do anything.**
 
-He had been asked, in fact. He had been asked on the Tuesday morning at a table in a rented room, by telephone, by Mara Iles, in ninety-one seconds, and he had said yes, and he had then spent two days finding out that he had no idea what yes meant.
+He had been asked, in fact. He had been asked on the Thursday morning at a table in a rented room, by telephone, by Mara Iles, in ninety-one seconds, and he had said yes, and he had then spent two days finding out that he had no idea what yes meant.
 
 "Is anybody writing this down anywhere," she had said. "Not for us. I want to be clear. This is not a Museum practice and it is not going in a Museum file and if anybody sends me a form about it I will send it back."
 
@@ -117,7 +117,7 @@ He had been asked, in fact. He had been asked on the Tuesday morning at a table 
 
 ---
 
-**So he stood on a pavement in Sillick Lane at about ten past six on the third of January 2025 in the dark, with nine people, and he was the ninth, and the practice was off because it was dark and that is the whole of why it was off.**
+**So he stood on a pavement in Sillick Lane at about ten past six on the eighth of January 2025 in the dark, with nine people, and he was the ninth, and the practice was off because it was dark and that is the whole of why it was off.**
 
 He did not go to a door. He said, afterwards, that he had wanted to, and that he had stood on a pavement for about forty minutes and worked out that he was the only person in that street who could not do it, and that the reason was not the bar and was not the pound.
 

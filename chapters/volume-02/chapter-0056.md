@@ -6,9 +6,9 @@ It is not a dramatic finding. It is the dullest finding in the whole of this cas
 
 ---
 
-**Saturday the twenty-first of December. Ten past ten in the morning. The post room, ground floor, behind the security office.**
+**Monday the twenty-first of December. Ten past ten in the morning. The post room, ground floor, behind the security office.**
 
-**The Museum of Quiet Saints opens at ten and closes at four on a Saturday in the run-up to Christmas, and about ninety people came through the front door before eleven, and thirty of them were children, and there is no school group in the Hall of Former Faiths and has not been since the eighteenth of November, and nobody came to the desk about anything at all.**
+**The Museum of Quiet Saints opens at ten and closes at four on a Monday in the run-up to Christmas, and about ninety people came through the front door before eleven, and thirty of them were children, and there is no school group in the Hall of Former Faiths and has not been since the eighteenth of November, and nobody came to the desk about anything at all.**
 
 There is a manila envelope on the corner of a desk in the post room and it says **DEAD-LETTERS** on it in biro, and there is a number on it in biro, and the number is three hundred and fifty-three.
 
@@ -40,7 +40,7 @@ Ivo Pell came in at about eleven with a mug and looked at the envelope and the b
 
 The systems index is on a screen in a room that anybody can walk into and read, and it is corrected on the ordinary Tuesday cycle at about ten past seven, and about nine hundred lines of it are the Museum's own and the rest are notes.
 
-Elias Venn was in the room at about eleven because a sub-group notice had come through the post on Wednesday, produced under item six of the terms of reference, which is *any other matter the chair directs*, and which had directed that a person be produced at ten on a Saturday morning in company, and he was in company with the systems technician, and it was after eight o'clock, and it was the only lawful door he had in the city, and a systems day is the one day of the week on which anybody in this building will let a stranger stand in a room with a kettle in it and not ask him a single question about why.
+Elias Venn was in the room at about eleven because a sub-group notice had come through the post on Wednesday, produced under item six of the terms of reference, which is *any other matter the chair directs*, and which had directed that a person be produced at ten on a Monday morning in company, and he was in company with the systems technician, and it was after eight o'clock, and it was the only lawful door he had in the city, and a systems day is the one day of the week on which anybody in this building will let a stranger stand in a room with a kettle in it and not ask him a single question about why.
 
 "Before we start," said Ivo Pell. "If we photograph anything on that screen, my condition from the first of December kicks in and it needs your countersignature at the point of making and the reason and the schedule reference, and I have countersigned four exposures since the first of December, all of them mine, all of them countersigned, and I have not enjoyed one of them. So we are not photographing anything."
 
@@ -98,12 +98,12 @@ And on the twenty-first of December, at about eleven in the morning, with a regi
 > **The Museum printed nine blanks on the twelfth of December, put them in nine envelopes and posted them, and has not read a print run in its own print room, because a print run is a print run and nobody has ever in the history of this building compared a run to the thing it was printed off.**
 > **Nine rows. All nine within SEQ 1391–1409 (Sillick Lane, west side walk order). No row added. No row removed. No address altered.**
 > **Not versioned. The change date cannot be stated from this system. The feed carries a source run stamp, not a change history.**
-> **I. PELL, systems technician. 28 Dec 2024. In the presence of M. ILES, Senior Conservator and Accession Registrar, and of E. VENN, called as a witness under item 6.**
+> **I. PELL, systems technician. 21 Dec 2024. In the presence of M. ILES, Senior Conservator and Accession Registrar, and of E. VENN, called as a witness under item 6.**
 > **No photograph taken. Screen content transcribed by hand. Screen not photographed and no exposure made. Condition of 1 December 2024 not engaged.**
 
 ---
 
-**And then, at about ten past one on the Saturday, Ivo Pell counted the dead letters, and it took him forty minutes, and it is the only counting anybody in this business has done in eight weeks that anybody else has ever heard about.**
+**And then, at about ten past one on the Monday, Ivo Pell counted the dead letters, and it took him forty minutes, and it is the only counting anybody in this business has done in eight weeks that anybody else has ever heard about.**
 
 There were four hundred and eleven items of post in the envelope and about ninety in the box behind the boiler, and of the four hundred and eleven, **ninety-one were the Museum's own, and nine of the ninety-one were the annual acknowledgement of the twelfth of December, and all nine had come back marked undeliverable in the second week**, and thirty-one of the four hundred and eleven had come back in the third week of December, and of the thirty-one, nine were the nine.
 
@@ -117,9 +117,9 @@ He put the pen down.
 
 ---
 
-**The last two hours of the Saturday were the five books, and the finding about the five books is the reason nothing happens on Monday.**
+**The last two hours of the Monday were the five books, and the finding about the five books is the reason nothing happens on Monday.**
 
-> **A PERSON RECORDED IN THIS BUILDING, 28 DEC 2024. Where, and whether a question about that person can be answered from the document.**
+> **A PERSON RECORDED IN THIS BUILDING, 21 DEC 2024. Where, and whether a question about that person can be answered from the document.**
 >
 > **1. The visitors' book** (front desk, ribbon, four columns, unaltered since 2021). **Who:** every member of the public who enters. **In it:** a name, a time in, a time out, a reference. **Can it answer *where does this person live*?** **No.** It holds no address and has never held one, because a public museum's book is not an address system, and adding one would be unlawful and is not lawful.
 >
@@ -133,7 +133,7 @@ He put the pen down.
 
 **Every document in this building that records a person records them as a person, and not one of them records where they live, and the one document that did was a card index for the payroll, and the payroll was administered by a municipal bureau in another building, and the bureau has a record of a person and of money paid and does not hold a record of employers.**
 
-Mara Iles read that last page at about three o'clock on the Saturday afternoon in a conservation office with the door shut, and she did not say anything for about eleven seconds, and then she said the sentence the whole of it is for, and she said it to a systems technician and to a man who was in the room on notice and not from any of it.
+Mara Iles read that last page at about three o'clock on the Monday afternoon in a conservation office with the door shut, and she did not say anything for about eleven seconds, and then she said the sentence the whole of it is for, and she said it to a systems technician and to a man who was in the room on notice and not from any of it.
 
 "**This building has two hundred and forty-seven objects with a location in it and it has about nine hundred names in a personnel binder and four hundred and twelve addresses on a feed, and it has never once, in a hundred and forty years, had a record of a person and a place together, and that is not because we are careless. It is because a museum is a place where things are, and we built it that way on purpose, and it is correct, and the entire business of the last two months has been me trying to get a person and a place into the same sentence using instruments that were not built for it.**"
 
@@ -157,11 +157,11 @@ And the finding of the twenty-first of December, which is in the registrar's own
 > **First entry, 24.11.2024: the fitter's lamp, 1961/LW/51, cupboard 14.** **It is not ours. It is on our schedule because it is on our sheet with a location on it and because a lamp in a cupboard cannot be a mystery, and a lamp in a cupboard has been quietly the first entry in an incomplete schedule for four weeks and nobody has read this document since the ninth.**
 > **21.12.2024. The first entry in the schedule of collections is an object in a cupboard and the second entry would have to be a person at a house and there is no box for that. M.I.**
 
-He wrote the whole of it out longhand on the Saturday night, and the notebook is one page and the last four lines of it are these, and they are the last four lines of that day and there is no correcting anything in them:
+He wrote the whole of it out longhand on the Monday night, and the notebook is one page and the last five lines of it are these, and they are the last five lines of that day and there is no correcting anything in them:
 
 
-> **Sat 21 Dec, 21:15. Five books. About nine hundred lines. Two hundred and forty-seven locations. Four hundred and twelve addresses. Two print runs with four hundred and twelve names on each of them, correct, in brown paper bands, in a box, and a third run on the twelfth of December with nine blanks in it that went into nine envelopes and came back.**
-> **The names left between the second of December and the twenty-eighth and the system cannot say when, because the block is not a record, it is a wire, and a wire has no history, and I have spent six weeks learning that a record with a name against it is the only instrument there is.**
+> **Mon 21 Dec, 21:15. Five books. About nine hundred lines. Two hundred and forty-seven locations. Four hundred and twelve addresses. Two print runs with four hundred and twelve names on each of them, correct, in brown paper bands, in a box, and a third run on the twelfth of December with nine blanks in it that went into nine envelopes and came back.**
+> **The names left between the second of December and the twenty-first and the system cannot say when, because the block is not a record, it is a wire, and a wire has no history, and I have spent six weeks learning that a record with a name against it is the only instrument there is.**
 > **I have spent six weeks learning that. And this building has spent a hundred and forty years making sure that no document in it ever had a name and a place in it together, and it did that for a good reason, and the reason was correct, and this is the first time in my working life that a piece of paper has been right and still let it happen.**
 > **And nobody's job. That is the finding. Not a person. Not a villain. Not even a man with a handheld. There is no job in this city in which anybody's duty is to compare Thursday with Friday.**
 > **I have a receipt with a woman's handwriting on the back of it, a cardboard folder with a company's letter in it that I will not put in a Museum file, a pound, a notebook, and no instrument. And the instrument in this city is a print run in brown paper bands in a box behind a counter, and I have seen it, and I am barred from the building, and it goes to the Board in March.**

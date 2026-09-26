@@ -1,6 +1,6 @@
 # Chapter 0055 — The Carrying
 
-**It failed on Monday the twenty-third of December, in a conservation office, and nobody in the building had been able to say why for twenty-one hours.**
+**It failed on Wednesday the twenty-third of December, in a conservation office, and nobody in the building had been able to say why for twenty-one hours.**
 
 There are four people in this business who are neither an officer nor an employee of the Museum of Quiet Saints, and there is no column in any return this building files in which any of them can be written, and on the twenty-fourth of December 2024 that fact was the only thing that made a door mat leave a public museum four miles from Sillick Lane.
 
