@@ -1,0 +1,251 @@
+# Volume 03 Outline — The Names In The Flood
+
+**Chapters 101–150. Fifty chapters. Tuesday 1 June 2025 to Saturday 16 November 2025, one hundred and sixty-eight days, twenty-four weeks exactly.**
+
+**Written 2026-09-26 by the Volume 02 close phase, after the Volume 02 audit was written down in `state/continuity.md` under `VOLUME 02 CLOSE`.** Nothing in this file is invented to fill a gap. **Every element of the volume's spine is taken from `outline/series.md` § Volume 3**, from Chapters 91–100, or from the hard locks inherited below. The derivation is named at the foot of each section, as `outline/volume-02.md` does.
+
+**Provenance by section.** Central Pressure / Investigation Focus / Midpoint Reversal / Climax / Resolution / Power Change / Next-volume pull: `outline/series.md` § Volume 3, verbatim in substance. **The volume's two additional constraints — the first major memory-displacement cost, and the Sillick Lane term ending on 30 November 2025 — are not in the series outline and come out of Volume 02; they are set out under `Two constraints that come out of Volume 02` and both are honoured here.** Day map: derived by script from the pinned line, and the derivation is recorded in full under `The day map, and how it was derived`.
+
+---
+
+## Central Pressure
+
+Floodwater exposes the Drowned Registry while the city begins denying flood victims access to their own records. *(Series outline.)*
+
+**As Volume 02 has actually turned out, the pressure is one layer underneath that, and it is the same layer the series outline's own reversal depends on: a field that is written down for one purpose and read by forty others.** A flood claim is settled against a **date of loss**. A date of loss is the date by which a household has demonstrably stopped being a household, because a claim pays for a loss and a household that has not lost anything has nothing to claim. **The instrument is a box on page one of a two-page instruction and nobody in this business has read it, and the answer, when it comes, is worse than a bill: a date of loss is for the excess.** Volume 02 asked *what is a name field for* and was told *for the bill*. **Volume 03 asks *what is a date of loss for* and is told *for the excess*, and the two answers are the same shape, and the second one is on a form that decides whether a person is a household.** Both the answer and the machinery are on the page and neither is a mystery; the mystery is what the water does to a paper record and who decides to use it.
+
+## Starting State
+
+Carried directly from the close of Chapter 100 and restated in `state/current.md`:
+
+**Monday 31 May 2025, about half past eleven at night, in a rented room above a laundrette in Low Ward.** Elias Venn, 32, has no post, no card, no key, no employer, no standing in any room in this city, and a municipal remittance on the first of the month at cost centre **M.Q.S. 4** for a post that does not exist, **which is a payee field and is correct and is the only thing that has kept him a legal neighbour of Low Ward since 8 December 2024.** He has a notebook with a rule at the top of its first page and one entry in twenty-five weeks that is a fact about a fact not written. He has a plastic wallet with four things in it. He has a cardboard folder on a shelf between a boiler and a chair. **He has said no to six things in twenty-four weeks and the sixth was offered kindly.** He has heard one knock on a door on 16 May and written down that he did not write it down.
+
+**And he has been wrong about one number in a room, in public, on 30 May 2025, and a registrar of twenty-eight said the sentence the volume is built on: memory can be planted, not by anything, by a person who is fond of you, in a room, out loud, without any intention at all — and the way to find out is a second person reading it back.**
+
+**Power state: Stage 2, Thread**, named once, late, in a notebook, on 30 May 2025, and not as a scene. **The cost curve is unspent and the first major memory-displacement cost is due in this volume, in public, in a room, with a second person present, and irreversible.** The Chapter 8 two-hands entry and the 27 November fifty-seven minutes are both untouched; the fifty-seven minutes is reversible and is **not** a memory cost. **He has no stop word and nobody is going to give him one.**
+
+## Starting Relationships
+
+**Mara Iles said *I do not know what you are for* in Volume 01 and has not unsaid it, and this is the volume in which she begins to be reliable and in which neither of them can say so.** She has read one notebook and has refused to read a second in the same case. Ivo Pell has been produced as a lawful door four times in Volume 01 and is **absent from the whole of Volume 02's last ten chapters**, which is the volume's last word about him and which this volume must repair. Hattie Bramm's hundred and forty is in a drawer in number fourteen. Doreen Sarn has refused seven things and a counting system that cannot tell a silence from a no. Anja Ward has said the 1902 sentence out loud in a public room and has refused to put a favour in a public document wearing a refusal's clothes. **Nobody in this volume is a villain and everybody in this volume is competent.**
+
+## Major Locations
+
+**The Morrowgate Museum of Quiet Saints, Civic Hill:** the Hall of Former Faiths, the Gallery of Unnamed Hands, the conservation floor, the registrar's office, the label room, the front desk and its **day book with one line per device**, and the post room. **The Quiet Wing is the fourth level, west range, and the east end of that corridor is the door of a room that is not described in this volume and is not opened in this volume.**
+
+**A sealed river archive in a disused bonded store on a wharf**, four miles from the Museum, let to the city by a freeholder who has never been inside it. **The Drowned Registry is in it and is not a new institution: it is the city's own record of people recorded as drowned in this city's floods, and the reason it exists is that a drowned person's estate could not be settled without a death record.**
+
+**A river parish upriver**, with a church, a lock-keeper's house, a parish registrar and a hardback of interments. **South Sluice**, the flood-control station where pumps, iron gates and night crews share the riverbank, and where **the third ward-bell is.** **Low Ward**, its flood walls, its laundrettes, its terraces, and **Ferry Bank**, a named district of about 1,900 tenancies on the low bank. **Cauldwell Buildings**, off Low Ward, four flats on the first floor, seven households, a weekly rent, a term from 1 June to 30 November 2025. **A room above a shop in Fisher Lane**, let by the hour. **Northglass**, where the Registry's public-facing office and its intake forms are. **Lantern Row**, and a building on it with a firm of solicitors on the third floor and a member of a collectors' society in a first-floor suite.
+
+## Major Factions
+
+No faction is a villain and **none is a network.** **A flood office, a claims desk, a salvage trade, a bonded-store freeholder, a parish, a registry intake, a museum, a landlord, and about nine households who have already done this once.**
+
+**The investigation's five subjects, in the order the outline gives them:** **water damage, salvage crews, insurance fraud, a flood god, and Mara's mother's connection to a hidden shrine record.** None of the five is an institution and none is a person; each is a *kind of document* with a competent person attached to it who is doing a correct thing inside a deadline.
+
+## The Object
+
+**A reach rope.** Manila, red-ochred, about eleven metres, with a splice at about four metres, knots at intervals that are not at intervals, a lead line, and a canvas tag with a parish name and a year on it. It was the tie-line of a flood-reach board hung outside a lock house; it was re-tied at the start of a season by a person who knew the water; **it is now in a sealed store on a wharf and the water has been in it.**
+
+**Its rhyme is canonical and predates it:** the **rope line in the Hall of Former Faiths**, about a hundred and forty years old, joined in the middle of the floor by a sheet bend in about 1935, its stated purpose **CIRCULATION**, **not on the schedule, it is furniture**, and a clerk of works who re-hung it in November 1935 because a route from the north door to the south door was fouled at the third stanchion. **Nobody has ever put the two ropes in the same sentence. Volume 02's live question — is the pattern the object or the place — was asked four times and refused four times, by four people with a duty. It is asked in this volume and it is not answered by a person and not answered by a document. It is answered by a measurement, and the measurement is on a rope.**
+
+**The god is not named in this volume, and no card is ever cut for a rope.** Fenn's sentence from 25 February 2025 governs and is not to be improved on: *you can card a bell. You cannot card a rope. There is no line on the form for it and I have looked twice. It is not a thing, it is a fitting, and the day somebody prints a card that says what a rope is, that rope is an object and it goes in a case.*
+
+## Escalation Sequence
+
+**The rule for the whole volume, unchanged from Volumes 01 and 02: each movement raises the number of people who can be hurt, and not the size of anything. Nothing escalates into a bigger monster. The only instrument that has ever caught one in this manuscript is a record with a name against it.**
+
+**In this volume the number runs: four flats and nine households · a street · about forty households in a block · a school of about three hundred and eighty children · a river parish · a wharf and about nine hundred addresses on salvage dockets · a registration district of about 1,900 tenancies.** **The progression is not in the size of the water. It is in the size of the paper.**
+
+### Movement 1 — The Water Comes (Chapters 101–110) — Tue 1 June to Sat 4 July 2025 (and the flood is Chapter 107, on the night of Friday 18 to Saturday 19 June)
+
+A term begins and nobody is given a home. A claim form's box for a date of loss, and a professional who has read page one. The salvage trade arriving before the water, with a docket book and a column nobody can check. **The flood, on the night of Friday 18 to Saturday 19 June.** A sealed store on a wharf takes water and nobody opens it. An access refusal in writing, with a form and a statutory power in it. A household with no name in any system, at a flooded door, and the moral floor acted on and not said. **And the turn, and it is a question and not an event: *what is a date of loss for*** — and it is asked in a room and nobody in the room knows, and the reader has been told twice already what the answer is going to be and does not believe it.
+
+### Movement 2 — The Archive, and the Weight (Chapters 111–120) — Mon 7 July to Sun 3 August 2025
+
+The answer, from a claims handler who is right about it and can do nothing about it. A salvage docket's weight column, and about nine dockets for addresses where there was nothing to salvage. A household on the ground floor, and the woman who came in to get somebody else out — **and the reader is given her in a chapter and does not know what she is for until Movement 3.** A parish registrar, forty-one years, a hardback of interments, and a facsimile of one page on the grounds that a page is not a list. **Mara's mother.** A Museum that is downstream of everything again. **And Hesta Rell, sixty-one, from a river parish, who has come about a shrine record and who is the first person in three volumes who is not a municipal employee and the first person who asks Elias Venn a question instead of answering one.**
+
+### Movement 3 — Emergency Powers, and the Woman Who Was Carried Out (Chapters 121–133) — Mon 4 August to Sun 14 September 2025
+
+**THE MIDPOINT REVERSAL IS AT CHAPTER 127, on Monday 18 to Wednesday 20 August 2025.** The series outline's reversal: **the Registry is not only preserving old names; it is using flood emergency powers to erase people whose claims would complicate redevelopment.** And in the same batch, the second half of it: **Elias Venn's first attempt to expose the record causes a rescued witness to be misidentified because he trusts an echo's emotional certainty.** A school roll that is a name and a house in every line, beside a premises inventory that is not. A first attempt in public that fails in public. A correction that can be made and a person who cannot be un-named. And a theological argument that begins: **Hesta Rell and Elias Venn disagree about who may speak for a community, and neither of them is right, and the volume does not settle it.**
+
+### Movement 4 — The Marks, The Names, And The Seal (Chapters 134–150) — Mon 15 September to Sat 16 November 2025
+
+**THE CLIMAX IS CHAPTER 144, on Monday 20 to Friday 24 October 2025, and Chapter 143, the two days before it, is the first major memory-displacement cost.** The team uses physical survey marks, family testimony, and a water-god's bounded testimony to recover the names; the archive is opened publicly. **And the city seals the legal identity of Ferry Bank, on the argument, correctly, that a settlement cannot be computed against land that is subsiding.** The register ends on **Friday 1 October 2025**, and nobody appointed anybody. **The first major memory-displacement cost is paid on Thursday 16 to Friday 17 October 2025, in a laundrette, in public, with a second person present, and it is irreversible, and the second person finds nothing wrong.** The resolution: families receive names and burial records, not a guaranteed return of their homes. Mara learns that her mother committed a falsification that saved people and also made later erasure harder to trace. And the ending: the Registry denies that the named district exists, while a newly hired guard reports working a shift no one remembers scheduling.
+
+## The day map, and how it was derived
+
+⚠ **THE DAY MAP BELOW WAS DERIVED BY SCRIPT FROM THE PINNED LINE AND FROM NOTHING ELSE, AND IT IS THE ONLY CALENDAR IN THIS FILE. It was written before a single chapter and it is not binding, and a day map in a phase prompt is not binding either, and a week list in a state file is not binding either. But it was derived, and the derivation is recorded here so that any later pass can check it against a rule instead of against a memory.**
+
+**The pinned line is the real Gregorian calendar plus two days.** That was established by the Volume 02 Batch 0003 review pass and it is verified against five figures that are already canon:
+
+| Canon fact | Real calendar | Pinned line | Agrees? |
+| --- | --- | --- | --- |
+| `1 Dec 2024 = Tuesday` (`continuity.md` R1) | Sunday | **Tuesday** | yes, +2 |
+| `13 Dec 2024 = Sunday` (the bell's last note, 11:04) | Friday | **Sunday** | yes, +2 |
+| `27 Nov 2024 = Friday` (the panel taped on) | Wednesday | **Friday** | yes, +2 |
+| `6 Feb 2025 = Saturday` (the first Registry slot) | Thursday | **Saturday** | yes, +2 |
+| `31 May 2025 = Monday` (the end of Volume 02) | Saturday | **Monday** | yes, +2 |
+
+**Derived from that line and from nothing else:**
+
+- **Tuesday 1 June 2025** is the first day. Chapter 101 opens on it, and it is the day the Cauldwell Buildings term begins.
+- **The pinned Saturdays in June 2025 are the 5th, 12th, 19th and 26th, and the pinned Fridays are the 6th, 13th, 20th and 27th. 1 June is a Tuesday and 30 June is a Wednesday.**
+- **THE FLOOD IS THE NIGHT OF FRIDAY 18 TO SATURDAY 19 JUNE 2025, with high water in the small hours of Saturday the nineteenth.** Friday night into Saturday morning is correct for a flood: a working week, a full set of households indoors, salvage crews available on Monday, insurers' claims offices open on Monday, and a weekend in which nobody can be reached at a desk.
+- **1 July is a Thursday and 1 August is a Friday, so the pinned month-starts are irregular and that is the pinned line and not a mistake.**
+- **1 September is a Wednesday. 1 October is a FRIDAY. 1 November is a Saturday. 16 November is a SATURDAY. 30 November is a TUESDAY. 1 December is a WEDNESDAY.**
+- **The two Volume 02 clocks: Friday 1 October 2025 and Tuesday 30 November 2025, sixty days apart. The volume closes on Saturday 16 November 2025, fourteen days before the second of them.**
+- **Every bell-age and panel-age figure in this file is arithmetic off `2024-12-13` and `2024-11-27` and was computed, not remembered: 141 · 154 · 169 · 338 days for the bell, 157 · 170 · 185 · 354 for the panel, at 3 May · 16 May · 31 May · 16 November 2025.**
+
+**The shape of the map.** Two chapters a week, Monday to Sunday, with the first chapter of a week carrying the institutional scene and the second carrying the scene that is not institutional. The flood sits in the fourth week and is the reason the rest of the volume exists.
+
+| Week (pinned) | Chapters | Days |
+| --- | --- | --- |
+| **Tue 1 – Sun 8 Jun** | 101, 102, **103** | 1 June is the day before this week opens; the flood is 18–19 June, in the third week |
+| **Mon 9 – Sun 15 Jun** | 104, 105 | |
+| **Mon 16 – Sun 22 Jun** | 106, **107** | 106 is 16–17 June · **107 is 18–19 June and it is the flood** |
+| **Mon 23 – Sun 29 Jun** | 108, 109 | |
+| **Mon 30 Jun – Sat 4 Jul** | 110 | **Movement 1 closes** |
+| **Mon 5 – Sun 10 Jul** | 111, 112 | |
+| **Mon 11 – Sun 17 Jul** | 113, 114 | |
+| **Mon 18 – Sun 24 Jul** | 115, 116 | |
+| **Mon 25 – Sun 31 Jul** | 117, 118 | |
+| **Mon 1 – Sun 3 Aug** | 119, 120 | **Movement 2 closes** |
+| **Mon 4 – Sun 10 Aug** | 121, 122 | |
+| **Mon 11 – Sun 17 Aug** | 123, 124 | |
+| **Mon 18 – Sun 24 Aug** | **125**, **126**, **127** | **127 is Monday 18 – Wednesday 20 August and it is the midpoint reversal** |
+| **Mon 25 – Sun 31 Aug** | 128, **129** | **129 is Thursday 28 – Friday 29 August and it is the misidentification** |
+| **Mon 1 – Sun 7 Sep** | 130, 131 | **Movement 3 closes** |
+| **Mon 8 – Sun 14 Sep** | 132, 133 | |
+| **Mon 15 – Sun 21 Sep** | 134, 135 | **Movement 4 opens** |
+| **Mon 22 – Sun 28 Sep** | 136, 137 | |
+| **Mon 29 Sep – Sun 5 Oct** | 138, **139** | **139 is Friday 1 October and the register ends** |
+| **Mon 6 – Sun 12 Oct** | 140, 141 | |
+| **Mon 13 – Sun 19 Oct** | 142, **143** | **143 is Thursday 16 – Friday 17 October and it is the memory cost and the check that cannot fail** |
+| **Mon 20 – Sun 26 Oct** | **144**, 145 | **144 is Monday 20 – Friday 24 October and it is the climax** |
+| **Mon 27 Oct – Sun 2 Nov** | 146, 147 | |
+| **Mon 3 – Sun 9 Nov** | 148, **149** | |
+| **Mon 10 – Sat 16 Nov** | **150** | **the volume's last day, and it closes on the Saturday. See the note below.** |
+
+⚠ **THE MAP DOES NOT RUN TWO A WEEK ALL THE WAY, AND THE TWO PLACES IT DOES NOT ARE BOTH DELIBERATE, because a reader of this file will count fifty chapters against twenty-five weeks and find the arithmetic does not divide.** It divides **except** in two places, and both are here on purpose:
+
+- **The opening week carries three chapters, 101, 102 and 103, all inside Tuesday 1 to Sunday 8 June.** The volume has to open on the day the term begins, and it has to put a claims form and a salvage trade on the page before there is any water, **and the flood is deliberately held back until the third week so that there are a fortnight of ordinary, correct, entirely administrative escalation before anything happens.** A flood in the first week would make the volume about a disaster. This volume is about a box on page one of a form.
+- **The last week carries one chapter, 150, and it runs Monday 10 to Saturday 16 November 2025.** The volume would have spent a fortnight on a coda and it does not, because a chapter that opens on Monday the tenth of November and closes on the Saturday cannot carry a resolution that runs to the end of a volume and a next-volume pull that must not be pre-empted in the same breath. **The consequence, stated plainly because it is the correct treatment of an inherited clock: the volume ends fourteen days before the term at Cauldwell Buildings expires, with the term unexpired, unresolved, and unmentioned in the last ten chapters, and that is the whole of what Volume 03 does with the thirty of November.**
+
+**The six dates this volume turns on, all derived on the pinned line, and none of them may be re-derived from a prompt:**
+
+| Date | Pinned weekday | Event |
+| --- | --- | --- |
+| **1 June 2025** | **Tuesday** | The Cauldwell Buildings term begins. Four flats, seven households, nobody given a home. |
+| **18–19 June 2025** | **Friday – Saturday** | **The flood.** High water in the small hours of the nineteenth. |
+| **1 October 2025** | **Friday** | A boundary stops and a register ends, on a date two people chose on purpose and neither of them has said out loud in a room what happens. |
+| **16–17 October 2025** | **Thursday – Friday** | **The first major memory-displacement cost, and the check that cannot fail.** |
+| **20–24 October 2025** | **Monday – Friday** | **The climax.** Survey marks, family testimony, a bounded testimony, the archive opened publicly. |
+| **30 November 2025** | **Tuesday** | **The term ends. Inherited from Volume 02, carried, and not resolved in this volume.** |
+
+**And the days that are not institutional, because the pinned line puts them there and not because a prompt said so:** the flood is a Friday night; **the salvage dockets are read on Saturdays, because a crew works a Saturday and a docket is written while the work is happening**; **the practice at Sillick Lane runs from three o'clock until you cannot read a number off a door, and in the second week of June that is about nine o'clock and not six**, and a room booked by the hour is let until an hour somebody can be got out by. **A pinned calendar that puts a flood on a Friday night and a claims office on a Monday is doing the work of a real city, and a writer who checks this file against a real calendar will conclude the file is wrong.**
+
+---
+
+## Volume Chapter Map
+
+| Batch | Chapters | Movement | Central pressure | Turn at batch end |
+| --- | --- | --- | --- | --- |
+| 0001 | 101–110 | 1 — The Water Comes | A term begins with nobody in it, a claim form wants a date of loss, and the water comes | *What is a date of loss for*, and nobody in the room knows |
+| 0002 | 111–120 | 2 — The Archive, and the Weight | The answer is for the excess; a docket's weight column pays money nobody can check; a parish, a mother, and a shrine record | Hesta Rell asks a question instead of answering one, and the volume's second question is put: *who may speak for a community* |
+| 0003 | 121–130 | 3a — Emergency Powers | A school roll, a first attempt in public, and a woman carried out of a ground-floor flat | **The reversal: flood emergency powers are erasing people whose claims would complicate redevelopment** |
+| 0004 | 131–140 | 3b — The Woman Who Was Carried Out, and the Sealed District | The misidentification, the correction, the district's first instrument, and the seal's legal shape | **The register ends on 1 October and nobody appointed anybody, and a second book appears that nobody asked for** |
+| 0005 | 141–150 | 4 — The Marks, The Names, And The Seal | The memory cost, the survey, the parish, and the archive opened publicly | **The names. And the seal. And the Registry denies the district exists** |
+
+**Batch boundaries fall at 110, 120, 130, 140 and 150. Movement boundaries fall at 110, 120, 133 and 134.** Batches 0001, 0002 and 0005 sit on movement boundaries; **Batch 0003 ends ten chapters into a thirteen-chapter Movement 3, and Batch 0004 carries the last three chapters of Movement 3 and the first seven of Movement 4, so Batch 0004 is the one batch in this volume that crosses a movement boundary and its prompt must say so in its first paragraph.**
+
+**A note the next phases must not lose: this volume's two clocks are the first of October and the thirtieth of November, and they are sixty days apart, and the volume closes fourteen days before the second of them.** **Chapter 139 is Friday 1 October 2025: a boundary stops, and a register whose keeper wrote the same date on the inside front cover stops with it, and nobody appointed anybody.** The term at Cauldwell Buildings ends **Tuesday 30 November 2025**, and the volume closes on **Saturday 16 November**, and **nobody in the last ten chapters says what happens on the thirtieth, and the housing officer who wrote it down is the only person who can, and she is not asked.** That is inherited from Volume 02 and it is not to be resolved by forgetting it. **It is also the shape of the volume's next-volume pull, which is a Registry that denies a district exists: a body that has sealed a district's legal identity in October is entirely capable of denying in November that it ever sealed anything, and that is the mechanism and not a coincidence.**
+
+## Midpoint Reversal (Chapter 127, Monday 18 to Wednesday 20 August 2025, inside Chapters 121–133)
+
+Per `outline/series.md`: *the Registry is not only preserving old names; it is using flood emergency powers to erase people whose claims would complicate redevelopment.*
+
+This lands as a reversal of a **reading**, not of a monster, exactly as Volume 02's midpoint did. What changes is the shape of the antagonist's competence: in Volume 02 the machinery was four miles long and nobody owned it; here the machinery is **a named officer, a numbered power, a form with a box for a period, and a suspension that is lawful, dated, signed and correct about the water and catastrophic about the people.** **The horror gets larger and smaller at the same time and the second half of the reversal is the same second half as Volume 02's: the pattern is real and it is not the whole story, because there is a household in this flood that nobody is owed anything for, is owed nothing, and is not on any list of people who are owed something.**
+
+**And in the same movement, the other half of the series outline's reversal sentence: a rescued witness is misidentified because Elias Venn trusts an echo's emotional certainty.** He reads a bounded thing — a door key on a fob, a kettle, a child's shoe, a house door — and what comes back is *certain and warm and about the wrong person*, because an echo is perspective-bound and it can be completely accurate about a feeling and completely false about a fact. **He says a living woman's name into a list of the drowned, in a room, in front of about forty people, and it cannot be unsaid, and the correction is a piece of paper and the woman is not a piece of paper.** This is the first time in the series that his power has injured a living person, and it is not supernatural and it is not a curse. It is a man believing a feeling.
+
+## Volume Climax (Chapter 144, Monday 20 to Friday 24 October 2025)
+
+Per `outline/series.md`: *the team uses physical survey marks, family testimony, and a water-god's bounded testimony to recover the names; the archive is opened publicly, but the city seals the legal identity of one district to prevent a property collapse.*
+
+**Three instruments and three failure modes, and none of them is sufficient alone.** **Physical survey marks** — a river engineer of about fifty-five, a printed table of datums, and a wall — can say *where the water stood* and cannot say *who was behind it*. **Family testimony** can say *who was in the room* and cannot say *how high it came*. **The water-god's bounded testimony** — and this is the first bounded supernatural testimony in three volumes and it must be the smallest possible thing: **a reach, a night, and a height, and it is not a voice, it is not a sentence, it does not know anybody's name, and a water mark does not know who stood behind it.** It is the only one of the three that is supernatural and it is the one that is worth least on its own, and **that is the power change: Thread becomes reliable only through collaboration, and the collaboration is not a team of readers, it is a surveyor, a family and a rope in the same room.**
+
+**The climax opens the archive publicly and then the city seals Ferry Bank**, on the argument, stated correctly and by a competent officer, that a compensation roll cannot be settled against land that is subsiding and that about 1,900 tenancies' legal identity is a smaller loss than a street going into the water. **The seal is right about the ground and wrong about the people and the volume does not say it is wrong.** **The moral floor of this volume, like the last, is that the win is names and records and not a return: families receive names and burial records and not a guaranteed return of their homes, and nobody is given a house, and nobody is owed a miracle.**
+
+## Concrete Resolution
+
+Promises closed, not deferred: **the names are recovered and are in a public register anybody may ask for**; **the archive is open**; **Ferry Bank's legal identity is sealed and stays sealed and the volume says so as a fact and not as a defeat**; **the reach rope is answered once and is not named and is not carded**; **the fifth of the nine blanks from December 2024 is still a date with no morning in it, and the volume says that out loud once, and it is the same sentence as in Volume 02 and it must not be argued about**; **and a date of loss is answered on the page — it is for the excess — by somebody who is not Elias Venn.**
+
+**And the answer to Volume 02's question, in the form the Batch 0005 prompt required: if the object-or-place question is answered in this volume, the answer must be a fact about the world and not a sentence in a document, and it must not be an answer anybody gives in a room.** It is answered by a measurement, in a corridor, by a man of fifty-five with a rule, and nobody improves it.
+
+## New Question for the Next Volume
+
+The Registry denies that the named district exists, while a newly hired guard reports working a shift no one remembers scheduling. *(Series outline. Do not pre-empt it in this volume; land it in the last two chapters and no earlier.)*
+
+## Final Chapter Image
+
+**A name, an address and a date, in a register a member of the public may ask for, in a building four miles from a museum that is still four miles downstream of everything; and a building on a hill where a new man has written a line in a day book that nobody asked him to write.** Not a god returning, not a bell sounding, not a door opening.
+
+## Reveal Discipline for This Volume
+
+- **`T. VENN` and `R.M.J.` are NOT named in this volume either.** The Volume 02 permission exists and is not taken, and Volume 03's own business is a name in a flood register that is not his. **The record that lists Elias Venn as dead is not a Tomas beat and may not become one.** Volume 7 is where the counter-witness is revealed.
+- **The First Witness, the 312, the three locks as an architecture, and the Hush Engine's physical form are all untouched.** The Undercroft is not opened. The third ward-bell at South Sluice is a *location* and a piece of infrastructure and is not read and is not made to do anything supernatural in this volume.
+- **The cost curve is spent exactly once, in Chapter 146, and nowhere else.** No other memory cost, no time lost, no name gone, no second notebook entry of consequence. **The Chapter 8 two-hands entry is untouched and is not restated.**
+- **He has no stop word and nobody may give him one.** The practice's word is a permission and it belongs to a street, and it must not become his.
+- **The four counts are untouched.** No total, no shortfall, no difference of a Sillick pay figure, and no payroll subtraction anywhere. Perry Loach's age is 61 in the tables and must never appear as a numeral in the prose.
+- **No romance, no confession, no new antagonist, and no new god.** **No day map in a prompt is binding and a week list in a state file is not binding either.**
+
+## Continuity Locks Set by This Volume
+
+- **A date of loss is for the excess.** A box on page one of a two-page claims instruction, since about 2011, distributed to about four hundred adjusters and read by nobody in this business. **It is the same manoeuvre as Volume 02's occupancy definition and it must be recognisable as the same manoeuvre without being the same sentence.**
+- **The salvage docket's weight column** is the one number in this volume that nobody can check, **and the money is attached to it, and it is the reason a crew under a deadline writes down what a client says.**
+- **A name at an address on a date is a household, not a person.** This is the thinnest possible record and it is what the volume actually recovers, and it must never be described as more.
+- **The Drowned Registry** is a city record of people recorded as drowned, kept because a drowned person's estate could not be settled without a death record, and it is **not a secret institution and not a network.**
+- **The reach rope is answered once**, at one reach, on one night, at one height, and it is not a voice and it knows no name.
+- **Ferry Bank** is a named registration district of about 1,900 tenancies and its legal identity is sealed in Chapter 143 and stays sealed.
+
+## Two constraints that come out of Volume 02 and are not in the series outline
+
+1. **The first major memory-displacement cost is due here and it is the only one Volume 02 was allowed to withhold.** It must be **paid in public, in a room, with a second person present, and it must be irreversible.** Chapter 99 of Volume 02 set the mechanism up in the correct procedural form — **memory can be planted by somebody who loves you, out loud, in a room, with no intention at all** — and **Chapter 99 also established that the instrument for finding out is a second person reading it back, and that there is no form for that.** **Volume 03's cost is therefore not a mystery to be solved. It is a loss that cannot be checked by any instrument in this city, and the volume's job is to be honest about that rather than to solve it.**
+   **It is paid in Chapter 143, on Thursday 16 to Friday 17 October 2025, two days before the climax, in a laundrette in Low Ward that is being used as a drying place because it is on the low bank, with about nine people in it, and a second person present who has agreed in advance to read it back.** **The shape, fixed here so that a later pass cannot improve it:** the loss is **not a fact and not a name. It is the order of things.** The instrument that plants it is a **correction** — somebody who loves him says a date out loud, kindly, in a room, with no intention of anything except helping, and gets the order wrong, and his own record and his memory then agree with each other and both are wrong. **The check is a second person reading it back, and the second person finds nothing wrong, because there is no wrong thing in the record. The record is perfect and the man reading it is out of order.** **That is the exact inversion of Chapter 89, in which a records officer found one wrong day of the week in nine pages in seventy minutes, and it must be legible as that inversion to anybody who read Chapter 89.**
+2. **Volume 02's residents chose to remain together in a new location on a weekly rent in four flats in a building with a landlord and a term ending on Tuesday 30 November 2025.** That is a live clock carried out of the volume, it is a worse answer to a worse question, and **nobody in it was given a home.** Volume 03 must know it exists. **The series outline's own next-volume pull is different — a flood, a sealed river archive, a record listing Elias as dead — and the two are allowed to run in parallel, but the November term must not be quietly forgotten by the time the first chapter of Volume 03 is drafted.** In this outline it is a load-bearing date in the chapter map and a hard lock below, and **it is not resolved in this volume.**
+
+## Hard Locks Inherited From Volumes 01 and 02
+
+**The bell. None of this is a Volume 03 opening beat and Volume 03 may not spend it cheaply.** Silent since **11:04 on Sunday 13 December 2024.** **One hundred and forty-one days old on Monday 3 May 2025; one hundred and fifty-four on Sunday 16 May; one hundred and sixty-nine at the end of Volume 02; three hundred and thirty-eight days old on Saturday 16 November 2025.** *The bell-age figure for any date in this volume is pure arithmetic off `2024-12-13` and must be derived, not remembered.* **Annexe D permanent. Annexe E in force and stricter than condition four. The Hall open ten until five. The crack open under the staple and not going to close. The card under a requester's panel — one hundred and eighty-five days old on 31 May 2025, from Friday 27 November 2024, three hundred and fifty-four days old on 16 November 2025, and the panel is the requester's and nobody has standing to lift it.** **Condition 2 failed twice, on 23 and 29 December 2024, and is not amended and is not displaced. The standing bar of 18 November 2024 is live and is referred to in this volume, if at all, only as an item in a list of things that did not change.** **The bell at 11:52 on Wednesday 11 November 2024 is still held by one man and has still never been told to anybody.** **The room at the east end of the Quiet Wing corridor is not opened and is not described.**
+
+**`Municipal Works` is now in a public document** — a note in the schedule of collections, added 28 May 2025, at the entry for plinth thirty-four, **readable by any member of the public for ever, naming no person.** This is new and it is irreversible and Volume 03 inherits it. **Nobody has been named.** The hand on the 1902 index card and the two entries in the day book for the week of the casting **have not been read and will only be read by a registrar on a stated day with a minute, and a null will be minuted as a null.** **A Volume 03 chapter may put that reading on the table and may not do it in a corridor.**
+
+**Dorothy Marsden, 61,** of a first-floor suite on Lantern Row, **is a member of the Lantern Society, is named in a file on the fourth floor of a building on a hill in a file about a document request and not about her, has instructed a rule in writing — acquire only at addresses at which no traceable prior occupant can be established — and has done nothing wrong.** A second member countersigns with a four-digit number and no name. **Volume 03 must not make her a villain and must not resolve her, and the Society's full escalation is Volume 10 and nobody may pull it forward.** **Lantern Row and the Society are connected: the street has been called that longer than the society and the society took its name from the street.**
+
+**`OCCUPANT (PRIOR)`** is a column on the front sheet of a binder of every morning from 1 November 2024, **stopping on 19 January 2025**, nine rows, all nine names. **It is not a permanent nine-year routing column and it must not be described as one.** After 19 January 2025 there is nothing, and the registrar has said in public that that is the correct place for it and is the worst sentence she has said in this case.
+
+**The boundary, the fifth line, and the register.** A boundary with **1 October 2025** on the end of it, on a wall, **unsigned**, drafted 24 April 2025 with a bolt pen, and a fifth line that says *nobody signs it, nobody keeps it, it is on the wall*, **which is now wrong on one sheet on purpose and is staying wrong, and a registrar said out loud she was not going to take it off.** A hardback notebook of about a hundred and fifty ruled pages, a pound and ten, **kept by V. PILLING, 6 SILLICK LANE, FROM 31 MAY 2025 UNTIL THE FIRST OF OCTOBER 2025**, in a drawer that does not lock on purpose, with **no names in it**, and a fourth line that says *if you are reading this and you are not me, then you are the second person, and that is the only reason it exists.* ⚠ **Its start date is stated twice with different values inside Chapter 100 — the inside cover and the third page say 31 May 2025 and the first entry is dated Sat 29 May. This is unrepaired and is recorded in `state/continuity.md` under `VOLUME 02 CLOSE`; a Volume 03 writer must take whichever date a repair pass settles on and must not pick one silently.**
+
+**The four flats.** **Cauldwell Buildings**, off Low Ward, four flats on the first floor, seven households, a weekly rent, a term **from 1 June to 30 November 2025**, a name against each rent and each flat on the fourth page, an owner of freehold who is sixty-eight and lives in the ground-floor flat, and two clauses: **any one resident may end the group's occupation on fourteen days' notice without affecting the others, and the owner is not a party to any practice, arrangement, custom or agreement between residents and the residents are not parties to anything the owner does in the building.**
+
+**The Museum's reply of 28 May 2025** — a four-page letter's worth of answers, every one of them true, and the reason every one is true written on page one of a solicitor's letter and not on page four of the Museum's. **A museum that knows nothing is going to look, in about four years, like a museum that has been careful.** There was no minute.
+
+**The finding card and the two unread sources.** Cut 25 February 2025, held at the front desk in a plastic sleeve, **naming nobody**, saying which plinth, what was corrected, on what date, that the panel stays, and that no photograph of the correction has been made.
+
+**The four counts.** **94** — people on the final Sillick closing shift · **92** — the paid payroll figure · **2** — worked and never entered in any book · **61** — short-paid on the final pay run. **92 and 2 are spent and retired and may not be stated as a figure again. No chapter may state a total, a shortfall, or a difference, and nobody may put two Sillick numbers side by side and subtract. Any chapter that needs a payroll figure writes *the pay run listed fewer than were on the gate*. 482 and 494 are kilograms of paper. Perry Loach's age is 61 in the tables and must never appear as a numeral in the prose.**
+
+**His position.** No post, no access, no employer, no card, no key. A municipal remittance on the first of the month at **M.Q.S. 4** for a post that no longer exists, **which is a payee field and is correct and is the only instrument keeping him a legal neighbour of Low Ward.** A notebook with a rule at the top of its first page in three lines: *a thing I can be got at over is a thing about me. A fact a person gives me in a street is theirs until it is in a file, and a file is the only place in this city where a person is safe. Do not write it down.* **And he broke that rule in a room with nine people in it on 20 May 2025, in his own hand, and knows he broke it.**
+
+**The moral floor and its limits.** *For a house that no system has got a name for*, in eleven words, first said by a registration officer of thirty-one on a doorstep, claimed from a corridor in 1994 by a woman of fifty-four, and not checkable, and it does not matter. **It may be used and it may not be said again at full length, and it may not be said by Elias Venn, and it may not be said in a public room.** The batch's own second floor, from 23 April 2025: **there is no form for *is there a second person*.**
+
+**Registry determinations, and the shape of the thing.** A determination requires a form, a thing described in a box on the intake, and a period. **There is no form in which the thing a question relates to is a room. There is no form in which the thing a question relates to is a person who was in a building on a night, and the finding of this volume must be of that kind and not of a god.**
+
+**The Museum's rooms, for the fourth time and unchanged.** Five floors. **The Quiet Wing is the fourth level, west range, and its corridor's east end is the door of a room that is not described.** The security room is on the ground floor and the card-access terminal is in it. The Hall of Former Faiths holds nine carried patterns on open plinths and a rope line that is furniture. The Gallery of Unnamed Hands holds nine objects and forty-one drawers. The device tray is gone; **the day book at the front desk is the record of issue and return, one line per device, and a note in that building has never been a record.**
+
+**The Museum's record formats, stable and comparable, and a plot device as often as an administrative detail.** Accession references are year / letters / number, and **the year is the year the series was opened and not the year the object came in**, so `1961/LW/44` is *Low Ward series, opened 1961, item 44*. A reference with no year in it, or with one letter where the form takes two, **is not a Museum accession number at all.** Personnel file references are `PF` plus three digits and personnel files are never retired. Work orders are a number and an `S`. Municipal payroll cost centres are **M.Q.S. 4**, and **the cleaners are not on it.** The Museum personnel record is paper: annual ring binders on a steel shelf in the level-two archive corridor, one binder a year from 1974, and the restricted door **logs card events and there is no camera on the landing.**
+
+**Hesta Rell.** ⚠ **DISPLACEMENT, RECORDED AND NOT HIDDEN.** `outline/series.md` puts the Elias–Hesta theological argument in **V2–V6**. **It did not happen in Volume 02. Hesta Rell appears in no chapter of Volume 01 and no chapter of Volume 02, and that is a Volume 02 miss, not a decision.** Volume 02 is closed and may not be rewritten, and **`outline/series.md` and `outline/ending.md` are not edited in this phase**, so the honest position is this: **the line opens in Volume 03 and runs V3–V6 in practice, four volumes instead of five, and Volume 06's beat — a god offering a useful practice in exchange for a promise a town cannot afford — is unaffected by losing Volume 02.** The argument's content is unchanged: **Elias wants a god remembered accurately and Hesta wants a god remembered in a place, and the argument is about who may speak for a community and about whether a hidden practice that saved people was right.**
+
+## New Proper Nouns Introduced By This Volume
+
+**The Drowned Registry** · the **wharf bonded store** and its freeholder · **Marianne Cope**, about thirty-four, a flood claims handler, the page-one instruction and the box for a date of loss · **Colin Bray**, about forty-four, a salvage contractor with two crews and a docket book, and the **weight column** · **Gwilym Petherick**, about fifty-five, a river engineer, a printed table of datums, and the measurement that answers Volume 02's question · **Averil Shand**, about sixty-eight, registrar of burials for a river parish, forty-one years, a hardback of interments, and a facsimile of one page on the grounds that a page is not a list · **Yvette Carrow**, about forty-eight, the office that issues a flood-emergency access suspension, proved right about the water and wrong about the people · **the reach rope**, about eleven metres of red-ochred manila, and **the reach board** it was the tie-line of · `DR-` as the Drowned Registry's own volume prefix · **`Schedule F`**, the flood-emergency access suspension and its form, with a box for a period · **Ferry Bank** as a named registration district, about 1,900 tenancies · **Ada Iles**, Mara's mother, and the falsified accession entry · **Hesta Rell** and **the Last Cup**, at the river parish · the **fixed-positions file** of 16 September 2024, in which `E. VENN` is the ninth entry.
