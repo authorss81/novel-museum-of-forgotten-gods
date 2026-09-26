@@ -2,9 +2,11 @@
 
 The meeting room at the Sillick Lane branch library is on the first floor, up about fourteen stairs, and it holds about thirty people standing or eleven sitting, and it has a table with four legs that do not wobble, a kettle, a noticeboard with the library's opening times on it, and a window that looks at the roof of the low building across the yard.
 
+**A man of thirty-two was about four miles away. He did not come. Nobody in that room is him and he is not in it, and he has been the company of this business for twenty-two weeks, and the reason he is not in the room is the whole of it, which is that the two people who stopped this afternoon are not going to be named, and he does not know who they were, and nobody is going to tell him, and that is not an oversight and it took the room about nine seconds to not ask.**
+
 **It was booked in writing on Wednesday the fifth of May 2025 and used on Saturday the fifteenth, from three o'clock to six, and the booking is a piece of paper with the date of the booking on it at the top and the date of the use at the bottom, and the two dates are ten days apart, and the woman who took the booking wrote both of them out herself because the form only has one box for the day and the box is the day it is used.**
 
-She was about thirty and she had a ring of keys and a cardigan with a pen in the pocket and she is not named anywhere in this case, and she read the form back to the woman of about fifty from the sheet before she took the money, because that is what she does.
+She was about thirty and she had a ring of keys and a cardigan with a pen in the pocket and she has not given her name and nobody has asked her for it, and she read the form back to the woman of about fifty from the sheet before she took the money, because that is what she does.
 
 "**Three to six. On the fifteenth. And the room goes back at six because Mr Perrin has the keys and Mr Perrin finishes at half past five.**"
 
@@ -16,7 +18,7 @@ She was about thirty and she had a ring of keys and a cardigan with a pen in the
 
 ## And the first thing that happened in it at three o'clock was that a piece of paper went on a wall with library tape on it, and the tape has an owner
 
-They brought the copy. It is the copy the man of fifty-two made on the Monday of the eleventh of May, in the bolt pen, on a fresh piece of A4, and it has five lines and a date on the end of it, and the last line says that nobody signs it, nobody keeps it, and it is on the wall.
+They brought the copy. It is the copy the man of fifty-two made on the Monday, in the bolt pen, on a fresh piece of A4, and it has five lines and a date on the end of it, and the last line says that nobody signs it, nobody keeps it, and it is on the wall.
 
 "**That is not our wall,**" said the woman of about thirty with the ring of keys.
 
@@ -38,7 +40,7 @@ He had come in at about ten past three and stood with his back to the stairs.
 
 "**You don't have to.**"
 
-"**I have been waiting four months for somebody to make me so I am going to say it whether I have been asked or not.**" He looked at the tape on the noticeboard. "**On the twentieth of April a woman who works in a building four miles away was asked three questions in an office in Morningside and the third one was: does this practice need a place. And she would not answer it, and she said the reason was that she was the person who would have to write it down. And I have been thinking about that for four weeks and here is what I have.**"
+"**I have been waiting four months for somebody to make me so I am going to say it whether I have been asked or not.**" He looked at the tape on the noticeboard. "**On the sixteenth of April a registrar who works in a building on a hill was asked three questions in a room in Morningside, and the third one was: who is the person who says where it has to happen. And she would not answer it, and she gave a reason, and the reason is a sentence I have already written down in a notebook and have not stopped thinking about: you cannot put a permission in a place and keep it there, because a place holds things and a permission is a thing you are allowed to stop doing, and the person who is allowed to stop is the person who holds it, and they are on a step and not in a building. And I have been thinking about that for four weeks and here is what I have.**"
 
 "**Go on.**"
 
@@ -58,7 +60,7 @@ He had come in at about ten past three and stood with his back to the stairs.
 
 There were about nine households and about fourteen doors, and the reason there are more doors than households is that a household is not a door, and three of the nine are two doors.
 
-They went out in the order on the rota, which is the order the knock goes in, which is the order of the doors on the street and has been since the fourth of January and is in nobody's system anywhere. **Nobody wrote a list. The rota had two columns and about nine lines and about a month of pencil ticks in the first column, in pencil, in a hand that is not any of the nine hands because it is Frank Dunning's, and a pencil tick in a plastic wallet in a hall is not a record and everybody who has ever held that wallet knows it is not a record.**
+They went out in the order on the rota, which is the order the knock goes in, which is the order of the doors on the street and has been since the fourth of January and is in nobody's system anywhere. **Nobody wrote a list. The rota had two columns and about nine lines and about a fortnight of pencil ticks in the first column, in pencil, in a hand that is not any of the nine hands because it is Frank Dunning's, and a pencil tick in a plastic wallet in a hall is not a record and everybody who has ever held that wallet knows it is not a record.**
 
 Mavis Ludlow came. She was on the step at twenty past three with her cardigan on and she knocked at four doors and she said her own name out loud at three of them, which she had not done the week before, and somebody heard her say it and did not comment.
 
@@ -106,13 +108,13 @@ It was not asked by anybody from the building and it was not asked by a professi
 
 Nobody answered for about nine seconds.
 
-"**I'll tell you what I have got,**" said the man of fifty-two, **and he did not pretend to be answering it.** "**You have got a room, and it is a place, and it is not ours, and that is the only reason we are standing in it. What we are doing is not a thing and it is not a place, and nobody in this city has ever worked out how to write down what we are doing, and a woman in Morningside has been asked the question twice and has refused twice, and the second time she gave a reason nobody had given her, which was that she was the person who would have to write it down.**"
+"**I'll tell you what I have got,**" said the man of fifty-two, **and he did not pretend to be answering it.** "**You have got a room, and it is a place, and it is not ours, and that is the only reason we are standing in it. What we are doing is not a thing and it is not a place, and nobody in this city has ever worked out how to write down what we are doing, and a registrar in a room in Morningside has already told us in about forty seconds that they are on a step and not in a building and that there is no instrument, and she was not guessing and she was not being careful, and she gave the reason, and the reason is on the bottom of one of the pages of my own notebook.**"
 
 "**And you don't know.**"
 
 "**No.**" He put his hands in his pockets. "**And I have had a month to think about it and I have got no nearer than on the fourteenth of January, and I am fifty-two and I am not going to pretend I have.**"
 
-The woman of about thirty with the ring of keys put the tape in the drawer with the bit of cork in it, and said **"right"**, and that was the last question anybody asked in a room in this case for a fortnight and it got nothing, and it is going to keep getting nothing, and I have stopped expecting otherwise and I have not stopped asking, and those are two different things and I have only just worked out which of them I have been doing.
+The woman of about thirty with the ring of keys put the tape in the drawer with the bit of cork in it, and said **"right"**, and that was the last question anybody asked in that room all afternoon, and it got nothing, and the man of fifty-two said in about nine seconds that he had had a month to think about it and had got no nearer than on the fourteenth of January, and he is fifty-two and he did not pretend.
 
 ---
 
@@ -120,7 +122,9 @@ The woman of about thirty with the ring of keys put the tape in the drawer with 
 > **A meeting room over a library with fourteen stairs in it, a noticeboard, four drawing pins and about two feet of the library's own tape, and a boundary on a library's wall from ten past three until twenty to six, and then it came off in one piece and left a clean rectangle, and the woman with the ring of keys said that would come off and it did, in about nine seconds, with a bit of elbow grease, and she keeps the bit in a drawer for it and she has had to twice in about two years.**
 > **The form has two dates on it. The booking is dated Wednesday the fifth and the use is the fifteenth, and she wrote the first one out herself because the form has one box and the box is for the day it is used. I have been thinking about that form since about six o'clock and it is the plainest object in this case and it is in a drawer in a library and nobody will ever see it: a thing that cannot be held past six o'clock is the only thing anybody has got, and it is not a virtue, and it is the closest a practice gets to a place.**
 > **The man of fifty-two said the sentence I have been carrying since the sixteenth of April and he said it before anybody asked him, in about nine seconds, standing with his back to a stair: a room with a landlord in it and a date at the end of it is the closest this can get to a place without becoming a programme, and at six o'clock we go, and that is the only thing about the room that is any good and it is no good by half past six. He has been waiting four months for somebody to make him say a thing and nobody makes him. He says it anyway. Every time.**
-> **And a woman of thirty with a ring of keys asked the object-or-place question out loud, in a room with a landlord in it, in about eleven words, and she is not a registrar and she is not a letting agent and she was not in a hearing, and she asked it because she has to wind an alarm off at six. And the answer is still no. **Is this a thing or is it a place. Because I have to wind the alarm off at six and I would like to know whether I am winding it off for a thing or for a place.** It is the first time anybody has asked it with a reason that is not a moral, and it is the fourth refusal in nineteen weeks, and every one of the four was by somebody with a duty.**
+> **And a woman of thirty with a ring of keys asked the object-or-place question out loud, in a room with a landlord in it, in about eleven words, and she is not a registrar and she is not a letting agent and she was not in a hearing, and she asked it because she has to wind an alarm off at six. And the answer is still no. It is the first time anybody has asked it with a reason that is not a moral, and it is the fourth refusal in nineteen weeks, and every one of the four was by somebody with a duty. And I have been waiting a fortnight for somebody to say it back to me with a reason attached to it, and nobody has, and it is going to keep getting nothing, and I have stopped expecting otherwise and I have not stopped asking, and those are two different things and I have only just worked out which of them I have been doing. The whole of what she said was this.**
+>
+> **Is this a thing or is it a place. Because I have to wind the alarm off at six and I would like to know whether I am winding it off for a thing or for a place.**
 > **About nine households and about fourteen doors, in the order the knock goes in, which is in nobody's system. Two people stopped and nobody asked either of them why, and it took the room about nine seconds not to ask, and I was on the second landing of a stair four miles away and I do not know who they were and would not say.**
 > **The bill goes out. The name comes back.**
 > **What a name field is for.**

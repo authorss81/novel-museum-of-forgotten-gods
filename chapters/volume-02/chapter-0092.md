@@ -20,7 +20,7 @@ Mara Iles had asked to come. She had not come as the Museum and she said so in t
 
 Nobody said anything.
 
-"**Here is the cost. A name against a date on a piece of paper is the strongest thing in this country and the only instrument in this case that has ever caught anything. That is not a figure of speech, it is four or five separate things that have happened in nineteen weeks and every one of them worked. And the same property is a hook. In about four years that sheet is in a file, in a drawer, in a room, in an office, in a building, and there is a person's name on it and a date and an address, and somebody in that building has never met the person and their whole function is that drawer.**"
+"**Here is the cost. A name against a date on a piece of paper is the strongest thing in this country and the only instrument in this case that has ever caught anything. That is not a figure of speech, it is four or five separate things that have happened in twenty-two weeks and every one of them worked. And the same property is a hook. In about four years that sheet is in a file, in a drawer, in a room, in an office, in a building, and there is a person's name on it and a date and an address, and somebody in that building has never met the person and their whole function is that drawer.**"
 
 "**Then don't,**" said somebody at the back.
 
@@ -40,7 +40,7 @@ Then she asked.
 
 ---
 
-## And the first person she asked was a woman of sixty-one of number twenty-two, and she had read the whole thing twice before she came in, and she was the first signature in this case in twenty-one weeks
+## And the first person she asked was a woman of sixty-one of number twenty-two, and she had read the whole thing twice before she came in, and she was the first signature in this case in twenty-two weeks
 
 "**It is Mavis Ludlow. Twenty-two. Thirty-one years in that flat and before that the one above it with my aunt. I was a cook at St Anselm's until 2019 and I have got the knee.**"
 
@@ -70,7 +70,7 @@ The second wallet went back on the table with a name and a date on it and nothin
 
 ---
 
-## And two more signed and two said no, and nobody wrote down which was which, and the not-writing took about nine minutes to explain
+## And three of the nine signed and nobody wrote down what the other six did, and the not-writing took about nine minutes to explain
 
 Frank Dunning said the thing about the fourth rule.
 
@@ -82,6 +82,22 @@ Frank Dunning said the thing about the fourth rule.
 
 ---
 
+## And then somebody did the sum out loud, and the sum does not work, and the registrar said in about nine seconds that she was not going to make it work
+
+"**Three,**" said the woman of about fifty from the sheet. "**They have been in that wallet since about half past three this afternoon. Three names, a date and an address on each, and I have counted them about nine times this afternoon because I keep thinking one of them is going to fade.**"
+
+"**It is three,**" said Mara Iles. "**And I asked nine times and I know that it is three, and I am not going to account for the other six in a room.**"
+
+"**You asked nine.**"
+
+"**I asked nine and three signed and one of you said no out loud and the no is not written down either, so that is four of nine accounted for and five of them are not, and I am not going to say a word about the five, and if I did say a word about the five then either I would be writing them down or I would be asking you in front of each other which is the same instrument with the manners taken off. A registration officer of thirty-one spent nine days at the end of April finding out that there is nowhere for it to go that is not a list, and she had a form the whole nine days, and I have known it since the first week I got here.**"
+
+Nobody said anything for about nine seconds.
+
+"**And the arithmetic is not interesting,**" she said. "**Three out of nine is not a finding about this street and I am not going to stand in a hall and tell nine people what a third of them did with a pen. There is no column for it and I have not drawn one and I am not going to, and the woman who has been on this street since the eighth of January is right that the day somebody draws it is the day this is a programme.**"
+
+---
+
 ## And then a man of fifty-two said the sentence that the whole of this case has been walking toward since the fourth of December, and he said it in about eleven seconds, and nobody interrupted him
 
 "**You are all treating that as a trap and it is not a trap. It is the only thing that works.**" He did not get up. "**Read the last line. *Nobody signs this. Nobody keeps it. It is on the wall.* That is a boundary with a date on the end of it and no names on it, and it is worth nothing, and it can be torn up by anybody who walks past it, and every single thing that has ever caught anything in this case has had a name against it. Nine names in a district's field. A dead man's name on a comparison sheet. A woman's name on a public minute. A card with a man's address on it. A record of issue with nine entries in it. All of them worth more than that wall, every one of them, and every one of them got somebody hurt, and I am not going to pretend otherwise to a room.**"
@@ -90,7 +106,7 @@ Frank Dunning said the thing about the fourth rule.
 
 "**Then signing is not agreeing.**" He put his finger on the last line. "**That is the difference and it is the whole of it and it took me twenty-one years of this street to get it. A signature on that sheet does not mean I agree with it. It means that on the thirteenth of May 2025 a person called Mavis Ludlow was in this hall and did a thing at number twenty-two, and that paper is now the only record in this city of either. And the day somebody comes with a clipboard — in four years, in nine — they cannot come to my door about a rumour, because there is a piece of paper with her name on it, and a piece of paper with her name on it is a thing you have to answer. A thing you have to answer is worth having. I have watched about nine people have nothing to answer with.**"
 
-"**That is the first time anybody in this case has said that a name on a document is a good thing,**" said the man of thirty-two. "**In twenty-one weeks.**"
+"**That is the first time anybody in this case has said that a name on a document is a good thing,**" said the man of thirty-two. "**In twenty-two weeks.**"
 
 "**Then it is about time somebody said it and I am not paid and I am fifty-two and nobody asked me.**"
 
@@ -114,7 +130,7 @@ Frank Dunning said the thing about the fourth rule.
 
 ## And a registrar of twenty-eight then said the thing that made the room go quiet, and it was about a list
 
-"**I have been a registrar for five years and I have put about four thousand names into fields and I have never once thought about a piece of A4 with three names on it in a plastic wallet, and I want to say why, and the reason is that a piece of A4 is nothing and a field is something.**" She did not touch the sheet. "**A field goes into a system. A system has a custodian, a retention, a disclosure rule and about four hundred people who can read it. A piece of A4 goes in a drawer. **Signing this does not create a record. It creates the possibility of a record, and the possibility is worth more than nothing and worth less than a record, and anybody in this room who tells you that three names on a sheet of A4 in a hall in Low Ward is a register has not been in my office.**"
+"**I have been a registrar for five years and I have put about four thousand names into fields and I have never once thought about a piece of A4 with three names on it in a plastic wallet, and I want to say why, and the reason is that a piece of A4 is nothing and a field is something.**" She did not touch the sheet. "**A field goes into a system. A system has a custodian, a retention, a disclosure rule and about four hundred people who can read it. A piece of A4 goes in a drawer.** Signing this does not create a record. **It creates the possibility of a record, and the possibility is worth more than nothing and worth less than a record, and anybody in this room who tells you that three names on a sheet of A4 in a hall in Low Ward is a register has not been in my office.**"
 
 "**So it is not the same as the nine blanks.**"
 
@@ -122,17 +138,17 @@ Frank Dunning said the thing about the fourth rule.
 
 "**Say the other thing then,**" said the man of fifty-two.
 
-"**The other thing is that three names on a piece of paper in a drawer is the first thing anybody in this case has produced that goes the right way. Everything else we have found in twenty-one weeks is a name coming out of a field. This is a name going into a piece of paper in a room that a person chose, and a piece of paper in a room that a person chose is the only container in this city that nobody has a jurisdiction over, and I would like that noted and I would like it noted that I am not going to pretend a plastic wallet is a system.**"
+"**The other thing is that three names on a piece of paper in a drawer is the first thing anybody in this case has produced that goes the right way. Everything else we have found in twenty-two weeks is a name coming out of a field. This is a name going into a piece of paper in a room that a person chose, and a piece of paper in a room that a person chose is the only container in this city that nobody has a jurisdiction over, and I would like that noted and I would like it noted that I am not going to pretend a plastic wallet is a system.**"
 
 ---
 
 > **Thu 13 May, 23:30. Twenty-two weeks and four days since the sixth of December. The practice is eighteen weeks and three days old.**
-> **Three names went onto a piece of A4 in a plastic wallet in a hall in Sillick Lane this afternoon with a ballpoint, and a date, and an address, and nothing else. It is the first time in twenty-one weeks that a person's name has been put on a document in this case by that person. I did not see it happen and I was a mile away and I was not telephoned, and the reason I was not telephoned is that nobody thought I needed to be, and that is correct, and it is the fifth time in three weeks.**
-> **A registrar of twenty-eight came to that hall on her own with no document in her bag and said the cost out loud before she asked the question, and then she asked it nine times, and she said the answer was allowed to be no and that she would not write the no down and would not count it and that if you said no there would be nothing anywhere saying you had been asked. That is not a favour. That is the third rule and it was in that plastic wallet since the eighth of January and it is not hers, and she gave it away in about nine seconds and would not be thanked for it.**
-> **The first signature was a woman of sixty-one of number twenty-two who was a cook at St Anselm's until 2019 and has the knee. She read it twice on the Monday and would not let anybody read it out loud. She asked what happens to the signature afterwards and was told in about nine seconds that in four years it is in a file in a building in a room with a drawer, and that there is no way to take it back, and that she should not be told which building because if she knew the building she would start being careful about this and the whole point of it is that she is not careful about it. And then she signed, and gave the reason, and it is the best reason anybody has given in twenty-one weeks: in December a letter came to number twenty-two addressed to the house, and it knows where she lives and it does not know who she is, and she has lived there for thirty-one years and there is not one piece of paper in this city with her name on it and that address on it. She is owed a paper. That is all of it.**
-> **And a man of fifty-two, who has never been asked anything in three months, said in about eleven seconds that the rest of us were treating it as a trap and it is not a trap, it is the only thing that works: a name against a date on paper is the only thing anybody can act on, and signing is not agreeing, and the day somebody comes with a clipboard they cannot come to her door about a rumour because there is a piece of paper with her name on it, and a thing you have to answer is worth having, and he has watched about nine people have nothing to answer with. In twenty-one weeks nobody had said that a name on a document was a good thing. He is fifty-two and he is not paid and nobody asked him.**
+> **Three names went onto a piece of A4 in a plastic wallet in a hall in Sillick Lane this afternoon with a ballpoint, and a date, and an address, and nothing else. It is the first time in twenty-two weeks that a person's name has been put on a document in this case by that person. I did not see it happen and I was a mile away and I was not telephoned, and the reason I was not telephoned is that nobody thought I needed to be, and that is correct, and it is the fifth time in three weeks.**
+> **A registrar of twenty-eight came to that hall on her own with no document in her bag and said the cost out loud before she asked the question, and then she asked it nine times, and she said the answer was allowed to be no and that she would not write the no down and would not count it and that if you said no there would be nothing anywhere saying you had been asked. That is not a favour. That is the third rule and it was in that plastic wallet since the eighth of January and it is not hers, and she gave it away in about nine seconds and would not be thanked for it. And then somebody did the sum in a room and the sum was three out of nine, and she said in about nine seconds that she was not going to account for the other six, and that if she did then either she would be writing them down or she would be asking people in front of each other, and that those are the same instrument with the manners taken off.**
+> **The first signature was a woman of sixty-one of number twenty-two who was a cook at St Anselm's until 2019 and has the knee. She read it twice on the Monday and would not let anybody read it out loud. She asked what happens to the signature afterwards and was told in about nine seconds that in four years it is in a file in a building in a room with a drawer, and that there is no way to take it back, and that she should not be told which building because if she knew the building she would start being careful about this and the whole point of it is that she is not careful about it. And then she signed, and gave the reason, and it is the best reason anybody has given in twenty-two weeks: in December a letter came to number twenty-two addressed to the house, and it knows where she lives and it does not know who she is, and she has lived there for thirty-one years and there is not one piece of paper in this city with her name on it and that address on it. She is owed a paper. That is all of it.**
+> **And a man of fifty-two, who has never been asked anything in three months, said in about eleven seconds that the rest of us were treating it as a trap and it is not a trap, it is the only thing that works: a name against a date on paper is the only thing anybody can act on, and signing is not agreeing, and the day somebody comes with a clipboard they cannot come to her door about a rumour because there is a piece of paper with her name on it, and a thing you have to answer is worth having, and he has watched about nine people have nothing to answer with. In twenty-two weeks nobody had said that a name on a document was a good thing. He is fifty-two and he is not paid and nobody asked him.**
 > **And a woman of fifty-four who has refused that museum three times said that the fourth thing this case did was that it did not ask her a fourth time, and that she had been waiting since the ninth of April to see whether anybody would do it again, and that the not-asking is the entire difference between that building and every other institution in this city. She did not sign. Nobody wrote down that she had been asked and nobody wrote down that she had not signed, and the not-writing took about nine minutes to explain and the reason it is right is that it is the third rule and nobody owns it.**
-> **And the registrar said the uncomfortable half, and she said it before anybody went home, and I am putting it first in the notebook because it is the one that matters: a piece of A4 in a plastic wallet is not a record, it is the possibility of a record, and three names on it will not stop the nine blanks, and anybody who tells this street that it has made a register has not been in her office. **A field goes into a system and a system has a custodian, a retention, a disclosure rule and about four hundred people who can read it. A piece of A4 goes in a drawer.** That is the difference and it is the whole of the last twenty-two weeks in one sentence, and it was said by the person who has been on the wrong side of it four or five times and has never once been on this side of it before today.**
+> **And the registrar said the uncomfortable half, and she said it before anybody went home, and I am putting it first in the notebook because it is the one that matters: a piece of A4 in a plastic wallet is not a record, it is the possibility of a record, and three names on it will not stop the nine blanks, and anybody who tells this street that it has made a register has not been in her office. A field goes into a system and a system has a custodian, a retention, a disclosure rule and about four hundred people who can read it. A piece of A4 goes in a drawer, and that is the difference and it is the whole of the last twenty-two weeks in one sentence, and it was said by the person who has been on the wrong side of it four or five times and has never once been on this side of it before today.**
 > **The bill goes out. The name comes back.**
 > **What a name field is for. It is for the bill. It has been for the bill since about 2011, page one, read by nobody.**
 > **What a legal neighbour is. And what a signature is, which is not agreeing. It is a name against a date on a piece of paper, and the difference between that and a name on a list is the whole of the next four years, and nobody in this room is going to be alive in a position to be certain which of the two it turns out to be.**

@@ -1,8 +1,8 @@
 # Chapter 0100 — A Register Somebody Has To Keep
 
-The room was let on Monday the thirty-first of May 2025 from half past three until six, with five pound notes in an envelope and no name on the booking, and the shopkeeper on the corner has now let it five times and has asked nothing five times and told nobody what it is for.
+The room was let on Monday the thirty-first of May 2025 from half past three until six, with four pound notes in an envelope and no name on the booking, and the shopkeeper on the corner has now let it seven times and has asked nothing seven times and told nobody what it is for.
 
-**There were about eleven people in it and there was a piece of A4 on the wall that had been on that wall since the twenty-fourth of April, and a table with a cloth bag on it that had not been in the room before, and a woman of eighty-one who had brought the bag.**
+**There were about eleven people in it and there was a piece of A4 on the wall that was drafted on the twenty-fourth of April and has been on that wall and off that wall about nine times since, and it was on it at about half past three on the thirty-first of May, and nobody had ever left it there, and a woman of eighty-one had brought a cloth bag.**
 
 ---
 
@@ -17,7 +17,7 @@ The room was let on Monday the thirty-first of May 2025 from half past three unt
 > **And it goes on until the first of October. On the first of October we stop, and then we will decide whether to start again. Nobody has to promise us anything and we are not asking anybody to.**
 > **Nobody signs this. Nobody keeps it. It is on the wall.**
 
-Three names are on a copy in a hall in Sillick Lane. **Nobody is keeping that piece of paper, and nobody has ever been asked to, and the fifth line has been completely true for every day of the twenty-five weeks in which it has existed, and nobody in that room proposed to change it.**
+Three names are on a copy in a hall in Sillick Lane. **Nobody is keeping that piece of paper, and nobody has ever been asked to, and the fifth line has been on the wall of a room above a shop since the twenty-fourth of April and has been true of everything anybody has done on that street in the twenty-five weeks since the sixth of December, and it is now wrong on one sheet on purpose and staying wrong, and nobody in that room proposed to change either of those things.**
 
 ---
 
@@ -46,7 +46,7 @@ Nobody said anything.
 
 ---
 
-## And the first page is four lines of what it is, and the fourth line is the whole of the argument of this volume, and the second is the reason it is allowed to have gaps
+## And the first page is four lines of what it is, and the fourth line is the whole of the argument, and the second is the reason it is allowed to have gaps
 
 > **This is a record of what was done on a Saturday.**
 > **It is not a list of people and it has no names in it except mine on this page and the name of the street in the headings.**
@@ -55,7 +55,7 @@ Nobody said anything.
 
 The man of thirty-two read the fourth line out loud twice and nobody improved it and nobody asked who the second person was.
 
-"**That is the whole of it,**" said Vera Pilling. "**Four lines, and I had them drafted in my head for a fortnight and they are not clever and they are not mine either. **A rota cannot hold a permission, because a rota has to say why people stopped and nobody is allowed to ask, and a book that cannot hold the permission is not much of a book, and it is the only kind that is correct.** That is a registrar's and I heard her say it in a room in March and I have written it as mine and it is not mine, and I am eighty-one and I am not going to worry about that now.**"
+"**That is the whole of it,**" said Vera Pilling. "**Four lines, and I had them drafted in my head for a fortnight and they are not clever and they are not mine either. A rota cannot hold a permission, because a rota has to say why people stopped and nobody is allowed to ask, and a book that cannot hold the permission is not much of a book, and it is the only kind that is correct.** **That is a registrar's, and I was told it, and I have written it as mine and it is not mine, and I am eighty-one and I am not going to worry about that now.**"
 
 ---
 
@@ -65,7 +65,7 @@ The man of thirty-two read the fourth line out loud twice and nobody improved it
 
 "**And four,**" said Frank Dunning.
 
-"**And four is the refusal and it is the only one that matters and I have saved it. **There are no names in it.** Not the nine. Not the hundred and forty. Not a person's name at a door, and not the year that was wrong, and not whatever is in a file four miles away with a woman's name on it. It is dates, and times, and door numbers, and how many stopped. And I have been told that is useless and I have been told it by a man of thirty-two who is right, and it is not useless, it is the only version of this that does not put a name in a drawer in a flat in this city, and I would rather have a small thing that is correct than a big thing that is a list, and I have been on a schedule of interim payments since December with about fifty lines on it and every one of them is a document and not one of them is me.**"
+"**And four is the refusal and it is the only one that matters and I have saved it. There are no names in it.** Not the nine. Not the hundred and forty. Not a person's name at a door, and not the year that was wrong, and not whatever is in a file four miles away with a woman's name on it. It is dates, and times, and door numbers, and how many stopped. **And I have been told that that is useless, and I have been told it by a records officer on a bus and by a man of thirty-two and by a woman of fifty-four and by me, and the last of those is the one that counts, and I did not need a professional to tell me and I am not going to pretend it took one.** **It is the only version of this that does not put a name in a drawer in a flat in this city, and I would rather have a small thing that is correct than a big thing that is a list, and I have been on a schedule of interim payments since December with about fifty lines on it and every one of them is a document and not one of them is me.**"
 
 "**Then what is it for.**"
 
@@ -75,8 +75,8 @@ The man of thirty-two read the fourth line out loud twice and nobody improved it
 
 ## And the first entry is on the page, and it is the twenty-ninth of May, and it is four lines long
 
-> **Sat 29 May. Three o'clock to about ten past seven. Fourteen doors. Nine households.**
-> **Nobody stopped and then somebody did, so: two stopped. Gaps left.**
+> **Sat 29 May. Three o'clock until about twenty to six. Fourteen doors. Nine households.**
+> **Nobody stopped on the first round and two stopped on the second, so: two stopped. Gaps left.**
 > **The boundary went up on the noticeboard at the library and came off at twenty to six and left a clean rectangle.**
 > **Weather: no.**
 
@@ -94,7 +94,7 @@ On the third page, in the same ballpoint:
 
 "**Is this a religion.**"
 
-"**No,**" said Vera Pilling. "**There is nobody in this room who has to believe anything, and nothing has come back, and nobody has been given a house, and the flats on the east side of that street are still empty and there are still about nine of them and there is still nothing in this city that says what they were except a piece of A4 in nine hands with a wrong year on it. I am keeping a book. I have not been given a miracle and I am not owed one and I would not know what to do with one, and I have been on this street since 1949 and I have seen a great deal come back into this ward and none of it stayed.**"
+"**No,**" said Vera Pilling. "**There is nobody in this room who has to believe anything, and nothing has come back, and nobody has been given a house, and the flats on the east side of that street are still empty and there are still about nine of them and there is still nothing in this city that says what they were except a piece of A4 in nine hands with a wrong year on it. I am keeping a book. I have not been given a miracle and I am not owed one and I would not know what to do with one, and I have been on this street since 1961 and I have seen a great deal come back into this ward and none of it stayed.**"
 
 "**Then what is it.**"
 
@@ -116,20 +116,20 @@ On the third page, in the same ballpoint:
 
 ## And at ten to six the room was given back, and the boundary came off the wall, and the woman of eighty-one went down about fourteen stairs with a cloth bag
 
-Frank Dunning said the thing he has said three times, in the same words, at the door, and it is the last thing said in that room for the last time:
+Frank Dunning said the thing he has said four times, in the same words, at the door, and it is the last thing said in that room for the last time:
 
 "**That is the correct arrangement and it is the worst arrangement in the world, in that order.**"
 
 The boundary came off the wall in one piece. The tape came off the plaster and left a clean rectangle, and the woman of about fifty from the sheet said it would come off and it did, and nobody looked at the rectangle for longer than it took.
 
-**The pound came out of the envelope and there was six pounds in it and the shopkeeper took it and said the room had been let for one day and shut the door.**
+**The pound came out of the envelope and there was five pounds in it and the shopkeeper took it and said the room had been let for one day and shut the door.**
 
 The bag went down the stairs after her. And this is the whole of what there is: a room let by the hour, a wall with a clean rectangle on it, a boundary that nobody signed and nobody keeps, and a hardback notebook of about a hundred and fifty ruled pages in a cloth bag going down about fourteen stairs to a flat at number six, where it goes in a drawer that does not lock, with a name and a date on the inside of the front cover, and about nine gaps in it, and about four hundred more to come, and nobody is going to fill them in.
 
 ---
 
 > **Mon 31 May, 23:30. Twenty-five weeks and a day since the sixth of December. The practice is twenty-one weeks old. The bell has said nothing for a hundred and sixty-nine days and the panel on its case is a hundred and eighty-five days old.**
-> **A woman of eighty-one is keeping a book. It is at number six in a drawer that does not lock and she brought it here in a cloth bag in a room let by the hour with five pound notes in an envelope and no name on the booking, and the inside of the front cover has her name and a date and the date is the first of October, which is the same day the boundary stops, and she chose that on purpose and said so.**
+> **A woman of eighty-one is keeping a book. It is at number six in a drawer that does not lock and she brought it here in a cloth bag in a room let by the hour with four pound notes in an envelope and no name on the booking, and the inside of the front cover has her name and a date and the date is the first of October, which is the same day the boundary stops, and she chose that on purpose and said so.**
 > **Her reason is not a virtue and she said so first. She is the only person in this room who knows what a piece of paper does to a person after it has been made, because in April she said no twice to a museum that wanted a dead man's name on a card about an address where a woman now lives, and she has carried a copy of a pay sheet in her own hand in a tin since November 1974. That is the whole of her qualification and it is the best qualification anybody in twenty-five weeks has produced and it took a man of fifty-two with a bolt pen and four professionals with the wrong question and a man with about four hundred doors in his head to get to it.**
 > **And there are no names in it. Not the nine, not the hundred and forty, not the year that a man of seventy-four says is wrong, not the woman in a file four miles away. Dates, times, door numbers, and how many stopped. And the gaps are the argument and not an excuse: a rota cannot hold a permission, because a rota has to say why people stopped and nobody is allowed to ask, and a book that cannot hold the permission is not much of a book, and it is the only kind that is correct. And there is a fourth line on the first page that says: if you are reading this and you are not me, then you are the second person, and that is the only reason it exists.**
 > **It is not complete and it cannot be made complete and it says so on its own third page. It begins on the thirty-first of May 2025. There is nothing in it about December 2024 and there never will be, because you cannot take a list of a thing nobody kept, and a book that began on the thirty-first of May is not a record of December. And the about nine households that were in the flats on the east side of that street in November are not in it and are not going to be in it, and that is the finding of twenty-five weeks written on a page by a woman of eighty-one who is owed nothing and has been owed nothing since December.**

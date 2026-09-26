@@ -2,7 +2,7 @@
 
 The room is on the first floor of a shop on a corner in Low Ward and it was let again on Monday the third of May 2025 by the same shopkeeper, on the same terms, and there were four pound notes and a pound coin in the envelope and there was no name on the booking, and the shopkeeper has now let this room three times and has asked nothing three times and is not going to ask on the fourth, and that arrangement is correct.
 
-**The piece of paper on the wall was still on the wall. It had been there since the Saturday before last and it had a date on the end of it and five lines on it and nobody had signed it, and the fifth line says that nobody signs it, and nobody keeps it, and it is on the wall, and all three of those were still true at about eleven o'clock in the morning on the third of May, and two of them were about to stop being true in about four hours and the third was not going to.**
+**The piece of paper on the wall was still on the wall. It had been there nine days, put up on the day it was written, and it had a date on the end of it and five lines on it and nobody had signed it, and the fifth line says that nobody signs it, and nobody keeps it, and it is on the wall, and all three of those were still true at about eleven o'clock in the morning on the third of May, and none of the three of them was going to last the month, and nobody in the room said so.**
 
 ---
 
@@ -88,7 +88,7 @@ Frank Dunning put it on the table in the plastic wallet on top of the sheet with
 
 ---
 
-## And then the woman of thirty-one with the satchel said the thing about the Museum, and it is the reason this chapter ends where it ends
+## And then the woman of thirty-one with the satchel said the thing about the Museum, and it is the reason the morning ends where it ends
 
 She had it in the satchel and she took it out, and it was four pages, and it was a form, and it was not filled in.
 
