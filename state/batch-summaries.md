@@ -1117,3 +1117,47 @@ A post box, and the fact that a pillar box is not a postal address, and a typist
 **Also repaired, and it is the same class as finding 4.** The length figures in four files were re-derived after the count repairs — **4,262 · 4,611 · 4,062 · 5,214 · 5,951 · 8,022 · 6,154 · 6,132 · 5,660 · 7,516 = 57,584 words**, Chapter 149 down 24 and Chapter 150 down 2 — **and the 26 words that came off are the drift and not prose.** `state/continuity.md` gained a `REVIEW REPAIR PASS, 2026-09-26` section with the findings, the instruments and the re-run table, and `state/current.md`'s pinned-line item now says this batch committed all three of its known real weekdays rather than two.
 
 **⚠ THE LESSON, AND IT IS THE ONE A NEXT WRITER CAN ACT ON, AND IT IS THREE RULES AND NOT ONE.** A repair is not finished when the prose is repaired — the state layer quoted *34 of 34* as a clean bill and the exercise-book drift had already reached four state files and the next volume's prompt as a frozen figure. **Beyond that, three cheap rules came out of this review and all three are about numbers.** **After any calendar repair, grep that date across the whole batch, because fixing one instance of a class is not sweeping for the class in the same file.** **If a sentence carries two numbers joined by a relative clause, multiply them out, because two true numbers in one sentence are a fault until the arithmetic between them has been checked.** **And ask what each number is counting, because a magnitude pass that checks a quantity against the state layer cannot catch a quantity that is right for the wrong object, and only that question catches it.**
+
+---
+
+# Volume 03 close — the volume audit, 2026-09-26
+
+**This is a close, not a batch. Five batch summaries are above and are unchanged. What follows is the audit's summary of the five, and the record of what the close did, and what it did not do.**
+
+## THE FIVE BATCHES AGAINST THE OUTLINE
+
+| Batch | Chapters | Movement | The batch's own turn, as recorded in its summary | The audit's verdict |
+| --- | --- | --- | --- | --- |
+| 0001 | 101–110 | 1 | *What is a date of loss for*, and nobody in the room knows | **8 of 8 beats delivered.** The salvage ninth's character was displaced: the nine are overstated weights, not empty addresses |
+| 0002 | 111–120 | 2 | Hesta Rell asks a question instead of answering one, and *who may speak for a community* is put | **Delivered with one MISS: Mara's mother.** Two calendar faults. The Hesta line opened here because she is in neither Volume 01 nor Volume 02, and that is a Volume 02 miss and not a decision |
+| 0003 | 121–130 | 3a | The reversal at 127, and the misidentification at 128 | **Delivered.** The misidentification is a chapter earlier than the outline placed it and the motive is *computation* and not *redevelopment*, and the word redevelopment is in no chapter of the volume |
+**Delivered.** The batch is the one that crossed a movement boundary and said so in its prompt. **The drafting date of the four clauses is stated two ways in the prose — five statements say July and four say 7 October 2025 — and there is no reconciliation on the page. NOW A HARD LOCK ON THE ABSENCE OF A DATE: cite the instrument's face, one page, four clauses, a schedule and covering note of 7 October 2025 incorporated, and print no month**
+| 0005 | 141–150 | 4 | The names, and the seal, and a register that says the district does not exist | **Delivered.** The cost, the check and the climax are all on the page and the ending image is in all four of its clauses. **The prompt that produced it carried two wrong figures and both are settled from arithmetic** |
+
+**Thirty-two planned beats, twenty-nine delivered, two displaced, one missed. The misses and the displacements are itemised in `outline/batches/volume-03-batch-000N.md`, thirty-one divergences in all, and no card has been rewritten to match a later mistake.**
+
+## WHAT THIS CLOSE DID
+
+**Wrote the audit into `state/continuity.md` under `VOLUME 03 CLOSE`, eleven sections**, including the thirty-two-beat table, the missing-falsification finding, the nineteen prose defects and one state-layer defect with citations, the locks that outlive the volume, the pipeline items, and **the new instrument rule: a sweep's hit count is the number its own vocabulary recognised, and a sweep that requires a four-digit year binds almost nothing — 14 bindings and no findings against 1,252 tokens and three.**
+
+**Wrote the five Volume 03 batch card files that did not exist**, lifted from `workspace/volume-03/batch-000N/PROMPT.md`, with word counts, the plan in one paragraph, the pinned day map, and an itemised divergences section each. **Did not create `-0006.md`. Volume 03 is closed.**
+
+**Checked the hand-off's claim that Volume 02's five card files were absent against the directory. All five exist. Nothing was created for Volume 02 and nothing was overwritten.** A prompt that instructs a writer to do work that is already done is a prompt that will eventually have a writer do it twice.
+
+**Wrote `outline/volume-04.md`**, 12,900 words, after the audit and not before it: identity, the pinned line and its verification, starting state, starting relationships **and the decision about the word**, locations, **the three-bodies reconciliation**, factions, the object, the escalation sequence with the rule that each movement raises the number of people who can be hurt, four movements with the midpoint at 177 and the climax at 196, the day map with its derivation, the volume chapter map with batch boundaries, the midpoint reversal, the climax, the concrete resolution, the new question, the final chapter image, the reveal discipline, the continuity locks this volume sets, **the three constraints that come out of Volume 03**, and the hard locks inherited from Volumes 01, 02 and 03. `outline/series.md` and `outline/ending.md` were not edited.
+
+**Added `bible/characters.md`'s *Volume 04 Working Cast*, struck the false `Ada Iles` row with the finding on the row, added four Volume 04 locations and the three-bodies reconciliation and the term's expiry to `bible/world.md`,** and recorded the cast-promotion decision in `state/character-state.md`.
+
+**Wrote `workspace/volume-04/batch-0001/PROMPT.md`, Chapters 151–160, Movement 1 — and did not write a chapter.**
+
+## WHAT THIS CLOSE DID NOT DO, AND WHY
+
+**It did not edit `chapters/`.** Nineteen prose defects are recorded in `state/continuity.md` and left. **A volume audit that finds a prose defect writes the defect down and leaves it for a repair phase**, and the four that a Volume 04 writer could be hurt by are flagged as such.
+
+**It did not repair the falsification.** It cannot be repaired without a decision that is not a writer's, and the audit's recommendation — honour the clause forward rather than write a movement that is not there — is recorded and escalated and not acted on.
+
+**It did not edit `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md` or `opencode.json`.** The ledger still reads `phase-000-bootstrap` with three volumes and fifteen batches complete; it is controller-owned and this is the sixth logging.
+
+**It did not write a `reviews/` artifact.** An audit by the writing agent is a repair and not a certification, and a review file is a reviewer's statement.
+
+**It did not create a second next phase.** One: `workspace/volume-04/batch-0001/PROMPT.md`.
