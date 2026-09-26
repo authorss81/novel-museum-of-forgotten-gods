@@ -2,7 +2,7 @@
 
 The letter came on Wednesday the twenty-fifth of November at about half past two in the afternoon and it was four paragraphs and it was signed by a partner of a firm at fourteen Lincoln's Lane and it was, in the end, the only document in the whole of this business that moved anything.
 
-> **Hallowaygate Holdings — to Broomhead Reach Secure Store, Quay 3, bay 4.**
+> **Hallowgate Holdings — to Broomhead Reach Secure Store, Quay 3, bay 4.**
 > **1.** We note the hold placed on the balance of the consignment received into bond on 24 October 2024, reference BQ4/2511/L2/04. We do not require it to be lifted and we do not object to it.
 > **2.** As to the goods: we neither warrant nor disclaim that the goods in the balance are or are not ours. They were on the site at the date of our purchase and they were not specified in our purchase schedule, and we have instructed a search of our file and there is no schedule, and we are not going to invent one.
 > **3.** Accordingly we do not authorise any movement out of bond, and we do not withhold any authority either. Any person may take the item out of bond against this letter, by name, on a line, against a reference, and we shall not object to it at any time in the future, and we accept that the risk of having been wrong is ours and not yours.
@@ -12,7 +12,7 @@ The last paragraph was not necessary and it is in the file and it is the sentenc
 
 ---
 
-Miss Arkwright raised the hold on Tuesday morning at nine minutes past nine and it held seventy-two hours to nine minutes past nine on Friday, and on Thursday the twenty-sixth of November at eleven minutes past eleven in the morning, on the strength of paragraph three of a letter from a company that has a fence, she took one book out of a bonded store on a quay and put it into the hands of a night cleaner from the Museum of Quiet Saints.
+Miss Arkwright put the hold on at nine minutes past nine on Tuesday morning and it held seventy-two hours to nine minutes past nine on Friday, and on Thursday the twenty-sixth of November at eleven minutes past eleven in the morning, on the strength of paragraph three of a letter from a company that has a fence, she took one book out of a bonded store on a quay and put it into the hands of a night cleaner from the Museum of Quiet Saints.
 
 "There is no indemnity in this," she said, twice, to two different people, before she would do it. "I have been through it four times this morning. An indemnity is a thing a person gives that they are responsible if it goes wrong. There is not one in that letter and I have not asked for one, and if anybody in that building tells you I asked for one then I did not, because I have never in six years asked a freeholder's solicitor for an indemnity and I am not starting on a Thursday about a wage book."
 
@@ -36,7 +36,7 @@ He said no on the Tuesday in a doorway and he said something else on the Wednesd
 
 "You're putting your face like you've been caught." He looked at the mop head. "So here's what I want. I want it to say what I am, and I want it to say *not agreed* if I don't agree, and I want the time I hand it over and the time I put it down. And I want somebody in that building to write my name on a piece of paper in a book, not in a drawer, because the object was here in October when it was on a plinth in a gallery and nobody could write my name down, and I'm the only one of us who can't be written down, and I've got used to it, and I don't have to be."
 
-It is in a drawer. It is on a form with a grade box that Mara Iles left empty, and the empty box is in the file, and the form is at appendix 4 of the conciliation bundle, and *agreed* is initialled by P. Loach at 11:04 in the morning of the twenty-sixth of November.
+It is in a drawer. It is on a form with a grade box that Mara Iles left empty, and the empty box is in the file, and the form is at appendix 6 of the conciliation bundle, and *agreed* is initialled by P. Loach in the loading-bay office at about ten past three in the afternoon of the twenty-sixth of November, and he initialled it after he had put the bag down and not before, and he said why, and the reason is on the form.
 
 ---
 
@@ -46,30 +46,38 @@ The item is item four of a bay. It is a bound book of two hundred and ninety-one
 
 **1974 — OCTOBER.**
 
-That is what was read off the spine in a shed on a quay in Northglass at twenty past ten on Thursday the twenty-sixth of November by a bonded goods clerk reading a label, and it is not a document and it is not evidence and it is not a revelation. It is a label, and it was read, and it went on a piece of paper with a seal number on it.
+That is what was read off that label in a shed on a quay in Northglass at twenty past ten on Thursday the twenty-sixth of November by a bonded goods clerk reading through a polythene sleeve, and it is not a document and it is not evidence and it is not a revelation. It is a label, and it was read, and it went on a piece of paper with a seal number on it.
 
-The release is one line in a book with columns: **line · item · quantity · weight · carrier · time out · signature.** Line four. One item. Sixty-one pages of a bound book. Hmm — no. It is:
+The release is one line in a book with columns: **line · item · quantity · weight · carrier · time out · signature.** Line four. One item, and no weight on the line at all, because the weight was on a bay manifest and nobody reweighs a book at eleven o'clock at night:
 
 > **26.11 — L2 — ITEM 4 — 1 off, bound, in polythene sleeve and tie as received, new strap applied 12.11. Weight per bay manifest, not reweighed. Released to carrier P. LOACH, no employer of record, against BQ4/2511/L2/04 and letter of 25.11 from Hallowgate Holdings. Time out 11:20. P. LOACH.**
 > *Bay 4 remaining: nothing. Hold lapses 27.11, 09:09, item no longer on premises.*
 
-The bay was empty at twenty past eleven on Thursday afternoon. Everything else in it had gone to a paper merchant at eight that morning, on a vehicle driven by a man called Renwick who signs about eleven thousand of those a year and who has never opened one and who was not asked and was not told and cannot now be told anything, because telling him would be a thing done to a man to relieve a man, and Elias Venn wrote that in a notebook in November and has not changed it.
+The bay was empty at twenty past eleven on Thursday afternoon. Everything else in it had gone out to a paper merchant at eight on Wednesday morning, on a vehicle driven by a man called Renwick who signs about eleven thousand of those a year and who has never opened one and who was not asked and was not told and cannot now be told anything, because telling him would be a thing done to a man to relieve a man, and Elias Venn wrote that in a notebook in November and has not changed it.
 
 Perry Loach put the sleeve inside a plastic bag from the shed and then inside another one, and tied the top of the outer one with a piece of string from the counter, and then took it out of the string and used the new strap instead, because the strap was on it and the strap was Miss Arkwright's and she had said a rotten strap is the one thing in a bay you are not allowed to let go of.
 
-Then he took the 06:14 out of Northglass with it, and there were about nine people on the bus at half past twelve on a Thursday in November, and he got off at the top of the hill at about twenty to one, and walked down to Civic Hill, and came in the public entrance, and asked at the front desk for the loading bay, and the woman at the desk telephoned the loading bay, and nobody could come.
+Then he took the 06:14 out of Northglass with it, and he had seventy minutes on his hands in a shed on a quay, most of which he spent on a plastic chair with his hands on his knees, and there were about nine people on the midday bus at half past twelve on a Thursday in November, and he got off at the top of the hill at about twenty to one, and walked down to Civic Hill, and came in the public entrance, and asked at the front desk for the loading bay, and the woman at the desk telephoned the loading bay, and nobody could come.
 
 "They can't," the woman said. "I asked. They're all in a room. You'll have to wait."
 
-"I'll wait," said Perry Loann.
+"I'll wait," said Perry Loach.
 
 "You'll have to wait in the lobby."
 
-"I'll wait in the lobby," said Perry Loach, and sat down on a bench in a public museum with a plastic bag on his knees containing the only copy of a pay run in the world, and at twenty-five to two Elias Venn came out of a room on the second floor with about forty pages under his arm and found him, and did not say anything about the bag.
+"I'll wait in the lobby," said Perry Loach, and sat down on a bench in a public museum with a plastic bag on his knees containing the only copy of a pay run in the world, and at twenty-five to two Elias Venn came out of a room on the second floor with one sheet of Museum notepaper folded once in his hand, and found him, and did not say anything about the bag.
 
-"You've been on the front desk since seven," said Perry Loach.
+"You've been on the front desk since seven."
 
-"Yes."
+"Since quarter past six in the morning."
+
+"That's a long one." Perry Loach nodded at the sheet. "What's that."
+
+"My review," said Elias Venn. "The Director wrote it on Wednesday morning at twenty-five past nine and it is half a page and it is minuted, and it is the only document in this whole business that says a single thing about me in the past tense, and I have read it once."
+
+"Bad?"
+
+"It is not bad," said Elias Venn. "It is correct. It is the most correct thing anybody has written about me in six weeks and it took her about four minutes, and I would rather it had cost her a gallery."
 
 "Go and do your letters. I'll wait for the bay."
 
@@ -125,7 +133,7 @@ Item three. *Gate book, with entries to 30 Oct.* Item ten. *Bundle of wage sheet
 
 A woman at the back said something. It was not audible and Marsh did not ask her to repeat it, and then she said it again louder on purpose.
 
-"Mrs Bramm," said Field Officer Marsh, "I am going to ask you to say it into the microphone or not say it, and either is fine, and the second is what you have done for nine years and I am not going to stop you now."
+"Hattie Bramm," said Field Officer Marsh, "I am going to ask you to say it into the microphone or not say it, and either is fine, and the second is what you have done for nine years and I am not going to stop you now."
 
 ---
 
@@ -143,9 +151,9 @@ Nobody in the room said anything.
 
 "What is left," said Elias Venn, "is one sheet of thin carbon, folded in three, in a sealed envelope, in a cage in a store in this city, and it was copied at a pay clerk's own kitchen table in November 1974 in her own hand off an office carbon, and she is in the second row of this room, and she has told me four times that she will not read it to a lawyer or a trustee or a Board or a museum, and she is right, and I am not going to ask her to. And one bound wage book for October 1974, which came out of a bonded store on the quay at eleven minutes past eleven this morning and is on a trestle table in a loading bay on Civic Hill with a strap on it, and which nobody has opened."
 
-"Which you are not employed by."
+"Which you are not on duty for."
 
-"I am not employed by the Museum in any grade. I was suspended from night duty on Sunday the eleventh of October on a work order I did not close. I am here as a person. I said a number out loud in a room in this city on Monday the twenty-sixth of October at about twenty past nine in the evening, and it was on a tape, and a municipal officer wrote *attributed to reader* against it, and the number is in nine newspapers. I am not going to say the number tonight, because it has been said and it is in a document and it is not mine. What I am going to say is where it came from: I put my hand on a bronze bell in a loading bay on the twenty-fifth of October at about one in the morning and I asked it a question out loud, and it gave me that number, and I cannot tell you where from, and I could not if I wanted to, and the whole of it is in paragraph six of a cautioned statement in a police file in Low Ward, and I have said all of it out loud in a room in Irving Quay in front of a man of seventy-eight and a transcript clerk, and the clerk wrote *none produced* in a box on a pro forma and initialled it, and she did not know she was writing a false thing, and I did not tell her, and it cost nothing and it was not found."
+"I am not on duty and nobody in that building can instruct me to do anything, and I have said the last four words of that sentence into nine separate records this month. I was suspended from night duty on Sunday the eleventh of October on a work order I did not close. My hours are still administered by the municipal bureau at cost centre M.Q.S. 4, the same as they have been for three years, the remittance has gone every month without a break, and the Museum has been sending it, and neither of them has ever asked the other what for. I am here as a person. I said a number out loud in a room in this city on Monday the twenty-sixth of October at about twenty past nine in the evening, and it was on a tape, and a municipal officer wrote *attributed to reader* against it, and the number is in nine newspapers. I am not going to say the number tonight, because it has been said and it is in a document and it is not mine. What I am going to say is where it came from: I put my hand on a bronze bell in a loading bay on the twenty-fifth of October at about one in the morning and I asked it a question out loud, and it gave me that number, and I cannot tell you where from, and I could not if I wanted to, and the whole of it is in paragraph six of a cautioned statement in a police file in Low Ward, and I have said all of it out loud in a room in Irving Quay in front of a man of seventy-eight and a transcript clerk, and the clerk wrote *none produced* in a box on a pro forma and initialled it, and she did not know she was writing a false thing, and I did not tell her, and it cost nothing and it was not found."
 
 He stopped.
 
@@ -159,7 +167,7 @@ Nobody in the room said anything for about eleven seconds, and then Vera Pilling
 
 **Perry Loach.**
 
-He was at the back on the aisle and he had come on his own and he was not a witness and nobody called him, and about an hour and ten minutes into the meeting, when the officer asked whether anybody present wished to say anything, a man of fifty-four with a bad chest said that he had been in a loading bay in this city on the second of November 1974 and had been asked by a man in a good coat to sign a docket for a van and had signed it, and that he was seventy-eight and he would like it recorded that the coat was a good one and that he had not been asked to open anything.
+He was at the back on the aisle and he had come on his own and he was not a witness and nobody called him, and about an hour and ten minutes into the meeting, when the officer asked whether anybody present wished to say anything, a man with a bad chest said that he had been in a loading bay in this city on the second of November 1974 and had been asked by a man in a good coat to sign a docket for a van and had signed it, and that he was seventy-eight and he would like it recorded that the coat was a good one and that he had not been asked to open anything.
 
 That was Arthur Neve, and it is in the bundle.
 
@@ -171,7 +179,7 @@ And then Hattie Bramm said the thing about the people who never had a letter, an
 
 "Then what are you asking this hearing for," said the man with the hire firm's clipboard.
 
-"I'm not asking it for anything," said Hattie Bramm. "I'm going to be in a room on Friday morning at ten o'clock saying a number out loud, and there's a man who's carried it since the sixth of October and he's not allowed to be in the room, so it's here, and it's in a bundle, with a name on it, and the name is mine, and on Friday it goes on a piece of paper that outlives me." She shut the laptop. "That's it. That's the whole of what I've come for. And there's people in this room that can't be in that room on Friday because there's a list of eighty and the list isn't mine either, and I know exactly who is not on it, and I have known for nine years, and I am not going to say their names in a room with a microphone in it, and if anybody in this room has got a better plan than that then they've got until half past six tomorrow to produce it."
+"I'm not asking it for anything," said Hattie Bramm. "I'm going to be in a room on Friday morning at ten o'clock saying a number out loud, and there's a man who's carried it since the sixth of October and he's not allowed to be in the room, so it's here, and it's in a bundle, with a name on it, and the name is mine, and on Friday it goes on a piece of paper that outlives me." She shut the laptop. "That's it. That's the whole of what I've come for. And there's people in this room that can't be in that room on Friday because there's a list of eighty and I am the one who has to leave people off it, and I know exactly who is not on it, and I have known for nine years, and I am not going to say their names in a room with a microphone in it, and if anybody in this room has got a better plan than that then they've got until half past six tomorrow to produce it."
 
 And then Elias Venn asked Perry Loach the question.
 
@@ -191,7 +199,7 @@ Perry Loach looked at him for a long time.
 
 "I've got the words," he said.
 
-Nobody in the room asked him to say them. He did not say them. He said, "I'll write it out tonight and I'll hand it in at the front desk of that building tomorrow morning, and it'll be my words and not anybody's, and if it's in a file it'll be because I put it there, and I'd like it recorded that I was asked, and by whom, and at what time, and by a man who is not on the payroll, and I'd like that bit recorded too."
+Nobody in the room asked him to say them. He did not say them. He said, "I'll write it out tonight and I'll hand it in at the front desk of that building tomorrow morning, and it'll be my words and not anybody's, and if it's in a file it'll be because I put it there, and I'd like it recorded that I was asked, and by whom, and at what time, and by a man who is not a member of staff and cannot be instructed about it, and I'd like that bit recorded too."
 
 "I'll see that it's recorded," said Field Officer Marsh, and wrote it down, and read it back, and that is all that happened in the room.
 
@@ -208,11 +216,11 @@ Nobody in the room asked him to say them. He did not say them. He said, "I'll wr
 
 Nobody in the room said anything about it, and about four people wrote it down.
 
-**And the certified comparison of the two 1974 carbons went into the bundle at the same time**, in two copies, one to the conciliation service and one to Mr Neve, and **neither copy is of the carbon**, and it is a sheet with two columns and eleven ruled lines and a box at the foot and it says, at the foot, in the words of a transcript clerk of twenty-six years:
+**And the certified comparison of the two 1974 carbons went into the bundle at the same time**, in two copies, one to the conciliation service and one to Mr Neve, and **neither copy reproduces the carbon**, and it is a sheet with two columns and eleven ruled lines and a box at the foot and it says, at the foot, in the words of a transcript clerk of twenty-six years:
 
 > *Three differences in wording, and one figure. I do not certify that either document is correct. I certify that this is a true comparison of the two documents as they stand, and that both documents were in the room at the time of the comparison.*
 
-**And the second document in the bundle on the Thursday morning was a form in a safe in Irving Quay that has a blank in the middle of it**, unsigned, uncompleted, and a receipt dated the twenty-first of October, and it is at appendix 4, and the field officer read out its five provisions in full because a form that may be left blank has to be read out in a room or it is not a form that may be left blank, and the fifth of them is the only one in the volume that anybody has ever written down about consent:
+**And the second document in the bundle on the Thursday morning was a form in a safe in Irving Quay that has a blank in the middle of it**, unsigned, uncompleted, and a receipt dated the twenty-first of October, and it is at appendix 4, and the field officer read out its five provisions in full because a form that may be left blank has to be read out in a room or it is not a form that may be left blank, and the fifth of them is the only one anybody in this business has ever written down about consent:
 
 > *Do you want anybody in the room with you while you fill this in? Yes / No / I do not know yet. You may change this answer at any time, including after you have handed it in.*
 

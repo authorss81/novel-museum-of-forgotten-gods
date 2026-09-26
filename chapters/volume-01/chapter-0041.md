@@ -16,7 +16,7 @@ The Sunday was the telephone.
 
 "Where is it."
 
-"In a red lever-arch file on the shelf under the card terminal. Labelled CARD ACCESS — 2006 REORGANISATION / QUIET WING. There's a buff cover sheet on the top of everything in it with a corner rule on it and an instruction number and a date on it, and a typed name at the foot that is on no list of anybody who has ever worked here. Under that, stapned to the inside of the back of the cover sheet, an envelope about a quarter of an inch thick marked ATTACHMENTS — DO NOT SEPARATE, with the corner come off the flap."
+"In a red lever-arch file on the shelf under the card terminal. Labelled CARD ACCESS — 2006 REORGANISATION / QUIET WING. There's a buff cover sheet on the top of everything in it with a corner rule on it and an instruction number and a date on it, and a typed name at the foot that is on no list this building keeps, current or archive, and that nobody in here can produce. Under that, stapned to the inside of the back of the cover sheet, an envelope about a quarter of an inch thick marked ATTACHMENTS — DO NOT SEPARATE, with the corner come off the flap."
 
 "Have you read it."
 
@@ -26,7 +26,7 @@ The Sunday was the telephone.
 
 ---
 
-He wrote the two reasons down on the Saturday night and he has left both of them on the page, and that is the first time in a hundred and fifteen pages that he has left two.
+He wrote the two reasons down on the Saturday night and he left both of them on the page, and that is the first time in a hundred and fifteen pages that he has left two.
 
 > **Sat 21 Nov.**
 > **Reason one, struck: because if I give it to somebody on Thursday it is a document somebody has seen, and after that it is a thing that happened, and I do not yet know what happened, and I have watched this building find out what happened in a corridor in November 2006 and put a name that is not on any list on the front of a form, and I am not doing it in a fortnight with two letters in my hand and no more than that.**
@@ -43,7 +43,7 @@ Mara Iles's office is on the first floor and it is nine feet by eleven and there
 
 He told her.
 
-It took about four minutes and it was not a story. He gave her the instruction number and the date and the file and the shelf and the number of the buff envelope and the corner that had come off, and he told her that the typed name at the foot of the cover sheet is on no list of anybody who has ever worked here, and that she can check that herself in about nine minutes if she wants to, and that the two letters at the front of that typed name are the two letters at the front of his own and that he worked that out in October and has never said it to a living soul.
+It took about four minutes and it was not a story. He gave her the instruction number and the date and the file and the shelf and the number of the buff envelope and the corner that had come off, and he told her that the typed name at the foot of the cover sheet is on no list this building keeps, current or archive, and that she can check that herself in about nine minutes if she wants to, and that the two letters at the front of that typed name are the two letters at the front of his own and that he worked that out in October and has never said it to a living soul.
 
 She did not say *is that your father*. He had been braced for it in a way he could not explain to anybody and it never came, and what came instead was four questions in about ninety seconds, and every one of them was a question about a document.
 
@@ -67,7 +67,7 @@ She did not say *is that your father*. He had been braced for it in a way he cou
 
 "Because a man who has found his own initials on a form has not found the hand that wrote them, and because I would rather you had the file than that I had told you about the file, and those are two different things and I want the second one."
 
-She wrote for about four seconds and then stopped and looked up.
+She wrote for a few seconds and then stopped and looked up.
 
 "Sit there and do not move," she said, and went out, and was gone for about nine minutes.
 
@@ -107,7 +107,7 @@ That is not how it went and it is worth saying how it went, because it went badl
 
 "One page, and I am going to tell you what is on it first and then you are going to decide, and if you say no I will put it back in and I will not ask you again this year."
 
-She put the pen down, which she has never done for him.
+She put the pen down, which she had never done for him.
 
 "It is the fourth page from the end," he said. "It has got a sentence on it in my hand, which is a bay check I did standing up in a loading bay on Monday the sixteenth at about twenty past eleven in the morning and copied into the book afterwards, which is what I do with everything. And underneath it, the same sentence, word for word, in a different hand, in ballpoint, with less pressure in it and a slant the other way. And it is dated *Mon 16 Nov, 11:20*, which is the bay check's time, not tonight's."
 
@@ -127,17 +127,17 @@ The room was very quiet, and outside it the building was doing the flat dry soun
 
 "All of them, or that one."
 
-"All of them, or that one." He put his hand flat on the notebook. "Here is the arrangement and it is not a favour to you and it is not a favour to me. Ninety of those pages are a work record. They are doors and clocks and times and a man's own hours and a stopwatch on a string and the disposition of a cage. I have promised you there is no more private channel and I have broken that promise at least three times in six weeks and you have stopped asking about it, and you are owed all ninety pages, and I am not going to hand you ninety pages in a corridor on a Monday morning in the last week of a month. I will hand you the ninety pages in this room, with the door shut, on a day I have told you the date of, and I will not do it at half past four in a doorway, and you will read them in front of me and you will not make a fuss, and then it will be a Museum record and not a habit of mine."
+"All of them, or that one." He squared the notebook on the desk. "Here is the arrangement and it is not a favour to you and it is not a favour to me. Ninety of those pages are a work record. They are doors and clocks and times and a man's own hours and a stopwatch on a string and the disposition of a cage. I have promised you there is no more private channel and I have broken that promise at least three times in six weeks and you have stopped asking about it, and you are owed all ninety pages, and I am not going to hand you ninety pages in a corridor on a Monday morning in the last week of a month. I will hand you the ninety pages in this room, with the door shut, on a day I have told you the date of, and I will not do it at half past four in a doorway, and you will read them in front of me and you will not make a fuss, and then it will be a Museum record and not a habit of mine."
 
 "And the twenty-five."
 
-"The twenty-five are the readings. Four of them, and the costs, and a corridor, and the four seconds of a name I cannot identify." He turned the page over. "And this is the one I am giving you now, and the reason I am giving you this one and not the other twenty-four is that this is the only page in the whole of it that is not a record of a thing that happened to me. Every other page is a thing I did. That page is a thing that happened to me, and it is the reason I have not given you the other ninety, and if you read it and put it in a drawer then you will know more about me than anybody on earth, and it will take you about eleven seconds to read, and I would like you to have eleven seconds of my life that nobody else has ever had."
+"The twenty-five are the readings. Four of them, and the costs, and a corridor, and the four seconds of a name I cannot identify." He turned the page over. "And this is the one I am giving you now, and the reason I am giving you this one and not the other twenty-four is that this is the only page in the whole of it that is not a record of a thing that happened to me. Every other page is a thing I did. That page is a thing that happened to me, and it is the reason I have not given you the other ninety, and if you read it and put it in a drawer then you will know more about me than anybody on earth, and it will take you eleven seconds to read, and I would like you to have eleven seconds of my life that nobody else has ever had."
 
 Mara Iles held out her hand, and did not take the page off him, and waited.
 
-He wrote the date at the top of it, and then a second line under the date — *given to M. Iles, Fri 22 Nov 2024* — and tore it out along the perforated edge with a thumbnail, and put it on her desk square with the writing uppermost, the way you put a sheet down in front of a person who is going to read it.
+He wrote the date at the top of it, and then a second line under the date — *given to M. Iles, Mon 23 Nov 2024* — and tore it out along the perforated edge with a thumbnail, and put it on her desk square with the writing uppermost, the way you put a sheet down in front of a person who is going to read it.
 
-She read it. It took her about eleven seconds and then she read it a second time, and then she put it down, and then she turned it round and wrote on the back of it, in her own hand, a receipt, and dated it, and initialled it, and put it in a drawer on her own side of the desk and shut the drawer.
+She read it. It took her eleven seconds and then she read it a second time, and then she put it down, and then she turned it round and wrote on the back of it, in her own hand, a receipt, and dated it, and initialled it, and put it in a drawer on her own side of the desk and shut the drawer.
 
 She did not ask what it meant. She did not ask whether the second hand was his. She did not ask whether the sentence in the other hand was true.
 
@@ -241,7 +241,7 @@ He wrote it, and then he turned the book round and made Dael Ordway read the lin
 
 "Then it wants a person, and it has got one, and I have never been in a gate book in my life and I did not expect to be and I am not going to be precious about it," said Dael Ordway.
 
-Elias Venn's own name went into the fourth column of that line, in pen, in a hand that leaned. It is on the page. It is the only entry in that book for the twenty-third of November 2024, and it is in a hut in Low Ward, and it will be produced.
+Elias Venn's own name went into the fourth column of that line, in pen, in a hand that leaned. It is the only entry in that book for the twenty-third of November 2024, and it is in a hut in Low Ward, and it will be produced.
 
 ---
 
@@ -258,7 +258,7 @@ Then the man in the hut asked what they actually wanted, and Elias Venn told him
 The clearance book is a hardback with a canvas spine and it lives in the cabin on a shelf above a kettle, and it holds about eleven months of entries, and it is kept to one line per load.
 
 > **20 OCT — FRI. Compounds, both. Pre-clearance sweep. —**
-> **22 OCT — THU. Gate hut to compound. 1 crate. 61 kg. Site compound.**
+> **22 OCT — THU. Gate hut to compound. 1 crate. 58 kg. Site compound.**
 > **23 OCT — FRI. Site contents to Broomhead Reach. 1 x 40ft steel, seal [number]. 482 kg in four lots. Balanced, paper merchant.**
 > **24 OCT — SAT. —**
 > **25 OCT — SUN. Site clear and hand back. 1 load. —**
@@ -276,7 +276,7 @@ And the four hundred and eighty-two is a weight of paper in kilograms and it is 
 
 Then he read the whole of October, because he could not help it, and the other line that mattered was the second one, and he read it about nine times.
 
-> **22 OCT — THU. Gate hut to compound. 1 crate. 61 kg. Site compound.**
+> **22 OCT — THU. Gate hut to compound. 1 crate. 58 kg. Site compound.**
 
 The gate hut is the hut they were standing in. Its contents were cleared on the Monday, not to the lorry and not to the quay, but into a crate, and the crate went thirty yards to the compound, and it is on the compound, and it has been since the twenty-second of October.
 
@@ -312,7 +312,7 @@ Dael Ordway read the third line twice and the second line twice, and then he rea
 
 "Neither of us has done anything about it."
 
-"Neither of us has done anything about it." He straightened up. "But if a caption is a lie, then a card is a lie. And a card is what we put the object on. And the object has been on plinth thirty-four with a card on it that says a thing about a bell which a man of twenty-eight admitted in a public room is not true, and I wrote four conditions in October at six in the morning, and one of them took that bell off its plinth in a public room for a period that nobody in this city can name, and I would like to know before the end of this month whether I did that because a woman in a laundrette is right about a letter, or because I read a caption and believed it."
+"Neither of us has done anything about it." He straightened up. "But if a caption is a lie, then a card is a lie. And a card is what we put the object on. And the object has been on plinth thirty-four with a card on it that says a thing about a bell which is not true, and part of that card has been cut out, and the cut is in a photograph that has been on a public register since Friday morning, and nobody in this building has ever been asked to account for it. And I wrote four conditions in October at six in the morning, and one of them took that bell off its plinth in a public room for a period that nobody in this city can name, and I would like to know before the end of this month whether I did that because a woman in a laundrette is right about a letter, or because I read a caption and believed it."
 
 Nobody answered him, because there was nothing on the sill to answer with.
 
@@ -342,7 +342,7 @@ He asked, and this is on the page, and Elias Venn wrote it at ten past four in t
 
 "Then write it. Now, while it's in your head. Time on, time off, and if anything happened to me in that compound, you write down in that book that two men were on the site, and the second man's name is on that line, and if anybody ever asks you who they were, you say you don't know — because you won't, and you'd be guessing, and a guess in a gate book is a lie with a date on it."
 
-The man wrote it in, in pen, and initialled it, and gave the page to Elias Venn and not to Dael Ordway, because Dael Ordway was on a trolley by then and had said about four words in four minutes and the last one was *don't*.
+The man wrote it in, in pen, and initialled it, and gave the page to Elias Venn and not to Dael Ordway, because Dael Ordway was on a trolley by then and had said about four words in the whole of it and the last one was *don't*.
 
 The X-ray was at twenty past two.
 
@@ -350,7 +350,7 @@ The X-ray was at twenty past two.
 > **Mr M. GREEN, FRCS (Orth).**
 > *Mid-shaft left clavicle fracture following a fall from standing height onto a wet surface in an outdoor compound. Displacement at the fracture site. No surgical indication. Analgesia, sling, district fracture clinic 8 Dec. No chest injury. No head injury. No admission.*
 
-Eight lines, and a surgeon's name, and *following a fall from standing height onto a wet surface in an outdoor compound*, which is a sentence a competent man wrote in about eleven seconds, and which is **more accurate than anything anybody wrote about it afterwards, including the man it happened to.**
+Eight lines, and a surgeon's name, and *following a fall from standing height onto a wet surface in an outdoor compound*, which is a sentence a competent man wrote in eleven seconds, and which is **more accurate than anything anybody wrote about it afterwards, including the man it happened to.**
 
 **Nobody is to blame.** It is not a formality and it is not the way institutions talk when they have decided to pay something. It is four separate things and every one of them is true on its own.
 
@@ -374,7 +374,7 @@ They were out on the frontage at ten to four with the rain coming down in a way 
 
 "Go on."
 
-"One. That gate book has your name and mine in it and no job, and it says *time on* at twenty-five past eleven and *time off* at twenty to one, because a man wrote it in, in pen, at a quarter to one in the morning, because you asked him to while you were on a trolley." Dael Ordway turned his head against the headrest, which is not a thing you want to do at ten to four. "Two. It says two men were on the site and one of us came off a hump. When Ashby's people take a statement on Friday — and they will, it is a workplace, you are an employee and I am a man who was on it — that book is the first document they have, and it has got your name in it, and not mine."
+"One. That gate book has your name and mine in it and no job, and it says *time on* at twenty-five past eleven and *time off* at ten past one, because a man wrote it in, in pen, in a car outside a casualty department at about twenty past one in the morning, because you asked him to while you were on a trolley." Dael Ordway turned his head against the headrest, which is not a thing you want to do at ten to four. "Two. It says two men were on the site and one of us came off a hump. When Ashby's people take a statement on Friday — and they will, it is a workplace, you are an employee and I am a man who was on it — that book is the first document they have, and it has got your name in it, and not mine."
 
 "Two's right."
 
@@ -402,15 +402,15 @@ They were out on the frontage at ten to four with the rain coming down in a way 
 
 He was on the front desk of the Museum of Quiet Saints at ten past seven on Tuesday morning the twenty-fourth of November with a hospital parking ticket in his coat and a paper cup of the coffee they sell in the corridor, and there were about nine people in the lobby, and one of them was on the telephone to a bonded store on a quay in Northglass, and one of them was a man of fifty-three going into a lift with a folder, and one of them was a woman of twenty-eight going into the same lift at the same moment and not looking at anybody.
 
-At twenty-five to eight Miss Arkwright telephoned the front desk herself, which she has never done in six years, and said four sentences.
+At twenty-five to eight Miss Arkwright telephoned the front desk herself, which she had never done in six years, and said four sentences.
 
-"He's not in the employ of that building and he is telling the truth about it, and that is going to be the only thing that saves this. Hold the pallet line. Properly. Today, on my system, in my hand, with a time and a reference. It is a proper hold now, not a note and not a telephone call, and it holds seventy-two hours, and after seventy-two hours it goes to a manager in an office in Northglass that I have spoken to nine times in six years. So it holds until Wednesday the twenty-sixth at ten to five in the afternoon and not one minute longer, and the collection is at eight on Thursday morning, and that is the arrangement and I have not got a way round it and neither has anybody else."
+"He's not the employer of that building any more than he is its night officer, and he is telling the truth about it, and that is going to be the only thing that saves this. Hold the pallet line. Properly. Today, on my system, in my hand, with a time and a reference. It is a proper hold now, not a note and not a telephone call, and it holds seventy-two hours, and after seventy-two hours it goes to a manager in an office in Northglass that I have spoken to nine times in six years. So it holds until nine minutes past nine on Friday, and the paper merchant's collection is at eight tomorrow morning, and that is the arrangement and I have not got a way round it and neither has anybody else."
 
 Then she said: "And the item is not yours. I have been trying since ten to seven to work out a way of saying a thing to a bonded goods clerk in the plainest words available to me, and here it is. The item is not yours. You do not own it, you cannot sign for it, you cannot give an indemnity, and you cannot give an undertaking, and if you turn up at a bonded store on Wednesday morning with a letter off a director you will be turned away by a woman with a headset and she will be right, and I am the woman with the headset. So do not come here on Wednesday with a letter off a director. Come here on Wednesday with a person."
 
 "Who," said Elias Venn.
 
-"I do not know," said Miss Arkwright. "I have six hundred loads a year and I have never once known what was in a bay in my life and I am not going to start, and there is a person in that building who is on nobody's payroll and that is not an answer, that is a man shouting, and I am saying it because I have been up since half past four and because a woman telephoned me at ten past five yesterday morning and asked me whether she could have until Friday to see whether anybody wanted to kill her, and I said no." A pause. "Tell her no was the wrong answer. Tell her it is Wednesday."
+"I do not know," said Miss Arkwright. "I have six hundred loads a year and I have never once known what was in a bay in my life and I am not going to start, and there is a person in that building who is a person to me and not an entry on a system, and I am not going to say who, because the day a clerk starts naming people in a bonded store is the day somebody says a name in a bonded store that they should not have said. So do not come here on Wednesday with a letter off a director. Come here on Wednesday with a person." A pause. "And tell whoever telephoned me at ten past five yesterday morning and asked me whether she could have until Friday to see whether anybody wanted to kill her that no was the wrong answer. Tell her it is Wednesday."
 
 The line went.
 

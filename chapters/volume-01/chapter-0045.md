@@ -1,6 +1,6 @@
 # Chapter 0045 — The Card
 
-The Hall of Former Faiths shuts to the public at four o'clock tomorrow, Friday the twenty-eighth, because a condition says so, and the shutters on the two doors are a thing the front-desk staff do themselves and are good at.
+The Hall of Former Faiths shut to the public at eleven o'clock this morning on a condition minuted on Tuesday, which is in about an hour, and the shutters go on both doors at ten past four this afternoon whatever happens in between, and the shutters are a thing the front-desk staff do themselves and are good at.
 
 The Hall has thirty-one plinths and a rope line and a case at the end of the row on the east side, and at eight o'clock on Friday the twenty-seventh of November there were about twenty people in it, most of them Museum staff, most of them working, and a number of them deliberately not looking at plinth 34.
 
@@ -16,14 +16,6 @@ What was in the room, and where, and why, was written on a sheet of Museum notep
 > **THE TABLE.** A trestle, in the middle of the floor, six feet from the rope, with the bound wage book for October 1974 on it in its sleeve with a strap on it, and the Museum's acquisition record for 1961/LW/41–52 beside it in a plastic sleeve, and nothing under the book and no case and no rope and no plinth and no card. The book goes to the families and not to the Museum. It is not accessioned and it is not to be accessioned.
 > **THE LIGHTING.** Working light only. The case lighting stays as it is because the case lighting is part of the certified condition and I am not having a condition-four argument at nine o'clock on a Friday morning.**
 
-The line the Director issued at nine o'clock on the Friday was five words long.
-
-> **The Museum of Quiet Saints hosted a meeting in the Hall of Former Faiths yesterday morning. The Museum's own records were placed in the room and available to read.**
-
-Nobody in this building has ever been able to work out whether that is a good line, and everybody in it agrees it is an accurate one, and those two facts have been sitting about four feet apart in this building since 7 November.
-
----
-
 The panel is a sheet of A4, printed, and it is the only object in this business that anybody has designed, and it was designed by a woman of fifty-four at a kitchen table in Low Ward on Sunday night with a borrowed pen, and she would not let anybody else do it, and she brought it in a plastic wallet and she did not give it to anybody.
 
 > **SILLICK MILL, LOW WARD.**
@@ -37,15 +29,15 @@ The panel is a sheet of A4, printed, and it is the only object in this business 
 > **This Museum paid no disposal fee and received nothing disposed.**
 > **Wages were administered at the works by the pay office. The pay office kept its own book. That book is on the table.**
 
-"That last line is a liberty," said Mara Iles, reading it standing up, at about half past eight, with her hands flat on the table in the loading-bay office. "You are telling a room of about seventy people that a book on a trestle is the pay office's book. You do not know that. You know a label on a spine that says *wages, pay office*, and a month and a year, and a clerk on a quay read it out. That is a label, not an identification."
+"That last line is a liberty," said Mara Iles, reading it standing up, at about half past eight, with the sheet pinned flat under her palms in the loading-bay office. "You are telling a room of eighty people that a book on a trestle is the pay office's book. You do not know that. You know a printed label under a polythene sleeve that says *wages, pay office*, and a month and a year, and a clerk on a quay read it out through the sleeve. That is a label, not an identification."
 
-"I know it's the pay office's book," said Hattie Bramm. "I was the pay office."
+"I know it's the pay office's book," said Hattie Bramm. "I was the gate. I wrote the names down at the gate on the last morning, and I carried the count in to the pay office myself, and I have read that book over my own hands."
 
-"You were the pay office for twenty-two years and you are the only person alive who can say so, and I am not asking you to say it, and the panel says *the pay office kept its own book* and the pay office kept about nine books a year and this is one of them and if anybody in that room wants to say otherwise they can come and say it to me on Friday and I will write it down." She put her hand flat on the sheet. "And that's the last liberty. The strike is on the stamp. The stamp is mine — it's this Museum's stamp, it's on the 1974 accession, and I'm the registrar and I stamped it in November and I can say when and I can say on whose authority. I stamped it because the schedule said *disposed*, and the schedule said it because a woman in a laundrette in about 1976 wrote a classification sheet for about four hundred pieces of a dead mill's paperwork and put them in a series called administrative papers, disposal, and the series name is the sentence that did it. And the sentence has been doing it for forty-eight years, and the sentence is on your panel, and my stamp is through it, and that's the whole of the reason this Museum has been holding a pay run and calling it waste paper."
+"And you are the only person in this building who can say it, and I am not asking you to say it, and the panel says *the pay office kept its own book*, and the pay office kept about nine books a year and this is one of them, and if anybody in that room wants to say otherwise they can come and say it to me on Friday and I will write it down." She put her hand flat on the sheet. "And that's the last liberty. The strike is on the stamp. The stamp is mine — it's this Museum's stamp, it's on the 1974 accession, and I'm the registrar and I stamped it in November and I can say when and I can say on whose authority. I stamped it because the schedule said *disposed*, and the schedule said it because a classification sheet, dated in the middle of the seventies, for about four hundred pieces of a dead mill's paperwork, put them into a series called administrative papers, disposal, and the series name is the sentence that did it, and the sheet is a piece of paper that has not been found and may never be found. And the sentence has been doing it for forty-eight years, and the sentence is on your panel, and my stamp is through it, and that's the whole of the reason this Museum has been holding a pay run and calling it waste paper."
 
 Elias Venn put his hand on the table.
 
-"The name," he said. "*P. Loach, fitter, Sillick Lane, Low Ward.* That's item 9 — no. It's the collection line on the 1974 receipt in drawer 6B in a drawer in a gallery, in the Museum's own hand, in a typewriter face, dated the seventh of November 1974, and it is the only worker's name that this building has ever held in connection with those eleven items, and it has been in a box file behind a fire plan on the second floor since 1974 and nobody has ever read that line out loud."
+"The name," he said. "*P. Loach, fitter, Sillick Lane, Low Ward.* It is the collection line on the Museum's own copy of the 1974 receipt, which is in a box file behind a fire plan on the second floor in the Museum's own hand, in a typewriter face, dated the seventh of November 1974, and it is the only worker's name that this building has ever held in connection with those eleven items, and the box has been opened about four times in fifty years and nobody has ever read that line out loud."
 
 "It's a receipt," said Hattie Bramm. "It's who carried the van."
 
@@ -57,7 +49,7 @@ Hattie Bramm stood in a loading bay and thought about that for about four second
 
 ---
 
-The card went on the plinth at about ten past nine, in a plastic sleeve, at a slight angle, on the front edge of plinth 34, and it is the same card. It is the same card it was in October and the same card it was on the seventh of November, and it is a card about four inches by six with a number in the top right, and it has five ruled lines on it and five things on the lines in capitals, and the six lines are not the same six lines they were in October.
+The card went on the plinth at about ten past nine, in a plastic sleeve, at a slight angle, on the front edge of plinth 34, and it is the same card. It is the same card it was in October and the same card it was on the seventh of November, and it is a card about four inches by six with a number in the top right, and it has five ruled lines on it and five things on the lines in capitals, and the five lines are not the same five lines they were in October.
 
 > **ONE QUESTION**
 > **NINE MINUTES**
@@ -101,9 +93,27 @@ The word came up in a conservation office on the first floor at about twenty pas
 
 "That is not mine," said Mara Iles. "That is Ivo's, and he put it in a conversation on Wednesday and I copied it onto a pad this morning and I have taken the credit for it, because I have a form for it and he has a plywood board, and I am not going to let a man of twenty-five go into a room on Friday carrying a rule that is not written down. Ask him. He is in a doorway eleven feet away and he will not enjoy it and he will do it."
 
+He did it, in the corridor, in about nine seconds, and he did not enjoy it.
+
+"You've taken my line."
+
+"I have taken your line," said Mara Iles. "And I have put your name against it, and if you want it back you may have it back in writing in front of the Registrar, and I will countersign the withdrawal."
+
+"That's worse."
+
+"That is much worse," she said, "and it is the reason people write things down."
+
+Ivo Pell had a plywood board under his arm with the eighty names on it in Hattie Bramm's order and a line of masking tape on it at the height of the second bolt, and he had been in the north door since half past eight, and he had a jug of water and eleven cups on the sill because nobody had asked him to and because a man who stands in a door for nine minutes in a room of eighty people is a man who has to be able to offer somebody a drink.
+
+"You will not be all right about saying it," he said. "That is on the back of the card in my own hand and I wrote it on the twenty-fourth of October at twenty to nine at night in a loading bay for nobody, and I have had eight weeks to take it off and I have not taken it off, and I am telling you now, in a corridor, at about ten to ten, that if I read it out this morning then that is the end of it and not a drill, and you will not get a second session out of me or out of anybody else in this building, and I have thought about that every day since October and I have decided it and I have told two people and one of them is a conservator with a pad."
+
+"I know."
+
+"You do not know, because nobody does. That is the arrangement." He shifted the board. "And the list is Hattie's and there is a name against every one of the eighty and I have not read any of them and I am not going to, and if somebody comes to the door without a name on that list they come in, because condition four is a limit and not a test, and I have written that on the board under the tape in marker pen where they can see it, and the Chair of the sub-group read it on Tuesday and did not take it down."
+
 ---
 
-And the abandonability, which is the whole of it, and which is the thing in this whole chapter that nobody has ever seen him do before.
+And the abandonability, which is the whole of it, and which is the thing nobody has ever seen him do before.
 
 He had spent six weeks learning that the only way he could get into a room was to be the man in it, and that every room he got into that way had cost somebody else something — a gallery, a post, a cage, a bay, a bone — and that the reason he was good at it and the reason it was fatal was the same sentence: *he is the only person who can do it and therefore he is always the one asked.*
 
@@ -113,7 +123,7 @@ He had spent six weeks learning that the only way he could get into a room was t
 
 "That is not abandoning it. That is somebody else stopping you. Those are different and the second one is worth nothing to you." She had her arms folded. "What is *you* stopping it."
 
-Elias Venn stood in a conservation office and worked it out slowly, the way he works everything out, and it took about nine seconds, and the nine seconds are on the page because they are the entire character of the volume in nine seconds of clock.
+Elias Venn stood in a conservation office and worked it out slowly, the way he works everything out, and it took about nine seconds, and neither of them said anything for the length of them, and what he worked out in them is the reason there is a card on a plinth in a public gallery at half past ten tomorrow.
 
 "The nine minutes end at nine minutes," he said. "Whether it has answered or not. Whether I have got anything or not. And if it has not answered by then, then it has not answered, and I do not get nine more, and I do not get a second question, and I do not get to try it again in a loading bay at one in the morning on a Sunday with a different anchor card."
 
@@ -125,7 +135,7 @@ The conservation office was very quiet, and there was a tray of accession cards 
 
 "Say the second one again."
 
-"I don't read anything again. Ever. Not the case, not the lamp, not a box in a cage, not a table in Ferry Bank, not a thing in a drawer in a laundrette." He put his hands flat on the table, which he does and which Mara Iles has watched him do about nine times in six weeks and has never once told him to stop. "That's what abandoning it is. It's not nine minutes. It's the rest of it. Because as long as it's there it's the reason I get in the rooms, and the rooms are the whole of what I do, and I have been the only man who can hear something in a public museum for six weeks and the only reason that has not destroyed this building is that the people I have been doing it to have been *competent*."
+"I don't read anything again. Ever. Not the case, not the lamp, not a box in a cage, not a table in Ferry Bank, not a thing in a drawer in a laundrette." He put both hands down on the table, which he does, and which Mara Iles has watched him do about nine times in six weeks and has never once told him to stop. "That's what abandoning it is. It's not nine minutes. It's the rest of it. Because as long as it's there it's the reason I get in the rooms, and the rooms are the whole of what I do, and I have been the only man who can hear something in a public museum for six weeks and the only reason that has not destroyed this building is that the people I have been doing it to have been *competent*."
 
 "That is the first thing you have said in six weeks that I have not known already," said Mara Iles. "I want it in a file, and I am going to have to ask you what file, and we both know there isn't one, and I am going to write it on the pad with the two lines I copied off a man in a doorway and put it in my own file under my own name, and you will sign it if you sign anything at all."
 
@@ -141,9 +151,9 @@ The conservation office was very quiet, and there was a tray of accession cards 
 
 The question was on the back of the second page in pencil, and he wrote it at about a quarter to ten at a bench in the lobby, because it is the only bench in that building that anybody is not watched from.
 
-> **Whether the number that has been spoken in this room is the number of the people who came through the gate of the Sillick Mill on the morning of the thirtieth of October 1974, being the last working day.**
+> **Whether a number spoken in this room is the number of the people who came through the gate of the Sillick Mill on the morning of the thirtieth of October 1974, being the last working day.**
 
-One question. Twenty-nine words. It does not ask what the bell is for, which is the question he asked in front of fifty-one people on the seventh of November, and it does not ask whose hands, which is the question he asked in a loading bay on the twenty-fifth of October, and it does not ask where a number came from, which is the question he could not answer in a solicitor's office in Irving Quay on the fourteenth of November.
+One question. Thirty-six words. It does not ask what the bell is for, which is the question he asked in front of fifty-one people on the seventh of November, and it does not ask whose hands, which is the question he asked in a loading bay on the twenty-fifth of October, and it does not ask where a number came from, which is the question he could not answer in a solicitor's office in Irving Quay on the fourteenth of November.
 
 It does not ask about God, or a pattern, or a carried act, or a shrine, or a saint, or a name.
 
@@ -151,7 +161,7 @@ It asks whether a number is true.
 
 And he wrote the cost under it, because the cost goes on the card, and the card is the whole of the procedure:
 
-> **COST, NAMED BEFORE SO THAT NOBODY CAN SAY AFTERWARDS THAT I DID NOT KNOW: one name. Not mine to choose. If it takes one it takes one I have. I have a hundred and fifteen pages and a name in a coat pocket in Ferry Bank and a woman of fifty-four in this building and a woman of seventy-eight at a table with a fire on and a man of seventy-eight in Northglass with a plastic carrier bag and a Director with a folder and a man of seventy-four in a sling and a Director of this Board in a room upstairs. If it takes a name, it takes one of those, and I will not be able to say afterwards which one, and I will be able to read it off a page.**
+> **COST, NAMED BEFORE SO THAT NOBODY CAN SAY AFTERWARDS THAT I DID NOT KNOW: one name. Not mine to choose. If it takes one it takes one I have. I have a hundred and fifteen pages and a name in a coat pocket in Ferry Bank and a woman of fifty-four in this building and a woman of seventy-eight at a table with a fire on and a man of seventy-eight in a hired room in Ferry Bank with a plastic carrier bag and a Director with a folder and a man of forty-four in a sling and the Chair of this Board in a room upstairs. If it takes a name, it takes one of those, and I will not be able to say afterwards which one, and I will be able to read it off a page.**
 > **And I am telling the room what that is so that the room knows what it is being used for.**
 
 ---
@@ -172,7 +182,7 @@ Three typed names on a sheet, in a small neat hand, with no relationship against
 
 "Then why bring it."
 
-"Because on Friday it's going into a file," said Hattie Bramm, "and I have decided that the file is the conciliation service's and not yours, and it gets there because I hand it to a woman with a form at a table in a room with about seventy people in it, and because there are three of them and there may be more and the only way anybody is ever going to know that is if somebody writes them down, and it is not going to be me, because I have been the woman who knows the names for nine years and it has made me the woman who gets asked in kitchens."
+"Because on Friday it's going into a file," said Hattie Bramm, "and I have decided that the file is the conciliation service's and not yours, and it gets there because I hand it to a woman with a form at a table in a room with eighty people in it, and because there are three of them and there may be more and the only way anybody is ever going to know that is if somebody writes them down, and it is not going to be me, because I have been the woman who knows the names for nine years and it has made me the woman who gets asked in kitchens."
 
 "Whose file."
 
@@ -182,16 +192,4 @@ Three typed names on a sheet, in a small neat hand, with no relationship against
 
 ---
 
-**Anja Ward** came into the Hall of Former Faiths at ten minutes to ten on the Friday morning and was not introduced to anybody, and stood against the east wall about eleven feet from plinth 34 with her folder, and did not stand near the case, and nobody spoke to her for about an hour.
-
-And at about ten past ten, when the count had been said and the shortfall had been read out name by name out of a book on a trestle table and nobody in the room had done the sum, and before the book was moved, the Director of this institution stood up against a wall and told about seventy people what this Museum did in 1974, in about fifty seconds, without a document.
-
-"This Museum bought that mill office on the seventh of November 1974 for no disposal fee, from a firm of solicitors who had been asked by the mill's pay clerk to look at her own wages, sixteen days earlier, and the letter she wrote them is in their destruction schedule and the letter was destroyed in 1979 under a schedule approved by a partner of that firm, and the only reason we know that it existed is that a man in that firm wrote a cross-reference in ink on a schedule in 2024 and initialled it, and he did that in about nine minutes and he did not have to." She had her hands behind her back. "We also accessioned, in the same year, a page that was not a mill document, on our own typewriter, four days after the purchase, and we called it Sillick Mill administrative papers, disposed, and the word *disposed* is the sentence that has cost that book its own name for forty-eight years. That page is on the table with the rest of the record and you may read it and I would encourage you to."
-
-Nobody in the room thanked her and nobody said anything and two people near the back were writing.
-
-"So when you ask me on the twenty-fourth of November to open this room, understand that I am not being generous. I am being the Director of an institution that did the thing, and the only two ways to be that are to say so in a room, or to have somebody else say it in a room with my minute attached, and I have decided which one I would rather be, and it is not the second one, and that is the entire extent of my virtue in this business and I have had it available to me for about four minutes."
-
-Then she sat down against the wall, and it was the end of it, and the last hour of November in the Hall of Former Faiths of the Museum of Quiet Saints is not a ceremony and has not been described by anybody since as a ceremony, and about sixty people who were in it have said, in the last four weeks, in about nine different rooms, that the thing they remember is not the number and not the bell and not the book.
-
-They said it was a director, standing against a wall, at ten past ten in the morning, with her hands behind her back, saying *we bought it for nothing* to about seventy people at once, and sitting down afterwards.
+**Anja Ward** came into the Hall of Former Faiths at ten minutes to ten on the Friday morning and was not introduced to anybody, and stood against the east wall about eleven feet from plinth 34 with her folder, and did not stand near the case, and said nothing to anybody for the whole of the first hour, and about sixty people who were in that room have said, since, in about nine different rooms, that the thing they remember is not the number and not the bell and not the book, and that they cannot tell you what it is they remember, and that they have all tried.

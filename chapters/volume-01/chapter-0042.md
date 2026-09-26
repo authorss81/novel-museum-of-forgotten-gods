@@ -58,11 +58,11 @@ She took a second sheet, and typed on it for about nine minutes, and it came out
 
 "Will it be enough?"
 
-"No," said Mara Iles. "It will be enough for today. In about six weeks a man of fifty-three is going to sit in a room with about seventy people in it and be told by a woman of fifty-four that a list of names is the only thing in this business that cannot be a receipt or an exhibit or a schedule of contents, and she will be right, and a schedule of contents with one line in it that says *not ours, and here is why* is the only answer anybody in this building is going to have for the rest of this."
+"No," said Mara Iles. "It will be enough for today. In about three days a woman of fifty-four is going to stand in a room with eighty people in it and be told by a registrar that a list of names is the only thing in this business that cannot be a receipt or an exhibit or a schedule of contents, and she will be right, and a schedule of contents with one line in it that says *not ours, and here is why* is the only answer anybody in this building is going to have for the rest of this."
 
 ---
 
-The signature is at four minutes past eleven in the morning on Tuesday the twenty-fourth of November, in a director's office, on a Monday-and-a-half-old form, and it takes about four seconds, and Anja Ward does not make a speech about it, which is the whole of what she is doing.
+The signature is at four minutes past eleven in the morning on Tuesday the twenty-fourth of November, in a director's office, on the second of two sheets that came out of the conservation office that morning, and it takes about four seconds, and Anja Ward does not make a speech about it, which is the whole of what she is doing.
 
 "There," she said. "That is now a Museum record, dated the twenty-fourth, under a request dated the twenty-fourth, and it came in by a route I have not used in nineteen years, which is a form from a cupboard that goes out with compliment slips." She put the pen down. "It is worth about eleven times what the first package of yours is worth, and it took nine months, and the difference is the box five."
 
@@ -90,7 +90,7 @@ She said them fast and she said them in the order of the risk rather than the or
 
 "What is the shape."
 
-"The shape is that this Museum has exactly one category of person in it who is not on anybody's payroll and is not on any rota and is not on any contract return and cannot be instructed, and who works for a services contractor that has no claim on anything at all, and there is no column anywhere in this building's paperwork in which that person can be written." She looked up. "That is the answer, and I have had it since about a quarter to eight this morning, and I have said it to you in one sentence and I am not going to say it again, and if you go and get that man and use that as the reason then I will know, and I will think about it every time I see you for the rest of my life, and I would rather you did not do it on a Friday and did it on a Tuesday when there is nobody in a room."
+"The shape is that this Museum has exactly one category of person in it who is not on anybody's payroll and is not on any rota and does not appear on any contract return of this building's, and cannot be instructed, and who works for a services contractor that has no claim on anything at all, and there is no column anywhere in this building's paperwork in which that person can be written." She looked up. "That is the answer, and I have had it since about a quarter to eight this morning, and I have said it to you in one sentence and I am not going to say it again, and if you go and get that man and use that as the reason then I will know, and I will think about it every time I see you for the rest of my life, and I would rather you did not do it on a Friday and did it on a Tuesday when there is nobody in a room."
 
 ---
 
@@ -116,7 +116,7 @@ He did not tell him he was going to be asked to carry it, because he had not dec
 
 "No."
 
-"It's me," said Perry Loach. "That's what it is. You've had a woman on a telephone tell you a museum can't have it, and a Director tell you the answer's the shape of a person, and you've come down here to the doorway to tell a man with a mop." He did not raise his voice, because in eleven years nobody in this corridor has ever needed to. "Six weeks. Six weeks and there's been about four people in this building who wanted something off me and every one of them wanted me to *say* something. The foreman in October wanted me to say a thing about a date in a corridor and I said it and it went in a log. A woman of fifty-four gave me four minutes of her in a gallery on the Saturday and I wrote it down and gave it away. On the seventh of November I stood forty feet off a case with fifty-one people in the room and I said a thing out loud that I had not said since 1974, and a child finished a sentence I started, and I have not slept properly since." He turned the mop round in his hands. "And now you've come and asked me. And it's not *say something*. It's *be somewhere*."
+"It's me," said Perry Loach. "That's what it is. You've had a woman on a telephone tell you a museum can't have it, and a Director tell you the answer's the shape of a person, and you've come down here to the doorway to tell a man with a mop." He did not raise his voice, because in eleven years nobody in this corridor has ever needed to. "Six weeks. Six weeks and there's been about four people in this building who wanted something off me and every one of them wanted me to *say* something. The foreman in October wanted me to say a thing about a date in a corridor and I said it and it went in a log. A woman of fifty-four gave me four minutes of her in a gallery on the Sunday and I wrote it down and gave it away. On the seventh of November I stood forty feet off a case with fifty-one people in the room and I said a thing out loud that I had not said since 1974, and a child finished a sentence I started, and I have not slept properly since." He turned the mop round in his hands. "And now you've come and asked me. And it's not *say something*. It's *be somewhere*."
 
 "Yes."
 
@@ -124,11 +124,11 @@ He did not tell him he was going to be asked to carry it, because he had not dec
 
 "All right."
 
-"I'm not saying no because of you. I'm saying no because of the mop and the hour and the fact that I do it because I am here and not because anybody sent me, and if I'm in a bonded warehouse at eight in the morning on Thursday instead of on a floor at six in the morning on Thursday then somebody at that building is going to say to a supervisor *your man wasn't in*, and there's no supervisor, there's a grid, and the grid says west range one hour, and I'll be a half hour short on Thursday and a half hour long on Friday and the contractor will take it out of my hours and I can't afford to lose a half hour."
+"I'm not saying no because of you. I'm saying no because of the mop and the hour and the fact that I do it because I am here and not because anybody sent me, and if I'm in a bonded warehouse at eight in the morning on Wednesday instead of on a floor at six in the morning on Wednesday then somebody at that building is going to say to a supervisor *your man wasn't in*, and there's no supervisor, there's a grid, and the grid says west range one hour, and I'll be a half hour short on Thursday and a half hour long on Friday and the contractor will take it out of my hours and I can't afford to lose a half hour."
 
 "I'll speak to—"
 
-"You can't speak to it, you're not the employer, you're a man who is not on the payroll, and I know that, and it's the only reason I'm having this conversation in a doorway instead of walking past." He shifted the mop. "Ask me tomorrow. And ask me with a piece of paper."
+"You can't speak to it, you're not the employer, you're a man who can't be instructed about it, and I know that, and it's the only reason I'm having this conversation in a doorway instead of walking past." He shifted the mop. "Ask me tomorrow. And ask me with a piece of paper."
 
 "What kind of piece of paper."
 
@@ -138,7 +138,7 @@ He picked the bottle off the sill and went up the bay with the machine off, and 
 
 ---
 
-Mara Iles made the form at about ten past one on the Tuesday afternoon, in about four minutes, on one sheet of Museum notepaper, printed on the front, and it is the fifth form this volume has had and it is the smallest.
+Mara Iles made the form at about ten past one on the Tuesday afternoon, in about four minutes, on one sheet of Museum notepaper, printed on the front, and it is the fifth form this business has had this month and it is the smallest.
 
 > **MUSEUM OF QUIET SAINTS — ATTENDANCE ON BEHALF OF ANOTHER (NON-STAFF).**
 > **1. Person (name as it is to appear).** [ ]
@@ -158,7 +158,7 @@ Mara Iles made the form at about ten past one on the Tuesday afternoon, in about
 
 "Who witnesses it."
 
-"I do," said Mara Iles. "And I will not sign as an officer. I will sign *M. Iles, Senior Conservator and Accession Registrar*, which is what I sign on everything, and I have been told twice this month by two different people that I am not an officer of this Museum, and on Friday the twenty-second I wrote a box on a form that said the only reason a document was worth nothing was that nobody had asked for it, and I am not going to be an officer on a piece of paper that puts a man in a bonded warehouse at eight in the morning." She put the pen down. "And that is the third refusal of mine that people will think is generosity and is not."
+"I do," said Mara Iles. "And I will not sign as an officer. I will sign *M. Iles, Senior Conservator and Accession Registrar*, which is what I sign on everything, and I have been told twice this month by two different people that I am not an officer of this Museum, and this morning I watched a man fill in a box on a form that said the only reason a document was worth nothing was that nobody had asked for it, and I am not going to be an officer on a piece of paper that puts a man in a bonded warehouse at eight in the morning." She put the pen down. "And that is the third refusal of mine that people will think is generosity and is not."
 
 ---
 
@@ -176,7 +176,7 @@ At ten past one, at a table in a front room at 12 Ferry Bank, second floor, firs
 
 "Mara has said the same thing to me in a corridor in about the same words."
 
-"Then Mara Iles and I have been having the same conversation separately for five weeks, and neither of us knew, and that is the correct way round and I am glad of it." Doreen Sarn put both hands flat on the tablecloth. "Two. I will not sign anything. Not the release, not the receipt, not the handover, not a note saying I was there. You asked me in October to let a woman from the conciliation service read a figure off a piece of paper into a tape, and I said no, and I said it for a reason I gave you then, and the reason was that the second I stand up in a room I become a piece of paper, and I have been a piece of paper and it has cost me the rest of my life."
+"Then Mara Iles and I have been having the same conversation separately for five weeks, and neither of us knew, and that is the correct way round and I am glad of it." Doreen Sarn spread both hands on the tablecloth. "Two. I will not sign anything. Not the release, not the receipt, not the handover, not a note saying I was there. You asked me in October to let a woman from the conciliation service read a figure off a piece of paper into a tape, and I said no, and I said it for a reason I gave you then, and the reason was that the second I stand up in a room I become a piece of paper, and I have been a piece of paper and it has cost me the rest of my life."
 
 "Then who signs the receipt on Friday."
 
@@ -184,7 +184,7 @@ At ten past one, at a table in a front room at 12 Ferry Bank, second floor, firs
 
 "That leaves four."
 
-"Four is what I will give you, and you are not going to like it, so I am going to say it now while I have got the nerve." She sat back. "You are not going to put the book in a case. You are not going to put it on a plinth with a rope line and a card and a pound a head. You are going to put it on a trestle table in the middle of that floor and you are going to let about seventy people walk round it and touch it if they want to, because it is a wage book and not a relic, and it has been in a warehouse in a polythene sleeve since the twelfth of November, and it has been carried to a museum in a plastic bag by a man who is on nobody's payroll, and if the first thing that happens to it in a public room in this city is that it goes behind glass with a card on it then we will have spent fifty years and one broken collarbone to put a lie on a table."
+"Four is what I will give you, and you are not going to like it, so I am going to say it now while I have got the nerve." She sat back. "You are not going to put the book in a case. You are not going to put it on a plinth with a rope line and a card and a pound a head. You are going to put it on a trestle table in the middle of that floor and you are going to let eighty people walk round it and touch it if they want to, because it is a wage book and not a relic, and it has been in a warehouse in a polythene sleeve since the twelfth of November, and it has been carried to a museum in a plastic bag by a man who is on nobody's payroll, and if the first thing that happens to it in a public room in this city is that it goes behind glass with a card on it then we will have spent fifty years and one broken collarbone to put a lie on a table."
 
 Elias Venn did not say anything for about four seconds.
 
@@ -202,7 +202,7 @@ She drank her tea.
 
 ---
 
-The letter to the company went into the post box in Lantern Row at about four o'clock on **Monday** the twenty-fifth, on his way back from the Sillick Lane branch library with a book of the Museum's constitution in a plastic wallet, and it is four lines and a signature, and the signature is his own and not anybody else's, and he wrote it in the café on the corner with his back to the wall where he can see both doors, which is the only room in this city where nobody has ever asked him a single question.
+The letter to the company went into the post box in Lantern Row at about four o'clock on **Tuesday** the twenty-fourth, on his way back from the Sillick Lane branch library with a book of the Museum's constitution in a plastic wallet, and it is four lines and a signature, and the signature is his own and not anybody else's, and he wrote it in the café on the corner with his back to the wall where he can see both doors, which is the only room in this city where nobody has ever asked him a single question.
 
 > **To Hallowgate Holdings.**
 > **24 November 2024.**
@@ -225,7 +225,7 @@ She was about fifty-five and she had a case and a body camera and a printed list
 
 "And who opened that drawer."
 
-"Drawer six B?"
+"Drawer 6B?"
 
 "Drawer six B." The assessor looked at the day book that was under her arm, or at a photograph of it. *Drawer 6B, Gallery of Unnamed Hands, closed. Contents undisturbed. No item removed. Reason: drawer was open in a public room.* "Closed on the fifteenth of November at twelve minutes past five in the afternoon, Sunday, by E. Venn, member of the public, signed in at ten past ten, his own initials and the time in the day book, and in your own Museum's day book, in your own Museum's hand."
 
@@ -235,7 +235,7 @@ She was about fifty-five and she had a case and a body camera and a printed list
 
 "No."
 
-"And he was in a public gallery on a Sunday holding a drawer open in a public room in a public gallery with a flat file in it, and he shut it, and he wrote down why, and he signed it, and he put it in your record." The assessor wrote for about eleven seconds. "Who authorised that?"
+"And he was in a public gallery on a Sunday holding a drawer open in a public room in a public gallery with a flat file in it, and he shut it, and he wrote down why, and he signed it, and he put it in your record." The assessor wrote for eleven seconds and then read the line back to the room. "Who authorised that?"
 
 Nobody in the room answered for about four seconds.
 
@@ -267,7 +267,7 @@ His mother was folding a sheet on the trolley and did not look round.
 
 "I don't know."
 
-"Then you didn't give her a date, you gave her the fact that you'd given her a date, which is a lawyer's answer and it's a good one, and I have taught you that." His mother put both hands flat on the trolley. "Now. Are you going to open it?"
+"Then you didn't give her a date, you gave her the fact that you'd given her a date, which is a lawyer's answer and it's a good one, and I have taught you that." His mother turned both hands over on the trolley. "Now. Are you going to open it?"
 
 "No."
 
@@ -303,15 +303,15 @@ He did not answer that, and she did not require it, and it is the last thing she
 
 The Board's pack went up on the Board Secretary's board at ten past eight on Tuesday morning and came down again at about ten to ten, and there is a thing that happened in that pack which only three people in the building know about, and it is this.
 
-On the Friday, at some point in the afternoon, the Director had signed the disclosure form.
+On the Friday, at about eleven in the morning, the Director had signed a disclosure request.
 
 She had said on the Tuesday of the seventeenth of November that she would sign it on Friday or write to them on Friday and say why not, and she had given them a date, and it was the first date anybody in this building had got out of her in five weeks, and Mara Iles had written *Friday, or a written reason* on a card in the conservation office and initialled it.
 
-On the Friday the twentieth, at about eleven in the morning, Anja Ward signed a printed form with eight boxes on it and no number on it, in her own office, and wrote a two-line letter to the Registrar's office that said the document was to be brought into a Museum file under the date of the request, and that the request was dated the fourteenth of October, and that the Director was signing twenty days after it was made and was not going to pretend otherwise about that either.
+On the Friday the twentieth, at about eleven in the morning, Anja Ward signed the first of the two disclosure requests — the four hundred words of the fourteenth of October, the first package — in her own office, and wrote a two-line letter to the Registrar's office that said the document was to be brought into a Museum file under the date of the request, and that the request was dated the fourteenth of October, and that the Director was signing thirty-seven days after it was made and was not going to pretend otherwise about that either.
 
 > **M. Iles —**
 > **Signed. 20 Nov 2024, 11:02.**
-> **Six days late. I did not do it in six days because in six days I read a determination on a public register that named a gallery and a date and a room with children in it, and I have been a director for nineteen years and I have never once had that happen, and I wanted to sit with it for a day before I made anything else permanent.**
+> **Thirty-seven days late. I did not do it in thirty-seven days because in the last two of them I read a determination on a public register that named a gallery and a date and a room with children in it, and I have been a director for nineteen years and I have never once had that happen, and I wanted to sit with it for a day before I made anything else permanent.**
 > **I am not going to ask you to take the date off the request.**
 > **A. WARD**
 

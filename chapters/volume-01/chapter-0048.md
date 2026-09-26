@@ -2,19 +2,19 @@
 
 The minute of the review is four lines long and it is the only document anybody in this building has ever fought over and nobody in this building has fought over it and everybody in this building has read it.
 
-Anja Ward gave it to him by hand on Friday the twenty-ninth of November at about half past eight in the evening, at the front desk, in a plastic sleeve with a copy stapled to the back of it, and she did not come out of her office for it, and she said *you are barred from this building as from the morning of Monday, and I have come down to the lobby to give you this by hand so that it is not handed to you over a counter, and that is the last thing I am going to do for you in this building.*
+Anja Ward gave it to him by hand on Sunday the twenty-ninth of November at about half past eight in the evening, at the front desk, in a plastic sleeve with a copy stapled to the back of it, and she did not come out of her office for it, and she said *you are barred from this building as from the morning of Tuesday, and I have come down to the lobby to give you this by hand so that it is not handed to you over a counter, and that is the last thing I am going to do for you in this building.*
 
 Elias Venn read it standing up, at a public counter, in an empty lobby, because he has read four hundred pages of Museum minutes in six weeks standing up and sitting down is a decision and he had not made it.
 
 > **MUSEUM OF QUIET SAINTS — REVIEW. E. VENN.**
 > **Wednesday 25 November 2024, 09:25–09:55. Present: A. WARD, Director. M. ILES, Senior Conservator and Accession Registrar (minute taken).**
 > **1.** That the suspension of 11 October 2024 in respect of work order 4412-S is **lifted**, no finding of fault having been found or being capable of being found after six weeks, and that work order 4412-S be closed with no finding.
-> **2.** That **E. Venn's appointment as night officer is terminated** with effect from **Monday 8 December 2024** by the Director's decision under clause 11 of the Museum's Constitution, **no fault being found and no right of appeal being conferred.**
+> **2.** That **E. Venn's appointment as night officer is terminated** with effect from **Tuesday 8 December 2024** by the Director's decision under clause 11 of the Museum's Constitution, **no fault being found and no right of appeal being conferred.**
 > **3.** That E. Venn is **barred from the building** as from 1 December 2024, as a security matter, save that he may attend any hearing or inquiry at which he is a party or a witness, on notice, in company, and not before eight o'clock in the morning.
 > **4.** That the Museum records that **E. Venn has no conduct complaint outstanding, that the record contains no finding of misconduct, and that the Museum has not investigated the conduct of any person in the matter of the Hall of Former Faiths.**
-> **5.** A. WARD, Director. Copy to E. Venn. **Copy not to be given to the press.**
+> **Signed.** A. WARD, Director. Copy to E. Venn. **Copy not to be given to the press.**
 
-He read it four times on the Friday night and then on the Saturday morning he did the dead letters at his mother's kitchen table, and there were three hundred and forty-nine of them, and he did not write the number down, and the number has not meant anything since about four hundred of the time.
+He read it four times on the Sunday night and then on the Monday morning he did the dead letters at his mother's kitchen table, and there were three hundred and forty-nine of them, and he did not write the number down, and the number has not meant anything since about four hundred of the time.
 
 Here is what the four lines do, and it is worth doing slowly, because it is the ending of his job and it is a form, and this is a book about forms.
 
@@ -22,7 +22,7 @@ Here is what the four lines do, and it is worth doing slowly, because it is the 
 
 **Line two takes away the other thing, and the two lines are in the same paragraph and there is no way to have one without the other.**
 
-**Line three bars him from the building as a security matter, effective the day before his last day as an employee of it.** Which means that for the whole of the week beginning Monday the first of December he was a suspended man with a post and no access to the post, and the building he had been in thirty-nine days and six weeks was a building he could stand outside in the rain and look at, and which he had entered in six weeks by five separate lawful doors: a visitors' book as a member of the public, a statutory inspection with a member of the public present, a registrar with a key, a supervisor's written authority, and a day book at a front desk.
+**Line three bars him from the building as a security matter, effective a week before the last day of the post, and there is nothing to appeal about it, because it is not a finding.** Which means that for the whole of the week beginning on the first of December he was a suspended man with a post and no access to the post, and the building he had been in thirty-nine days was a building he could stand outside in the rain and look at, and which he had entered in six weeks by five separate lawful doors: a visitors' book as a member of the public, a statutory inspection with a member of the public present, a registrar with a key, a supervisor's written authority, and a day book at a front desk.
 
 **Line four is the one he has read most.**
 
@@ -38,11 +38,11 @@ He got the meeting on the Wednesday, at twenty-five past nine, in an office with
 
 He got about four minutes of it. That is on the page because he wrote it down afterwards and the number is the number.
 
-Anja Ward read him line two and said, "You have eight days' notice and I have given it to you in writing and I would have given you twenty-one if the date had been mine to move, and it is not, because there is a sub-group sitting on Monday and a hearing report to write and a register to restore, and because a director who moves a date for one person has to move it for everybody and I have not got the four years." She put the minute down. "And I am going to say the thing I have to say and it is the only thing I have, and then I am going to let you say whatever you came to say, and I am not going to interrupt."
+Anja Ward read him line two and said, "You have thirteen days' notice and I have given it to you in writing and I would have given you twenty-one if the date had been mine to move, and it is not, because there is a sub-group sitting on Tuesday and a hearing report to write and a register to restore, and because a director who moves a date for one person has to move it for everybody and I have not got the four years." She put the minute down. "And I am going to say the thing I have to say and it is the only thing I have, and then I am going to let you say whatever you came to say, and I am not going to interrupt."
 
 "Yes."
 
-"**You are not being dismissed for anything and you are losing the post, and both of those are true at the same time, and there is no document in this country that can hold both of them at once except that one.**" She did not raise her voice. "Eleven weeks ago I would have given you the post back and kept you on nights, and you would have been a man in a building with a roster and a grade and a pension, and in about nine weeks somebody would have asked me a question about a corridor in a gallery at one in the morning and I would have had to look at your record and your record would have said *I did not find out.* And you would have been protected by your own file. And that is how it is done, and I have watched it done, and I did it myself for nine years and it took a bell."
+"**You are not being dismissed for anything and you are losing the post, and both of those are true at the same time, and there is no document in this country that can hold both of them at once except that one.**" She did not raise her voice. "A month ago I would have given you the post back and kept you on nights, and you would have been a man in a building with a roster and a grade and a pension, and in about nine weeks somebody would have asked me a question about a corridor in a gallery at one in the morning and I would have had to look at your record and your record would have said *I did not find out.* And you would have been protected by your own file. And that is how it is done, and I have watched it done, and I did it myself for nine years and it took a bell."
 
 "That isn't a reason."
 
@@ -56,15 +56,15 @@ Elias Venn looked at the yard through the window for about eleven seconds.
 
 "That it's not me that's the problem. That it's the *investigating*." He put his hands flat on his knees. "I have spent six weeks finding out that everything I have is a procedure with a person in front of it. The stay was a form. The register is a form. The claim was a form. The disclosure is a form. The hold was a form. Every single thing that has happened to the families in this case got through a piece of paper and a person who is competent and who did not have to be brave. And in four weeks' time a woman in Northglass is going to sit in a room and decide whether a carried pattern may be displayed in a room, and she will have no form about me in it at all, and there is nobody in the world who can do the thing I can do, and I cannot do it either any more, because I put it down on a card in a public gallery on Friday morning and said *I don't read anything again*, and a man of twenty-five in a doorway has a paragraph in his pocket that can stop me and I have never heard him say it."
 
-"Yes," said Anja Ward. "That is right. And you are the only person in this city who worked that out in a fortnight and you are twenty-four in a fortnight's time, and I am not going to be the person who tells a twenty-four-year-old that he is right, because you are not, because the working-out took a bell and a woman of seventy-eight and a man in overalls and a clerk on a quay who has never known what was in a bay in her life, and none of those four people worked it out and all of them did the work."
+"Yes," said Anja Ward. "That is right. And you are the only person in this city who worked that out in a fortnight, and you are thirty-two, and I am not going to be the person who tells a thirty-two-year-old that he is right, because you are not, because the working-out took a bell and a woman of seventy-eight and a man in overalls and a clerk on a quay who has never known what was in a bay in her life, and none of those four people worked it out and all of them did the work."
 
 "Then what am I."
 
-"That is the question for the last twenty minutes and I have about eleven minutes of your time and no answers, and I am going to let you have the eleven minutes, and I am going to sit here and not help you, and I am telling you that I am not helping you on purpose, because you have had six weeks of people helping you and about four of them have been right."
+"That is the question for the last twenty minutes and I have eleven minutes of your time and no answers, and I am going to let you have the eleven minutes, and I am going to sit here and not help you, and I am telling you that I am not helping you on purpose, because you have had six weeks of people helping you and about four of them have been right."
 
 ---
 
-**On Friday the twenty-ninth of November at about twenty to nine at night he gave back a card and a key ring and a radio and a torch.**
+**On Sunday the twenty-ninth of November at about twenty to nine at night he gave back a card and a key ring and a radio and a torch.**
 
 The card is a building card and it is a *card*, and it is not a pass, and it opens doors, and it is on a key board with a time column that nobody reads, and it was issued to him in September 2021 and had his photograph on it and a grade on it, and the grade on it was **NIGHT OFFICER**, which is the only job title anybody has ever given him that was not a courtesy.
 
@@ -78,17 +78,17 @@ The woman at the key board in the security room is called **Mrs Farrier** and sh
 
 "That's the best thing anybody has said to me in six weeks," said Elias Venn.
 
-"It's not a thing," said Mrs Farrier. "It's a Tuesday."
+"It's not a thing," said Mrs Farrier. "It's a Sunday."
 
 He put the card on the board and she wrote **21:40** against it, and that is the last entry on that line, and there is a card number against the time and a number is all it is.
 
 And then, because a suspended man is not a leaver, and a leaver's things are searched, **nobody looked in his coat.**
 
-There is no form for it. There is no clause. He stood at a key board on the ground floor of a building he had worked in for three years with a coat on and a torch in it and a day book open on the counter and a hundred and fifteen pages in the inside pocket, and a woman of fifty-eight wrote a time against a card number and said *that's a Tuesday*, and nobody looked, and nobody has ever known that there was anything to look at, and **that is his punishment and it is his reward and they are the same object, and it is the most accurate description of Elias Venn's entire six weeks that anybody has produced, including himself, and it was produced on a Friday night in December by a woman who does the key board.**
+There is no form for it. There is no clause. He stood at a key board on the ground floor of a building he had worked in for three years with a coat on and a torch in it and a day book open on the counter and a hundred and fifteen pages in the inside pocket, and a woman of fifty-eight wrote a time against a card number and said *that's a Sunday*, and nobody looked, and nobody has ever known that there was anything to look at, and **that is his punishment and it is his reward and they are the same object, and it is the most accurate description of Elias Venn's entire six weeks that anybody has produced, and he is not going to argue with it, and it was produced on a Sunday night in November by a woman who does the key board.**
 
 He wrote it down that night, and the line is:
 
-> **Fri 29 Nov, 21:50. Nobody looked in my coat. That is the whole of it and I have been frightened of it for six weeks and it did not happen and it was not a decision anybody made about me. It is a form that does not exist because the form for it is for a different kind of leaver, and I am not that kind, and I have spent six weeks making myself into a kind that gets searched.**
+> **Sun 29 Nov, 21:50. Nobody looked in my coat. That is the whole of it and I have been frightened of it for six weeks and it did not happen and it was not a decision anybody made about me. It is a form that does not exist because the form for it is for a different kind of leaver, and I am not that kind, and I have spent six weeks making myself into a kind that gets searched.**
 > **And the same form is why there is no investigation of anybody. The Museum has not investigated the conduct of any person, and it is in line four, and it is the truth, and it is going to mean that in four years nobody knows what happened in this building in November and that is going to be the correct answer and I am going to have to be able to live inside it.**
 
 ---
@@ -117,7 +117,7 @@ They stood in a corridor for about eleven seconds.
 
 ---
 
-**The reply from Hallowgate Holdings came on Monday the first of December at about two o'clock in the afternoon, to a letter posted on the twenty-fourth, and it is three lines long and it is the end of a thread.**
+**The reply from Hallowgate Holdings came on Tuesday the first of December at about two o'clock in the afternoon, to a letter posted on the twenty-fourth, and it is three lines long and it is the end of a thread.**
 
 > **Dear Sirs,**
 > **We refer to your letter of the twenty-fourth. The crate referred to was received on our compound on 22 October 1974 — [sic, 2024] and has remained on the compound. On opening and sorting it on 26 November we find it to contain: paint, a length of conduit, one office chair, and a bundle of papers which was not listed at the time and which we believe to be invoices. We hold no schedule of the site contents. We are not able to assist further.**
@@ -136,8 +136,8 @@ He put the folder on a shelf in a rented room above a laundrette in Low Ward, be
 
 ---
 
-**Doreen Sarn opened the Museum's registered letter on the Friday the sixth of December at about half past nine at night, at her own table, with the gas fire on, and she was seventy-eight and she was alone, and she had the box open on the Friday afternoon and had looked at a sheet of carbon in her own hand in a camera for two hours and a quarter, and she read a letter for about eleven minutes and then she put it face down on the table again and left it there, and nobody knows what is in it, including Elias Venn, who carried it for nineteen days and did not read it and was told not to and did not ask to and did not ask afterwards.
+**Doreen Sarn opened the Museum's registered letter on the Sunday the sixth of December at about half past nine at night, at her own table, with the gas fire on, and she was seventy-eight and she was alone, and she had the box open on the Friday afternoon and had looked at a sheet of carbon in her own hand in a camera for two hours and a quarter, and she read a letter for about eleven minutes and then she put it face down on the table again and left it there, and nobody knows what is in it, including Elias Venn, who carried it for nineteen days and did not read it and was told not to and did not ask to and did not ask afterwards.
 
-That is on the page because it is on the page and because it is the last private thing anybody in this business is owed, and because **the man who carried a registered letter for nineteen days and took it away from a woman so that she would not have known, and then did not find out what was in it, is the same man who stood at a key board on Monday and was not searched, and the two of those facts are the same fact and neither of them is about a bell, and neither of them is ever going to be.**
+That is on the page because it is on the page and because it is the last private thing anybody in this business is owed, and because **the man who carried a registered letter for nineteen days and took it away from a woman so that she would not have known, and then did not find out what was in it, is the same man who stood at a key board on Sunday and was not searched, and the two of those facts are the same fact and neither of them is about a bell, and neither of them is ever going to be.**
 
-And the twenty-eight days expire on Thursday the seventeenth of December, and there are five of them left, and nobody in this building knows that there are five of them left, and there is a woman of thirty-four in Northglass who wrote a date on the back of her own copy in pencil and would not send it.
+And the twenty-eight days expire on Thursday the seventeenth of December, and there are eleven of them left, and nobody in this building knows that there are eleven of them left, and there is a woman of thirty-four in Northglass who wrote a date on the back of her own copy in pencil and would not send it.

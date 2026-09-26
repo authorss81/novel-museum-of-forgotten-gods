@@ -10,7 +10,7 @@ He had done the other thing as well, which was to not say one word to her about 
 
 **Ten o'clock.** Eighty people. A trestle table six feet from the rope with a bound book on it in a polythene sleeve with a new strap round it, and a plastic sleeve beside it with a receipt in it dated the seventh of November 1974 and eleven typed lines on it and a purple stamp through the lower third saying **SILLICK MILL: ADMINISTRATIVE PAPERS, DISPOSED.**
 
-The Hall of Former Faiths smells of beeswax and floor polish and, this morning, of about seventy warm people who had all been told in advance what was going to be attempted, which is condition of the request and not a condition of the Museum, and about a third of them had come anyway.
+The Hall of Former Faiths smells of beeswax and floor polish and, this morning, of eighty warm people who had all been told in advance what was going to be attempted, which is a condition of the request and not a condition of the Museum, and about a third of whom had said afterwards, in kitchens, that they had not expected to come and were glad they had.
 
 There was no platform. There was no microphone. There was a table, a book, a panel on a plinth, a sheet of A4 in a plastic sleeve, an easel, and a door at the north end with a man standing in it.
 
@@ -24,7 +24,7 @@ The count was called at ten past ten in the morning of Friday the twenty-seventh
 
 She did it in a flat voice with no performance in it at all, standing beside the trestle, and she did not use the soft exercise book, because the exercise book was going to a file and not to a room.
 
-"Closing shift," she said. "Sillick Mill, Low Ward. The thirtieth of October 1974, being the last working day. It was about twenty to six in the morning and it was raining and the light was going. There was a foreman and a book and the men came through the gate in ones and twos and the foreman called it and I wrote it and I read it back and he said yes." She turned round and looked at the room, all of it, the way a gate clerk looks at a gate. "That was the count. That is what was called. It is not a number I have worked out. It is a number that was said out loud on a wet morning by a man to a woman with a book, in a place where every man in it could hear him say it, and it is the only time in fifty years that anybody has said it, and I am not going to say it twice, so somebody write it down."
+"Closing shift," she said. "Sillick Mill, Low Ward. The thirtieth of October 1974, being the last working day. It was about twenty to six in the morning and it was raining and the light was going. There was a foreman and a book and the men came through the gate in ones and twos and the foreman called it and I wrote it and I read it back and he said yes." She turned round and looked at the room, all of it, the way a gate clerk looks at a gate. "That was the count. That is what was called. It is not a number I have worked out. It is a number that was said out loud on a wet morning by a man to a woman with a book, in a place where every man in it could hear him say it, and no living person has said the whole of it since, and I am not going to say it twice, so somebody write it down."
 
 About eleven people wrote it down. It is in the conciliation service's record and in a Museum file and in the notebook of a man who is not a member of staff, and it is on the page of a bound wage book on a trestle table in a public gallery, and it is in nine newspapers, and there is a registry determination in Northglass that names a gallery and a date.
 
@@ -32,11 +32,11 @@ Ninety-four.
 
 Nobody in the room did the other thing. There was a pay run in a book on a table six feet away and there were figures in it and the room contained about nineteen people over seventy years old and at least four of them had been on that gate, and in any other room in any other city in any other year somebody would have done the subtraction inside their own head in about four seconds and the number would have been in the air before the person had finished the sentence.
 
-It did not happen, and it did not happen because **Field Officer Marsh had made a ruling in a room in Ferry Bank on Thursday evening and had read it out loud and had told a room of thirty-one people that she would rule against it if it was offered**, and because the ruling had been written into an F/28 and a copy of the record had been given to nine people, and because on Friday morning at about half past nine somebody had stood in a loading bay and asked nine people to agree to it in advance, and the nine of them included a woman of eighty-one who had told him in a street in June that she wanted it on the record from a woman of eighty-one that *this has been about the letter*.
+It did not happen, and it did not happen because **Field Officer Marsh had made a ruling in a room in Ferry Bank on Thursday evening and had read it out loud and had told a room of thirty-one people that she would rule against it if it was offered**, and because the ruling had been written into an F/28 and a copy of the record had been given to nine people, and because on Friday morning at about half past nine somebody had stood in a loading bay and asked nine people to agree to it in advance, and one of the nine was a woman of eighty-one who had come on a bus on Thursday, and who had stood up at the side of a table in a library front room on the thirtieth of October and told a room that this had been about the letter, and had said that she wanted it on the record from a woman of eighty-one.
 
-Hattie Bramm put her hand flat on the book on the trestle and she did not open it and she said:
+Hattie Bramm put her hand on the book on the trestle, flat, and she did not open it, and she said:
 
-"Now the other half of it, and I want somebody to understand that I am not asking anybody to believe me about the other half, because the other half is on paper and the paper is two hundred and ninety-one pages old and it has been in a shed in Northglass since Tuesday week."
+"Now the other half of it, and I want somebody to understand that I am not asking anybody to believe me about the other half, because the other half is on paper, and the paper is fifty years old, and the book it is in is two hundred and ninety-one pages long, and it has been in a shed in Northglass since Tuesday week."
 
 ---
 
@@ -44,9 +44,9 @@ The shortfall was read out in full. It took nineteen minutes. It was read out of
 
 For each line on the last week: a name, a grade, hours, a rate, and a figure in the pay column.
 
-And on about a third of the lines the pay column does not agree with the hours and the rate, and **you do not have to be good at arithmetic to see it, because the book has it in three columns side by side and the middle one is the odd one out**, and that is the whole of the shortfall and it is legible on the face of a page from 1974 without a single person in that room doing a sum in their head.
+And on about a third of the lines the pay column does not agree with the hours and the rate, and **you do not have to be good at arithmetic to see it, because the book has it in columns side by side, and the pay column is the odd one out**, and that is the whole of the shortfall and it is legible on the face of a page from 1974 without a single person in that room doing a sum in their head.
 
-That was the shortfall, and it was read out in full, name by name, and the figures were recorded by the conciliation service with the name of the person who said them against each one, and **nobody said a total, and the total is on the page, and the total was not read out, and no chapter of this record contains it, and it is on a sheet of thin carbon folded in three in a sealed envelope in a cage in a store in this city, and it opens at four o'clock this afternoon at a table in Ferry Bank with a gas fire on and two conciliation officers and a supervisor and a camera in it and no member of this Museum's staff in the room.**
+That was the shortfall, and it was read out in full, name by name, and the figures were recorded by the conciliation service with the name of the person who said them against each one, and **nobody said a total, and the total was not read out, and there is no numeral of it anywhere in this building's record, and the only copy of it that is left in the world is a sheet of thin carbon folded in three in a sealed envelope in a cage in a store in this city, and it opens at four o'clock this afternoon at a table in Ferry Bank with a gas fire on and two conciliation officers and a supervisor and a camera in it and no member of this Museum's staff in the room.**
 
 And then Mara Iles read the thing that was on the table under condition nine, and it took about two minutes, and it is the moment in this room that people in this building have gone back to.
 
@@ -54,7 +54,7 @@ The Museum's acquisition record for 1961/LW/41–52 is a box file about four inc
 
 It has in it a carbon of a receipt dated the seventh of November 1974, received from a firm of solicitors at fourteen Lincoln's Lane, eleven items collected on the thirtieth of October 1974, no disposal fee payable to the Museum, and the eleven items listed, and at the foot the collection line: **P. LOACH (fitter), Sillick Lane, Low Ward.**
 
-And beside that carbon, in the same sleeve, in the same file, on the same typeface, in the same purple, is a second sheet. It is clean. It is typed on better paper than anything else in the file. It has a heading and a list and a total at the foot, and it is dated **the eleventh of November 1974**, which is four days after the purchase, and it has no source line on it at all — no *received from*, no collector, no agent, no firm, no signature — and it is the sheet that this Museum accessioned in 1974 as part of a series it called **administrative papers, disposed**, and which is stamped, in purple, in the same typewriter face, **SILLICK MILL: ADMINISTRATIVE PAPERS, DISPOSED**, and which is now, at about ten past eleven in the morning on Friday the twenty-seventh of November 2024, in the Hall of Former Faiths, on a tressle table, in a plastic sleeve, in front of about seventy people, **a forgery made by this Museum four days after it bought the thing, on its own typewriter, in its own building, and nobody in this building knows who typed it and nobody ever will.**
+And beside that carbon, in the same sleeve, in the same file, on the same typeface, in the same purple, is a second sheet. It is clean. It is typed on better paper than anything else in the file. It has a heading and a list and a total at the foot, and it is dated **the eleventh of November 1974**, which is four days after the purchase, and it has no source line on it at all — no *received from*, no collector, no agent, no firm, no signature — and it is the sheet that this Museum accessioned in 1974 as part of a series it called **administrative papers, disposed**, and which is stamped, in purple, in the same typewriter face, **SILLICK MILL: ADMINISTRATIVE PAPERS, DISPOSED**, and which is now, at about half past ten in the morning on Friday the twenty-seventh of November 2024, in the Hall of Former Faiths, on a trestle table, in a plastic sleeve, in front of eighty people, **a forgery made by this Museum four days after it bought the thing, on its own typewriter, in its own building, and nobody in this building knows who typed it and nobody ever will.**
 
 Mara Iles read the two dates out and read the two typeface lines out and read the absence of a source line out at about twenty-five to eleven, in a level voice, and then said:
 
@@ -62,17 +62,29 @@ Mara Iles read the two dates out and read the two typeface lines out and read th
 
 "I am not going to say who typed it. I do not know who typed it. The accession register of 1974 has a column for the person who presented the material, and the column for that item is empty, and it is empty in the register and not in my imagination, and in about four years somebody is going to read that register and find an empty column in the middle of a page and it is going to be the single most important thing on it."
 
-Then she put the sheet down on the table and did not pick it up again, and it lay there in a plastic sleeve for about forty minutes, and about eleven people read it standing up, and one woman of about seventy picked it up and put it down twice.
+Then she put the sheet down on the table and did not pick it up again, and it lay there in a plastic sleeve for about twenty minutes, and eleven people read it standing up, and one woman of about seventy picked it up and put it down twice.
 
 ---
 
-The handover was at 10:41 and it took about ninety seconds and it is a document and a set of hands.
+And at about half past ten, with the sheet still lying on the table in front of everybody and before the book was moved, the Director of this institution stood up against the east wall and told eighty people what this Museum did in 1974, in about fifty seconds, without a document and with her hands behind her back.
 
-The Registrar read out the terms of it from a card, because there were terms, and the terms had been agreed on the Wednesday between a registrar and an unpaid-bills organiser from Low Ward across about four inches of a conservation office, and they are in the bundle at appendix 4.
+"This Museum bought that mill office on the seventh of November 1974 for no disposal fee, from a firm of solicitors who had been asked sixteen days earlier by the mill's pay clerk to look at her own wages, and the letter she wrote them is in that firm's destruction schedule, and the letter was destroyed in 1979 under a schedule approved by a partner of that firm, and the only reason we know that it existed is that a man in that firm wrote a cross-reference in ink on a schedule in 2024 and initialled it, and he did that in about nine minutes and he did not have to." She did not move. "We also accessioned, in the same year, a page that was not a mill document, on our own typewriter, four days after the purchase, and we called it Sillick Mill administrative papers, disposed, and the word *disposed* is the sentence that has cost that book its own name for forty-eight years. That page is on this table with the rest of the record and you may read it and I would encourage you to."
+
+Nobody in the room thanked her and nobody said anything and two people near the back were writing.
+
+"So when you asked me on the twenty-fourth of November to open this room, understand that I am not being generous. I am being the Director of an institution that did the thing, and there are only two ways to be that: say so in a room, or have somebody else say it in a room with my minute attached. I have decided which of the two I would rather be and it is not the second one, and that is the entire extent of my virtue in this business, and I have had it available to me for about four minutes."
+
+Then she sat down against the wall, and it was the end of it, and nobody spoke to her for the rest of the hour, and the last hour of November in that room is not a ceremony and has not been described by anybody since as a ceremony.
+
+---
+
+The handover was at 10:41 and it took a minute and a half and it is a document and a set of hands.
+
+The Registrar read out the terms of it from a card, because there were terms, and the terms had been agreed on the Wednesday between a registrar and an unpaid-bills organiser from Low Ward across about four inches of a conservation office, and they are in the bundle at appendix 5.
 
 The book leaves the trestle. It is not accessioned and it is not to be accessioned. It is not placed on a plinth and it is not put in a case. It is carried out of this room by the person named at 1 on a form made on Wednesday, and it goes into the custody of the conciliation service, and it is held for the families, and it is not this Museum's, and it has not been this Museum's since the twenty-second of October, and the fact that it has spent four days in this building in a loading-bay office on a trestle table is a thing that happened and is in a file and is not going to be argued about.
 
-Hattie Bramm signed the receipt. She signed it on the trestle, in ballpoint, in about four seconds, and then she put her hand flat on the book for a second, and then she took her hand off, and nobody in the room read anything into that and it is on the page because it happened.
+Hattie Bramm signed the receipt. She signed it on the trestle, in ballpoint, in four seconds, and then she kept her hand on the book for a second, and then she took her hand off, and nobody in the room read anything into that, and it is in the record because it happened.
 
 Then the person named at 1 picked the book up off the trestle, in its sleeve, with the strap on, and carried it out through a public door on the other side of eighty people, and nobody was given a plaque and nobody was given a photograph and nobody was given anything, and there is no record anywhere of anybody being told afterwards that they had been part of something, and about eleven people have since asked Mara Iles whether they were in the room, and she has told all eleven yes, and she has told all eleven the date.
 
@@ -110,7 +122,7 @@ Nobody moved. About four people in the room put a hand on the person next to the
 
 Then it stopped. And the silence after it was the ordinary silence of a room of eighty people in a museum at eleven o'clock on a Friday morning, and it lasted about four seconds, and somebody coughed.
 
-And it did not go on. That is the whole of it and it is the part nobody in that room understood on the day. **It did not come again.** Not at ten past eleven, not at half past eleven, not at four o'clock that afternoon, not on the twenty-eighth, not on the twelfth of December, not on the thirteenth. There is no second note in the record of this building and there is a plaster ceiling and a hard floor and a small bronze bell in a case on plinth thirty-four and it went once, in a room with eighty people in it, at 10:54 on the morning of Friday the twenty-seventh of November 2024, and it stopped asking.
+And it did not go on. That is the whole of it and it is the part nobody in that room understood on the day. **It did not come again.** Not at ten past eleven, not at half past eleven, not at four o'clock that afternoon, not on the twenty-eighth, not on the first of December, not on the fourth, not on the twelfth. There is no second note in the record of this building between the twenty-seventh of November and the day the Hall of Former Faiths reopened, and that is not because nothing happened in that room on that day; it is because nobody in this building was on the door that morning, and there is a plaster ceiling and a hard floor and a small bronze bell in a case on plinth thirty-four, and it went once, in a room with eighty people in it, at 10:54 on the morning of Friday the twenty-seventh of November 2024, and it stopped asking.
 
 The demand had been formed in one building, in one trade, in about six hundred repetitions of an ordinary daily act, over about fifty years, and its terms were a count of people spoken in a public place by a person with standing, entered in a record that would outlive the speaker. Every term of it had been met. Not answered in the way anybody in that room wanted. Met.
 
@@ -126,7 +138,7 @@ He put his hand on the brass and the pay office came up and the number was said 
 
 It was not a blank and it was not a gap. It was a *thing he had*, in the way that a thing you have is not a thing you have lost. He knew a man, he knew a street, he knew a man on a floor in a corridor in his own building, and the name that went with all of it was not available, and the fourth seconds of the twenty-fifth of October were the same sensation, except that this one did not have a time on it and did not come back in eight minutes.
 
-At about ten to eleven, when the Registrar had said *it is a forgery, it was made by this Museum, and I can prove it on the face of two pieces of paper and a date*, and a man in the second row had to give his name into a form that wanted it, Mara Iles had a pen out and the box was blank and she waited about four seconds and did not fill it in herself and did not prompt him and did not say *take your time*.
+At about ten to eleven, with the Registrar still at the table with the sheet in front of her and a man in the second row having to give his name into a form that wanted it, Mara Iles had a pen out and the box was blank and she waited about four seconds and did not fill it in herself and did not prompt him and did not say *take your time*.
 
 And a woman of fifty-four in the fourth row, who had been the gate clerk of that mill in 1974 and who had said a number out loud in that room an hour earlier, said it for him.
 
@@ -136,13 +148,19 @@ She said it the way you say a thing you have said forty times. She said it to th
 
 "It's Ivy Case, and he's Elias Venn, and he's on the payroll in a building he is not inside, and you want it writing down before anybody moves, and I have been saying names in rooms since 1974 and I know what a name is for."
 
-That is the whole of what it cost. It cost him his own name, and it was named on a card on a plinth at twenty-five to ten that morning, in advance, by a man who was told he could not choose it and who was told he would be able to read it off a page.
+That is the whole of what it cost. It cost him his own name, and it was named on a card on a plinth at ten past nine that morning, in advance, by a man who was told he could not choose it and who was told he would be able to read it off a page.
 
 Nobody in that hall knew. Two people in that building knew, and one of them has written it down.
 
 ---
 
-The room was let out at eleven o'clock, which was the condition, and the conditions were on a sheet of Museum notepaper in five columns pinned inside the door of the loading bay, and eighty people went out of a public gallery in about four minutes and a half of them stopped at the trestle on the way past to look at an empty table, and there was nothing on the table.
+The room was let out at eleven o'clock, which was the condition, and the conditions were on a sheet of Museum notepaper in five columns pinned inside the door of the loading bay, and eighty people went out of a public gallery in about four minutes and about half of them stopped at the trestle on the way past to look at an empty table, and there was nothing on the table.
+
+At about half past eleven the Director issued the one written line, from a corridor, to a woman from a paper who had been standing outside since ten. It is twenty-nine words long, and she wrote it on a pad and gave it to the front desk and would not give it to a journalist herself, and nobody in that room heard her do it.
+
+> **The Museum of Quiet Saints held a meeting this morning in the Hall of Former Faiths. The Museum's own records were placed in the room and available to read.**
+
+Nobody in this building has ever been able to work out whether that is a good line, and everybody in it agrees it is an accurate one, and those two facts have been sitting about four feet apart in this building since 7 November, and by half past eleven on the Friday morning one of the two of them was on a pad in a corridor with a date on it.
 
 At about five past eleven Elias Venn was at the front desk on the ground floor, because the front desk is where you go when you have been in a building since six minutes past twelve in the morning and it is nearly eleven and the building has let about nine hundred people through a door he is not allowed to be on the other side of.
 
@@ -181,7 +199,7 @@ So Margaret Priest, who has taken messages at a counter in this building for nin
 
 And then she said, to nobody, "That's the only time I have ever written that in that book," and shut it, and put it on the shelf, and went back to her board.
 
-He did not say his own name once between 10:54 and 11:52, and he said the count was on the page and the book was on the table and the plate was the requester's wording and the Museum's card was underneath it, and at the request of a woman of eighty-one he said the words *this has been about the letter* into a recording that Field Officer Marsh made of the room, and the recording is in the bundle.
+He did not say his own name once between 10:54 and 11:52, and he said the count was on the page and the book was on the table and the plate was the requester's wording and the Museum's card was underneath it, and at the request of a woman of eighty-one he said the words *this has been about the letter* out loud, once, to a woman with a form, and the form is F/28, and the sentence is in the conciliation service's record with a name against it.
 
 ---
 
