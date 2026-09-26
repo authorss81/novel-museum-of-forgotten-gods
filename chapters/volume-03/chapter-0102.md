@@ -35,7 +35,7 @@ She put it on the desk face down, which he noticed, and then turned it over, whi
 > **1. CLAIM NOTIFICATION AND OPENING**
 > **2. CLAIMANT DETAILS (name of claimant, address of claimant)**
 > **3. POLICY AND PERIOD OF COVER**
-> **4. **DATE OF LOSS** (mandatory — see Part 5, section D)**
+> **4. DATE OF LOSS (mandatory — see Part 5, section D)**
 > **5. BASIS OF SETTLEMENT**
 > **6. EXCESS**
 > **7. CONTENTS — itemised schedule, or election under section 5**

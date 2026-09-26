@@ -28,11 +28,11 @@ Nobody had told him there was a warning on a board. He had it on a printed sheet
 
 "**Fourteen thousand one hundred and eighty pounds,**" he said. "**Outstanding since the eighth of January. A managing agent in an office in this city owes it for December across about forty addresses and has not paid a penny of it and has told me four times that it is with their head office. Their head office is a floor above a man who took a call from me in February and said the same thing. So I have four vans and six men and no money, and I am working a Saturday, and I am telling you that because you have not got a stamp and because I would rather somebody knew than did not.**"
 
-Elias Venn had a notebook and a week of days in it and no means of doing one single thing with any of it, and he wrote the figure down, and it was the first figure he had written in a book of that kind in about a month and he noticed himself doing it and did not stop.
+Elias Venn had a notebook and a week of days in it and no means of doing one single thing with any of it, and he wrote the figure down, and it was the first figure he had written in a book of that kind since the twenty-ninth of May and he noticed himself doing it and did not stop.
 
 "**You have just written down an outstanding balance of a small contractor in a book you are the only owner of.**"
 
-"**I have. And I will not be able to prove it in four years, and it is the first thing I have written down in a month, and I am telling you that instead of pretending I did not.**"
+"**I have. And I will not be able to prove it in four years, and it is the first thing I have written down since the twenty-ninth of May, and I am telling you that instead of pretending I did not.**"
 
 ---
 
