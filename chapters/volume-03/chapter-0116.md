@@ -6,17 +6,17 @@
 
 ---
 
-## And on the ninth of June a man of fifty-five said he would like to be asked again in about four weeks in a different mood, and it is the twenty-third of July, and that is thirty-eight days, and the batch is not going to pretend the gap is nothing
+## And on the fifteenth of June a man of fifty-five said he would like to be asked again in about four weeks in a different mood, and it is the twenty-third of July, and that is thirty-eight days, and the batch is not going to pretend the gap is nothing
 
 They had driven out to a yard on the ring road where a river engineer has a base under a contract, and he had come out of a meeting and put a folding rule on the bonnet of the van because he does that while he is thinking, and he had asked who was in the van and had been told and had said nothing about it.
 
 "**Thirty-eight days,**" said Gwilym Petherick.
 
-"**Thirty-eight days,**" said Elias Venn. "**You said about four weeks. That is ten days more than you asked for, and four days short of six weeks, and I have counted it twice and I am telling you I have counted it because you told me on the ninth of June that you would want to know when somebody was late.**"
+"**Thirty-eight days,**" said Elias Venn. "**You said about four weeks. That is ten days more than you asked for, and four days short of six weeks, and I have counted it twice and I am telling you I have counted it because you told me on the fifteenth of June that you would want to know when somebody was late.**"
 
 "**I did not say that.**"
 
-"**You said you would like to be asked again in about four weeks in a different mood. That is not the same sentence and it is close enough that I have been carrying it for six weeks and checking it.**"
+"**You said you would like to be asked again in about four weeks in a different mood. That is not the same sentence and it is close enough that I have been carrying it for five weeks and three days and checking it.**"
 
 "**Then I will correct it. I did not want to know when somebody was late. I wanted to be asked again, and I have been waiting to be asked again, and there is a difference and I have noticed the difference about nine seconds after you said it, which is a record.**"
 

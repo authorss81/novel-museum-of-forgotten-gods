@@ -2,7 +2,7 @@
 
 **On Monday the nineteenth and Tuesday the twentieth of July 2025 an answer arrived to a letter a registrar of twenty-eight had written on the fourth of June, and it was a null, and it was minuted as a null, and it said so in a printed form, and the null was in form CI/4 and it named a man of fifty-eight who is alive and has a job and who did not write the sentence everybody in this case has spent seven weeks talking about: he adopted it, in 2011, out of a general claims manual, and he went to work on the Friday.**
 
-**He is not a villain. He has been in post for nineteen years and he is not going to lose it and he was not going to be asked to lose it, and a registrar of twenty-eight has written his name on a piece of paper because that is the only instrument anybody in this case has ever had, and it is the first time in thirty-one weeks that it has caught a person who has not asked to be caught, and there is no procedure for un-catching him and there is no box on the form for it.**
+**He is not a villain. He has been in post for nineteen years and he is not going to lose it and he was not going to be asked to lose it, and a registrar of twenty-eight has written his name on a piece of paper because that is the only instrument anybody in this case has ever had, and it is the second time in thirty-one weeks that it has caught a person who has not asked to be caught, the first having been a sheet of A4 six days ago with an empty name line on it, and there is no procedure for un-catching either of them and there is no box on the form for it.**
 
 ---
 
