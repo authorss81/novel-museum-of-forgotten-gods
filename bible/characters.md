@@ -196,5 +196,22 @@ These are ordinary people, not characters. They exist so that a workplace can be
 | **Wynne Loach** | 34, night bus conductor, Perry's daughter | Carries the working-shift theme into the neighbourhoods. Not yet on the page. |
 | **Doreen Sarn** | 78, retired Sillick Mill pay clerk | Keeps a private notebook and will not surrender it. The independent witness for the true count. Not yet on the page. |
 
+## Volume 03 Working Cast
+
+These are ordinary people and professionals, not characters with arcs. They exist so that an institution can be an institution, and none of them is a villain, a fool, a mask, or a member of a network. **Do not promote any of them into a plot function, and do not let a later volume want one of them badly enough to manufacture a motive.**
+
+| Name | Role | The one detail |
+| --- | --- | --- |
+| **Vera Pilling** | 81, of 6 Sillick Lane. Sillick Mill, thirty-one years in a flat, and the keeper of the register | **Promoted out of Volume 02 on her own evidence and not on her usefulness.** She is the register's keeper because of a qualification and not a skill: *I am eighty-one and I am not going to be here in four years, and I want that written down.* She has no names in the book at all, on purpose, and a fourth line on the first page that says *if you are reading this and you are not me, then you are the second person, and that is the only reason it exists.* **A keeper is not a leader. Do not let her be given one.** |
+| **Marianne Cope** | About 34, flood claims handler | She has read page one of a two-page instruction that about four hundred adjusters were given in about 2011, and she is the only person in the business who has. **She is right about the box and she can do nothing whatever about it, and the shape of that is visible on the page before she says a word about it, and she does not say a word about it.** |
+| **Colin Bray** | About 44, salvage contractor, two crews | A docket book with a **weight column that a form asks for and nobody can check, with the money attached to it.** He pays people on a Friday, he is owed money himself, and he says both. **Nobody is a cartel and he is not the face of one.** |
+| **Gwilym Petherick** | About 55, river engineer | A printed table of datums, a wall, and a rule. **He answers Volume 02's live question — is the pattern the object or the place — with a measurement and not with a sentence, in a corridor, and nobody improves it.** |
+| **Averil Shand** | About 68, registrar of burials for a river parish, forty-one years | A hardback of interments, and a facsimile of one page produced on the grounds that **a page is not a list.** |
+| **Yvette Carrow** | About 48, the office that issues a flood-emergency access suspension | A named officer, a numbered power, a form with a box for a period, and a suspension that is lawful, dated, signed, **correct about the water and catastrophic about the people.** **She is proved right in the middle of the volume. That is what she is for.** |
+| **Ada Iles** | Mara's mother | Committed a falsification that saved people and made later erasure harder to trace. **She is not a villain and Volume 03's resolution says so in a sentence.** |
+| **Dorothy Marsden** | 61, a first-floor suite on Lantern Row, a member of the Lantern Society | **Not promoted, and not to be promoted, and not to be resolved.** She instructed a rule in writing — *acquire only at addresses at which no traceable prior occupant can be established* — **she has done nothing wrong**, and the instrument that caught her caught her doing something lawful. A second member countersigns with a four-digit number and no name. **The Society's full escalation is Volume 10 and nobody may pull it forward.** |
+
+**The residents of Sillick Lane are a group and not a cast, and they are recorded in `bible/world.md` under Low Ward.** The reason is the manuscript's own argument: a list of houses is worse than a list of people, and a bible cast is a list of people. **What is inherited forward is the street and its written position, and not a roll of the people standing on it.** Every individual in Volume 02 except Vera Pilling stays in `state/character-state.md`, which is the volume-local record.
+
 **Ivo's sister** is referred to only as having a chronic chest and no lungs to speak of, and by the cost of her bills. She is not named on the page in Volume 01 and her illness is never played for sympathy; it is the reason a twenty-five-year-old says yes to a Saturday.
 

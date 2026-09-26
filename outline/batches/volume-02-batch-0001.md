@@ -22,7 +22,7 @@ The governing line is the manuscript's pinned calendar, which is **the real Greg
 | **Wed 16 Dec 2024** | 52 | The rounds sheet `FLS-2`, about two hundred and ten addresses, NAME field four characters wide, and the change-log extract of 16.12.24, 09:52. |
 | **Fri 18 Dec 2024** | 53 | The library back room, about twenty people, about nine of them from that row. |
 | **Tue 22 Dec 2024** | 54 | A household object seen once in a hall in about four minutes, and a description that is the only thing he has left. |
-| **Wed 23 – Tue 24 Dec 2024** | 55 | Condition 2 fails in a conservation office on the twenty-third at about twenty past two; the mat goes out on a visitors'-book line on the twenty-fourth, time in 10:12 and time out 17:24. |
+| **Wed 23 – Thu 24 Dec 2024** | 55 | Condition 2 fails in a conservation office on the twenty-third at about twenty past two; the mat goes out on a visitors'-book line on the twenty-fourth, time in 10:12 and time out 17:24. |
 | **Mon 21 Dec 2024** | 56 | The post room, ground floor, ten past ten on the Monday. **This chapter is dated before Chapters 54 and 55 — see the chronology finding at the foot of this file.** |
 | **Tue 22 – Tue 29 Dec 2024** | 57 | The shrine is found on the twenty-second at about four in the afternoon by a caretaker, and the standing bar of 18 November is read out in a corridor on the twenty-ninth, and condition 2 fails for the second time. |
 | **Wed 30 Dec 2024** | 58 | The Hall closes at three on Thursday the thirty-first; the Registry acknowledgment is received on the thirtieth; the card with three false claims is exposed. |
@@ -114,7 +114,7 @@ The governing line is the manuscript's pinned calendar, which is **the real Greg
 
 ## Chapter 0055 — The Carrying
 
-**POV:** Elias Venn. **Where/when:** Wednesday 23 – Tuesday 24 December 2024, Civic Hill, a conservation office and a loading bay.
+**POV:** Elias Venn. **Where/when:** Wednesday 23 – Thursday 24 December 2024, Civic Hill, a conservation office and a loading bay.
 
 **Goal:** Get a household object into a public museum.
 
@@ -216,5 +216,5 @@ The governing line is the manuscript's pinned calendar, which is **the real Greg
 4. **The prompt's card for Chapter 53 said "Hattie Bramm has been asked eleven questions"; the volume's count of her refusals and the count of questions asked of her are two different counts and are not interchangeable.** Both are on the page and neither is re-derived here.
 5. **No buyer, no market, no network, no new god, no new antagonist, and no vanished housing block.** The block is on a rounds sheet every Thursday. The two deviations the outline permits were taken and both stand.
 6. ⚠ **FOUND IN THE VOLUME 02 AUDIT, 2026-09-26, AND NOT YET REPAIRED: Chapters 54, 55, 56 and 57 are not in date order.** The narrative days are 22 December, 23–24 December, **21 December**, and 22–29 December. **Chapter 56's scene is Monday 21 December and Chapter 57's discovery is Tuesday 22 December, both earlier than Chapter 55.** Every date is individually correct on the pinned line; the sequence is not, and nothing in the prose acknowledges it. In a volume whose argument is that **a date is a fact about the world**, running four chapters out of date order is a structural defect and not a stylistic choice. **It is recorded here and in `state/continuity.md` under `VOLUME 02 CLOSE` and it waits for a repair phase. This phase does not edit `chapters/`.**
-7. **The prompt's Chapter 55 card said the carrying fell on "Tue 22 – Thu 24 Dec."** The chapter's carrying is **Tuesday 24 December** and the failure is **Wednesday 23 December**, so the chapter runs 23–24 December, and the removal line in the visitors' book carries its own times: **time in 10:12, time out 17:24.**
+7. **The prompt's Chapter 55 card said the carrying fell on "Tue 22 – Thu 24 Dec."** The chapter's carrying is **Thursday 24 December 2024** and the failure is **Wednesday 23 December 2024**, so the chapter runs 23–24 December, and the removal line in the visitors' book carries its own times: **time in 10:12, time out 17:24.** ⚠ **The first version of this card file repeated the real Gregorian weekday here — it gave the carrying as a Tuesday, which is the *real* weekday of 24 December 2024 and not the pinned one, since the pinned line advances every weekday by two. Corrected on 2026-09-26 by the volume-close pass's own sweep, which parsed 105 weekday-and-date phrases across the five Volume 02 card files and the two volume outlines, reported 105 parsed and 0 unparsed, and returned 15 real mismatches: fourteen in `outline/volume-03.md` and this one. A digit-only version of the same sweep parses 0 phrases and would have reported nothing.**
 

@@ -17,6 +17,21 @@ The city is large enough to contain several social worlds. The same object can b
 | **Northglass** | Wealthy apartment blocks, private collections, legal offices, and the Quiet Accord's public-facing registry. | Private collectors use legal ownership to control which stories can enter the museum. |
 | **The Undercroft** | Old tram tunnels, cisterns, boiler passages, and a sealed civic chamber below the museum. | The Hush Engine and the First Witness are here. The Undercroft is not a monster dungeon; it is infrastructure maintained by people who were told not to ask what it powered. |
 | **River Parishes** | Small towns along the river and its tributaries, including the bellmaking town of Ammon. | These communities preserve practical rituals that the museum labels as obsolete, and they are the source of many object memories. |
+| **Ferry Bank** *(named in Volume 03)* | The low bank of the river inside Low Ward: about 1,900 tenancies, terraces, and a flood wall that is older than the district's records. | **A named registration district, and in Volume 03 the city seals its legal identity** on the argument, correctly, that a compensation roll cannot be settled against land that is subsiding. **The seal is right about the ground and wrong about the people and no volume is to say it is wrong.** |
+| **A disused bonded store on a wharf** *(Volume 03)* | Four miles from the museum, let to the city by a freeholder who has never been inside it. Iron doors, a tide that reaches the floor, and about nine hundred addresses' worth of salvage dockets in the trade outside it. | **The Drowned Registry is in it.** Not a secret institution and not a network: the city's own record of people recorded as drowned in its floods, kept because a drowned person's estate could not be settled without a death record. **The water gets in during Volume 03 and nobody opens the store.** |
+
+## The Group That Is Not a Cast: the residents of Sillick Lane
+
+**Recorded once, as a group, with a written position, and deliberately not as a list of people.** The manuscript's own argument is that **a list of houses is worse than a list of people**, and a bible cast is a list of people, so the street is inherited forward and the people on it are not. Every individual lives in `state/character-state.md`, which is the volume-local record, with one exception: **Vera Pilling** is in `bible/characters.md`, because she earned it on her own evidence.
+
+**What a later volume inherits about the street, in their words:**
+
+- **They are not a client and they are not an ally and they did not ask.** They have done a thing themselves, on a step, with three rules and no form under it, and they have said out loud that a practice is a permission and that a permission is on a step and not in a building.
+- **Their position is worse than it was and they chose it.** Four flats on the first floor of a building with a landlord, seven households, a weekly rent at the rent the owner has always charged, and a term. **Nobody in those four flats has been given a home, and no volume may write them as having been.**
+- **Two of them said no and both of the noes are on paper**, because a housing officer asked first whether she might write them down. That is the whole of their method: *ask first whether you may.*
+- **The ones nobody has a name for cannot be enumerated**, and a volume about a name field has to say that out loud once, in plain words, and not argue about it.
+
+⚠ **Their term ends on a Tuesday, and it is inherited, and it is a clock rather than a date:** see `outline/volume-03.md` under `Two constraints that come out of Volume 02`. **Nobody is going to be quietly forgotten by the first chapter of Volume 04 either.**
 
 ## History
 

@@ -765,3 +765,23 @@ A determination day in Northglass produces a determination about a form, because
 - **A bell four miles away that has said nothing for a hundred and sixty-nine days, under a panel a hundred and eighty-five days old, with a crack open under a staple, and nobody in that building who has a duty to listen for it.**
 - **A hardback notebook of about a hundred and fifty ruled pages, a pound and ten, in a cloth bag, going down about fourteen stairs to a flat at number six, with a name and a date on the inside front cover, about nine gaps in it, about four hundred to come, and nobody going to fill them in.**
 - **And the question, which has four answers and they still do not go together: *somebody who keeps it*, *there is no instrument and there is not supposed to be one*, *nobody*, and *a woman of eighty-one in a drawer that does not lock*. Who keeps it. And the answer on the page, for the first time, is a name and a date and an end date, and the person holding it says out loud that she is eighty-one and is not going to be here in four years.**
+
+---
+
+# Volume 02 — VOLUME CLOSE (no chapters written)
+
+**This is not a batch and it wrote no prose. It is the volume audit, and its full itemisation is in `state/continuity.md` under `VOLUME 02 CLOSE` and `VOLUME 02 CLOSE — THE SECOND PASS`. This entry is the short form, for a writer who wants to know what happened to Volume 02 without reading eight hundred lines of it.**
+
+**The volume in one line:** a name field emptied across about four hundred and twelve addresses and the Museum lost the same rows at the same rate, the curse turned out to be forced evictions, a god accepted a temporary boundary and nothing was restored, and the win is a covenant and public records and not a return.
+
+**The audit's beat check:** every numbered beat of `outline/volume-02.md` and all four movement summaries are **delivered**, none missed, two displaced into better forms — the lawful door of Movement 1 became a goods-out docket *and* a visitors'-book line, and Movement 4's "Elias and Mara organise residents" became fifty competent strangers with a registrar's refusal at the end of it. **Movement 3 and Movement 4 were never carded and their beats existed only in phase prompts; `outline/batches/volume-02-batch-0001.md` through `-0005.md` now exist and the warning that had been logged in six places across four batches is closed.**
+
+**The audit's real output, and it is not a plot point:** four threads are open that should have been closed — **Hesta Rell has never been in a chapter, Ivo Pell is in nine words of Volume 02's last ten chapters, Mara Iles is not in Chapter 100, and the register's start date is stated twice with different values inside Chapter 100.** Sorted in full in `state/open-threads.md`.
+
+**The cost curve:** unspent at Chapter 100, on the page, in his own hand. `memory cost` and `displacement` return **0** across all fifty chapters. `stop word` returns **2**, both in his own notebook, both statements that he has none. `\bthread\b` returns **3**, all on `chapter-0099.md:141`, in one notebook block, on 30 May. **The first major memory-displacement cost is reserved for Volume 03 and is the only one Volume 02 was allowed to withhold, and it is paid there in Chapter 144 and not in 143, which is a correction this phase made and which is recorded.**
+
+**The three prose defects this phase found and did not repair, because a volume audit must not rewrite a volume:** Chapters 54–57 are not in date order · the register's start date · and nothing else. **Two of the four false claims in the first version of the audit were also in this repository's own state layer, and both are corrected in place with the correction visible.**
+
+**Pipeline, logged and not closed:** `state/phase-ledger.json` still reads `phase-000-bootstrap` · **Volume 02 has still never been reviewed by a reviewer who was not the writer, and it closes on a repair and not on a certification** · a bold clause nested inside a bold paragraph remains in eleven lines of state files this phase did not write.
+
+**What this phase produced:** `outline/volume-03.md` · `outline/batches/volume-02-batch-0001.md` through `-0005.md` · `workspace/volume-03/batch-0001/PROMPT.md` for Chapters 101–110, which is the single next phase.

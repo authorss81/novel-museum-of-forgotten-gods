@@ -975,3 +975,24 @@ The man of thirty-two reads the fourth line out loud twice and nobody improves i
 **At ten to six the room is given back.** Frank Dunning says the thing he has said four times, in the same words, at the door, and it is the last thing said in that room for the last time: **that is the correct arrangement and it is the worst arrangement in the world, in that order.** The boundary comes off in one piece, the tape comes off the plaster and leaves a clean rectangle, and nobody looks at the rectangle for longer than it took. **Five pounds comes out of the envelope and the shopkeeper takes it and says the room had been let for one day and shuts the door.** The bag goes down the stairs after her. **And this is the whole of what there is: a room let by the hour, a wall with a clean rectangle on it, a boundary that nobody signed and nobody keeps, and a hardback notebook of about a hundred and fifty ruled pages in a cloth bag going down about fourteen stairs to a flat at number six, where it goes in a drawer that does not lock, with a name and a date on the inside of the front cover, and about nine gaps in it, and about four hundred more to come, and nobody is going to fill them in.**
 
 The last entry states the volume's whole finding in four hundred words: **the bill goes out, the name comes back** · what a name field is for · **to the door, and not to the book** · that is the instrument, you knock first and then you say the name, out loud, to a person, and nobody writes it down, and **everything else in twenty-five weeks has been a way of writing it down and a way of not being able to** · **a room, a boundary, and a record somebody has to keep, in that order, on a Monday evening, in Low Ward, in about four thousand words, and none of the three is a miracle and one of the three is a woman of eighty-one with a drawer that does not lock.** The last line of the volume is not a question.
+
+---
+
+# CHAPTER SUMMARIES — VOLUME 02 CLOSE INDEX
+
+**Chapters 0001–0100 all have summaries above. This index exists so that a writer can find the ten chapters they actually need without loading a thousand lines.**
+
+| What you need | Read |
+| --- | --- |
+| **The handoff.** The volume's fixed image, the last notebook, the two clocks, and the list of things that did not change. | `chapter-0100.md`, and its summary immediately above |
+| **The first volume 03 chapter opens two days after this.** | `chapter-0100.md` in full, and `chapter-0099.md` in full |
+| **The acceptance, and the thing that is not a bell.** | `chapter-0094.md` — one knock, on a door, at about half past four on Sunday 16 May 2025, two hearers out of five, nobody opened it, nobody asked what it was |
+| **The memory-planting mechanism Volume 03's cost is built on, and the second person reading it back.** | `chapter-0089.md` and `chapter-0099.md` — nine pages, seventy minutes, one wrong day of the week, and no form for *is there a second person* |
+| **The term, the four flats, the two clauses, and two refusals on paper.** | `chapter-0096.md` |
+| **The false name in a public document, from the bottom of a card, with the panel taped over it.** | `chapter-0097.md` |
+| **The buyer identified by a document and not by a person.** | `chapter-0098.md` |
+| **The rope, and the object-or-place question refused for the fourth time.** | `chapter-0079.md`, and `chapter-0088.md` for the registrar's procedural refusal |
+| **The reversal, as a reversal of a reading and not of a monster.** | `chapter-0075.md` |
+| **The pinned line, and the five canon figures that verify it.** | `state/continuity.md` under `VOLUME 02 CLOSE — THE SECOND PASS`, § 3 |
+
+⚠ **Two things a Volume 03 writer must not inherit as canon, both verified in the chapter files and both unrepaired.** **Chapters 54 to 57 are not in date order** — every date is right and the sequence is not. **And Chapter 100 states the register's start date twice with different values**, `31 May 2025` and a first entry dated `Sat 29 May`, which are two days apart and cannot both be true. **A Volume 03 chapter may refer to the register and must not restate its start date.**
