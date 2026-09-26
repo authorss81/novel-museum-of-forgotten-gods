@@ -997,7 +997,7 @@ A post box, and the fact that a pillar box is not a postal address, and a typist
 ### What the batch deliberately did not do
 
 - **It did not open the store.** Not mentioned at all. **It is opened publicly in Chapter 146.**
-- **It did not say the moral floor.** Zero occurrences in ten chapters and in fifty this volume, and Chapter 133 closes a movement without it.
+- **It did not say the moral floor.** Zero occurrences in ten chapters and in forty this volume, and Chapter 133 closes a movement without it. ⚠ **The counter is the volume's own chapter number, so Chapter 131 writes *thirty-one* and Chapter 140 writes *forty*, and it was nine out in all ten chapters until the second pass of 26 September 2026.**
 - **It did not say the pattern sentence, did not have Petherick answer anything, and did not convert a height into a level.** He came. Uninvited. And said so before he picked up a spanner.
 - **It did not produce the bounded testimony.** That is Chapter 146, and Chapters 134 and 135 state the shape of the gap and both refuse to speculate about what fills it.
 - **It did not make, sign, date or publish the seal**, and nobody in the batch says it is right and nobody says it is wrong, and the word is said once.
@@ -1017,10 +1017,10 @@ A post box, and the fact that a pillar box is not a postal address, and a typist
 - Four brass marks in that wall with heights above a nail in 2016 that one man in the county can read, and a laminated sheet in his pocket, and the answer still a number beside a knot in Chapter 146.
 - Eleven households that can say who was in a room, and cannot say how high it came, and a photograph of a silt line on a doorframe that is a height in somebody else's datum.
 - Eleven statements in a wallet in a handbag, and a postwoman's six envelopes in a cage, and a schedule destroyed unrecorded with three names under it and not an office.
-- **A boundary that has stopped and a register that has ended, and a fifth line that is wrong on a sheet pinned a foot to the right of the right one, and a woman of eighty-one with about sixty leaves left in a book that is not full.**
+- **A boundary that has stopped and a register that has ended, and a fifth line that is wrong on a sheet pinned a foot to the right of the right one, and a woman of eighty-one with about forty-one pages left in a book of about a hundred and fifty pages that is not full.**
 - A second book with forty-one households in it and no names in it, and about nine hundred recovery sheets going into about nine hundred houses, and a sentence that has to be said in a street.
 - Four clauses in a file in a building on Lantern Row, a word said once, a Director of fifty-three in a room who is not an ally, and a hole in a district the shape of four hundred metres of wall that nobody will be able to see.
-- A laundrette on the low bank, a rota in pencil, and an arrangement for the week of Monday the twenty-seventh of October that nobody in this case understands.
+- A laundrette on the low bank, a rota in pencil, and an arrangement for the week of Monday the twenty-fifth of October that nobody in this case understands.
 - A first of October gone, a thirtieth of November sixty days later and unmentioned, and a case that has not asked anybody anything in three weeks.
 
 ---
@@ -1041,8 +1041,25 @@ A post box, and the fact that a pillar box is not a postal address, and a typist
 
 ## WHAT THE REVIEW FOUND NOTHING OF, AND WHAT IT FOUND THAT NO INSTRUMENT COULD
 
-⚠ **Zero wrong sexes across sixteen named people, including the seven new to this batch. Zero wrong magnitudes. Zero duplicated paragraphs. All forty-four interval figures correct, twice, by two different computations.** ⚠ **And the six real faults that were found were in a weekday in a notebook header with no month beside it, a weekday on a date somebody says out loud, a word a chapter is being precise about, a room that did not hold the number of people the chapter says it holds, a unit, and a person who was in two chapters doing the same job.** ⚠ **Run the four passes, and then read the ten chapters once by hand for those three classes, and do not let a weekday sweep's hit count stand in for any of it.**
+⚠ **Zero wrong sexes across sixteen named people, including the seven new to this batch. Zero wrong magnitudes. ⚠ Zero unintended duplicated paragraphs and one deliberate, the hardback's fourth line printed in Chapter 136 and again in Chapter 137. All forty-four interval figures correct, twice, by two different computations.** ⚠ **And the six real faults that were found were in a weekday in a notebook header with no month beside it, a weekday on a date somebody says out loud, a word a chapter is being precise about, a room that did not hold the number of people the chapter says it holds, a unit, and a person who was in two chapters doing the same job.** ⚠ **Run the four passes, and then read the ten chapters once by hand for those three classes, and do not let a weekday sweep's hit count stand in for any of it.**
 
 ## THE LESSON
 
 ⚠ **The classes that have cost this manuscript the most across five batches, in order: a unit, a sex, a magnitude, a weekday on a real date, a count of things, a source that did not exist, a timeline with four versions, a counter that ran the wrong way, a number off by a week in the prose while the header above it was right, a weekday in a header, a person doing one job in two chapters, and a sentence quoting the word the chapter is about.** ⚠ **The arithmetic in the notebook blocks has been right in three consecutive batches and can be trusted. The weekday written beside it cannot, and the difference between those two sentences is the finding.**
+
+---
+
+# VOLUME 03, BATCH 0004 — SECOND REVIEW-FIX PASS OF 26 SEPTEMBER 2026
+
+**Six findings. Five actionable, all five repaired, three of them entirely outside the chapters. No chapter restarted, no planned beat moved, the planned ending of the volume untouched, and the batch is still 46,899 words to the word, because every repair was a single-word substitution or a weekday label.** Full record: `state/continuity.md` § `VOLUME 03, BATCH 0004 — SECOND REVIEW PASS OF 26 SEPTEMBER 2026`.
+
+1. ⚠ **THE UNIT, IN THE STATE LAYER AND THE HAND-OFF PROMPT.** The hardback is **about a hundred and fifty ruled pages, entry 141 on about the hundred and ninth page, about forty-one pages left, 109 and 41 is 150.** Eight live state statements and the Batch 0005 prompt still carried *the eighty-fourth leaf* and *about sixty leaves left* — the arithmetic the first pass had already repaired. **The unit is PAGES. `leaf` does not appear in any of the ten chapters and now appears in no live statement either.**
+2. ⚠ **THE WEEK OF THE COST, IN THE STATE LAYER AND THE HAND-OFF PROMPT.** **Monday the twenty-fifth of October 2025** and not the twenty-seventh, which is a pinned Wednesday. Five live places still had the wrong week after the first pass corrected the chapter, and it is the week Chapter 144's cost falls in.
+3. **ONE HOUSING OFFICER, TWO AGES.** Chapter 140 called **Hazel Cray** *the woman of forty-eight* four times, including inside the destroy-unrecorded speech, while four lines later calling her *a housing officer of fifty-eight*. **She is fifty-eight.** ⚠ **Yvette Carrow is forty-eight and is a different woman, and she is correctly aged in six other chapters; a find-and-replace on the number would have created four new errors.**
+4. ⚠ **THE MORAL-FLOOR CHAPTER COUNTER, NINE HIGH IN ALL TEN CHAPTERS.** It is the volume's own chapter number: **thirty-one in Chapter 131 through forty in Chapter 140.** It ran from a base of Chapter 92, which is Volume 02's. **The floor is still said zero times at full length and by nobody, and the second storey is still in six places.**
+5. **AN INTERVAL AGAINST ITS OWN NOTEBOOK BLOCK.** Chapter 140 said *nineteen weeks* twice; 18 June to 12 October 2025 is **16 weeks and 4 days** and the case is 44 weeks and 2 days. Both are now **sixteen weeks**.
+6. ⚠ **AND ONE THE REVIEW DISMISSED.** **Chapter 136 was a day low on both dates — Mon 28 – Tue 29 Sep against a pinned Tue 28 – Wed 29** — and the Batch 0004 prompt said so in both the chapter card and the day map. **Every date was right and only the weekday nouns were wrong, so nineteen weekday nouns and one notebook header moved and no figure in the book changed.** Chapter 136 now ends on Wednesday the twenty-ninth and Chapter 137 opens on the Thursday the thirtieth, and the three days are consecutive.
+
+**Flagged and not fixed, both times deliberately.** ⚠ **The review phase cannot dispatch its own reviewer — `.opencode/agent/novel-reviewer.md` is `mode: subagent`, the workflow invokes it as a primary agent, and it falls back to the writing agent, which holds `edit: allow`. These findings were therefore found by the agent that wrote the batch. Sixth batch in this manuscript to record it. The repair is one line in a controller file and it is out of scope for a fiction phase.** ⚠ **And `the reader` in `chapter-0139.md:17` stays: it is diegetic, it is inside a solicitor's covering note, and it is restated verbatim in the canon block, so changing it is a canon decision and not a copyedit.**
+
+⚠ **THE LESSON, AND IT IS THE ONE A NEXT WRITER CAN ACT ON: a repair is not finished when the prose is repaired.** Three of five findings were residue of repairs the first pass had already made correctly in the chapters, and the cheapest possible test would have caught all three — **after repairing a chapter, re-run the same sweep over `state/` and over `workspace/` and not only over `chapters/`.** And the second: **a number is not a person**, and the chapter said which woman it was four lines from the error.
